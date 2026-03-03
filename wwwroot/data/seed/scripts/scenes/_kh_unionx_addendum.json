@@ -1,0 +1,185 @@
+{
+  "Script": {
+    "None": [
+      {
+        "Order": -1,
+        "Person": "None",
+        "Line": "None"
+      }
+    ],
+    "Reunion: Belle of the Ball": [
+      {
+        "Order": 0,
+        "Person": "Prince Adam",
+        "Line": "Why, hello."
+      },
+      {
+        "Order": 1,
+        "Person": "Belle",
+        "Line": "You came back! Oh, I'm so glad. Now I can tell you about the castle library. It's filled with more books than you can even imagine! There are wonderful stories of faraway places that I've only dreamed of visiting."
+      },
+      {
+        "Order": 2,
+        "Person": "Prince Adam",
+        "Line": "We'll make those dreams come true, Belle."
+      },
+      {
+        "Order": 3,
+        "Person": "Belle",
+        "Line": "Really? Since I've come to the castle, I've learned that the world is filled with magic and wondrous adventures. I hope you get to experience them some day, too."
+      }
+    ],
+    "Reunion: Dreams Come True": [
+      {
+        "Order": 0,
+        "Person": "Jaq",
+        "Line": "It's you! Wanna see Cinderelly? No more mean Stepmuddy. Cinderelly happy. Jaq happy too. Go. Say hi!"
+      },
+      {
+        "Order": 1,
+        "Person": "Cinderella",
+        "Line": "Why, it's you!"
+      },
+      {
+        "Order": 2,
+        "Person": "Prince Charming",
+        "Line": "You must be the one I've heard so much about. Thank you for all you've done."
+      },
+      {
+        "Order": 3,
+        "Person": "Cinderella",
+        "Line": "Yes, I'm so grateful. I don't think I would be here if you hadn't helped me. Hm? I made this happen on my own? Because I believed that dreams could come true?"
+      },
+      {
+        "Order": 4,
+        "Person": "Prince Charming",
+        "Line": "Well, I believed that I'd see you again, my dear, and here we are."
+      },
+      {
+        "Order": 5,
+        "Person": "Cinderella",
+        "Line": "Yes. Here we are."
+      }
+    ],
+    "Reunion: Hero of Olympus": [
+      {
+        "Order": 0,
+        "Person": "Hercules",
+        "Line": "Looks like somebody's been working hard! I'd better watch out… …or pretty soon YOU'LL be everyone's hero!"
+      },
+      {
+        "Order": 1,
+        "Person": "Phil",
+        "Line": "Herc! Don't say things like that! Are you TRYING to give me a stomachache?"
+      },
+      {
+        "Order": 2,
+        "Person": "Hercules",
+        "Line": "It's true, Phil. I might have some competition."
+      },
+      {
+        "Order": 3,
+        "Person": "Phil",
+        "Line": "Then I have two words for ya: Training starts now!"
+      },
+      {
+        "Order": 4,
+        "Person": "Hercules",
+        "Line": "Player, I'd love to catch up, but– "
+      },
+      {
+        "Order": 5,
+        "Person": "Phil",
+        "Line": "Clock's tickin'!"
+      },
+      {
+        "Order": 6,
+        "Person": "Hercules",
+        "Line": "That's my cue. Gotta go!"
+      }
+    ],
+    "Revisiting the Dwarfs": [
+      {
+        "Order": 0,
+        "Person": "Chirithy",
+        "Line": "I'll bet the dwarfs are hard at work. I wonder how Snow White's doing. Let's visit the cottage."
+      },
+      {
+        "Order": 1,
+        "Person": "Grumpy",
+        "Line": "Slow down, you fool! Why didn\\'t ya stop him!? Dopey! You forgot your tools!"
+      },
+      {
+        "Order": 2,
+        "Person": "Sleepy",
+        "Line": "*yawn* Time for work, I suppose."
+      },
+      {
+        "Order": 3,
+        "Person": "Bashful",
+        "Line": "Gosh, it's nice to see ya."
+      },
+      {
+        "Order": 4,
+        "Person": "Sneezy",
+        "Line": "Ah, ah, achoo! Sorry, my hay fever\\s awful bad today. But it's awful good to see ya. Achoo!"
+      },
+      {
+        "Order": 5,
+        "Person": "Happy",
+        "Line": "Well, hi there, friend! You're just in time to see us off to work. Have a happy day!"
+      },
+      {
+        "Order": 6,
+        "Person": "Doc",
+        "Line": "Well, what do you know, it's you! The princess is picking flowers by the cottage. Why don't you go say hello?"
+      }
+    ],
+    "Reunion: For My Sweet Prince": [
+      {
+        "Order": 0,
+        "Person": "Snow White",
+        "Line": "Hello there! Why, I'm making these flowers into crowns for my seven little friends. Oh, this one is for someone special. And don't worry. You'll get one too."
+      }
+    ],
+    "Reunion: Curious Alice": [
+      {
+        "Order": 0,
+        "Person": "Alice",
+        "Line": "Oh dear! You found me. Well, I've had enough hide-and-seek for one day. Hmm, what shall we do next? Oh, I know! We shall play a trick on that mean old queen and hide something of hers. Yes, her scepter!"
+      },
+      {
+        "Order": 1,
+        "Person": "Cheshire Cat",
+        "Line": "No need to worry. Alice has another engagement. All to do with tea and hats and unbirthdays. You mustn't worry. I'll keep an eye on her. Both eyes, in fact. Boredom is such a tricky foe. Perhaps you can defeat it like you defeat the others."
+      }
+    ],
+    "Reunion: The Desert Oasis": [
+      {
+        "Order": 0,
+        "Person": "Aladdin",
+        "Line": "Hey there, friend! It's been a while."
+      },
+      {
+        "Order": 1,
+        "Person": "Jasmine",
+        "Line": "It's very nice to see you again."
+      },
+      {
+        "Order": 2,
+        "Person": "Aladdin",
+        "Line": "You came out here looking for us? Bet that took a while. We're lucky. The Magic Carpet can get us pretty far in no time at all. In fact, we're talking about visiting some neighboring countries. You know, take in the sights, enjoy new experiences, like Genie."
+      },
+      {
+        "Order": 3,
+        "Person": "Jasmine",
+        "Line": "Yes, I can't wait to meet new people. There's so much we can learn."
+      },
+      {
+        "Order": 4,
+        "Person": "Aladdin",
+        "Line": "Would you two cut it out!? But don't you worry, I'll always have time for more adventures."
+      }
+    ]
+  }
+}

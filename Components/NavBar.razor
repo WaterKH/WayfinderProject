@@ -1,0 +1,26 @@
+﻿<div class="wayfinder-nav-bar" style="@(CustomStyle) @(this.IsMobile ? "display: block;" : "") @(Loading ? "opacity: 0.5; pointer-events: none;" : "")">
+    @foreach (var option in this.Categories)
+    {
+        <div class="@((this.CurrentCategory == option) ? "wayfinder-container-active" : "wayfinder-container")"
+             @onclick="@(() => this.Select(option))">
+            <span class="@((this.CurrentCategory == option) ? "wayfinder-category-active" : "wayfinder-category")">@option</span>
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter] public List<string> Categories { get; set; } = new();
+    [Parameter] public string CustomStyle { get; set; } = string.Empty;
+    [Parameter] public string CurrentCategory { get; set; } = string.Empty;
+    [Parameter] public bool Loading { get; set; }
+    [Parameter] public bool IsMobile { get; set; }
+
+    [Parameter] public EventCallback<string> OnCategoryChanged { get; set; }
+
+    private async Task Select(string category)
+    {
+        if (this.Loading || this.CurrentCategory == category) return;
+
+        await OnCategoryChanged.InvokeAsync(category);
+    }
+}

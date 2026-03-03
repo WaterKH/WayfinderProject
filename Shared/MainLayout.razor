@@ -1,0 +1,241 @@
+﻿@using Blazored.Toast.Configuration;
+
+@inherits LayoutComponentBase
+
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JS
+
+<PageTitle>The Wayfinder Project</PageTitle>
+
+<BlazoredToasts Position="ToastPosition.BottomRight"
+                Timeout="10"
+                ShowProgressBar="true"
+                RemoveToastsOnNavigation="true"
+                MaxToastCount="3" />
+@if (this.initialized)
+{
+<div class="page">
+    <main>
+        <div class="top-row px-4" style="background-color: white; border-bottom: unset; @(!this.IsMobile ? "" : "display: flex;")">
+            <a href="/"><img src="/images/wayfinder_project_icon.png" alt="The Wayfinder Project" style="position: absolute; left: 50px; top: 12px; width: 28px;"></a>
+
+            @if (!this.IsMobile)
+            {
+                <div class="links" style="left: 135px; position: absolute; cursor: default;">
+                    <a class="wayfinder-link" href="/memory_archive" style="color: #3c39de; font-size: large;">Memory Archive</a>
+                    <span class="wayfinder-span" style="color: #68a4ff;">•</span>
+                    <a class="wayfinder-link" href="/jiminy_journal" style="color: #387ee6; font-size: large;">Jiminy's Journal</a>
+                    <span class="wayfinder-span" style="color: #387ee6">•</span>
+                    <a class="wayfinder-link" href="/moogle_shop" style="color: #5067bb; font-size: large;">Moogle Shop</a>
+                </div>
+            }
+
+            <div id="about">
+                <button class="wayfinder-nav-button" onclick="@(() => this.Show("About"))" @onfocusout="@(() => this.Hide())" @onclick:stopPropagation @onclick:preventDefault
+                        style="color: #3c39de;">
+                    About <span class="oi oi-chevron-bottom wayfinder-chevron" style="color: #989898;"></span>
+                </button>
+
+                <div class="@(this.currentAction == "About" ? "dropdown-container" : "")" onblur="@(() => this.Hide())">
+                    <ul class="dropdown-list @(this.currentAction == "About" ? "is-active" : "")">
+                        <li class="wayfinder-dropdown-item">
+                            <a class="wayfinder-link" href="/about" style="color: #3c39de;">About & History</a>
+                        </li>
+                        <li class="wayfinder-dropdown-item" style="border-top: 1px solid #dddddd;">
+                            <a class="wayfinder-link" href="/faq" style="color: #3c39de;">FAQ</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            @if (!this.IsMobile)
+            {
+                <span class="wayfinder-span" style="color: #387ee6;">•</span>
+            }
+            else
+            {
+                <span style="margin-right:10px;"></span>
+            }
+
+            <div id="support">
+                <button class="wayfinder-button" onclick="@(() => NavigationManager.NavigateTo("/support", true))" style="text-decoration: none; background: linear-gradient(to right, #ff91cf, #ff4fb2);">
+                    @*<img src="/images/icons/ability.png" class="header-margins">*@
+                    Support
+                    @*<img src="/images/icons/ability.png" class="header-margins-alt">*@
+                </button>
+            </div>
+
+            @if (!this.IsMobile)
+            {
+                <span class="wayfinder-span" style="color: #68a4ff;">•</span>
+
+                <div id="resources">
+                    <button class="wayfinder-button" onclick="@(() => NavigationManager.NavigateTo("https://github.com/WaterKH/WayfinderProject/issues/new?assignees=WaterKH&labels=bug&template=bug_report.md&title=", true))"
+                            style="color: white; background: linear-gradient(to right, #d91515, #fd2727);">
+                        Report an Issue?
+                    </button>
+                </div>
+            }
+        </div>
+
+        <article class="content content-body px-4" style="padding-top: 0px;">
+            @Body
+        </article>
+
+        <div class="bottom-row px-4">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="wayfinder-title">
+                        <img src="/images/wayfinder_project_title.png" style="width: 25%;" />
+                    </div>
+
+                    <div class="wayfinder-contact" style="margin-top: 2px;">
+                        <span>
+                            <strong>twitter:</strong> <a href="https://twitter.com/WFP_KH" target="_blank" style="margin: unset;">@@WFP_KH</a> //
+                            <strong>email:</strong> thewayfinderprojectKH@gmail.com
+                        </span>
+                    </div>
+
+                    <div class="wayfinder-contact" style="margin-top: 5px;">
+                        <span>
+                            creator: <a href="https://linktr.ee/RegularPat" target="_blank" style="margin: unset;">RegularPat</a> //
+                            developer: <a href="https://linktr.ee/waterkh" target="_blank" style="margin: unset;">waterkh</a>
+                        </span>
+                    </div>
+                    <div class="wayfinder-contact" style="margin-top: 5px;">
+                        <span>
+                            designer: <a href="https://twitter.com/Kimpchuu" target="_blank" style="margin: unset;">Kimpchuu</a> //
+                            illustrator: <a href="https://bsky.app/profile/cabletown.bsky.social" target="_blank" style="margin: unset;">PJ</a>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="col-md-4" style="text-align: end;">
+                    <div class="wayfinder-info">
+                        <strong>Important Links:</strong>
+                    </div>
+
+                    <div class="wayfinder-link" style="margin-top: 2px;">
+                        <a href="/terms_of_use" target="_blank" style="margin: unset;">Terms of Use</a> // 
+                        <a href="/privacy_policy" target="_blank" style="margin: unset;">Privacy Policy</a>
+                    </div>
+                    <div class="wayfinder-link" style="margin-top: 5px;">
+                        <a href="https://github.com/WaterKH/WayfinderProject" style="margin: unset;" target="_blank">Source Code</a> //
+                        <a href="https://github.com/WaterKH/WayfinderProject/commits/main" style="margin: unset;" target="_blank">Version History</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+}
+
+<style>
+.wayfinder-link {
+    text-decoration: none;
+    margin: 0px !important;
+}
+
+.wayfinder-span {
+    margin-left: 25px;
+    margin-right: 25px;
+    cursor: default;
+}
+
+.wayfinder-larger-span {
+    margin-left: 40px;
+    margin-right: 40px;
+    cursor: default;
+}
+
+.header-margins {
+    width: 20px;
+    margin-top: -5px;
+    margin-right: 5px;
+}
+.header-margins-alt {
+    width: 20px;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+
+.wayfinder-hover p {
+    opacity: 0;
+    width: 0px;
+    display: inline-block;
+    transform: translateX(100%);
+    transition: width .1s ease-in-out;
+    transition: opacity .1s ease-in-out;
+    transition: transform .1s ease-in-out;
+}
+
+.wayfinder-hover {
+    position: sticky;
+}
+
+    /*.wayfinder-hover:hover {
+        border-bottom: 1px solid black;
+        transition: border-bottom ease-in-out 1s;
+    }*/
+
+    .wayfinder-hover:hover p {
+        opacity: 1;
+        width: fit-content;
+        transform: translateX(0);
+    }
+
+
+</style>
+
+@code {
+
+    public bool IsMobile = false;
+
+    private string currentAction = "";
+
+    private bool initialized;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            this.IsMobile = await JS.InvokeAsync<bool>("isDevice");
+
+            this.initialized = true;
+
+            await InvokeAsync(() =>
+            {
+                this.StateHasChanged();
+            });
+        }
+
+        await base.OnAfterRenderAsync(firstRender);
+    }
+
+    public async void Show(string action)
+    {
+        currentAction = (currentAction == action) ? "" : action;
+
+        await InvokeAsync(() =>
+        {
+            this.StateHasChanged();
+        });
+    }
+
+    public async void Hide()
+    {
+        await Task.Delay(250);
+
+        currentAction = "";
+
+        await InvokeAsync(() =>
+        {
+            this.StateHasChanged();
+        });
+    }
+}

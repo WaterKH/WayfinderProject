@@ -1,0 +1,228 @@
+﻿
+.row-generic {
+    cursor: default;
+    vertical-align: middle;
+}
+
+.wayfinder-link {
+    font-weight: 100;
+    color: #1a00ff;
+    text-decoration: underline;
+}
+
+.multiple-display {
+    height: 100%;
+    line-height: normal;
+    margin-top: -4px;
+    margin-left: -5px;
+}
+
+.red-color {
+    color: #ea4a4a;
+    font-weight: 600;
+}
+
+.red-display {
+    border: solid 2px #ea4a4a;
+    padding: 5px 8px;
+    border-radius: 7px;
+    background-color: #fdf4f4;
+    color: #ea4a4a;
+    font-weight: 600;
+}
+
+.blue-color {
+    color: #5499fc;
+    font-weight: 600;
+}
+
+.blue-display {
+    border: solid 2px #5499fc;
+    padding: 5px 8px;
+    border-radius: 7px;
+    background-color: #f4f5fd;
+    color: #5499fc;
+    font-weight: 600;
+}
+
+.orange-color {
+    color: #f3b222;
+    font-weight: 600;
+}
+
+.orange-display {
+    border: solid 2px #f3b222;
+    padding: 5px 8px;
+    border-radius: 7px;
+    background-color: #fdfbf4;
+    color: #f3b222;
+    font-weight: 600;
+}
+
+.purple-color {
+    color: #a13bfb;
+    font-weight: 600;
+}
+
+.purple-display {
+    border: solid 2px #a13bfb;
+    padding: 5px 8px;
+    border-radius: 7px;
+    background-color: #f4f5fd;
+    color: #a13bfb;
+    font-weight: 600;
+}
+
+
+.expand-btn {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: 1.5px solid #aeaeae;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    padding: 0;
+    color: #555;
+}
+
+    .expand-btn:hover {
+        background-color: #f0f0f0;
+        border-color: #007bff;
+        color: #007bff;
+    }
+
+    .expand-btn.expanded {
+        background-color: #007bff;
+        color: white;
+        border-color: #0056b3;
+    }
+
+    .expand-btn iconify-icon {
+        font-size: 20px;
+        line-height: 1;
+    }
+
+.expansion-area {
+    background-color: rgba(213, 229, 250, 0.2);
+    border-bottom: 2px solid #d5e5fa;
+}
+
+.expansion-container {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out, padding 0.4s ease;
+    background-color: #f1f1f1;
+}
+
+    .expansion-container.open {
+        max-height: 1000px; /* Large enough to fit content */
+        padding: 50px;
+    }
+
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 20px;
+    margin-top: 10px;
+    opacity: 1 !important; 
+    visibility: visible !important;
+}
+
+.page-info {
+    color: #000000 !important;
+    font-size: 1rem;
+    font-weight: 500;
+    opacity: 1 !important;
+}
+
+.btn-nav {
+    background: rgba(255, 255, 255, 0.1) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    color: #000000 !important;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-nav iconify-icon {
+    color: #000000 !important;
+    display: block;
+    font-size: 1.2rem;
+}
+
+    .btn-nav:hover:not(:disabled) {
+        color: #ffffff !important;
+        background: #5499fc !important;
+        transform: scale(1.1);
+    }
+
+.btn-nav:disabled {
+    opacity: 0.2 !important;
+    cursor: not-allowed;
+}
+
+
+.main-row {
+    position: relative;
+    z-index: 2;
+    background: #1a1a1a;
+}
+
+.expansion-row {
+    position: relative;
+    z-index: 1;
+}
+
+    
+    .expansion-row td {
+        padding: 25px 50px !important;
+        border-top: none !important;
+        overflow: hidden;
+    }
+
+.expanded-row-background {
+    background-color: #f1f1f1;
+    border-radius: 50px;
+    padding: 50px;
+}
+
+.animator-wrapper {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+/*    overflow: hidden;*/
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.content-padding {
+    min-height: 0;
+/*    overflow: hidden;*/
+}
+
+.is-expanded .animator-wrapper {
+    grid-template-rows: 1fr; 
+}
+
+.is-expanded .content-padding {
+    visibility: visible;
+}
+
+.is-collapsed .animator-wrapper {
+    grid-template-rows: 0fr;
+}
+
+.is-collapsed {
+    visibility: collapse; 
+}
+

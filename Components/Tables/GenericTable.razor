@@ -1,0 +1,187 @@
+﻿@using System.Reflection
+@using WayfinderProject.Domain.Models.Attributes
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width: 50px; background: transparent;"></th>
+
+            @foreach (var prop in GetTableProperties())
+            {
+                var attr = prop.GetCustomAttribute<DisplayInTableAttribute>();
+                <th>
+                    @if (!string.IsNullOrEmpty(attr!.IconPath))
+                    {
+                        <img src="/images/icons/@attr.IconPath" class="header-margins">
+                    }
+
+                    <label class="header-label">@attr.HeaderName</label>
+                </th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in PagedData)
+        {
+            <tr class="@(ExpandedItem == item ? "selected-row" : "")">
+                <td>
+                    <button type="button" class="expand-btn @(ExpandedItem == item ? "expanded" : "")" @onclick="() => ToggleRow(item)">
+                        <iconify-icon icon="@(ExpandedItem == item ? "bi:dash" : "bi:plus")"></iconify-icon>
+                    </button>
+                </td>
+
+                @foreach (var prop in GetTableProperties())
+                {
+                    var attr = prop.GetCustomAttribute<DisplayInTableAttribute>();
+                    var rawValue = prop.GetValue(item);
+                    var displayValue = FormatValue(rawValue);
+
+                    <td>
+                        @if (prop.Name == "Name")
+                        {
+                            <a href="@GetLink(item)" target="_blank" class="wayfinder-link">
+                                <strong>@displayValue</strong>
+                            </a>
+                        }
+                        else
+                        {
+                            @if (IsList(rawValue, out var listCount))
+                            {
+                                @if (listCount > 1 && displayValue.Length > CharacterLimit)
+                                {
+                                    <Tooltip Text="@displayValue" Margin="@($"{this.CustomTooltipMargin}px")">
+                                        <div class="@(attr?.ColorClass)-display d-inline-flex align-items-center multiple-display row-generic">
+                                            @listCount Items
+                                            <iconify-icon icon="bi:caret-down-fill" style="margin-left: 4px;"></iconify-icon>
+                                        </div>
+                                    </Tooltip>
+                                }
+                                else
+                                {
+                                    <span class="@(attr?.ColorClass)-display row-generic">@displayValue</span>
+                                }
+                            }
+                            else
+                            {
+                                <span class="@(attr?.ColorClass)-color row-generic">@displayValue</span>
+                            }
+                        }
+                    </td>
+                }
+            </tr>
+
+            <tr class="expansion-row @(ExpandedItem == item ? "is-expanded" : "is-collapsed")">
+                <td colspan="12" class="expanded-row-background">
+                    <div class="animator-wrapper">
+                        <div class="content-padding">
+                            @if (ExpandedItem == item)
+                            {
+                                @ExpansionTemplate(item)
+                            }
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (TotalPages > 1)
+{
+    <div class="pagination-controls">
+        <button class="btn-nav" @onclick="() => ChangePage(_currentPage - 1)" disabled="@(_currentPage == 1)">
+            <iconify-icon icon="mingcute:left-line"></iconify-icon>
+        </button>
+
+        <span class="page-info">Page @_currentPage of @TotalPages</span>
+
+        <button class="btn-nav" @onclick="() => ChangePage(_currentPage + 1)" disabled="@(_currentPage == TotalPages)">
+            <iconify-icon icon="mingcute:right-line"></iconify-icon>
+        </button>
+    </div>
+}
+
+@code {
+    [Parameter] public IEnumerable<object> CurrentResults { get; set; } = new List<object>();
+    [Parameter] public int CharacterLimit { get; set; } = 25;
+    [Parameter] public int CustomTooltipMargin { get; set; } = -100;
+    [Parameter] public int ItemsPerPage { get; set; } = 20;
+
+    [Parameter] public RenderFragment<object> ExpansionTemplate { get; set; } = default!;
+
+    private PropertyInfo[]? _cachedProps;
+    private object? ExpandedItem { get; set; }
+    private int _currentPage = 1;
+
+    protected override void OnParametersSet()
+    {
+        _currentPage = 1;
+    }
+
+    private PropertyInfo[] GetTableProperties()
+    {
+        var firstItem = CurrentResults.FirstOrDefault();
+        if (firstItem == null) return Array.Empty<PropertyInfo>();
+
+        if (_cachedProps == null || _cachedProps.FirstOrDefault()?.DeclaringType != firstItem.GetType())
+        {
+            var props = firstItem.GetType()
+                .GetProperties()
+                .Where(p => p.GetCustomAttribute<DisplayInTableAttribute>() != null)
+                .OrderBy(p => p.GetCustomAttribute<DisplayInTableAttribute>()!.Order)
+                .ToArray();
+
+            _cachedProps = props.ToArray();
+        }
+        return _cachedProps;
+    }
+
+    private string FormatValue(object? value)
+    {
+        if (value == null) return string.Empty;
+
+        if (value is IEnumerable<string> list && value is not string)
+        {
+            return string.Join(", ", list);
+        }
+
+        return value.ToString() ?? string.Empty;
+    }
+
+    private string GetLink(object item)
+    {
+        return item.GetType().GetProperty("Link")?.GetValue(item)?.ToString() ?? "#";
+    }
+
+    private bool IsList(object? value, out int count)
+    {
+        count = 0;
+        if (value is string || value == null) return false;
+
+        if (value is System.Collections.IEnumerable enumerable)
+        {
+            foreach (var _ in enumerable) count++;
+        }
+
+        return count > 1;
+    }
+
+    private void ToggleRow(object item)
+    {
+        if (ExpandedItem == item)
+            ExpandedItem = null;
+        else
+            ExpandedItem = item;
+    }
+
+    private int TotalPages => (int)Math.Ceiling((double)CurrentResults.Count() / ItemsPerPage);
+
+    private IEnumerable<object> PagedData => CurrentResults
+        .Skip((_currentPage - 1) * ItemsPerPage)
+        .Take(ItemsPerPage);
+
+    private void ChangePage(int page)
+    {
+        _currentPage = Math.Clamp(page, 1, TotalPages);
+    }
+}

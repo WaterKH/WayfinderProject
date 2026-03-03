@@ -1,0 +1,143 @@
+﻿@using WayfinderProject.Domain
+
+<div class="wayfinder-sub-nav-bar" style="@CustomStyle">
+    @if (IsFocusEnabled && !string.IsNullOrEmpty(FocusOption))
+    {
+        @RenderOption(FocusOption, "margin-right: 25px;")
+        <span class="wayfinder-divider"></span>
+    }
+
+    @if (Options != null)
+    {
+        @foreach (var option in Options)
+        {
+            @if (!IsFocusEnabled || option != FocusOption)
+            {
+                @RenderOption(option)
+            }
+        }
+    }
+</div>
+
+<div class="wayfinder-sub-nav-bar-border"></div>
+
+@code {
+    [Parameter] public IEnumerable<string> Options { get; set; } = Array.Empty<string>();
+    [Parameter] public string CustomStyle { get; set; } = string.Empty;
+    [Parameter] public string StartingOption { get; set; } = string.Empty;
+    [Parameter] public string FocusOption { get; set; } = string.Empty;
+    [Parameter] public bool IsFocusEnabled { get; set; } = true;
+    [Parameter] public bool DisplayIcons { get; set; } = true;
+    [Parameter] public bool InvertBackgroundColor { get; set; } = false;
+    [Parameter] public EventCallback<string> OnOptionSelected { get; set; }
+
+    private string CurrentOption { get; set; } = string.Empty;
+
+    private RenderFragment RenderOption(string option, string extraStyle = "") => __builder =>
+    {
+        var isActive = CurrentOption == option;
+        var containerClass = isActive ? "wayfinder-container-active" : "wayfinder-container";
+        var optionClass = isActive ? "wayfinder-option-active" : "wayfinder-option";
+        var bgStyle = InvertBackgroundColor ? "background-color: white;" : "";
+
+        <div class="@containerClass" @onclick="() => Select(option)" style="@(extraStyle + bgStyle)">
+            <div class="@optionClass" style="max-width: 200px; @bgStyle">
+                @if (DisplayIcons)
+                {
+                    <img src="@Utilities.GetImage(option)" class="wayfinder-nav-icon" />
+                }
+                @option
+            </div>
+        </div>
+    };
+
+    protected override void OnParametersSet()
+    {
+        if (CurrentOption != StartingOption && !string.IsNullOrEmpty(StartingOption))
+        {
+            CurrentOption = StartingOption;
+        }
+    }
+
+    private async Task Select(string option)
+    {
+        if (CurrentOption == option) return;
+
+        CurrentOption = option;
+
+        if (OnOptionSelected.HasDelegate)
+        {
+            await OnOptionSelected.InvokeAsync(option);
+        }
+    }
+}
+
+
+@* @using WayfinderProject.Domain
+<div class="wayfinder-sub-nav-bar" style="@(CustomStyle)">
+    @if (!string.IsNullOrEmpty(this.FocusOption) && this.IsFocusEnabled)
+    {
+        <div class="@((this.CurrentOption == this.FocusOption) ? "wayfinder-container-active" : "wayfinder-container")" @onclick="@(() => this.Select(this.FocusOption))" style="margin-right: 25px;@(this.InvertBackgroundColor ? "background-color: white;" : "")">
+            <div class="@((this.CurrentOption == this.FocusOption) ? "wayfinder-option-active" : "wayfinder-option")" style="max-width: 200px;@(this.InvertBackgroundColor ? "background-color: white;" : "")">
+                <img src="@Utilities.GetImage(this.FocusOption, this.DisplayIcons)" style="width: 15px; vertical-align: unset; margin-right: 10px; margin-top: 3px;" />  @this.FocusOption
+            </div>
+        </div>
+
+        <span style="width: 2px; border: 1px solid #ececec; margin-right: 25px;"></span>
+    }
+    @if (this.Options != null)
+    {
+        @foreach (var option in this.Options)
+        {
+            @if (option != this.FocusOption || !this.IsFocusEnabled)
+            {
+                <div class="@((this.CurrentOption == option) ? "wayfinder-container-active" : "wayfinder-container")" @onclick="@(() => this.Select(option))" style="@(this.InvertBackgroundColor ? "background-color: white;" : "")">
+                    <div class="@((this.CurrentOption == option) ? "wayfinder-option-active" : "wayfinder-option")" style="max-width: 200px;@(this.InvertBackgroundColor ? "background-color: white;" : "")">
+                        <img src="@Utilities.GetImage(option, this.DisplayIcons)" style="width: 15px; vertical-align: unset; margin-right: 10px; margin-top: 3px;" />  @option
+                    </div>
+                </div>
+            }
+        }
+    }
+</div>
+
+<div class="wayfinder-sub-nav-bar-border"></div>
+
+@code {
+    [Parameter] public IEnumerable<string> Options { get; set; } = new List<string>();
+    [Parameter] public string CustomStyle { get; set; } = string.Empty;
+    [Parameter] public string StartingOption { get; set; } = string.Empty;
+    [Parameter] public string FocusOption { get; set; } = string.Empty;
+    [Parameter] public bool IsFocusEnabled { get; set; } = true;
+    [Parameter] public bool DisplayIcons { get; set; } = true;
+    [Parameter] public bool InvertBackgroundColor { get; set; } = false;
+
+    [Parameter] public Action<string>? UpdateCurrentOption { get; set; }
+
+    public string CurrentOption { get; set; } = "Games";
+
+    protected override void OnInitialized()
+    {
+        this.CurrentOption = this.StartingOption;
+
+        base.OnInitialized();
+    }
+
+    protected override void OnParametersSet()
+    {
+        this.CurrentOption = this.StartingOption;
+
+        base.OnInitialized();
+    }
+
+    public async Task Select(string option)
+    {
+        this.CurrentOption = option;
+
+        await Task.Run(() => { if (this.UpdateCurrentOption != null) { this.UpdateCurrentOption.Invoke(option); } });
+
+        await InvokeAsync(() => { 
+            this.StateHasChanged(); 
+        });
+    }
+} *@

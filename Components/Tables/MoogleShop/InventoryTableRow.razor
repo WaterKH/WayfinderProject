@@ -1,0 +1,129 @@
+﻿@using WayfinderProject.Components
+@using WayfinderProject.Domain.Models
+@using WayfinderProject.Domain.Models.MoogleShop
+
+
+@* <td style="vertical-align: middle;">
+    @if (this.MainTable != null)
+    {
+        if (this.MainTable.CurrentExpandedRow == this.Inventory.Id)
+        {
+            <div class="clickable" style="border-radius: 100px; background-color: #f4f5fd; border: solid 2px #5499fc; width: 30px; height: 30px; padding: 2px 6px 15px 15px;" @onclick="@(() => MainTable.UpdateExpandedRow(Inventory.Id))">
+                <span class="oi oi-minus mr-1 clickable" style="color: #5499fc; font-size: small;"></span>
+            </div>
+        }
+        else
+        {
+            <div class="clickable" style="border-radius: 100px; background-color: #f4f5fd; border: solid 2px #5499fc; width: 30px; height: 30px; padding: 2px 6px 15px 15px;" @onclick="@(() => MainTable.UpdateExpandedRow(Inventory.Id))">
+                <span class="oi oi-plus mr-1 clickable" style="color: #5499fc; font-size: small;"></span>
+            </div>
+        }
+    }
+</td>
+<td style="vertical-align: middle;">
+    <span style="font-weight: 600;">@Inventory.Game.Name</span>
+</td>
+<td style="vertical-align: middle;">
+    <span style="font-weight: 600;">@Inventory.Name</span>
+</td>
+<td style="vertical-align: middle;">
+    @if (Inventory.Cost > 0)
+    {
+        <span style="font-weight: 600;">@(Inventory.Cost) @(Inventory.Currency)</span>
+    }
+    else
+    {
+        if (!string.IsNullOrEmpty(Inventory.AdditionalInformation))
+        {
+            <span style="font-weight: 600;">@(Inventory.AdditionalInformation)</span>
+        }
+        else
+        {
+            <span style="font-weight: 600;">Synthesis, Treasures or Other</span>
+        }
+    }
+</td>
+<td style="vertical-align: middle;">
+    <RowContentDisplay Content="this.Inventory.EnemyDrops.Select(x => x.CharacterLocation.Character.Name).Distinct().ToList()" CustomDisplayClass="character-display" CustomColourClass="character-color" />
+</td>
+<td style="vertical-align: middle;">
+    <RowContentDisplay Content="this.Inventory.EnemyDrops.Select(x => x.CharacterLocation.World.Name).Distinct().ToList()" CustomDisplayClass="world-display" CustomColourClass="world-color" />
+</td>
+<td style="vertical-align: middle;">
+    <RowContentDisplay Content="this.Inventory.EnemyDrops.SelectMany(x => x.CharacterLocation.Areas).Distinct().Select(x => x.Name).ToList()" CustomDisplayClass="area-display" CustomColourClass="area-color" CustomTooltipMargin="-200" />
+</td> *@
+
+<style>
+.clickable {
+    float: right;
+    font-size: 1rem;
+    color: #3e79a7;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.favorite-icon-inactive {
+    font-size: x-large;
+    margin-top: 5px;
+    width: 30px;
+    color: #b4b4b4ab;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+    .favorite-icon-inactive:hover {
+        color: #e7c009;
+    }
+
+.favorite-icon-active {
+    font-size: x-large;
+    margin-top: 5px;
+    width: 30px;
+    color: #e7c009;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+    .favorite-icon-active:hover {
+        color: #b4b4b4ab;
+    }
+
+.project-icon-inactive {
+    font-size: x-large;
+    margin-top: 5px;
+    color: #b4b4b4ab;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+    .project-icon-inactive:hover {
+        color: #c76ce9;
+    }
+
+.project-icon-active {
+    font-size: x-large;
+    margin-top: 5px;
+    color: #c76ce9;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+
+    .project-icon-active:hover {
+        color: #b4b4b4ab;
+    }
+</style>
+
+@code {
+    [Parameter] public Inventory Inventory { get; set; } = new Inventory();
+    [Parameter] public InventoryTable<Inventory>? MainTable { get; set; }
+
+    private BrowserDimension BrowserDimension { get; set; } = new BrowserDimension();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        //this.BrowserDimension = await BrowserService.GetDimensions();
+
+        await base.OnParametersSetAsync();
+    }
+}

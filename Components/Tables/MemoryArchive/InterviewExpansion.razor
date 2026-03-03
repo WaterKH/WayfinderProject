@@ -1,0 +1,123 @@
+﻿@typeparam TItem where TItem : WayfinderProject.Domain.Models.MemoryArchive.Interview<ScriptLine>
+@using WayfinderProject.Domain.Models.MemoryArchive
+@using WayfinderProject.Domain.Models.MemoryArchive.SubData
+
+
+<div class="row">
+    <div class="col-md-5">
+        <div class="expansion-content-card">
+            <div class="details-pane">
+                <h3>@Item.Name</h3>
+
+                @foreach (var detail in GetDetails())
+                {
+                    <div class="mt-4">
+                        <h3 class="@(detail.Color)-color">
+                            <img src="/images/icons/@(detail.Icon).png" class="detail-icon" /> @detail.Title
+                        </h3>
+                        <label>@string.Join(", ", detail.Data)</label>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <div class="expansion-content-card">
+                <div class="dialogue-pane">
+                    <div class="wayfinder-search">
+                        <span class="wayfinder-search-icon material-icons">search</span>
+                        <input id="dialogue-search" 
+                                class="custom-input"
+                                placeholder="Search Dialogue..."
+                                @oninput="@(async e => { searchValue = e.Value?.ToString() ?? ""; await SearchDialogue(); })" />
+                    </div>
+
+                    <div class="character-filter text-center mb-2">
+                        @foreach (var name in persons)
+                        {
+                            <div class="@(currentPerson == name ? "character-option-selected" : "character-option")" 
+                                    @onclick="() => SelectPerson(name)">@name</div>
+                        }
+                    </div>
+                    <hr />
+                    <div class="dialogue-table-container">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th style="width: 125px; background: transparent;">Person</th>
+                                    <th style="background: transparent;">Line</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var line in dialogue.OrderBy(line => line.Order))
+                                {
+                                    <tr>
+                                        <td><strong>@line.Person</strong></td>
+                                        <td>@line.Line</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public TItem Item { get; set; } = default!;
+    [Parameter] public Func<Task>? GenerateShareLink { get; set; }
+
+    private string searchValue = "", currentPerson = "";
+    private List<ScriptLine> dialogue = new();
+    private List<string> persons = new();
+
+    private string EmbedUrl => $"https://www.youtube-nocookie.com/embed/{GetVideoId(Item.Link)}?rel=0&modestbranding=1";
+
+    protected override void OnInitialized() => ResetDialogue();
+
+    private void ResetDialogue()
+    {
+        dialogue = Item.SubData.ToList();
+        persons = dialogue.Select(x => x.Person).Distinct().ToList();
+    }
+
+    private string GetVideoId(string url)
+    {
+        if (string.IsNullOrEmpty(url)) return "";
+        // Handles both watch?v=ID and youtu.be/ID
+        var uri = new Uri(url);
+        var query = System.Web.HttpUtility.ParseQueryString(uri.Query);
+        return query["v"] ?? uri.Segments.Last();
+    }
+
+    public async Task SearchDialogue()
+    {
+        var query = Item.SubData.AsEnumerable();
+
+        if (!string.IsNullOrWhiteSpace(searchValue))
+            query = query.Where(x => x.Line.Contains(searchValue, StringComparison.OrdinalIgnoreCase));
+
+        if (!string.IsNullOrWhiteSpace(currentPerson))
+            query = query.Where(x => x.Person == currentPerson);
+
+        dialogue = query.ToList();
+        StateHasChanged();
+    }
+
+    public async Task SelectPerson(string name)
+    {
+        currentPerson = (currentPerson == name) ? "" : name;
+        await SearchDialogue();
+    }
+
+    private IEnumerable<(string Title, string Color, string Icon, IEnumerable<string> Data)> GetDetails() => new[]
+    {
+        (Title: "Game", Color: "game", Icon: "games_gray", Data: (IEnumerable<string>)Item.GameNames),
+        (Title: "Participants", Color: "character", Icon: "characters", Data: (IEnumerable<string>)Item.Participants),
+        (Title: "Providers", Color: "world", Icon: "characters", Data: (IEnumerable<string>)[Item.Provider]),
+        (Title: "Translators", Color: "area", Icon: "worlds", Data: (IEnumerable<string>)[Item.Translator])
+    };
+}

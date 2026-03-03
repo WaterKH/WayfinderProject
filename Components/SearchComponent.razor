@@ -1,0 +1,116 @@
+﻿@if (this.CurrentOption == this.Id)
+{
+    <div class="search">
+        <div class="wayfinder-buttons">
+            @if (this.CanShowClearAll)
+            {
+                <button class="clear-all-button" @onclick="DisplayClearAllModal">Clear All</button>
+            }
+            <button class="@(this.CurrentView == "Selected" ? "wayfinder-outlined-button" : "wayfinder-search-button")"
+                    @onclick="ToggleView">
+                @(this.CurrentView == "Available" ? "Filters" : "Options")
+            </button>
+        </div>
+
+        <div class="search-bar" style="margin: 10px 0px 30px 0px; margin-left: -45px;">
+            <span class="wayfinder-search-icon material-icons">search</span>
+            <input @bind-value="displaySearch"
+                   @bind-value:event="oninput"
+                   class="custom-input"
+                   placeholder="@this.Placeholder"
+                   disabled="@(this.CurrentView != "Available")">
+        </div>
+
+        <div class="search-results">
+            @{
+                var displayList = (this.CurrentView == "Available") ? Available : Selected;
+
+                var filteredList = displayList
+                .Where(x => string.IsNullOrEmpty(displaySearch) || x.Contains(displaySearch, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+            }
+
+            @if (filteredList.Any())
+            {
+                <div class="row" style="padding-left: 15px;">
+                    @foreach (var item in filteredList)
+                    {
+                        <div class="col-md-5">
+                            <SearchOption Id="@this.Id"
+                                          Color="@this.Color"
+                                          Value="@item"
+                                          IsSelected="@(this.CurrentView == "Selected")"
+                                          SelectValue="@(() => HandleClick(item))" />
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <em class="p-3">Nothing found.</em>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public string Id { get; set; } = string.Empty;
+    [Parameter] public string Placeholder { get; set; } = "Search for values...";
+    [Parameter] public string Color { get; set; } = "#ffffff";
+    [Parameter] public string CurrentOption { get; set; } = string.Empty;
+
+    [Parameter] public bool CanSearch { get; set; } = true;
+    [Parameter] public bool CanShowClearAll { get; set; }
+
+    [Parameter] public List<string> Initial { get; set; } = new List<string>();
+    [Parameter] public List<string> Available { get; set; } = new List<string>();
+    [Parameter] public List<string> Selected { get; set; } = new List<string>();
+
+    [Parameter] public EventCallback<string> OnItemSelected { get; set; }
+    [Parameter] public EventCallback<string> OnItemRemoved { get; set; }
+    // [Parameter] public EventCallback<string> OnClearAllMethodClicked { get; set; }
+
+    [Parameter] public Func<Task>? ClearAllMethod { get; set; }
+
+    [CascadingParameter] public IModalService Modal { get; set; } = default!;
+       
+    private string displaySearch = "";
+    public string CurrentView = "Available";
+
+    private async Task HandleClick(string value)
+    {
+        if (this.CurrentView == "Available")
+        {
+            await Select(value);
+        }
+        else
+        {
+            await Remove(value);
+        }
+    }
+
+    private async Task Select(string value)
+    {
+        if (OnItemSelected.HasDelegate)
+        {
+            await OnItemSelected.InvokeAsync(value);
+        }
+    }
+
+    private async Task Remove(string value)
+    {
+        if (OnItemRemoved.HasDelegate)
+        {
+            await OnItemRemoved.InvokeAsync(value);
+        }
+    }
+
+    private void ToggleView() => CurrentView = (CurrentView == "Available") ? "Selected" : "Available";
+
+    private void DisplayClearAllModal()
+    {
+        var parameters = new ModalParameters();
+        if (this.ClearAllMethod != null) parameters.Add("ClearAllSubMethod", ClearAllMethod);
+        Modal.Show<ClearAllModal>("Clear All", parameters, new ModalOptions { Class = "modal-custom" });
+    }
+}

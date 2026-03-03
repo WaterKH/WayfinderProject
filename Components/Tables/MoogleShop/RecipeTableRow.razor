@@ -1,0 +1,109 @@
+﻿@using WayfinderProject.Components
+@using WayfinderProject.Domain.Models
+@using WayfinderProject.Domain.Models.MoogleShop
+
+
+@* <td style="vertical-align: middle;">
+    @if (this.MainTable != null)
+    {
+        if (this.MainTable.CurrentExpandedRow == this.Recipe.Id)
+        {
+            <div class="clickable" style="border-radius: 100px; background-color: #f4f5fd; border: solid 2px #5499fc; width: 30px; height: 30px; padding: 2px 6px 15px 15px;" @onclick="@(() => MainTable.UpdateExpandedRow(Recipe.Id))">
+                <span class="oi oi-minus mr-1 clickable" style="color: #5499fc; font-size: small;"></span>
+            </div>
+        }
+        else
+        {
+            <div class="clickable" style="border-radius: 100px; background-color: #f4f5fd; border: solid 2px #5499fc; width: 30px; height: 30px; padding: 2px 6px 15px 15px;" @onclick="@(() => MainTable.UpdateExpandedRow(Recipe.Id))">
+                <span class="oi oi-plus mr-1 clickable" style="color: #5499fc; font-size: small;"></span>
+            </div>
+        }
+    }
+</td>
+<td style="vertical-align: middle;">
+    <span style="font-weight: 600;">@Recipe.Game.Name</span>
+</td>
+<td style="vertical-align: middle;">
+    <span style="font-weight: 600;">@Recipe.Name</span>
+</td>
+<td style="vertical-align: middle;">
+    <span style="font-weight: 600;">@Recipe.Category</span>
+</td>
+<td style="vertical-align: middle;">
+    <RowContentDisplay Content="@(this.Recipe.RecipeMaterials.Select(x => $"{x.Inventory.Name} x{x.Amount}").Distinct().ToList())" CustomDisplayClass="character-display" Limit="1" CustomColourClass="character-color" />
+</td> *@
+
+<style>
+.clickable {
+    float: right;
+    font-size: 1rem;
+    color: #3e79a7;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.favorite-icon-inactive {
+    font-size: x-large;
+    margin-top: 5px;
+    width: 30px;
+    color: #b4b4b4ab;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+    .favorite-icon-inactive:hover {
+        color: #e7c009;
+    }
+
+.favorite-icon-active {
+    font-size: x-large;
+    margin-top: 5px;
+    width: 30px;
+    color: #e7c009;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+    .favorite-icon-active:hover {
+        color: #b4b4b4ab;
+    }
+
+.project-icon-inactive {
+    font-size: x-large;
+    margin-top: 5px;
+    color: #b4b4b4ab;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+    .project-icon-inactive:hover {
+        color: #c76ce9;
+    }
+
+.project-icon-active {
+    font-size: x-large;
+    margin-top: 5px;
+    color: #c76ce9;
+    cursor: pointer;
+    transition: color ease-in-out .4s;
+}
+
+
+    .project-icon-active:hover {
+        color: #b4b4b4ab;
+    }
+</style>
+
+@code {
+    [Parameter] public Recipe Recipe { get; set; } = new Recipe();
+    [Parameter] public RecipeTable<Recipe>? MainTable { get; set; }
+
+    private BrowserDimension BrowserDimension { get; set; } = new BrowserDimension();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        //this.BrowserDimension = await BrowserService.GetDimensions();
+
+        await base.OnParametersSetAsync();
+    }
+}
