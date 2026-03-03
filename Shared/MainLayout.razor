@@ -17,16 +17,16 @@
 <div class="page">
     <main>
         <div class="top-row px-4" style="background-color: white; border-bottom: unset; @(!this.IsMobile ? "" : "display: flex;")">
-            <a href="/"><img src="/images/wayfinder_project_icon.png" alt="The Wayfinder Project" style="position: absolute; left: 50px; top: 12px; width: 28px;"></a>
+            <a href=""><img src="images/wayfinder_project_icon.png" alt="The Wayfinder Project" style="position: absolute; left: 50px; top: 12px; width: 28px;"></a>
 
             @if (!this.IsMobile)
             {
                 <div class="links" style="left: 135px; position: absolute; cursor: default;">
-                    <a class="wayfinder-link" href="/memory_archive" style="color: #3c39de; font-size: large;">Memory Archive</a>
+                    <a class="wayfinder-link" href="memory_archive" style="color: #3c39de; font-size: large;">Memory Archive</a>
                     <span class="wayfinder-span" style="color: #68a4ff;">•</span>
-                    <a class="wayfinder-link" href="/jiminy_journal" style="color: #387ee6; font-size: large;">Jiminy's Journal</a>
+                    <a class="wayfinder-link" href="jiminy_journal" style="color: #387ee6; font-size: large;">Jiminy's Journal</a>
                     <span class="wayfinder-span" style="color: #387ee6">•</span>
-                    <a class="wayfinder-link" href="/moogle_shop" style="color: #5067bb; font-size: large;">Moogle Shop</a>
+                    <a class="wayfinder-link" href="moogle_shop" style="color: #5067bb; font-size: large;">Moogle Shop</a>
                 </div>
             }
 
@@ -39,10 +39,10 @@
                 <div class="@(this.currentAction == "About" ? "dropdown-container" : "")" onblur="@(() => this.Hide())">
                     <ul class="dropdown-list @(this.currentAction == "About" ? "is-active" : "")">
                         <li class="wayfinder-dropdown-item">
-                            <a class="wayfinder-link" href="/about" style="color: #3c39de;">About & History</a>
+                            <a class="wayfinder-link" href="about" style="color: #3c39de;">About & History</a>
                         </li>
                         <li class="wayfinder-dropdown-item" style="border-top: 1px solid #dddddd;">
-                            <a class="wayfinder-link" href="/faq" style="color: #3c39de;">FAQ</a>
+                            <a class="wayfinder-link" href="faq" style="color: #3c39de;">FAQ</a>
                         </li>
                     </ul>
                 </div>
@@ -58,10 +58,10 @@
             }
 
             <div id="support">
-                <button class="wayfinder-button" onclick="@(() => NavigationManager.NavigateTo("/support", true))" style="text-decoration: none; background: linear-gradient(to right, #ff91cf, #ff4fb2);">
-                    @*<img src="/images/icons/ability.png" class="header-margins">*@
+                <button class="wayfinder-button" onclick="@(() => NavigationManager.NavigateTo("support", true))" style="text-decoration: none; background: linear-gradient(to right, #ff91cf, #ff4fb2);">
+                    @*<img src="images/icons/ability.png" class="header-margins">*@
                     Support
-                    @*<img src="/images/icons/ability.png" class="header-margins-alt">*@
+                    @*<img src="images/icons/ability.png" class="header-margins-alt">*@
                 </button>
             </div>
 
@@ -86,7 +86,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="wayfinder-title">
-                        <img src="/images/wayfinder_project_title.png" style="width: 25%;" />
+                        <img src="images/wayfinder_project_title.png" style="width: 25%;" />
                     </div>
 
                     <div class="wayfinder-contact" style="margin-top: 2px;">
@@ -116,8 +116,8 @@
                     </div>
 
                     <div class="wayfinder-link" style="margin-top: 2px;">
-                        <a href="/terms_of_use" target="_blank" style="margin: unset;">Terms of Use</a> // 
-                        <a href="/privacy_policy" target="_blank" style="margin: unset;">Privacy Policy</a>
+                        <a href="terms_of_use" target="_blank" style="margin: unset;">Terms of Use</a> // 
+                        <a href="privacy_policy" target="_blank" style="margin: unset;">Privacy Policy</a>
                     </div>
                     <div class="wayfinder-link" style="margin-top: 5px;">
                         <a href="https://github.com/WaterKH/WayfinderProject" style="margin: unset;" target="_blank">Source Code</a> //

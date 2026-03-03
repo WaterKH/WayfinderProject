@@ -50,28 +50,28 @@ namespace WayfinderProject.Domain
                 case "Records":
                 case "Scenes":
                 case "Trailers":
-                    path = "/images/icons/scenes_gray.png";
+                    path = "images/icons/scenes_gray.png";
                     break;
                 case "Games":
-                    path = "/images/icons/games_gray.png";
+                    path = "images/icons/games_gray.png";
                     break;
                 case "Worlds":
                 case "Providers":
-                    path = "/images/icons/worlds_gray.png";
+                    path = "images/icons/worlds_gray.png";
                     break;
                 case "Areas":
                 case "Categories":
                 case "Synthesis Materials":
-                    path = "/images/icons/areas_gray.png";
+                    path = "images/icons/areas_gray.png";
                     break;
                 case "Characters":
                 case "Enemies":
                 case "Participants":
                 case "Translators":
-                    path = "/images/icons/characters_gray.png";
+                    path = "images/icons/characters_gray.png";
                     break;
                 case "Music":
-                    path = "/images/icons/music_gray.png";
+                    path = "images/icons/music_gray.png";
                     break;
                 default:
                     break;
