@@ -16,16 +16,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="wwwroot\data\seed\jj\_jj_characters.json">
+    <Content Update="wwwroot\data\seed\jj\_characters.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\data\seed\jj\_jj_enemies.json">
+    <Content Update="wwwroot\data\seed\jj\_enemies.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\data\seed\jj\_jj_reports.json">
+    <Content Update="wwwroot\data\seed\jj\_reports.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\data\seed\jj\_jj_story.json">
+    <Content Update="wwwroot\data\seed\jj\_story.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\data\seed\ma\_interviews.json">

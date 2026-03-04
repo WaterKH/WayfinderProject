@@ -7,7 +7,7 @@ namespace WayfinderProject.Domain.Models.MemoryArchive
     public class InterviewWrapper<T> : BaseWrapper<T> 
     {
         [JsonPropertyName("Interviews")]
-        public override Dictionary<string, List<T>> WrappedMemoryArchiveData { get; set; } = new();
+        public override Dictionary<string, List<T>> WrappedData { get; set; } = new();
     }
 
     public class Interview<TScriptLine> : BaseData<TScriptLine>, IFilterable where TScriptLine : ScriptLine

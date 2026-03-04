@@ -1,4 +1,4 @@
-﻿namespace WayfinderProject.Domain.Models.Filters
+﻿namespace WayfinderProject.Domain.Models.Filters.MemoryArchive
 {
     public class MemoryArchiveCriteria : FilterCriteria
     {

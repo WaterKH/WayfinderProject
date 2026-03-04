@@ -1,0 +1,51 @@
+﻿@typeparam TItem where TItem : WayfinderProject.Domain.Models.BaseJiminyJournalData
+@using WayfinderProject.Domain.Models.JiminyJournal
+
+
+<div class="row">
+    <div class="col-md-5">
+        <div class="expansion-content-card">
+            <div class="details-pane">
+                <h3>@Item.Name</h3>
+
+                @foreach (var detail in GetDetails())
+                {
+                    <div class="mt-4">
+                        <h3 class="@(detail.Color)-color">
+                            <img src="images/icons/@(detail.Icon).png" class="detail-icon" /> @detail.Title
+                        </h3>
+                        <label>@string.Join(", ", detail.Data)</label>
+                    </div>
+                }
+
+                <div class="mt-4">
+                    <label>@Item.Description</label>
+                </div>
+
+                @if (!string.IsNullOrEmpty(Item.AdditionalInformation))
+                {
+                    <div class="mt-4">
+                        <label>@Item.AdditionalInformation</label>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-7">
+        <img src="images/JJ.png" />
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public TItem Item { get; set; } = default!;
+    [Parameter] public Func<Task>? GenerateShareLink { get; set; }
+
+    private IEnumerable<(string Title, string Color, string Icon, IEnumerable<string> Data)> GetDetails() => new[]
+    {
+        (Title: "Game", Color: "game", Icon: "games_gray", Data: (IEnumerable<string>)[Item.Game]),
+        (Title: "Worlds", Color: "world", Icon: "worlds", Data: (IEnumerable<string>)Item.Worlds),
+        (Title: "Characters", Color: "character", Icon: "characters", Data: (IEnumerable<string>)Item.Characters)
+    };
+}

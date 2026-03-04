@@ -1,6 +1,4 @@
-﻿
-using WayfinderProject.Domain;
-using WayfinderProject.Domain.Interfaces;
+﻿using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.Filters.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
@@ -26,7 +24,7 @@ namespace WayfinderProject.Services.MemoryArchive
         protected override IEnumerable<Interview<ScriptLine>> MapWrapperToData(
             InterviewWrapper<Interview<ScriptLine>> wrapper)
         {
-            return wrapper.WrappedMemoryArchiveData.SelectMany(kvp =>
+            return wrapper.WrappedData.SelectMany(kvp =>
                 kvp.Value.Select(s => { s.Game = kvp.Key; return s; }));
         }
     }

@@ -7,7 +7,7 @@ namespace WayfinderProject.Domain.Models.MemoryArchive
     public class InteractionWrapper<T> : BaseWrapper<T> 
     {
         [JsonPropertyName("Interactions")]
-        public override Dictionary<string, List<T>> WrappedMemoryArchiveData { get; set; } = new();
+        public override Dictionary<string, List<T>> WrappedData { get; set; } = new();
     }
 
     public class Interaction<TScriptLine> : BaseMemoryArchiveData<TScriptLine>, IFilterable where TScriptLine : ScriptLine

@@ -1,68 +1,498 @@
-﻿@page "/jiminy_journal"
+﻿@page "/memory_archive"
 @inject NavigationManager NavigationManager
-@inject JournalService JournalService
+@inject DataServiceFactory ServiceFactory
 
 @inject IJSRuntime JS
 @inject IToastService toastService
 
+@using WayfinderProject.Components.Tables
+@using WayfinderProject.Domain
+@using WayfinderProject.Domain.Factories
+@using WayfinderProject.Domain.Interfaces
+@using WayfinderProject.Domain.Models
+@using WayfinderProject.Domain.Models.Filters
+@using WayfinderProject.Domain.Models.Filters.JiminyJournal
 @using WayfinderProject.Domain.Models.JiminyJournal
 @using WayfinderProject.Services
+@using WayfinderProject.Services.JiminyJournal
+@using WayfinderProject.Services.MemoryArchive
 
 <PageTitle>The Wayfinder Project - Jiminy's Journal</PageTitle>
 
-<br/>
-<br/>
+<br />
+<br />
 
-<span style="margin-bottom: 50px;"></span>
+<div class="wayfinder-background">
+    <div class="wayfinder-parallax">
 
-NOT READY
+        @if (!this.IsMobile)
+        {
+            <div class="row" style="width: 100%; margin: 0px 0px 30px 0px">
+                <div class="col-md-12" style="align-self: center;">
+                    <div class="wayfinder-title">
+                        <img src="images/wayfinder_project_title.png" />
+                    </div>
 
-<style>
-.advanced-search-box {
-    margin-top: 10px;
-    padding: 0px 15px 15px 25px;
-    border-radius: 30px;
-    width: 100%;
-    height: auto;
-    background-color: #f1f1f1;
+                    <div class="wayfinder-description">
+                        <strong>Search for a <span style="color: #522aff;">Word</span>, <span style="color: #ff7519;">Phrase</span> or <span style="color: #2cce78;">Quote</span>...</strong>
+                    </div>
+
+                    <div class="wayfinder-search">
+                        <span class="wayfinder-search-icon material-icons">search</span>
+                        <input id="main-search"
+                               class="custom-input"
+                               value="@ActiveService?.State.SearchTerm"
+                               @oninput="HandleSearchInput"
+                               placeholder="Search for a Word, Phrase or Quote...">
+
+                        @* <button class="wayfinder-search-button" @onclick="Search">Search</button> *@
+                    </div>
+
+                    <div class="wayfinder-sub-description">
+                        <strong>
+                            Or use a combination of filters below to search through
+                            @foreach (var filter in GetActiveFilters())
+                            {
+                                <span style="color: @filter.Color;">@filter.Name</span>
+                                @(filter.Name != GetActiveFilters().Last().Name ? ", " : ".")
+                            }
+                        </strong>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="row" style="width: 100%; margin: 0px 0px 30px 0px">
+                <div class="col-md-1"></div>
+
+                <div class="col-md-4" style="text-align: center;">
+                    <div class="wayfinder-title">
+                        <strong><span style="color: #522aff;">Entry of the Day</span></strong>
+                    </div>
+
+                    <div class="wayfinder-alt-description">
+                        <strong>
+                            Discover a brand new daily journal entry by visiting The Wayfinder Project everyday! Follow <a href="https://twitter.com/WFP_KH" target="_blank">@@WFP_KH on Twitter</a>!
+                        </strong>
+                    </div>
+
+                    <br />
+
+                    <button class="wayfinder-button" onclick="@(() => this.NavigateToDailyEntry())" @onclick:stopPropagation>Daily Entry</button>
+                </div>
+
+                <div class="col-md-2"></div>
+
+                @if (this.IsMobile)
+                {
+                    <span style="margin-bottom: 25px;"></span>
+                }
+
+                <div class="col-md-4" style="text-align: center;">
+                    <div class="wayfinder-title">
+                        <strong>
+                            <span style="color: #ea4a4a;">Random</span>
+                            <span style="color: #2cce78;">Scene</span>
+                            <span style="color: #5499fc;">Gen</span>
+                        </strong>
+                    </div>
+
+                    <div class="wayfinder-alt-description">
+                        <strong>
+                            Can't decide which scene you want to find? Let us choose for you by selecting a random entry!
+                        </strong>
+                    </div>
+
+                    <br />
+
+                    <button class="wayfinder-button" onclick="@(() => this.NavigateToRandomEntry())" @onclick:stopPropagation>Random Entry</button>
+                </div>
+
+                <div class="col-md-1"></div>
+            </div>
+        }
+    </div>
+</div>
+
+@if (Loading)
+{
+    <div class="row justify-content-center"><div class="spinner col-md-12"></div></div>
+}
+else
+{
+    <div style="@(!this.IsMobile ? "display: inline-flex;" : "")">
+        <div class="">
+            <NavBar Categories="@ServiceMap.Keys.ToList()"
+                    OnCategoryChanged="@(async (cat) => await UpdateCurrentCategory(cat))"
+                    CurrentCategory="@this.CurrentCategory" />
+        </div>
+
+        <div class="wayfinder-search-alt">
+            <span class="wayfinder-search-icon material-icons">search</span>
+            <input id="main-search-alt"
+                   class="custom-input"
+                   value="@ActiveService?.State.SearchTerm"
+                   @oninput="HandleSearchInput"
+                   placeholder="Start Typing...">
+
+            @* @if (!this.IsMobile)
+            {
+                <button class="wayfinder-search-button" @onclick="Search">Search</button>
+            } *@
+        </div>
+    </div>
+
+    @if (!this.IsMobile)
+    {
+        <div class="wayfinder-search-alt" style="width: 0%;">
+            <div style="position: absolute; right: 175px; display: inline-flex;">
+                @* <div style="margin-top: 20px; margin-right: 15px;">
+                    <span style="font-size: larger;"><strong>Results Display: </strong></span>
+                </div>
+
+                <NavBar Categories="@(new List<string> { "Table", "Tiles" })"
+                        OnCategoryChanged="@(async (dis) => await UpdateCurrentResultsDisplay(dis))"
+                        CurrentCategory="@this.CurrentResultsDisplay" /> *@
+            </div>
+        </div>
+
+        <SubNavBar @ref="WayfinderSubNavBar"
+                   @key="ActiveService"
+                   FocusOption="@OrderedOptions?.First()"
+                   Options="@OrderedOptions"
+                   OnOptionSelected="EventCallback.Factory.Create<string>(this, UpdateCurrentOption)"
+                   StartingOption="@this.CurrentOption" />
+    }
+    else
+    {
+        <div class="wayfinder-buttons" style="align-self: center; margin: 15px;">
+            @*<button class="@(this.CurrentViewMobile == "Selected" ? "wayfinder-outlined-button" : "wayfinder-search-button")" @onclick="@(() => ToggleView())" style="right: unset; margin-left: 25px;">@(this.CurrentViewMobile == "Available" ? "Filters" : "Options")</button>*@
+
+            <button class="clear-all-button" @onclick="ClearAllOptions">Clear All</button>
+        </div>
+    }
+
+    @if (!this.IsMobile)
+    {
+        <div class="advanced-search-box">
+            <div class="row">
+                <div class="col-md-12">
+                    @foreach (var filter in GetActiveFilters())
+                    {
+                        <SearchComponent @key="filter.Id"
+                                         Id="@filter.Id"
+                                         Placeholder="Start Typing..."
+                                         Color="@filter.Color"
+                                         CurrentOption="@this.CurrentOption"
+                                         CanSearch="!this.Loading"
+                                         CanShowClearAll="@this.CanDisplayClearAll"
+                                         Initial="@filter.Initial"
+                                         Selected="@filter.Selected"
+                                         Available="@filter.Available"
+                                         OnItemSelected="@(val => HandleSelection(filter.Id, val))"
+                                         OnItemRemoved="@(val => HandleRemoval(filter.Id, val))"
+                                         ClearAllMethod="@(async () => await ClearAllOptions())" />
+                    }
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        @* Mobile View: Uses Chunk(2) to create rows of two columns each *@
+        @foreach (var pair in GetActiveFilters().Chunk(2))
+        {
+            <div class="row" style="margin-top: 10px;">
+                @foreach (var filter in pair)
+                {
+                    <div class="col-md-6">
+                        <MobileSearchComponent Id="@filter.Id"
+                                               Name="@filter.Name"
+                                               Initial="@filter.Initial"
+                                               Available="@filter.Available"
+                                               Selected="@filter.Selected"
+                                               CurrentView="@this.CurrentViewMobile"
+                                               UpdateSearch="@(async () => await Search())" />
+                    </div>
+                }
+            </div>
+        }
+    }
+
+    <span style="margin-bottom: 50px;"></span>
+
+    if (CurrentResultsDisplay == "Table")
+    {
+        <GenericTable CurrentResults="@CurrentResults">
+            <ExpansionTemplate Context="item">
+                @if (item is CharacterEntry characterEntry)
+                {
+                    <JiminyJournalExpansion TItem="CharacterEntry" Item="characterEntry" />
+                }
+                else if (item is EnemyEntry enemyEntry)
+                {
+                    <JiminyJournalExpansion TItem="EnemyEntry" Item="enemyEntry" />
+                }
+                else if (item is ReportEntry reportEntry)
+                {
+                    <JiminyJournalExpansion TItem="ReportEntry" Item="reportEntry" />
+                }
+                else if (item is StoryEntry storyEntry)
+                {
+                    <JiminyJournalExpansion TItem="StoryEntry" Item="storyEntry" />
+                }
+                else
+                {
+                    <div class="p-4">No detailed view available for this item.</div>
+                }
+            </ExpansionTemplate>
+        </GenericTable>
+    }
+    else
+    {
+        @* <GenericCard CurrentResults="@CurrentResults" /> *@
+    }
 }
 
-.clickable {
-    float: right; 
-    font-size: 1rem; 
-    color: #3e79a7; 
-    margin-top: 3px; 
-    cursor: pointer;
-}
-
-.icon {
-    font-size: .8rem;
-    width: 20px;
-    height: 20px;
-    border: 1px solid black;
-    padding: 4px 5px;
-    border-radius: 500px;
-    background-color: #bee2ff;
-}
-
-.loader {
-  border: 16px solid #f3f3f3; /* Light grey */
-  border-top: 16px solid #3498db; /* Blue */
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
-  animation: spin 2s linear infinite;
-}
-
-@@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-</style>
 
 @code {
+    public bool Loading { get; set; }
+    public bool IsMobile { get; set; }
+    public bool CanDisplayClearAll { get; set; }
+
+    public string CurrentResultsDisplay { get; set; } = "Table";
+    public string CurrentCategory { get; set; } = "Reports";
+    public string CurrentOption { get; set; } = "Games";
+
+    public string CurrentViewMobile { get; set; } = "Available";
+
+    private IBaseDataService? ActiveService;
+
+    public CharacterEntryService? CharacterEntryService;
+    public EnemyEntryService? EnemyEntryService;
+    public ReportEntryService? ReportEntryService;
+    public StoryEntryService? StoryEntryService;
+
+    public SubNavBar WayfinderSubNavBar { get; set; } = default!;
+
+    private IEnumerable<object> CurrentResults = new List<object>();
+    private Dictionary<string, IBaseDataService?> ServiceMap = new();
+    private IEnumerable<string>? OrderedOptions => ActiveService?.GetOrderedCategoryNames();
+
+    private record CategoryConfig(
+        string Name,
+        Type TableType,
+        Type CardType,
+        IEnumerable<object> Data
+    );
+
     protected override async Task OnInitializedAsync()
     {
-        await base.OnInitializedAsync();
+        Loading = true;
+
+        await Task.Yield();
+
+        var characterEntryTask = ServiceFactory.CreateAsync<CharacterEntryService, CharacterEntry, CharacterEntryCriteria, CharacterEntryWrapper<CharacterEntry>>(Constants.CharacterEntriesPath);
+        var enemyEntryService = ServiceFactory.CreateAsync<EnemyEntryService, EnemyEntry, EnemyEntryCriteria, EnemyEntryWrapper<EnemyEntry>>(Constants.InterviewsPath);
+        var reportEntryService = ServiceFactory.CreateAsync<ReportEntryService, ReportEntry, ReportEntryCriteria, ReportEntryWrapper<ReportEntry>>(Constants.ScenesPath);
+        var storyEntryService = ServiceFactory.CreateAsync<StoryEntryService, StoryEntry, StoryEntryCriteria, StoryEntryWrapper<StoryEntry>>(Constants.TrailersPath);
+
+        await Task.WhenAll(characterEntryTask, enemyEntryService, reportEntryService, storyEntryService);
+
+        CharacterEntryService = characterEntryTask.Result;
+        EnemyEntryService = enemyEntryService.Result;
+        ReportEntryService = reportEntryService.Result;
+        StoryEntryService = storyEntryService.Result;
+
+        ServiceMap = new Dictionary<string, IBaseDataService?>
+        {
+            { "Characters", CharacterEntryService },
+            { "Enemies", EnemyEntryService },
+            { "Reports", ReportEntryService },
+            { "Story", StoryEntryService }
+        };
+
+        ActiveService = ServiceMap[CurrentCategory];
+
+        if (ActiveService != null)
+        {
+            Loading = false; // Set this to false so that Search can occur
+            await Search();
+        }
+
+        Loading = false;
+    }
+
+    public async Task ClearAllOptions()
+    {
+        if (this.Loading) return;
+
+        if (ActiveService == null) return;
+
+        ActiveService.ClearFilters();
+
+        await this.Search();
+    }
+
+    private async Task HandleSearchInput(ChangeEventArgs e)
+    {
+        var term = e.Value?.ToString() ?? string.Empty;
+
+        if (ActiveService == null) return;
+
+        ActiveService.State.SearchTerm = term;
+
+        await Search();
+    }
+
+    private async Task Search()
+    {
+        if (Loading || ActiveService == null) return;
+
+        Loading = true;
+
+        ActiveService.RefreshAvailableMetadata();
+
+        this.CurrentResults = ActiveService.GetFilteredResults();
+
+        Loading = false;
+        StateHasChanged();
+    }
+
+    private IBaseDataService? GetCurrentService() => CurrentCategory switch
+    {
+        "Characters" => CharacterEntryService,
+        "Enemies" => EnemyEntryService,
+        "Reports" => ReportEntryService,
+        "Story" => StoryEntryService,
+        _ => null
+    };
+
+    private List<FilterMetadata> GetActiveFilters()
+    {
+        if (ActiveService == null) return new List<FilterMetadata>();
+
+        return new List<FilterMetadata>
+            {
+                CreateMetadata(ActiveService, "Entries", "#e685da"),
+                CreateMetadata(ActiveService, "Characters", "#f3b222"),
+                CreateMetadata(ActiveService, "Games", "#cdd1ff"),
+                CreateMetadata(ActiveService, "Worlds", "#ea4a4a")
+            };
+    }
+
+    private FilterMetadata CreateMetadata(IBaseDataService service, string id, string color)
+    {
+        return new FilterMetadata
+        {
+            Id = id,
+            Name = id,
+            Color = color,
+            Initial = service.State.Initial.GetValueOrDefault(id, new List<string>()),
+            Selected = service.State.Selected.GetValueOrDefault(id, new List<string>()),
+            Available = service.State.Available.GetValueOrDefault(id, new List<string>())
+        };
+    }
+
+    public async Task UpdateCurrentCategory(string category)
+    {
+        if (Loading || category == CurrentCategory) return;
+
+        this.CurrentCategory = category;
+
+        if (ServiceMap.TryGetValue(category, out var service) && service != null)
+        {
+            ActiveService = service;
+
+            await Search();
+
+            this.CurrentOption = ActiveService.State.Available.Keys.FirstOrDefault() ?? "Games";
+        }
+    }
+
+    public async Task UpdateCurrentResultsDisplay(string resultsDisplay)
+    {
+        if (Loading || resultsDisplay == CurrentResultsDisplay) return;
+
+        Loading = true;
+
+        this.CurrentResultsDisplay = resultsDisplay;
+
+        Loading = false;
+        StateHasChanged();
+    }
+
+    private async Task UpdateCurrentOption(string option)
+    {
+        if (this.CurrentOption == option || ActiveService == null) return;
+
+        this.CurrentOption = option;
+
+        await Task.Yield();
+    }
+
+    private async Task HandleSelection(string category, string value)
+    {
+        if (ActiveService == null) return;
+
+        if (!ActiveService.State.Selected.ContainsKey(category))
+        {
+            ActiveService.State.Selected[category] = new List<string>();
+        }
+
+        if (!ActiveService.State.Selected[category].Contains(value))
+        {
+            ActiveService.State.Selected[category].Add(value);
+
+            await Search();
+
+            ActiveService.State.Available[category].Remove(value);
+        }
+    }
+
+    private async Task HandleRemoval(string category, string value)
+    {
+        if (ActiveService == null) return;
+
+        if (ActiveService.State.Selected.ContainsKey(category))
+        {
+            ActiveService.State.Selected[category].Remove(value);
+
+            await Search();
+
+            ActiveService.State.Available[category].Add(value);
+        }
+    }
+
+    private async Task NavigateToRandomEntry()
+    {
+        // Random-ness is handled within the Service
+        await NavigateToEntry();
+    }
+
+    private async Task NavigateToDailyEntry()
+    {
+        var seed = DateTime.UtcNow.ToShortDateString();
+        await NavigateToEntry(seed);
+    }
+
+
+    private async Task NavigateToEntry(string seed = "")
+    {
+        Random random = new Random(Utilities.Hash(DateTime.UtcNow.ToShortDateString()));
+        var keys = ServiceMap.Keys.ToList();
+        
+        int serviceIndex = random.Next(0, keys.Count);
+        string category = keys[serviceIndex];
+
+        await UpdateCurrentCategory(category);
+
+        if (ActiveService == null) return;
+        var result = ActiveService.GetRandomResult(seed) as BaseData ?? new();
+
+        await ClearAllOptions();
+
+        await HandleSelection(category, result.Name);
     }
 }

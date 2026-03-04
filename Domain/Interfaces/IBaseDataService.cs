@@ -15,6 +15,5 @@ namespace WayfinderProject.Domain.Interfaces
         IEnumerable<object> GetFilteredResults();
         object GetRandomResult(string seed = "");
         IEnumerable<string> GetOrderedCategoryNames();
-
     }
 }

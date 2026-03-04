@@ -7,7 +7,7 @@ namespace WayfinderProject.Domain.Models.MemoryArchive
     public class SceneWrapper<T> : BaseWrapper<T> 
     {
         [JsonPropertyName("Scenes")]
-        public override Dictionary<string, List<T>> WrappedMemoryArchiveData { get; set; } = new();
+        public override Dictionary<string, List<T>> WrappedData { get; set; } = new();
     }
 
     public class Scene<TScriptLine> : BaseMemoryArchiveData<TScriptLine>, IFilterable where TScriptLine : ScriptLine

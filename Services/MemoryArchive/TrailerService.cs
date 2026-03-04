@@ -1,5 +1,4 @@
-﻿using WayfinderProject.Domain;
-using WayfinderProject.Domain.Interfaces;
+﻿using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.Filters.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
@@ -24,25 +23,8 @@ namespace WayfinderProject.Services.MemoryArchive
 
         protected override IEnumerable<Trailer<ScriptLine>> MapWrapperToData(TrailerWrapper<Trailer<ScriptLine>> wrapper)
         {
-            return wrapper.WrappedMemoryArchiveData.SelectMany(kvp =>
+            return wrapper.WrappedData.SelectMany(kvp =>
                 kvp.Value.Select(s => { s.Game = kvp.Key; return s; }));
         }
-
-        public IEnumerable<Trailer<ScriptLine>> GetFiltered(TrailerCriteria criteria)
-        {
-            return Data.Where(scene =>
-                !Utilities.FilterFailed(criteria.Areas, scene.Areas) &&
-                !Utilities.FilterFailed(criteria.Characters, scene.Characters) &&
-                !Utilities.FilterFailed(criteria.Games, [scene.Game]) &&
-                !Utilities.FilterFailed(criteria.Music, scene.Music) &&
-                !Utilities.FilterFailed(criteria.Worlds, scene.Worlds)
-            );
-        }
-
-        public IEnumerable<string> GetAreas() => Utilities.GetUniqueData(Data.SelectMany(s => s.Areas));
-        public IEnumerable<string> GetCharacters() => Utilities.GetUniqueData(Data.SelectMany(s => s.Characters));
-        public IEnumerable<string> GetGames() => Utilities.GetUniqueData(Data.Select(s => s.Game));
-        public IEnumerable<string> GetMusic() => Utilities.GetUniqueData(Data.SelectMany(s => s.Music));
-        public IEnumerable<string> GetWorlds() => Utilities.GetUniqueData(Data.SelectMany(s => s.Worlds));
     }
 }
