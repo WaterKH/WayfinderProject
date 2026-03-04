@@ -1,0 +1,1315 @@
+{
+  "Reports": {
+    "Kingdom Hearts": [
+      {
+        "Name": "Ansem's Report 1",
+        "Characters": [ "Ansem the Wise", "Genie Jafar" ],
+        "Worlds": [ "Radiant Garden", "Agrabah" ],
+        "Description": "Much of my life has been dedicated to the pursuit of knowledge. That knowledge has guarded this world well. Not a soul doubts that. I am blessed with people's smiles and respect. But though I am called a sage, there are things I do not understand. I believe darkness sleeps in every heart, no matter how pure. Given the chance, the smallest drop can spread and swallow the heart. I have witnessed it many times. Darkness... Darkness of the heart. How is it born? How does it come to affect us so? As ruler of this world, I must find the answers. I must find them before the world is lost to those taken by the darkness.",
+        "AdditionalInformation": "Obtained after defeating Jafar (Genie)."
+      },
+      {
+        "Name": "Ansem's Report 2",
+        "Characters": [ "Terra-Xehanort", "Shadow(s)", "Aerith" ],
+        "Worlds": [ "Radiant Garden", "Hollow Bastion" ],
+        "Description": "It is my duty to expose what this darkness really is. I shall conduct the following experiments: Extract the darkness from a person's heart. Cultivate darkness in a pure heart. Both suppress and amplify the darkness within. The experiments caused the test subjects' hearts to collapse, including those of the most stalwart. How fragile our hearts are! My treatment produced no signs of recovery. I confined those who had completely lost their hearts beneath the castle. Some time later, I went below and was greeted by the strangest sight. Creatures that seemed born of darkness... What are they? Are they truly sentient beings? Could they be the shadows of those who lost their hearts in my experiments?",
+        "AdditionalInformation": "Obtained after speaking with Aerith in the Library."
+      },
+      {
+        "Name": "Ansem's Report 3",
+        "Characters": [ "Terra-Xehanort", "Shadow(s)", "Ursula" ],
+        "Worlds": [ "Radiant Garden", "Atlantica" ],
+        "Description": "The shadows that crawl beneath the castle... Are they the people who lost their hearts, or incarnations of darkness? Or something entirely beyond my imagination? All my knowledge has provided no answer. One thing I am sure of is that they are entirely devoid of emotion. Perhaps further study will unlock the mysteries of the heart. Fortunately, there is no shortage of test samples. They are multiplying underground even as I write this report. They still need a name. Those who lack hearts... I will call them the Heartless.",
+        "AdditionalInformation": "Obtained after defeating Ursula's second form."
+      },
+      {
+        "Name": "Ansem's Report 4",
+        "Characters": [ "Terra-Xehanort", "Aerith" ],
+        "Worlds": [ "Radiant Garden", "Hollow Bastion" ],
+        "Description": "The Heartless appear in groups, and are multiplying rapidly. I've provided them both living and nonliving samples. They've responded only to the living. They seem to multiply after absorbing something from the living creatures. Their prey vanishes without a trace. I believe the Heartless are taking hearts. They are born from those who've lost their hearts, and thrive on hearts seized from others. The hearts taken by the Heartless become Heartless themselves. Though I lack proof, I am confident in this hypothesis. I must also study their behavioral principles. Though they lack emotions, they do seem to have some intelligence. How to communicate with them? It's just occurred to me: Could they be the darkness in people's hearts?",
+        "AdditionalInformation": "Obtained after speaking with Aerith in the Library."
+      },
+      {
+        "Name": "Ansem's Report 5",
+        "Characters": [ "Terra-Xehanort", "Maleficent" ],
+        "Worlds": [ "Radiant Garden", "Hollow Bastion" ],
+        "Description": "To study the Heartless behavior, I picked one out for observation. It wiggled its antennae and, as if sensing a target, headed deep into the castle. In the deepest part of the castle, its antennae began vibrating, as if searching for something. Suddenly, a strange door appeared. I'd never known of its existence. It had a large keyhole, but didn't seem to be locked. So I opened the door. What I saw on the other side mystified me. What was that powerful mass of energy? That night I observed a great meteor shower in the sky. Could it be related to the door that I have opened?",
+        "AdditionalInformation": "Obtained after defeating Maleficent."
+      },
+      {
+        "Name": "Ansem's Report 6",
+        "Characters": [ "Terra-Xehanort", "Aerith" ],
+        "Worlds": [ "Radiant Garden", "Hollow Bastion" ],
+        "Description": "A massive core of energy lay beyond the door sought by the Heartless. It may be the ultimate goal of the Heartless. But what is that energy? I have devised a hypothesis, based upon my observations of the Heartless. The Heartless feed on other's hearts, and they yearn for that energy core. That thing beyond the door must be a heart, too--the heart of this world. There is no proof, but, having felt that immense energy, I am certain. That was the heart of the world. The Heartless are trying to take hearts not only from all living creatures, but from the planet itself. But what do they mean to do with the heart of the world?",
+        "AdditionalInformation": "Obtained after speaking with Aerith in the Library."
+      },
+      {
+        "Name": "Ansem's Report 7",
+        "Characters": [ "Terra-Xehanort", "Oogie Boogie" ],
+        "Worlds": [ "Radiant Garden", "Halloween Town" ],
+        "Description": "I am studying material from the meteors that rained down that fateful night. What a find! The material is foreign to our world. It is elastic to the touch, and when two pieces are combined, they bond easily. None of the records even mention such a substance. Was it introduced to this world when I opened the door? I wonder how many other such materials drift through the atmosphere of this tiny world... I wish I could soar off and find out! Could there be uncharted worlds up there? My curiosity never ceases to grow. But I should stop speaking of such unrealistic dreams. For now, there is no way to venture outside this world. My people and I are all but prisoners of this tiny place.",
+        "AdditionalInformation": "Obtained after defeating Oogie Boogie."
+      },
+      {
+        "Name": "Ansem's Report 8",
+        "Characters": [ "Terra-Xehanort", "Hades" ],
+        "Worlds": [ "Radiant Garden", "Olympus Coliseum" ],
+        "Description": "There is no doubt that the Heartless are deeply connected to the people's hearts. Further study may unravel both their motivations and the mysteries shrouding the heart. As a start, I have built a device that artificially creates Heartless. By recreating the conditions that spawn the Heartless naturally, I should be able to produce them artificially. This device is the culmination of all my research thus far. The machine's test run successfully created a Heartless. This may be a step toward creating a heart from nothing. The artificially and naturally created Heartless showed nearly identical traits. But the two types remain distinct for the purpose of the experiment. So, I will mark the ones that are created artificially.",
+        "AdditionalInformation": "Obtained after defeating Hades."
+      },
+      {
+        "Name": "Ansem's Report 9",
+        "Characters": [ "Terra-Xehanort", "Mickey", "Captain Hook" ],
+        "Worlds": [ "Radiant Garden", "Neverland" ],
+        "Description": "Simply astonishing! Today I had a guest from another world. He is a king, and his vessel is built of the material that composed the meteors. He called the pieces \"gummi blocks\". It seemed that my opening the door has opened a path to interworld travel. We talked for countless hours, but one story in particular caught my interest: that of a key called the \"Keyblade\". The Keyblade is said to hold phenomenal power. One legend says its wielder saved the world, while another says that he wrought chaos and ruin upon it. I must know what this Keyblade is. A key opens doors. It must be connected to the door I have opened.",
+        "AdditionalInformation": "Obtained after defeating Captain Hook."
+      },
+      {
+        "Name": "Ansem's Report 10",
+        "Characters": [ "Terra-Xehanort", "Aerith" ],
+        "Worlds": [ "Radiant Garden", "Hollow Bastion" ],
+        "Description": "Just as people have hearts, so do worlds. The same can be said of stars in the night sky. And deep within each world lies a door to its heart. The Heartless desire those hearts. Born out of darkness in people's hearts, they seek to return to a greater heart. Yes that's it. The Heartless come from people's hearts, as does the darkness. Is the core of the world's heart the world of the Heartless? I will pursue the answer there and become all knowing. My path is set. I shall seek out the wielder of the Keyblade, and the princesses. My body is too frail for such a journey, but I must do this. I will cast it off and plunge into the depths of darkness.",
+        "AdditionalInformation": "Obtained after speaking with Aerith in the Library."
+      },
+      {
+        "Name": "Ansem's Report 11",
+        "Characters": [ "Terra-Xehanort", "Kairi", "Kurt Zisa" ],
+        "Worlds": [ "Radiant Garden", "Agrabah" ],
+        "Description": "Opening the door to a world's heart causes its walls to crumble. These fragments are seen as shooting stars. This explains why these \"gummi blocks\" can travel freely to other worlds. I know the catalyst of this collapse—the appearance of the Heartless. However, it will take time search out the worlds' doors and to retrieve each heart. Furthermore, the doors can be locked using a Keyblade, making the heart forever unattainable. I must take action before the wielder of the key appears in this world. If the princesses and the Keyblade are connected, they should resonate. I've chosen a girl. I don't know if she holds the princesses' powers, but I will find out. She may lead me to the key bearer. I shall set her free and observe.",
+        "AdditionalInformation": "Obtained after defeating Kurt Zisa."
+      },
+      {
+        "Name": "Ansem's Report 12",
+        "Characters": [ "Terra-Xehanort", "Sephiroth" ],
+        "Worlds": [ "Radiant Garden", "Olympus Coliseum" ],
+        "Description": "The body is gone; the heart should have returned to the Heartless. And yet, nothing. This one is unlike any other. Its memories remain and it has yet to take the form of a Heartless. A close eye must be kept on the situation. Much is still unknown. To get to the realm of Darkness, one must go through the doors of Kingdom Hearts, the place where the world's hearts connect. Beyond this world is a place in which darkness reigns. (Details shall be archived in a separate report.) There are many worlds in existence, some of which we know nothing about. The world in which we live. The realm of Darkness. The realm of Light. And the world in between. Wherein lies true nirvana?",
+        "AdditionalInformation": "Obtained after defeating Sephiroth."
+      },
+      {
+        "Name": "Ansem's Report 13",
+        "Characters": [ "Terra-Xehanort", "Xemnas" ],
+        "Worlds": [ "Radiant Garden", "Hollow Bastion" ],
+        "Description": "Where does the body go when it separates from the heart? If the soul remains within the body, is it still considered to be deceased? When the heart returns to the Heartless, the physical form disappears. But that is merely true in this world. Perhaps the body exists in another form in another world. If that is the case, then it is possible for one to exist in two worlds. A being that is neither darkness nor light; belonging nowhere; abandoned by its heart; a mere shell of its former self. The relation between the heart and body is complex. However, I am certain that if your self exists here, then by definition, the other cannot truly \"exist.\" The other, the one which does not exist, shall be dubbed, \"Nobody.\"",
+        "AdditionalInformation": "Obtained after defeating the Unknown."
+      }
+    ],
+    "Kingdom Hearts II": [
+      {
+        "Name": "Secret Ansem Report #1",
+        "Description": "My efforts these many years have come to fruition, with the world I govern having become a paradise worthy of being called \"Radiant Garden.\" \r\nNurtured by the pure water that is the source of life, fragrant flowers bloom in abundance, and the people face each day with hopeful smiles. \r\nBut where there is light, darkness also lurks. As noted in my earlier reports, I must solve the mystery of this \"darkness of the heart.\" This paradise depends on it. \r\nI shall perform an experiment to probe the depths of a person's heart. One of my own apprentices, Xehanort, has volunteered to be a subject.  \r\nThe young man has served me ever since I nursed him back from death's door some years ago. \r\nHe had lost all his memories at the time, but later showed remarkable intellectual curiosity and readily absorbed my teachings, gaining deep wisdom. Any mental immaturity is surely due to his young age. \r\nIf I explore Xehanort's heart with psychological tests, I may be able to recall the past locked away within. My apprentice Even has also shown great interest in Xehanort's memories.  \r\nBut is he really the right subject? Xehanort does indeed exhibit extraordinary talents... \r\nToo extraordinary...Perhaps they are even superhuman. \r\n",
+        "AdditionalInformation": "After the 1000 Heartless Battle in Hollow Bastion.",
+        "Worlds": [
+          "Radiant Garden",
+          "Hollow Bastion"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Even"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #2",
+        "Description": "I have made a grave mistake. \r\nMy study of the \"darkness of the heart\" began with a simple psychological test and quickly snowballed. \r\nSpurred on by my youngest apprentice, Ienzo, I constructed a massive laboratory in the basement of my castle. \r\nUnbeknownst to be, my six apprentices then began collecting a large number of subjects on which to perform dangerous experiments into the \"darkness of the heart.\"         \r\nAs soon as I found out, I called my apprentices together and ordered them not only to cease their studies, but to destroy the results of their research thus far. \r\nWhat on earth was happening within the hearts of my six beloved apprentices? While pursuing the mystery of the darkness of the heart, could they themselves have strayed into its depths?  \r\nYet I remain the most foolish of all, for having begun these experiments. \r\nWe are not meant to interfere in the depths of another's heart, no matter what our reasons for doing so... \r\nAnd my error plunged me into despair. \r\nA visitor from another world soothed my dejected soul. \r\nA tiny king named Mickey came wielding a legendary key- the infamous \"Keyblade,\" said to bring both chaos and prosperity to the world. \r\nHe was very knowledgeable on many topics, and we deepened our friendship as we conversed companionably. \r\nUpon his advice, I decided to review the data obtained at my basement lab. \r\nThat is when I discovered the \"Ansem Reports.\"  \r\nThough they bore my name, the only one I had written was number 0. \r\nApparently he had gone on to pen numbers 1 through 8 himself. \r\nYes- the first subject in my foolish experiments. \r\n",
+        "AdditionalInformation": "After meeting King Mickey in Twilight Town.",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Ienzo",
+          "Mickey"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #3",
+        "Description": "Chaos affect not only this world, but many other worlds besides. \r\nIn the \"Ansem Reports\" my apprentice Xehanort had written under my name, I found the records of his hideous experiments along with his hypothesis about the door that had appeared out of the darkness in my basement. \r\nAll living things have hearts, and all hearts hold darkness deep within. \r\nWorlds are no exception. If a world is a being, the heart it holds must be colossal... \r\n...and the darkness at its core must be monstrous indeed. \r\nDid Xehanort pass through that door in an attempt to contact that dark realm? \r\nNo, not only Xehanort. \r\nIt appears my other five apprentices, believing it was for the sake of research, stared deep into the darkness and were pulled into it. \r\nEven, Ienzo, Braig, Dilan, and Elaeus... \r\nThey have ceased to be human. \r\nI, too, have had everything taken away from me, bashed to a hollow realm of nothingness. \r\nWhat is Xehanort hoping to gain with my pilfered existence? \r\nWill my people cease to smile? \r\nIf the light of hope has been extinguished, I shall henceforth walk with \r\ndarkness as a friend. \r\nHere, in the realm of nothingness to which I have been relegated. \r\nDarkness in the midst of nothing. \r\n\"Darkness in Zero.\" \r\nThus, I shall be known as DiZ.  \r\nDiscarding the stolen name \"Ansem\"... \r\nAnd going in search of revenge. \r\n",
+        "AdditionalInformation": "After defeating Xigbar in The World That Never Was.",
+        "Worlds": [
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Even",
+          "Ienzo",
+          "Braig",
+          "Dilan",
+          "Elaeus",
+          "DiZ",
+          "Ansem the Wise",
+          "Ansem Seeker of Darkness",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #4",
+        "Description": "The distant days spent in that beautiful paradise are an illusion to me now. \r\nHow long have I been here, banished to the realm of nothingness? \r\nIt is only by relying upon my anger and hatred that I have been able to retain my sense of self here where all existence is nullified. \r\nMy heart is being overcome with hatred toward my apprentices, possessed by the darkness, and with the anger I feel for stupidly allowing myself to be betrayed. \r\nIs this darkness, eating away at my heart? \r\nI cannot continue to idle away my time here. \r\nWhat are Xehanort and the others attempting to do? \r\nI must unravel the mystery of these Ansem Reports, intercept my apprentices, and defeat them. \r\nThat is my mission... the only way to repay the world for my sins. \r\nThose beings who lack hearts- the Heartless- must be the key. \r\nThe darkness of the heart, made flesh. Cursed shadows who not only lack hearts, but multiply by seizing hearts from any and all living things. \r\nWhere have they come from, and where are they going? \r\nThree elements combine to create a life: a heart, a soul, and a body. \r\nBut what of the soul and body left behind when the heart is lost? \r\nWhen the soul leaves the body, its vessel, life gives way to death, but what about when the heart leaves? \r\nA being does not perish when its heart leaves its body. The heart alone disappears into the darkness. \r\nThere is little time. \r\nIf I remain in this realm much longer, I will certainly learn these answers the hard way. \r\nMy heart is already a captive of the darkness. \r\n",
+        "AdditionalInformation": "After defeating Xaldin in Beast's Castle.",
+        "Worlds": [
+          "Beast’s Castle"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Xaldin"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #5",
+        "Description": "In this realm, where all existence has been disintegrated, I have just barely managed to preserve my sense of self by continuing to think and to write. \r\nIt is a place where even time has lost all meaning. Eternity is as but a moment here. \r\nI must make haste. Certainly their plans are already underway. \r\nThe Heartless must be the key to unraveling this mystery. \r\nThe six traitors were operating a laboratory that churned out those cursed shadows. \r\nNot only did they generate \"pureblood\" Heartless from living hearts, but they then used those Heartless to synthesize artificial versions of the creatures as well. \r\nThese synthetic Heartless bore insignias and were called \"Emblems.\" \r\nPureblood or Emblem, these Heartless act only to fulfill their instinctive needs. They single-mindedly detect hearts and swarm around them. \r\nA human's commands would be ineffective: the Heartless would easily steal the human's heart and use it to increase their own ranks. \r\nBut what if an even stronger Heartless was giving the orders? \r\nIf he cast aside his own soul and body and became a Heartless, wouldn't he be able to control the otherwise intractable Heartless? \r\nFurthermore, wouldn't he be planning to make use of the creatures' instincts? If the heart-seeking Heartless have their sights set on a larger, more powerful heart, their ultimate goal is crystal-clear. \r\nThe largest heart in existence- the heart of the world. \r\nThis is all conjecture, but it would seem he is utilizing the Heartless in his search for a path leading to the heart of the world. \r\n",
+        "AdditionalInformation": "After defeating Demyx in Olympus Coliseum.",
+        "Worlds": [
+          "Olympus Coliseum"
+        ],
+        "Characters": [
+          "Ansem Seeker of Darkness",
+          "Demyx"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #6",
+        "Description": "My choice to befriend darkness here in the midst of nothingness was a sound one. \r\nThe moment I stared straight ahead with a calm heart, neither rejecting darkness nor fearing it, I gained a newfound power. \r\nA superhuman power- the power of darkness. \r\nIt is likely Xehanort and the others were enraptured by this power, eventually becoming its prisoners.  \r\nI do not intend to allow my heart to be devoured by the darkness, as they did, of course. \r\nWith this new power, I uncovered a \"corridor of darkness\" that connects the realm of nothingness to the outside world. While it is still difficult to come and go as I please, my banishment is now a thing of the past. \r\nTo deceive Xehanort and my apprentices, I first used my power to change form before returning to the realm of light. \r\nAs I had suspected, Xehanort had become a Heartless. \r\nUnder my name, he commanded other Heartless in quests to snatch away the hearts of many different worlds. \r\nAt the center of the heart Xehanort has stolen was \"Kingdom Hearts,\" which attracts tremendous darkness itself and attempts to send any and all matter back into its depths. \r\nThe other five have disappeared. Have they become Heartless, like Xehanort? \r\nOr did they vanish after Xehanort exploited them? \r\nI became familiar with an unusual \"entity\" while pursuing the truth. \r\nIt is the soul and body that remain when a being loses its heart. \r\nWhen a Heartless is born, these entities disappear from the realm of light, to be reborn as entirely new beings in a completely different realm.    \r\n",
+        "AdditionalInformation": "After defeating the Grim Reaper in Port Royal.",
+        "Worlds": [
+          "Port Royal"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Ansem Seeker of Darkness",
+          "Grim Reaper"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #7",
+        "Description": "While beings born of darkness and those lacking hearts may find them convenient, it is dangerous for others to make much use of the corridors of darkness. Darkness erodes the heart. \r\nIn search of a place to proceed with my research and planning away from prying eyes, I found myself in \"Twilight Town.\" It is a quiet village, forgotten in the chasm between light and darkness. I situated myself in the basement of an abandoned mansion standing beyond the woods. \r\nMy underground research resulted in one new discovery after another. \r\nWhen a Heartless is born, the body and soul left behind are reborn into this world as a different being. \r\nThey possess different intentions than their Heartless brethren, and while it is unclear what these sentient \"things\" are after, it would appear they are responsible for much bedlam in the world. \r\nMy erstwhile friend the King and his subjects, along with a hero wielding the Keyblade, are battling the Heartless even as a new threat approaches. \r\nThis new threat... they have given themselves a fitting name, I suppose. \r\nThese non-beings: \"Nobodies.\" \r\nA great number of Nobodies have lost human form, as have the Heartless. Yet the Nobody born of someone with a strong heart retains its shape, with but the faintest visible changes. \r\nIt appears my betrayers have retained their human forms as Nobodies, and are gathering more followers in hops of furthering a new scheme. \r\n\"Organization XIII,\" formed of 13 Nobodies with my betrayers at its core, has divided into two; they are said to be carrying out some sort of research. \r\nSeeking to uncover the plans of this Organization, I have decided to head for where six of its members have gathered. Towering over the outer limits of the realm between darkness and light: Castle Oblivion. \r\n",
+        "AdditionalInformation": "After defeating Luxord in The World That Never Was.",
+        "Worlds": [
+          "Twilight Town",
+          "Castle Oblivion",
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Mickey",
+          "Luxord"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #8",
+        "Description": "It appears that I have been too distracted by the behavior of Xehanort and his cohorts, and the events occurring in their vicinity. \r\nMy friends' struggle to protect the realm of light from the threat of Heartless is now over, with Xehanort's Heartless- going by the name Ansem, Seeker of Darkness- defeated at last. \r\nThe other wielder of the Keyblade, this \"hero,\" traveled from world to world sealing up keyholes and laying Heartless low. \r\nMeanwhile, the King, who had dived into the realm of darkness, worked with the Keyblade-wielding hero to close the door to Kingdom Hearts from the realms of both darkness and light, thus holding off the threat of tremendous darkness. \r\nBut there are still a great number of Heartless afoot, and Organization XIII and the Nobodies continue to be active in the shadows. \r\nIndeed, the world is still a very dangerous place. \r\nWe must find a way to do battle with these enemies. \r\nThus I will both make amends and have my revenge. \r\nIt is for this reason that I infiltrated Castle Oblivion. \r\nIt consists of 13 floors above and 12 floors below ground, with the contents of its \"White Rooms\" transforming in response to its visitors' memories. Organization XIII was conducting experiments on memory here. \r\nThe subject in these experiments, a girl named Naminé, appeared to possess extremely unusual abilities. \r\nWere they attempting to derive something from these powers? \r\nRefusing to be distracted by Organization XIII, I had returned to my own secret research when a new visitor appeared at the castle today. \r\nIt was Sora, the Keyblade-wielding hero who had defeated Ansem, and his companions. \r\nDeep underground, the stench of darkness arose. \r\nAll the players are coming together, it would seem. \r\n",
+        "AdditionalInformation": "After defeating Luxord in The World That Never Was.",
+        "Worlds": [
+          "Castle Oblivion",
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Ansem Seeker of Darkness",
+          "Mickey",
+          "Naminé",
+          "Luxord"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #9",
+        "Description": "I should have expected nothing less from a Keyblade-wielding hero. \r\nSora and friends defied the machinations of Organization XIII and rescued Naminé. \r\nNaminé was a witch who controlled the memories of others. \r\nMost likely these powers were achieved through a special process when she was born. \r\nNaminé is a Nobody, created when a young girl's heart left her body. \r\nYet she has no corresponding Heartless. \r\nThis is because the \"young girl\" in this case was a princess. \r\nKairi, a resident of Radiant Garden over which I had ruled, was one of the Seven Princesses that uphold the realm of light. \r\nWith no darkness in her heart, Kairi produced no Heartless, and instead of vanishing, her body remained in the realm of light. \r\nIn other words, both the Nobody called Naminé and the Heartless- proof of a lost heart- are extremely unstable beings who lack the bodies needed to produce a Nobody. Therefore, they also lack Kairi's memories. One reason for this maybe that Kairi's heart did not return to the darkness when separated from her body, but rather migrated to another vessel... deep within Sora's heart. \r\nThat is, Naminé is an alter ego of the Kairi who has directly interfered with Sora's heart. Could this be why Sora and those hearts are connected to him were able to have their memories controlled? \r\nShe is a \"non-being\" in the truest sense of the word; having not even become a Nobody and with nowhere left to go, she is but the most fleeting of shadows. \r\n",
+        "AdditionalInformation": "After defeating Saïx in The World That Never Was.",
+        "Worlds": [
+          "Radiant Garden",
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Sora",
+          "Naminé",
+          "Kairi",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #10",
+        "Description": "Sora went to sleep in order to recover the memories he had lost in Castle Oblivion. It would take quite some time to bring back all the memories he had created in his lifetime.  \r\nBut Organization XIII held sway over Castle Oblivion. Sora would need to be kept someplace more secure. \r\nI persuaded Naminé to move the slumbering Sora to Twilight Town for safekeeping. \r\nNaminé . \r\nAs I have written before, she is a most unusual being. \r\nBorn of the same process as a Nobody, but lacking virtually all the elements of a Nobody. \r\nPerhaps she continues drawing in hopes of capturing that which she lacks: the memories of others, especially Sora. \r\nI have arrived at a hypothesis. \r\nI believe that Naminé was born as a special type of Nobody when Sora attacked himself with the Keyblade, causing his and Kairi's hearts to leave their bodies simultaneously. \r\nNaminé emerged as Kairi's Nobody... but the body and soul necessary to exist as a Nobody belonged to Sora. \r\nWhen a person's heart is stolen, a Heartless is born with no sense of self, and the body and soul left behind give rise to a Nobody. \r\nBut what if one willingly releases one's heart from one's body? \r\nSora and Xehanort retained their selfhood even after becoming Heartless. \r\nThen there are Kairi and Naminé. \r\nKairi was exceptional for having had no darkness within her heart. Also exceptional was that her heart, once freed, migrated to a new vessel- Sora. \r\nThe combination of the two theoretically unlikely exceptions may be behind this anomaly. \r\nThere are matters I must attend to while Sora is sleeping. \r\nA new ally has appeared on the scene: Riku. \r\n",
+        "AdditionalInformation": "After entering Simulated Twilight Town.",
+        "Worlds": [
+          "Castle Oblivion",
+          "Twilight Town",
+          "Simulated Twilight Town"
+        ],
+        "Characters": [
+          "Sora",
+          "Naminé",
+          "Kairi",
+          "Apprentice Xehanort",
+          "Riku"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #11",
+        "Description": "I was reunited with an old friend at Castle Oblivion, but was unable to disclose my identity. \r\nIf he knew the situation, he would likely try to stop me from carrying out my revenge. \r\nAs much as I would dearly love to converse with him as in the old days... that is now but a hopeless dream. \r\nMy friend has been fighting in the realm of darkness. Most likely he found his way there through Traverse Town. \r\nLike Castle Oblivion, that village also rests in the cleft between light and dark. It consists of the remnants of worlds whose hearts have been stolen by the Heartless. \r\nIt is where those who have barely escaped the destruction of their worlds eventually find themselves. \r\nThis \"realm between\" is quite unstable, with corridors of darkness appearing from time to time. \r\nWhenever a world disappears, some of its inhabitants must arrive here through these corridors. Surely Sora traveled these same corridors of darkness when he first came to Traverse Town. \r\nIt seems my friend, fighting in the realm of darkness, appeared in Castle Oblivion through a corridor of darkness constructed by Organization XIII. \r\nMy new ally Riku also effected his return via one of these corridors. \r\nHe swore to me he would give his all for his best friend Sora. \r\nIn fact, Sora's memories have been slow to return. \r\nThus I have asked Riku to bring me another Sora- his Nobody. \r\nSora is indispensable if I am to achieve my goal. \r\nI require the Keyblade-wielding hero to fly through the realm of light and defeat Organization XIII. \r\n",
+        "AdditionalInformation": "After reuniting with Riku in The World That Never Was.",
+        "Worlds": [
+          "Castle Oblivion",
+          "Traverse Town",
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Sora",
+          "Riku"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #12",
+        "Description": "Apart from Naminé, Nobodies retain their memories of their time as humans, but Sora's Nobody, Roxas, has lost Sora's memories. \r\nThis is likely because Sora's time as a Heartless was short, having recovered his heart and returned to his human form soon after leaving behind Roxas, his Nobody. \r\nIt would seem Roxas is much like Naminé. Naminé is Kairi's Nobody, but came into being via Sora's body and soul. \r\nLikewise, Roxas is Sora's Nobody, but was left behind because Sora's Heartless regained human form using Kairi's heart instead of his own. \r\nIt may be that Sora's memories are slow to return because the half of him that Roxas is still lacking. \r\nI must convert Roxas into data and return him to Sora. \r\nAs a member of Organization XIII, it was exceedingly difficult to bring Roxas in. Having lost to Roxas once, Riku laid everything on the line and used the power of darkness in their second battle, only just managing to bring Roxas back with him. \r\nBut Organization XIII grows ever nearer. Here, Twilight Town, is where Roxas was reborn as a Nobody. \r\nThis is where Roxas first encountered Organization XIII and joined its ranks. They are bound to search this place thoroughly. \r\nFirst I shall convert all of Twilight Town into data and construct a \"world duplicate\" in Sora's memories. I shall place Roxas within that world to live out his days and regain those memories. \r\nThere is little time. \r\nThe Organization's schemes must be making steady progress as well. \r\n",
+        "AdditionalInformation": "After defeating Roxas in the World That Never Was.",
+        "Worlds": [
+          "Twilight Town",
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Naminé",
+          "Sora",
+          "Roxas",
+          "Kairi"
+        ]
+      },
+      {
+        "Name": "Secret Ansem Report #13",
+        "Description": "Tomorrow Sora awakens. \r\nMy long and drawn-out revenge is nearing its end. \r\nXehanort, who took everything away from me. Though as a Heartless he is no more, as the leader of Organization XIII his ambition once again is to capture Kingdom Hearts, the most colossal heart of all. \r\nHis Heartless had attempted to draw out the great darkness of Kingdom Hearts, created from the hearts of all worlds. His Nobody, however, is now almost finished gathering human hearts to be assimilated into Kingdom Hearts as well. \r\nThe fool! \r\nOnly one mystery remains. \r\nHow did Xehanort manage to open the door that appeared in the basement of my castle...? \r\nNo... any theory posited now, when everything is nearing completion, would be meaningless. \r\nRoxas, Ansem, Naminé... \r\nThey defy all logic, yet there they are: singular exceptions to the rule. \r\nThe theories proposed by me and by Organization XIII have been blown to pieces by a handful of strong-hearted individuals. \r\nSora, Kairi, Riku. \r\nAh, yes- Riku. \r\nThough his heart has its weaknesses, making it prone to darkness, he found support in the hope he discovered beyond suffering. \r\nThis hope allowed him to stand his ground and turn the darkness in his heart from an enemy into his greatest weapon. \r\nWhen all this is over, it is my fervent hope that he will be able to return with Sora to his island. \r\nIf I can, I should like to return to Radiant Garden, to look once more upon the beautiful water, the lovely flowers, and the hopeful smiles of the people. \r\nDear King, my friend! \r\nI believe that, at some point in time, you will come across these, my truthful accounts. \r\nHow I wish I could have chatted with you again.       \r\nI was a fool, obsessed with revenge. \r\nForgive me. \r\n",
+        "AdditionalInformation": "After defeating Xemnas' first form in The World That Never Was.",
+        "Worlds": [
+          "Radiant Garden",
+          "Destiny Islands",
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Sora",
+          "Apprentice Xehanort",
+          "Roxas",
+          "Ansem Seeker of Darkness",
+          "Naminé",
+          "Kairi",
+          "Riku",
+          "Mickey",
+          "Xemnas"
+        ]
+      }
+    ],
+    "Kingdom Hearts 358/2 Days": [
+      {
+        "Name": "Day 7: Meaning",
+        "Description": "A name defines an object. Describes the span of it. Gives it purpose. \r\nWe embarked upon the Replica Program to ensure our new power stays ours. Now, our shadow puppet, \"No. i\", lives. It needs a name. Something to define it. To give the hollow vessel purpose. \r\nReport Author: Xemnas \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xemnas "
+        ]
+      },
+      {
+        "Name": "Day 8: Roxas",
+        "Description": "Seems like we're getting new members very day. No. XIII was a boy, Roxas. Now we've got a No. XIV, Xion. \r\nToday's mission was to show Roxas the ropes. I feel like they've had me  babysitting him since he got here. He's not a bad kid, but he's spacey. Good fighter, though. At least I won't be bored. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 9: On Track",
+        "Description": "Xion is being monitored. Roxas, meanwhile, has begun his training exercises. \r\nIt is imperative we keep Xion from having undue contact with Roxas until we are certain it will perform as expected - which will take another 10 days, if Vexen's convictions are to be trusted. \r\nAs for the Keyblade master, Marluxia will no doubt be keeping an eye on him. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Roxas",
+          "Vexen",
+          "Marluxia",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 14: This Kid?",
+        "Description": "Another mission with Roxas today. Is he seriously my responsibility? At least he's starting to talk like a normal person. Maybe that means his memory's coming back. \r\nStill, this kid's supposed to be the Keyblade master's Nobody? I don't see it. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 15: How Dare They",
+        "Description": "Ugh! How DARE they shut me out of monitoring the Keyblade master! And then to send me off to teach that half-baked Nobody basic magic?! \r\nI should've had him light ME on fire. \r\nIt won't be long now, though. Once I'm over at C.O., our plan goes into action. No more playing nanny. Ever. \r\nReport Author: Larxene \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Larxene"
+        ]
+      },
+      {
+        "Name": "Day 22: Castle Oblivion",
+        "Description": "They pushed up the CO plan. Our little hero with the key must've made a move. \r\nMe and his Nobody have been meeting up for ice cream the last few days. Not the best conversationalist, but at least he's mastered a few facial features besides \"doom\" and \"gloom\". \r\nI told him about C.O., but he didn't seem to follow. Guess that's understandable. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 23: Research Entry 326",
+        "Description": "The Program is largely on track. No. i, my finest Replica, has proven an even greater success than anticipated. \r\nI intend to take the other vessel - judged unfit for number status - to Castle Oblivion, where I will subject it to further testing. \r\nOne thing is clear: should these Replicas not be classified as a special sort of Nobody? \r\nReport Author: Vexen \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Vexen"
+        ]
+      },
+      {
+        "Name": "Day 24: The Upper Floors",
+        "Description": "Marluxia has succeeded in leading the Keyblade master to the castle. \r\nI sense multiple threads at work, but details on each of the projects are scarce. I suspect some alleged organization projects are secretly private machinations. \r\nMarluxia seems especially suspect. \r\nReport Author: Zexion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Marluxia",
+          "Zexion"
+        ]
+      },
+      {
+        "Name": "Day 25: Hollow Ties",
+        "Description": "Pressing Zexion for answers would be a waste of time. I know that, but this dearth of information is hard to accept. What's happening on the upper levels? What ought we be doing down here? They hug their truths close and leave the rest to speculate. \r\nZexion talks of the bond we share as an Organization, but how could such a thing exist? Still, he remains the only one I can trust. \r\nReport Author: Lexaeus \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Zexion",
+          "Lexaeus"
+        ]
+      },
+      {
+        "Name": "Day 26: Axel's Actions",
+        "Description": "Simple deduction suggests Axel's outwardly inscrutable actions are the result of some directive from Saïx. \r\nWhy else eliminate Vexen? He simply wanted to do research. Did we not all stand to gain from the fruits of his Program? What is Axel thinking? \r\nReport Author: Zexion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Saïx",
+          "Zexion"
+        ]
+      },
+      {
+        "Name": "Day 27: Organization Dog",
+        "Description": "Axel is in the way, though I don't know if he's aware of our plot. \r\nVexen had no part in our plans - why eliminate him, assuming Axel's orders were to root out traitors to the organization? Discerning his motives merits our full attention. \r\nReport Author: Marluxia \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Vexen",
+          "Marluxia"
+        ]
+      },
+      {
+        "Name": "Day 28: Dealing with the Traitors",
+        "Description": "I've uncovered most of what I need to know about the Replica Program, but where's the other one? I can't find any trace of it. \r\n... Vexen was caught in the middle. Pitiable, but unavoidable. I could not risk his Program falling into their hands. \r\nOf greater concern are the traitors. Not the obvious turncoats, but the ones who will get in his and my way. The Keyblade master is not our enemy. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Vexen",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 50: Strange Feeling",
+        "Description": "Roxas woke up today. I think he was dreaming the whole time. \r\nBeing with him feels strange. Familiar. Like listening to the waves crash up against the shore. But why? \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 51: Measures Must Be Taken",
+        "Description": "The Replica Program continues apace, but something has gone wrong at Castle Oblivion. The Dusks returned with word that none of those we dispatched survived - but the news came in fragments. I still know too little to extract the truth. \r\nI doubt Axel would be among those lost, but I must plan for the worst. First, I must locate the Keyblade master. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 52: Another Mission",
+        "Description": "I've lost track of the Keyblade master and the other intruders. I'm the only one left in the castle. Everybody else has been destroyed. My orders were to end the traitors, but I think by this point, I fit that bill better than anybody. \r\nThere's one last thing I need to look into while I'm here. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 71: The Traitor's End",
+        "Description": "Saïx had a hand in what went down at Castle Oblivion - well, more like a whole arm. Which means Axel was in on it as well. \r\nIt's a fact that Xemnas ordered Axel to take out the traitors, orders which went through Saïx. No specific names were given, but naturally Xemnas knew who the turncoats were right from the get-go. \r\nReport Author: Xigbar \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Saïx ",
+          "Axel",
+          "Xemnas",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Day 72: Human",
+        "Description": "The longer you know someone, the less you need to speak in clear terms. Everything gets across with a wink and a nudge, a little reading between the lines... \r\nWhen it comes to what befell our late comrades at Castle Oblivion, ambiguity suits me just fine. \r\nBut the Keyblade master and Roxas come out and say every little thing that comes to mind. Maybe that's human, or maybe they're just special. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Roxas",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 73: What Now?",
+        "Description": "I lost the ability to use the Keyblade, and I have no idea why. I don't know what to do about it. About anything. \r\nIt happened suddenly, after Roxas woke up. If I can't collect hearts anymore, the Organization has no use for me. This is terrible. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 74: Xion's Face",
+        "Description": "Honestly, I never got why Roxas was so crazy about Xion. I know they both joined up around the same time, and they're both rookies, but how do you get close to somebody who hides their face all the time? \r\nWell, I saw it today. All of a sudden, No XIV up and takes off... her hood. Xion is a girl, and she looks just like Naminé. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Roxas",
+          "Xion",
+          "Naminé",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 75: Gotta Do Something",
+        "Description": "Roxas has been coming along on my missions to help out, since I can't use the Keyblade. Axel is covering for me, so I should be safe for now. But what am I going to do if I never get the Keyblade back? I can't lie forever. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 94: All Goes Apace",
+        "Description": "The hearts collected by our two Keyblade wielders, Roxas and Xion, have gathered together; and now, almighty Kingdom Hearts waxes large in the night sky. \r\nOur efforts have come to bear fruit, nearly ripe for the plucking. All plans proceed smoothly - alarmingly so, in fact, though this is no time to be deterred by paranoia. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 95: My Past",
+        "Description": "Neither Roxas or I have any memory of our human lives. I don't even remember my first days as a Nobody. \r\nRoxas said he was the same, but I'm not so sure. For me, it's a total blank. I can't even remember the day I met Roxas, or Axel. It's all a blur. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 96: Friends",
+        "Description": "Xion regained her ability to wield the Keyblade. I don't know how or why. Maybe there's more to the Keyblade master they're not telling me about. \r\nI feel like I've been spending more time talking to Roxas and Xion lately than my old friend, Saïx. This has to have been what it was like, friendship. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Roxas",
+          "Saïx",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 97: Sooo Bored",
+        "Description": "Every day it's work, work, work. I'm dead bored, and I'd kill for some vacay. \r\nA Nobody needs his rest, am I right? And when I get it, it's gonna be nothing but me and my sitar. Sigh... \r\nReport Author: Demyx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Demyx"
+        ]
+      },
+      {
+        "Name": "Day 117: Him and Roxas",
+        "Description": "Roxas is maturing at an impressive rate. His face, the way he handles the Keyblade, it's all exactly the same. \r\nThe worlds seem so divided and alone, but there's always that steady thread there to connect them. And we Nobodies can never escape the things we did as humans. So it goes. \r\nReport Author: Xigbar \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Day 118: You Changed, Not Me",
+        "Description": "Talking to Roxas and Xion always brings back memories of my human life, back when I was a kid. It's a weird sensation. \r\nI ought to be able to share all this with Saïx, but I just don't feel like it anymore. It's strange, but I'm content with just missing what's gone. \r\nI'm not the one who changed. You did. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion",
+          "Saïx",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 119: Hearts and Emotion",
+        "Description": "Watching that foolish beast flail about only depends my disdain for humans and their incessant need to be pinned down by feelings. \r\nWe became nobodies precisely to avoid the shackles of emotion. It was only later that we realized the scale of that loss: that some things simply cannot be done without a heart. \r\nNonetheless, I see nary a pleasant thing about it. \r\nReport Author: Xaldin \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xaldin"
+        ]
+      },
+      {
+        "Name": "Day 149: He's the Sham",
+        "Description": "That man wearing the Organization's coat - that jerk! He's too powerful. I can't beat him unless I get stronger. \r\nAnd I'm not a sham. I'M NOT. He is. He's the one pretending to be something he isn't! \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 150: Dealing with Xion",
+        "Description": "As expected, the Duplicate is starting to show its limits. The Program showed promise, but a puppet is just a puppet: something to be toyed with until it breaks. \r\nI am utterly at a loss as to what Roxas and Axel see in that thing. How best to dispose of it merits my consideration going forward. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Axel",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 151: Those Dreams",
+        "Description": "I wasn't ready to see Roxas again. I can't help but compare us. We both use the Keyblade, but we're so different. \r\nDoes he dream? It seems like that's all I do anymore. Last night I dreamt of the ocean. I was drowning. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 152: Like a Real Person",
+        "Description": "Roxas and Xion must have had it out over something. Knowing them, it's something dumb, but still. \r\nWatching them, it's like they're human. It's messing with my head. \r\nI kind of wonder if Roxas understood all that about the wrong buttons.I get the sense a lot of it went right over his head. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 153: This Is Gonna Be a Hit!",
+        "Description": "I've got me new hit single! \r\nX-face is always barking at me to work, but what's he expect me to do against a monster like that? I mean, stop and think about skill sets when you divide up the labour already! \r\nReport Author: Demyx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Demyx"
+        ]
+      },
+      {
+        "Name": "Day 171: The No. i Project",
+        "Description": "Xion failed to complete its mission. If this continues, destroying it and using the next Replica as the Duplicate would undoubtedly yield a higher-grade copy. \r\nNo. i was among the initial lot, which naturally raises questions about its capabilities. At present, it is nothing short of broken. I cannot fathom why Xemnas would want to keep it. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Xemnas",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 172: Meaning Behind the Words",
+        "Description": "There has to be something to what Saïx said. Why isn't Xion qualified to be one of us? He said to just look at her, but at what? The fact that she looks like Naminé? \r\nXion and Naminé must be connected. Whose Nobody is Xion, anyway? What is Saïx hiding? \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Saïx",
+          "Xion",
+          "Naminé",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 173: The Gamble",
+        "Description": "I find myself envying the children. Perhaps some fundamental difference exists between those who become Nobodies as adults and otherwise. \r\nThe longer you have lived, the more you are positioned to lose with such a gamble. But a child can look forward, unafraid even in the face of immeasurable odds. I doubt they even see life as a gamble the way we do. \r\nReport Author: Luxord \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Luxord"
+        ]
+      },
+      {
+        "Name": "Day 174: Just a Replica",
+        "Description": "Xion continues to sleep. All analysis on its function suggests no marked change. The copying appears to be working, but a Replica is a Replica. My latest report to Xemnas on this net me no clear answers. He simply stood, smiling. At times I find his thinking impenetrable. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Xemnas",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 193: Dreams, or Memories?",
+        "Description": "I finally wake up, just to pass out again? Why? Because I'm a failure? I dreamt the whole while I was out. It was something nostalgic, but what? Why can't I remember? It could be  key memory from my human life. All I can remember is the sound of waves, gentle, in the distance. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 194: The Replica",
+        "Description": "I thought I'd never see the word \"Replica\" again. Any rational man would realize the Riku Replica was not likely unique, but I'm the only one in the Organization who knew of his exceptional copying functionality, and that he ultimately formed a sense of self. The fact that I knew all that and still never noticed the truth about Xion speaks to how remarkable a Replica she must be. \r\nBut my questions remain unanswered. Who is she a Replica of? Naminé? Kairi? Or perhaps someone entirely different? Why did the Orgnaization admit her into this membership? And why would such a fine Replica fall unconscious or sporadically lose its command of the Keyblade? \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Riku Replica",
+          "Xion",
+          "Naminé",
+          "Kairi",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 224: Xion",
+        "Description": "Even if Xion is a Replica - a puppet - she's still Xion. I understand that in my head, but how do I interact with her now? Riku-Replica was just a tool, but I can't just use Xion. No, I was wrong to have just used Riku-Replica in the first place. How is a man-made puppet any less worthy than a Nobody that was never meant to exist at all? \r\nThey're both ambiguous. Tenuous at best. And she's my friend. Even if neither of us should exist, that doesn't invalidate the bonds we form. Next break we get, I told her we'd all go to the beach. I hope we get the chance. Our little summer vacation. I know if we can get together and laugh about stupid stuff, this nagging doubt will go away. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Riku Replica",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 225: Secrets About Me",
+        "Description": "My body feels heavy, and my head aches. I'm too busy dreaming to get any rest from sleep. Axel knows something. He's hiding some secret. It must be in Castle Oblivion. That's where I was born. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 255: Final Stages",
+        "Description": "Xion's appearance should vary based on the relation of the viewer to her. Saïx sees her simply as a puppet. The program approaches completion. Through Roxas, Xion is assembling a copy of the hero of the Keyblade. As proof, she sometimes appears to take on his form to my eyes. \r\nReport Author: Xemnas \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Saïx",
+          "Roxas",
+          "Xemnas"
+        ]
+      },
+      {
+        "Name": "Day 256: Who We Each See",
+        "Description": "Xion's disappearance is fascinating. If she really is breaking from our control, it's a sign of her approaching the essence of the hero. It seems Saïx doesn't truly \"see\" her. I'm curious to know how she appears to the others. I see her as... him, though I suspect that Xemnas sees entirely something else in her. \r\nReport Author: Xigbar \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Saïx",
+          "Xemnas",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Day 257: In the Cards",
+        "Description": "The air is charged. I can feel it. You go out on a big gamble at a time like this, and you're going to lose big. That said, it's betting against the worst odds that nets you the biggest win. I'm eager to see how this hand plays out. \r\nReport Author: Luxord \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Luxord"
+        ]
+      },
+      {
+        "Name": "Day 276: Behind the Truth",
+        "Description": "Xion is gone. Roxas still doesn't know anything, but Xion found out. That's why I need to find her. We don't have hearts, so we accept the facts we're given as the truth. But something far more important lies behind that truth. Saïx would laugh at people with no hearts calling one another friends, but that doesn't make it not so. \r\nAs the Nobody of the hero of the Keyblade and the Replica of that Nobody, these two are special. Unique in every since of the word. But that doesn't change the fact that we're friends. Nothing will. Got it memorized, Xion? \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Roxas",
+          "Saïx",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 277: True Agenda",
+        "Description": "Axel and Roxas are up to something. No plot they concoct will change the fact that the Organization has cast off Xion, though. Our plans have split, diverged, and advance now to the next stage. The No. i project and Replica program merely paved the way. Our true goals lie elsewhere. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Roxas",
+          "Xion",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 296: Hidden Truths",
+        "Description": "None of us really know everything that's going on in Castle Oblivion. Some rooms even Xemnas doesn't know about. Not many are ever aware that Xion was born there. I wonder if the truth about that place will ever surface. \r\nReport Author: Xigbar \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Xemnas",
+          "Xion",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Day 297: Contact with Riku",
+        "Description": "The man they're calling the imposter, that fake Organization member? It's Riku. Roxas could very well remember that, somewhere deep in his memories. Still, it's too soon to report this. I need to know why Xion was with him first. If she's siding with the hero. it could easily mean her erasure. What are you planning to do, Xion? \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Riku",
+          "Roxas",
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 298: Change of Plans",
+        "Description": "Axel failed to report that the imposter and Xion are working together. Instead, that news came from Roxas. The boy is far more easily handled than Axel, but now Axel has captured Xion and returned her to us. His motives are impossible to read. Our plans can be altered if necessary, but doing so can only delay their realization. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 299: The Value of a Lie",
+        "Description": "Roxas doesn't trust me after the whole Xion incident, but I can't tell him the truth yet. So I keep lying. It's no big deal when you're a Nobody. There's no guilt, no feeling at all. So why does it still sting, just a little, when I lie to him? All my dealings with Roxas give me this bizarre illusion of humanity. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 300: Us and the Sunset",
+        "Description": "We Watched the sun set today. The three of us. I didn't think we'd ever be able to do that again. It's like that dream I had - the one where I was by the shore with Roxas and Axel, watching the sun set over the water. I just want to stay with them. But how? What should I do? \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 301: Xion or Roxas?",
+        "Description": "Xion is burning through missions at full tilt. She seems frantic. Why, I don't know. And speaking of, I still don't know what to say to Roxas. Even without my orders from Saïx, I'd do anything to stop Roxas from being erased. I just don't know if I can stand by and let that happen to Xion, either. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Roxas",
+          "Saïx",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 321: My Place",
+        "Description": "Axel's always helped me out, so I just assumed he would again. How long has he known about me? Maybe since long before we met in Castle Oblivion. But he told me to think for myself. I was so happy. But now, as I get stronger, Roxas keeps getting weaker. \r\nI shouldn't exist anymore. They say that Nobodies were never meant to exist, but I'm the real affront. But before I'm gone, I want to help Roxas and Axel. Even just a little. I think the boy I saw today is the same Sora from my memories. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel",
+          "Roxas",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 322: The Plan",
+        "Description": "Be they a puppet or the hero's Nobody, we merely need a functional Keyblade master. The details are unimportant. The puppet has developed to a point where the hero of the Keyblade may be entirely redundant. Indeed, perhaps we ought never allow Sora to awaken. He cannot be controlled. He will rise up against us. We must move our agenda ahead with that firmly in mind. \r\nReport Author: Xemnas \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Sora",
+          "Xemnas"
+        ]
+      },
+      {
+        "Name": "Day 352: What I Must Do",
+        "Description": "Riku gave me this time. Axel told me to spend it thinking for myself. The organization is determined to erase either me or Roxas. They'll never allow us to coexist. I love Roxas and Axel. I'm sure Saïx would scoff at that. Call it a trick of my artificial memories. But the time I spent on that clock tower was real. \r\nI wish the three of us could stay together, just like this, forever. \r\nBut I have to end this. I'll never forget today's sunset. Even if Roxas and Axel do, I won't forget. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Riku",
+          "Axel",
+          "Roxas",
+          "Saïx",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 353: A Future That Never Was",
+        "Description": "I couldn't tell Xion she was wrong, and I can't bring myself to end her. But it's either that, or I have to erase Roxas. There's no future where the three of us can sit around and eat ice cream. I know Roxas will never understand. I don't want to acknowledge it myself. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Roxas",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 354: Where I Belong",
+        "Description": "I wanted to see Roxas one more time, but couldn't. What would I say? Did I ever really exist? Even if not, I just hope that those times we spent watching the sun set were real. I know Naminé will tell me how to get back where I belong. I should hurry to see her. \r\nReport Author: Xion \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Naminé",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 355: Mind",
+        "Description": "The gears of Xemnas' plans have begun to spin wild since the loss of half of our membership at Castle Oblivion. The results are there, but can this state of affairs fairly be called a success? If Kingdom Hearts can be said to possess a mind of its own, it is surely rejecting Xemnas - no, rejecting Xehanort. Roxas left the Organization today. \r\nReport Author: Xigbar \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Xemnas",
+          "Master Xehanort",
+          "Roxas",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Day 356: Unforeseen Events",
+        "Description": "Our plans never accounted for the possibility of both Xion and Roxas leaving. How did this come to pass? When did Roxas grow strong enough to outmuscle me? What were you really after, Lea? We joined the Organization at the same time, and formulated our plan. At this point, it's just an idle fantasy. Everything changed. You, and me. \r\nReport Author: Saïx \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Roxas",
+          "Lea",
+          "Xigbar",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 357: To My Best Friend",
+        "Description": "Roxas left. It's so like him to just leave that WINNER ice cream stick behind. Come tomorrow, I'll probably get the order to hunt him down, but leaving that here makes it feel so permanent. I wish the three of us - three? No. That the two of us could share some ice cream again someday. That's what it is to be friends. \r\nReport Author: Axel \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 358: Goals",
+        "Description": "With luck, we can bring Roxas back into our fold, but even if Sora should awaken, as the hero of the Keyblade, he is bound to keep unlocking hearts. If he should come to target us, we need simply subdue him and use his powers ourselves once more. I must become one with Kingdom Hearts. I will become a higher existence. All of my true ambitions begin there. \r\nReport Author: Xemnas \r\n",
+        "AdditionalInformation": "",
+        "Worlds": [],
+        "Characters": [
+          "Roxas",
+          "Sora",
+          "Xemnas"
+        ]
+      }
+    ],
+    "Kingdom Hearts Birth By Sleep": [
+      {
+        "Name": "Xehanort’s Letter",
+        "Description": "Please accept my deepest gratitude for the invitation to witness your pupils' accession to the office of true Keyblade Master. It was a heavy mantle our Master placed upon your shoulders naming you Successor, but you have nonetheless persevered and raised two Masters yourself. I know it cannot be easy. \r\nI did you terrible harm in the past over a petty difference in opinion, and just a few years ago selfishly thrust my own burdens upon you. I think of you like a younger brother, and yet, fool that I am, I have never availed myself of countless opportunities to apologize or thank you for opening your home to the boy. Yet not once have you blamed me; on the contrary, here you are inviting me to such an important ceremony. I intend to be there to offer you all my blessings. \r\nOur Master chose his heir wisely. Ours is a bizarrely ironic task—to watch over the light from the shadows—but in the face of that, the warmth in your heart and unfailing dedication to the light impress me to no end. \r\nI have taken to wandering the World, and seen much darkness hiding in the light. Lately, I fear it has taken a turn for the worse. Perhaps Yen Sid has already told you about the Unversed? These fledgling emotions derive from negativity, and I can now sense their presence in nearly every world. \r\nAnd on the topic of darkness: we must speak of another matter that concerns me, one related to the upcoming ceremony. When I visited several years ago, your pupil Terra drew my attention. His power is immense, to be sure, but within his heart I could see darkness just waiting to be awakened. I know this is none of my business, but I have reservations about welcoming Terra as a true Keyblade Master without taking certain precautions. The traditional examination, perhaps, to see if he has the Mark of Mastery? The choice is yours, and I will humbly respect your decision. \r\nTake care. I eagerly await our long overdue reunion. \r\n",
+        "AdditionalInformation": "Ventus obtains Xehanort's Letter after leaving The Land of Departure.",
+        "Worlds": [
+          "The Land of Departure"
+        ],
+        "Characters": [
+          "Yen Sid",
+          "Terra",
+          "Ventus",
+          "Master Xehanort"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 1",
+        "Description": "Much time has passed since I left the home of my youth behind, and in the myriad worlds I have visited, I have gained much knowledge. On these pages, I intend to record a portion of that knowledge, and put the course of my life to paper. \r\nUpon reflection, my life underwent the most considerable sea-change when I arrived at that place. Yes, it began when I found a Master, and another I would later call my brother—when I found a new home. \r\nThen there was the Keyblade. For what purpose was it begotten, and by whom? During my training as one of its wielders, the precepts offered a clear answer: the Keyblade existed so that we who watched over the light could protect the world from the shadows. \r\nBut was that the TRUE answer? Could there not be more to it than that? My heart sought knowledge, and so I sometimes visited other worlds—though such travel was forbidden unless duty required—and found what my heart sought. \r\n",
+        "AdditionalInformation": "Ventus obtains Xehanort's Report I from a chest on the Launch Deck at Deep Space.",
+        "Worlds": [
+          "Deep Space"
+        ],
+        "Characters": [
+          "Ventus",
+          "Master Xehanort"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 2",
+        "Description": "Our Master instructed us to don armor while traveling between worlds, so that we might shield ourselves from the darkness. But there, in the Lanes Between, I could feel the force of it—the power—and from then on, I forwent my armor's \"protection.\" I had been told the darkness would devour me, but what terrors could it possibly hold, so long as I found the strength to control it? \r\nThe World is vast—and the worlds within the greater World, uncountable. Like little islands, they dot a great Ocean Between which keeps them ignorant of each other, uncorrupted. \r\nEach world had its own order. Unlike us, they could not know of the World in its entirety, and we were never to enlighten them. \r\n",
+        "AdditionalInformation": "Terra obtains Xehanort's Report II after defeating Braig at Radiant Garden.",
+        "Worlds": [
+          "Radiant Garden"
+        ],
+        "Characters": [
+          "Terra",
+          "Master Xehanort",
+          "Braig"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 3",
+        "Description": "In ancient times, no such buffers kept the larger World divided; there were no walls of light enclosing each smaller world the way they do today. Nothing prevented one from physically interfering with the next. \r\nAt that time, the World was filled with light, and a great many Keyblade wielders. But without buffers, the worlds began to squabble over ownership of the light. You see, they learned of the Keyblade's true use. War broke out as each of the Keyblade wielders struggled to lay claim to an almighty entity known as Kingdom Hearts. \r\nKingdom Hearts could be described as an aggregate of hearts. Worlds, too, have hearts, just like people; each world's heart is concealed from sight, beyond a hidden door. By gathering all the hearts of all the worlds in a single place, one may complete Kingdom Hearts. \r\n",
+        "AdditionalInformation": "Aqua obtains Xehanort's Report III from a chest in Merlin's House at Radiant Garden.",
+        "Worlds": [
+          "Radiant Garden"
+        ],
+        "Characters": [
+          "Aqua",
+          "Master Xehanort",
+          "Merlin"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 4",
+        "Description": "And when Kingdom Hearts is complete, it is said the one who opens its door will bring about the creation of the Next World. Such a feat is above any human. Or, to put it a different way: whoever opens that door will be reborn as something far greater than human. \r\nLight and darkness are two sides of the same coin; without darkness, there is no light. The Keyblade wielders' great war over Kingdom Hearts was fought by defenders of the light, servants of darkness, those who sought to reconcile the two, and those motivated by nothing more than lust for power. A whole spectrum of thought was swept into the conflict, and the worlds that did not go to war found the war brought to them. In the end, the whole World was cast into darkness. That was how the ancient Keyblade War drew to a close. To this day, no one has ever managed to open the door to Kingdom Hearts. \r\nSome time later, the little light that remained in the hearts of the few gave rise to the World we know today: one made of many worlds behind just as many walls, so that the Keyblade War would not be repeated. \r\n",
+        "AdditionalInformation": "Aqua obtains Xehanort's Report IV after speaking with Yen Sid at the Mysterious Tower.",
+        "Worlds": [
+          "Mysterious Tower"
+        ],
+        "Characters": [
+          "Aqua",
+          "Master Xehanort",
+          "Yen Sid"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 5",
+        "Description": "At present, the lanes and corridors that run between the worlds may only be traversed by us Keyblade wielders, and those who have given themselves over to darkness. \r\nAs the former, our duty is to cross the chasms between the worlds and guard against the latter, whose darkness corrupts and contaminates, so that no world need ever be lost again. \r\nFew Keyblade wielders remain now; I have heard of but a handful of others outside my circle. But the world is vast, and more of our kind may be out there. \r\nNow, in addition to the realm of light in which we reside, there is also a realm of darkness, and the realm between which connects the two. The realm of darkness is most forbidden; I am told none who set foot there have ever returned. \r\n",
+        "AdditionalInformation": "Terra obtains Xehanort's Report V after completing Sinister Sentinel at the Mirage Arena.",
+        "Worlds": [
+          "Mirage Arena"
+        ],
+        "Characters": [
+          "Terra",
+          "Master Xehanort"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 6",
+        "Description": "There are three families of Keyblades: the Keyblades of light we wield, Keyblades of darkness, and Keyblades of heart. \r\nThe first and second families differ only in origin; Keyblades of darkness are found in the realm of darkness, and are counterparts to the Keyblades we use in the realm of light. \r\nThe third type of key, the Keyblade of heart, came into existence when the World was reorganized after the Keyblade War. Without this key, Kingdom Hearts is forever beyond a person's reach. Only by gathering seven hearts of pure light--hearts completely devoid of darkness--may one forge a Keyblade of heart and open the door to Kingdom Hearts. \r\nAnd, as stated before, opening this door arguably gives that person control over all worlds and all people. \r\n",
+        "AdditionalInformation": "Aqua obtains Xehanort's Report VI after defeating Maleficent at Enchanted Dominion.",
+        "Worlds": [
+          "Enchanted Dominion"
+        ],
+        "Characters": [
+          "Aqua",
+          "Master Xehanort",
+          "Maleficent"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 7",
+        "Description": "I have uncovered the Keyblade's ultimate mystery. You see, besides the three families of Keyblades, there is another \"Key Blade.\" While it may sound the same when spoken, it is notated uniquely: \"χ-blade.\" And make no mistake, while it resembles a normal Keyblade, it is something altogether different. \r\nKeyblades are said to be man-made counterparts to Kingdom Hearts. The χ-blade, however, coexists with Kingdom Hearts. \r\nIt is only forged when two hearts of equal power intersect--one heart of pure darkness, one heart of pure light. At the time of its forging, Kingdom Hearts appears. It must be noted, though, that this Kingdom Hearts is special. Unlike the Kingdoms brought about forcibly and artificially through the collection of hearts, THIS Kingdom Hearts is a perfect and complete union of ALL the worlds' hearts. Surely it was over this that the ancient Keyblade War was fought. \r\nIf so, the walls that divide the worlds today are of little consequence. With the χ-blade, all their hearts could be instantly reunited--and the Keyblade War, refought. \r\n",
+        "AdditionalInformation": "Aqua obtains Xehanort's Report VII after defeating Vanitas at The Keyblade Graveyard.",
+        "Worlds": [
+          "The Keyblade Graveyard"
+        ],
+        "Characters": [
+          "Aqua",
+          "Master Xehanort",
+          "Vanitas"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 8",
+        "Description": "My brother pupil Eraqus thinks only in absolutes. He has persuaded himself that light is the only way, but forgets that light cannot exist without shadow. I believe a balance of light and darkness is what sustains our World, but too much of the darkness has been stamped out, disrupting that balance. Someone must tear down this tyranny of light and reorganize the World around the darkness which then creeps back in. \r\nEraqus and I did not see eye to eye. I left, and wandered the World. This was perhaps the first time I felt truly free since that day I departed my boyhood home. But free to do what? I had already shown the Mark and become a Keyblade Master—but having been passed over as a Successor, all that remained to me was the road of teacher. \r\nOrdinarily, Keyblade Masters take pupils under their wings, malleable minds in which to impress the precepts of the Keyblade wielder and keep our profession alive for generations to come. \r\nWas my time drawing to an end, then, after all I had accomplished since casting away the place of my birth? Surely waiting for a quiet death would not do, not when there was still so much I needed to see for myself. Powers help me, I thought, my body is so old... \r\n",
+        "AdditionalInformation": "Terra obtains Xehanort's Report VIII after defeating Master Eraqus at The Land of Departure.",
+        "Worlds": [
+          "The Land of Departure"
+        ],
+        "Characters": [
+          "Terra",
+          "Master Xehanort",
+          "Eraqus"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 9",
+        "Description": "We Keyblade Masters have a special gift. We can extract a heart, be it our own or that of another. By continuing this cycle, it is possible to remain in the world of the living forever. \r\nAs a boy, I dreamed of seeing the farthest reaches of the World. If I only went far enough, there had to be a world out there in which no one had ever before set foot. And now I know of just such a world. If I become the first to open Kingdom Hearts' door, I can create the Next World in which light and darkness exist in perfect equilibrium. \r\nSo there I stood, with vast knowledge in one gnarled, dying hand, and newfound purpose in the other. The next step was clear: I needed a new vessel. \r\nAnd that was when I met Ventus and made him my pupil. We were destined to meet, and I could sense the potential within him, but the boy was too benign for his own good. I came to the conclusion he was too frail to serve as a vessel, and decided to use him for a second purpose I had in mind. \r\nI would remove the darkness from his heart and split him in two. Then I would have my heart of pure light, and my heart of pure darkness. \r\n",
+        "AdditionalInformation": "Ventus obtains Xehanort's Report IX after leaving Destiny Islands.",
+        "Worlds": [
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Ventus",
+          "Master Xehanort"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 10",
+        "Description": "As was to be expected, Ventus lacked the constitution for such an ordeal. I was able to remove the darkness inside him and create Vanitas, a heart of pure darkness, but Ventus drifted into the clutches of sleep. \r\nVentus' heart of pure light and Vanitas's heart of pure darkness...If both could be made strong enough to one day clash, I know the χ-blade would be forged. \r\nBut Vanitas took too much of Ventus's heart, and from that fracture, I could see the last of Ventus's light was slipping away. The boy deserved a place to spend his final moments peacefully. And what should come to mind but my own boyhood home. \r\nMy legs took me there unbidden, and as I stood there on the same beach where I had made my choice so many years ago, I thought: not a single thing has changed. Here, in this quiet world, time marches in place. Content that Ventus would find peace here, I started to walk away—but just then, the boy held up his Keyblade. The light within him had not died. \r\n",
+        "AdditionalInformation": "Ventus obtains Xehanort's Report X after defeating Vanitas at The Keyblade Graveyard.",
+        "Worlds": [
+          "The Keyblade Graveyard"
+        ],
+        "Characters": [
+          "Ventus",
+          "Master Xehanort",
+          "Vanitas"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 11",
+        "Description": "Ventus and Vanitas were not matched in power; I could not train them, or Vanitas's darkness would gnaw away what little Ventus had left. \r\nOf course, since I needed a place where the boy's light might flourish, the answer was obvious: Eraqus, and his absolutes. \r\nConsidering how we had parted ways, I expected friction—but if anything, Eraqus seemed delighted to see me again. He readily agreed to take care of Ventus. Now I need only wait for the boy's heart to get stronger. \r\nI had not visited this second home of mine for some time, and discovered Eraqus had already two pupils of his own. Within one of them, Terra, I sensed something. The boy, though well-intentioned, seeks power single-mindedly. And that kind of hunger is a seedbed for darkness. \r\nI had found my vessel. \r\n",
+        "AdditionalInformation": "Terra obtains Xehanort's Report XI after defeating Terra-Xehanort at The Keyblade Graveyard.",
+        "Worlds": [
+          "The Keyblade Graveyard"
+        ],
+        "Characters": [
+          "Ventus",
+          "Vanitas",
+          "Eraqus",
+          "Terra",
+          "Master Xehanort",
+          "Terra-Xehanort"
+        ]
+      },
+      {
+        "Name": "Xehanort’s Report 12",
+        "Description": "The time has come. I have received word from Eraqus that his pupils are to become true Keyblade Masters. Terra and Aqua...They will be easy now to lure into the outside world. But Ventus! I will get nowhere without him. \r\nVanitas can feel some of what Ventus feels, and he says Terra is the key. Ventus has loved Terra like a real brother ever since he let him keep his old wooden Keyblade. It seems we have found a loose thread at which we can tug to unravel Ventus's heart. \r\nThe first step is to get Terra alone; then we need to plant the seeds of doubt in Ventus. Let him carry his faint light as he chases his brother into the darkness. \r\nLet the darkness make his light stronger, then let the light deepen the darkness. And where the two finally meet is where the stuff of legends will become real. \r\n",
+        "AdditionalInformation": "Ventus obtains Xehanort's Report XII from a chest in the Seat of War at The Keyblade Graveyard.",
+        "Worlds": [
+          "The Keyblade Graveyard"
+        ],
+        "Characters": [
+          "Eraqus",
+          "Terra",
+          "Aqua",
+          "Vanitas",
+          "Ventus",
+          "Master Xehanort"
+        ]
+      }
+    ],
+    "Kingdom Hearts III": [
+      {
+        "Name": "Recollections",
+        "Description": "Am I alive? \r\nI awoke in a cell, alone until the researchers came with their tests and their prodding to uncover my identity. \r\nI had no answer to offer them. Four friends, and a key...that is the sum total of my memory. I could not even recall my name. I was simply called \"X\" there. My only solace was the time I spent talking with the two boys who would visit from time to time. \r\nOne day, a man came to take me from the prison. I could not see him for the darkness, save that he wore an eyepatch. Even now, years on, I feel no closer to understanding who or what I am. \r\nMay my heart be my guiding key. \r\n—Unknown \r\n",
+        "AdditionalInformation": "Secret Report 1 is obtained after clearing Battlegate 1 at the Courtyard in Olympus.",
+        "Worlds": [
+          "Olympus"
+        ],
+        "Characters": [
+          "Lea",
+          "Isa",
+          "Braig"
+        ]
+      },
+      {
+        "Name": "Mark of Mastery Journal",
+        "Description": "Some days have passed since I set off on my journey to prepare for the Mark of Mastery examination. Eraqus asked for leave to undertake the same pilgrimage, but apparently I am to be the first to tour the worlds written of in the old fairy tales. \r\nUntil a few short years ago, I'd known only my own world, a speck of land surrounded by sea. But how I'd dreamed of, yearned for the World beyond... And, granted guidance from the future, I left that nest behind. As I treaded the path to my master's side, I came in contact with darkness in many forms. I knew even then, as by instinct: terrifying as its power was, it could be harnessed. Mastered. \r\nEraqus is a blueblood, descended from the very first masters in the age of fairy tales. But I did not come this far to indulge in adulation. I will be his peer. His equal. And to do that, I must learn to wield the power born from both darkness and light in proper balance. \r\n—Xehanort \r\n",
+        "AdditionalInformation": "Secret Report 2 is obtained after clearing Battlegate 2 at the Apex in Olympus.",
+        "Worlds": [
+          "Olympus"
+        ],
+        "Characters": [
+          "Young Xehanort",
+          "Young Eraqus"
+        ]
+      },
+      {
+        "Name": "Experiments of the Heart – Notes on Subject X, Excerpt 1",
+        "Description": "Subject was found in the central square shortly after dawn. Female, approximately fifteen years old. After seven days' observation, she spoke her first words, but could not provide a name. Subject exhibits signs of profound amnesia, and displays concern for which world this is. Her words suggest that she departed her home world with others, though she cannot recall the names of her erstwhile companions. All efforts to explore those memories have met with a rejection response. \r\nAfter his initial experiments on me, Ansem the Wise ceased his research into the heart, his hand stayed by some fear I cannot fathom. Yet this new subject is like me: devoid of memories. She is the perfect sample upon which to continue my master's work. She, too, could benefit from it; by traversing the heart, we have a direct path into memory. I myself have begun to reclaim my lost past thanks to these very experiments. \r\nWho is she? Whence has she come? These are questions no scientist could ignore. And the words she muttered, \"May your heart be your guiding key\"... \r\n—Xehanort \r\n",
+        "AdditionalInformation": "Secret Report 3 is obtained after clearing Battlegate 3 at The Old Mansion in Twilight Town.",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Ansem the Wise"
+        ]
+      },
+      {
+        "Name": "Experiments of the Heart – Notes on Subject X, Excerpt 2",
+        "Description": "Subject's memories have not returned, and our conversations remain less than lucid. What fragments can be gleaned evoke a bygone world, like one out of fairy tales. As improbable as it seems, the question may not be where she has come from, but when. If she truly has crossed through time, the prospect of probing her heart is all the more compelling. \r\nMy pilot studies used a handful of subjects, but none possessed the fortitude to endure them. Ultimately, all suffered mental collapse. I knew it would be a heavy blow to lose a subject as unique as she. \r\nUpon discovering the tests I've been conducting, my master demanded that I cease my work immediately and destroy what research I have compiled. Worse still, he ordered the release of my remaining subjects. She is gone. \r\nWhere is Subject X now? Has \"wise\" Master Ansem hidden her away? Whatever the case, I will not be deterred. I will take her place as the first subject in the grand experiment to come. \r\n—Xehanort \r\n",
+        "AdditionalInformation": "Secret Report 4 is obtained after clearing Battlegate 4 at the Kid Korral in Toy Box.",
+        "Worlds": [
+          "Toy Box"
+        ],
+        "Characters": [
+          "Apprentice Xehanort",
+          "Ansem the Wise"
+        ]
+      },
+      {
+        "Name": "Memoirs, Excerpt 1",
+        "Description": "The castle was a wonderland to us children. Within its walls, Ansem the Wise conducted his research, and the fruits it bore allowed everyone outside to live in peace and happiness. That alone was enough to stoke our interest, though not all of the rumors that escaped its walls were so benevolent. By night, the muffled sounds of human wails emerged. There was talk of dangerous human experimentation. Lea and I couldn't help but hatch a plot to steal inside and sate our curiosity. \r\nThe two who stood guard at the gates were researchers themselves, though you wouldn't think it to see them, massive and barrel-chested as they were. And slipping past that duo was only the first hurdle. It proved one not easily cleared; we were found and tossed out on our ears, time and again. \r\nOn the day we finally secured our entry, we descended the long spiral stair at the heart of the castle to find a dark space below it, lined with cages. There wasn't light enough to see if they were inhabited, and we were in no position to call out to any occupants within. Yet we could feel it. A definite presence, there in the black. Terror washed over us, and we immediately regretted coming. But just as we turned to flee, we heard the faintest of voices. The urge to run was nigh overpowering, but someone or something beckoned us on. \r\nThere, framed by a tenuous sliver of light, we found her. \r\n—Saïx \r\n",
+        "AdditionalInformation": "Secret Report 5 is obtained after clearing Battlegate 5 at the Main Floor",
+        "Worlds": [
+          "Toy Box"
+        ],
+        "Characters": [
+          "Saïx",
+          "Ansem the Wise",
+          "Lea"
+        ]
+      },
+      {
+        "Name": "Memoirs, Excerpt 2",
+        "Description": "It was too dim to make out her features. We spoke to her in hushed whispers. Who was she? Why was she imprisoned here? She had no answers for us. Had no memories at all. She was an enigma, but I knew I wanted to help her. \r\nAnd so we continued our infiltrations, most of them stopped short at the castle gates. When we did manage our way inside, we spoke with her. That was all the comfort two children like us could offer. But Lea had other ideas. He was determined to free her. We slipped into the castle that day knowing only that we wanted, with all our hearts, to save her. \r\nBut we did not find her inside on that day or the next, or any of our subsequent visits. Had she been moved? Had we simply imagined her? Lea and I knew there was only one way to be certain. And so we stand before the castle gates today, not as trespassing children but in order to become Ansem the Wise's newest apprentices. \r\n—Saïx \r\n",
+        "AdditionalInformation": "Secret Report 6 is obtained after clearing Battlegate 6 at the Wetlands in Kingdom of Corona.",
+        "Worlds": [
+          "Kingdom of Corona"
+        ],
+        "Characters": [
+          "Saïx",
+          "Lea",
+          "Ansem the Wise"
+        ]
+      },
+      {
+        "Name": "On the Replica Program and Reanimation",
+        "Description": "Following my erasure and my recompletion as a human, I did not awaken right away. Perhaps the damage was exceptionally grave. Even after waking, I remained in bed, pondering my next course of action. \r\nIn my work on the Replica Program for the Organization, I produced some twenty vessels. Most of the early results were failures, not one of them granted a number. The first success to emerge from that early lot was the Riku replica. Subsequently, Xion (No. i) was essentially indistinguishable from a natural human, though she became unstable due to the influence of others. Using those two as my foundation, I worked to construct a number of nigh-perfect replicas, but just as they neared completion, my efforts were cut short. I suspect Xehanort aims to use both the initial lot as well as the unused replicas from my later work. \r\nI arose today and decided to walk out in the square, my first outing in some time. Yet my stroll was interrupted when a surprising visitor appeared with an unexpected offer. Though younger than me, he'd risen to become Xemnas's right-hand. I accepted his terms and became a Nobody once more—easier to gain access to the old Replica Program that way. \r\nWhatever it takes to atone. \r\n—Vexen \r\n",
+        "AdditionalInformation": "Secret Report 7 is obtained after clearing Battlegate 7 at the Hills in Kingdom of Corona.",
+        "Worlds": [
+          "Kingdom of Corona"
+        ],
+        "Characters": [
+          "Vexen",
+          "Riku Replica",
+          "Xion",
+          "Master Xehanort",
+          "Xemnas"
+        ]
+      },
+      {
+        "Name": "The \"Real\" Organization",
+        "Description": "Xehanort seeks to gather twelve vessels, which—together with his true, actual self—he considers the \"real\" Organization XIII. Now that he has the numbers he needs, Demyx and I are being treated as reserves. \r\nSeveral others who served Xemnas in the old Organization have followed the same course as mine, electing to abandon their newly restored humanity and rejoin the \"real\" Organization as Nobodies. But not Xemnas. Xemnas cannot exist in the present because there is already a Xehanort here: the old man in charge. The old man's humanity prevents his Heartless and Nobody, others vanquished in the past, and his younger self from being denizens of this time. \r\nTo circumvent this, Xehanort is using the prototype replicas I created in the past as containers, plucking his other selves' hearts from the time they existed. Xehanort ordered me to refine the prototypes, to make them closer still to the real thing. Perfecting my creations so they may house true, flesh-and-blood humans suits my own purposes as well. All that remains for my atonement is to devise a way to pass on as many of the vessels as I can to those who truly deserve them. \r\n—Vexen \r\n",
+        "AdditionalInformation": "Secret Report 8 is obtained after clearing Battlegate 8 at the Tank Yard in Monstropolis.",
+        "Worlds": [
+          "Monstropolis"
+        ],
+        "Characters": [
+          "Vexen",
+          "Masster Xehanort",
+          "Demyx",
+          "Xemnas",
+          "Master Xehanort",
+          "Lea",
+          "Isa",
+          "Braig"
+        ]
+      },
+      {
+        "Name": "Ansem Code Conspectus, Excerpt 1",
+        "Description": "I have pored over the data my master entrusted to Riku. Here, I offer my preliminary conclusions. \r\nWithin Sora's heart are three compartmentalized \"boxes,\" each containing the heart of another. One box holds Roxas. Another holds a second heart that has been with Sora nearly as long. The third has held its heart for much longer. These hearts have melded with Sora's and no longer have voices of their own. Any attempt to mechanically extract them could prove as dire for Sora as what caused him to become a Heartless in the first place. \r\nFirst, a vessel for each heart must be readied. Then, a spark of some sort is required to induce its waking. Obviously, the ideal solution is to restore each heart to its own body, but (whatever the case for the two unknown individuals) Roxas possesses no such thing. The same is true for Naminé, who we believe resides in Kairi's heart. Still, if alternate bodies can be secured for them, all their hearts require to be awakened is that \"spark\"—people they cared for and who cared for them, who can show them the way home. \r\nComplete and perfect digitization of the heart is impossible. We can only hope to partially reconstruct it. Thus, I see no way forward but to extract the hearts we so desperately need from within Sora. Fortunately, the data stored in Twilight Town contains a near-perfect record of the memories of those who lived there—and for Roxas and Naminé especially, this is crucial. \r\n—Ienzo \r\n",
+        "AdditionalInformation": "Secret Report 9 is obtained after clearing Battlegate 9 at the Middle Tier in Arendelle.",
+        "Worlds": [
+          "Arendelle",
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Ienzo",
+          "Riku",
+          "Sora",
+          "Roxas",
+          "Naminé",
+          "Kairi"
+        ]
+      },
+      {
+        "Name": "Ansem Code Conspectus, Excerpt 2",
+        "Description": "As for how to contain their hearts, the only conceivable option is the replicas. If we transfer in the digital memories from the Twilight Town archive, the replicas should be able to reconstruct each individual's human appearance with near-perfect results. Then, their hearts need only the right spark to wake them, so they may find their way out of Sora and Kairi and into those newly made bodies. \r\nThe Replica Program was truly revolutionary, but it was incomplete at the time of the old Organization's dissolution. Without Even, how are we to further the research? We need only three replicas: one for Roxas, one for Naminé, and one for the unknown stowaway within Sora's heart. \r\nThese are difficult quandaries, but as I work through my master's data, I find myself remembering the taste of ice cream. When I was a boy, he would bring me some when we took walks together. There will be time to regret my betrayal later. For now, my focus must be on restoring Roxas and Naminé and proving my master had good intentions. \r\n—Ienzo \r\n",
+        "AdditionalInformation": "Secret Report 10 is obtained after clearing Battlegate 10 at the Huddled Isles in The Caribbean.",
+        "Worlds": [
+          "The Caribbean",
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Ienzo",
+          "Sora",
+          "Kairi",
+          "Even",
+          "Roxas",
+          "Naminé"
+        ]
+      },
+      {
+        "Name": "Observations, Excerpt 1",
+        "Description": "I have seen it through; the Keyblade War exactly as written on the Lost Page. Now, the Keyblade the Master entrusted to me must be bequeathed to another. Five Union leaders have been chosen from the surviving Dandelions. I will pass the Keyblade to one of them, and then continue watching the future unfold. \r\nYet, it seems someone has pulled the old switcheroo. One of the Five is an imposter, someone the Master did not choose. They represent a virus in the program he so carefully wrote. \r\nThe virus has begun a strange undertaking: a reckless plot to allow the Five to escape into another worldline. Surely such a thing can't be possible? We're talking about the same trick that allowed the Dandelions to transfer to other worldlines after the Keyblade War. But these children are no Masters. They haven't the means...unless, of course, a certain lady of magic summoned here from the future knows more than I do. \r\nThe whole Union leader thing was supposed to be by the books. Are these new events just another phase in the Master's grand plan? \r\n—Unknown \r\n",
+        "AdditionalInformation": "Secret Report 11 is obtained after clearing Battlegate 11 at the North District in San Fransokyo.",
+        "Worlds": [
+          "San Fransokyo"
+        ],
+        "Characters": [
+          "Luxu"
+        ]
+      },
+      {
+        "Name": "Observations, Excerpt 2",
+        "Description": "Even on a worldline with no Keyblade War, peace is but a dream. In the absence of us and our Master, a \"darkness\" arrived—one that shall surely lead the World to yet another demise. \r\nAmid the chaos, I bequeathed my Keyblade to one of the Union leaders, just as the Master instructed. I watched as the Five were sent to another worldline—at no small cost—ensuring the line of Keyblade wielders will live on. And now, Keybladeless, I must depart this land to fulfill my final task. This means casting my own body aside and sojourning my heart in vessel after vessel—as many as it takes. \r\nBut I will continue gazing upon each passing era, one unto the next. In time, be it years or decades, centuries or millennia, I will meet the Five once more. \r\nSomewhere in this cyclical history of bequeathings, a chosen one will appear and reenact the Keyblade War. When this scapegoat arrives and takes my Keyblade in hand, this will be the time to take the stage and finish my role. \r\nThe Lost Masters will awaken. \r\n—Unknown \r\n",
+        "AdditionalInformation": "Secret Report 12 is obtained after clearing Battlegate 12 at the Central District in San Fransokyo.",
+        "Worlds": [
+          "San Fransokyo"
+        ],
+        "Characters": [
+          "Luxu"
+        ]
+      },
+      {
+        "Name": "Observations, Excerpt 3",
+        "Description": "It seems this body, this name will be my last. The lives I have lived over the ages could fill volumes, but for now, I must focus on what matters most. \r\nThe Keyblade has been successfully passed down, generation to generation, and it seems a Keyblade Master devoted to the darkness may finally arise. Until now, I have watched over the course of events from a distance. Perhaps the time has come to intervene. I need only play the role of a fool desirous of the Keyblade's power. I will don the mask of his ally in order to keep watch over my Keyblade from close by. \r\nThe Gazing Eye: a Keyblade forged from the eye of the Master of Masters. He passed it to me, as I have to others, and through it he can see the future—all that will ever come to pass. \r\nSpanning the ages in body after body, life after life, my task has been to keep vigil over the Eye as it passes from hand to hand. It has been a long time. Longer than I can express. \r\nBut now at last the Keyblade War has begun, and Kingdom Hearts will open—a true and complete Kingdom Hearts, born of the clash between darkness and light. I will soon be reunited with my old companions, and in that moment my long vigil will reach its end. He will return... \r\n—Unknown \r\n",
+        "AdditionalInformation": "Secret Report 13 is obtained after clearing Battlegate 13 at The Badlands in The Keyblade Graveyard.",
+        "Worlds": [
+          "The Keyblade Graveyard"
+        ],
+        "Characters": [
+          "Luxu",
+          "Master of Masters"
+        ]
+      }
+    ]
+  }
+}

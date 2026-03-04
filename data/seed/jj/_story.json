@@ -1,0 +1,1887 @@
+{
+  "Story": {
+    "Kingdom Hearts": [
+      {
+        "Name": "Sora's Story I",
+        "Description": "Sora, a boy born and raised on an island, dreamed of seeing the outside world. He and his friends Riku and Kairi began building a raft with which to sail away. One day, Sora, ventured into the island's secret cave and met a stranger who had come from \"beyond the door.\" That night, disaster struck Sora's island. Riku and Kairi disappeared, and Sora was left with a mysterious weapon. With it, he defeated monsters that had suddenly appeared everywhere, spawned from an enormous sphere of darkness. But the darkness swallowed the island. Meanwhile, Disney Castle was in an uproar. King Mickey had vanished, leaving only a note behind. With this sole clue, Donald and Goofy set out to find him. Somehow, Sora ended up in a place called Traverse Town, where he met Leon, Aerith, and Yuffie and learned about the Heartless - beings of darkness - and the secret behind his weapon, the Keyblade. It is the key to unlocking some great power. Before long, Sora also met Donald and Goofy, who were looking for Leon, and joined forces with them.",
+        "Worlds": [ "Destiny Islands", "Disney Castle", "Traverse Town" ],
+        "Characters": [ "Sora", "Riku", "Kairi", "Ansem Seeker of Darkness", "Shadow(s)", "Mickey", "Donald", "Goofy", "Leon", "Aerith", "Yuffie" ]
+      },
+      {
+        "Name": "Sora's Story II",
+        "Description": "Kairi disappeared during the storm. King Mickey left Disney Castle to stop the Heartless. Sora, Donald, and Goofy's search for their friends continued. An eerie shadow was drawing near their destination. In Wonderland, they helped Alice, who was falsely charged with some crime. But in the end, someone abducted her. In the Deep Jungle, they defeated Clayton, who was possessed by the darkness. Sora was reunited with Riku back in town, but they were separated again. Sora's new friend Tarzan led him to a mysterious keyhole. When Sora sealed it with the keyblade, he acquired a new gummi block. Aerith explained that the Heartless travel to various worlds through the Keyholes. So, sealing them might prevent more Heartless from invading each world. The new gummi opened a path to another world.",
+        "Worlds": [ "Destiny Islands", "Disney Castle", "Wonderland", "Deep Jungle", "Traverse Town" ],
+        "Characters": [ "Kairi", "Mickey", "Sora", "Donald", "Goofy", "Alice", "Clayton", "Riku", "Tarzan", "Aerith" ]
+      },
+      {
+        "Name": "Sora's Story III",
+        "Description": "Sora finally found Kairi in Neverland. But having lost her heart, she remained asleep. Ignoring Sora's warning, Riku opened his being to the darkness in hopes of recovering Kairi's heart, and carried her off to Maleficent's castle, Hollow Bastion. It seems the evil sorceress is using the minions of darkness to attain something. She manipulated both Hook and Jafar. Now she's using Riku, too. What is her goal? Is she behind the abductions? Does she seek the Keyblade as well? The abducted maidens, the Keyholes, the Keyblade - somehow they are bound by fate. Sora, Donald, and Goofy are headed for Hollow Bastion. Tougher trials may await, but fighting alongside new friends like Aladdin and Peter Pan has made Sora stronger. His battle won't be over until he saves Kairi and vanquishes the darkness.",
+        "Worlds": [ "Neverland", "Agrabah", "Hollow Bastion" ],
+        "Characters": [ "Sora", "Kairi", "Riku", "Maleficent", "Captain Hook", "Jafar", "Aladdin", "Peter Pan" ]
+      },
+      {
+        "Name": "Sora's Story IV",
+        "Description": "Donald and Goofy abandoned Sora and sided with Riku when they found out that he was the true keyblade master. Sora was disheartened by their betrayal, but was soon encouraged by the Beast to go on. Though Riku now wielded the Keyblade, Sora faced him boldly. Moved by his courage, Donald and Goofy rejoined Sora and helped him regain the Keyblade. After defeating Maleficent, Sora and company encountered Ansem, their most powerful enemy yet. Ansem had possessed Riku's body and now revealed a startling truth: Kairi's missing heart lay deep within Sora's. To free Kairi's heart Sora unlocked his own with the Keyblade, destroying himself. Having regained her heart, Kairi awakened. Her power, along with that of the other maidens, completed the final Keyhole to the darkness. Somehow, Kairi, Donald, and Goofy escaped from Ansem. On their way out of Hollow Bastion, they ran into a lone Heartless who turned out to be Sora. Kairi's deep feeling for Sora restored him. Now they must stop Ansem from destroying the worlds.",
+        "Worlds": [ "Hollow Bastion" ],
+        "Characters": [ "Donald", "Goofy", "Sora", "Riku", "Beast", "Maleficent", "Ansem Seeker of Darkness", "Kairi", "Sora's Heartless" ]
+      },
+      {
+        "Name": "Sora's Story V",
+        "Description": "The Power of Kairi's heart was what saved Sora. The strong bond between them became a light that pulled him back from the darkness. Promising he would come back, Sora returned to Hollow Bastion to seal the final Keyhole and save Riku. The Keyhole was sealed, but Ansem and Riku were nowhere to be found. Ansem had left to fulfill his final plan. Sora and company followed him to a world shrouded in darkness. Destroying Ansem could restore all the worlds taken by the Heartless, but it would also mean those worlds being disconnected, as they once were. Once, every world was isolated, divided from the others by impassable walls. The power of darkness demolished those walls. If the walls return, traveling to other worlds will no longer be possible. Sora may never see his friends again. Still, he resolved to fight his way into the very core of darkness, where Ansem lies in wait. He believes no matter how deep the darkness, a light shines within.",
+        "Worlds": [ "Hollow Bastion", "End of the World" ],
+        "Characters": [ "Kairi", "Sora", "Riku", "Ansem Seeker of Darkness" ]
+      },
+      {
+        "Name": "Wonderland I",
+        "Description": "After falling through a deep hole, Sora and company arrived in Wonderland and followed a white rabbit all the way to the Queen of Hearts' castle. There they witnessed a trial in which the unreasonable queen falsely accused Alice. Angered by this injustice, Sora rushed onto the scene and challenged the queen. Find evidence to prove Alice's innocence.",
+        "Worlds": [ "Wonderland" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "White Rabbit", "Queen of Hearts", "Alice" ]
+      },
+      {
+        "Name": "Wonderland II",
+        "Description": "After falling through a deep hole, Sora and company arrived in Wonderland and followed a white rabbit all the way to the Queen of Heart's castle. There they witnessed a trial in which the unreasonable queen falsely accuses Alice. Angered by this injustice, Sora rushed in and challenged the queen. He and his friends gathered evidence of Alice's innocence, and the trial resumed. The queen was not convinced, and ordered her card soldiers to seize them. After fighting them off, Sora noticed that Alice had disappeared from her cage. What happened to Alice? Was she abducted? Find Alice!",
+        "Worlds": [ "Wonderland" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "White Rabbit", "Queen of Hearts", "Alice", "Card Soldier(s)" ]
+      },
+      {
+        "Name": "Wonderland III",
+        "Description": "After falling through a deep hole, Sora and company arrived in Wonderland and followed a white rabbit all the way to the Queen of Heart's castle. There they witnessed a trial in which the unreasonable queen falsely accuses Alice. Angered by this injustice, Sora rushed in and challenged the queen. He and his friends found evidence proving Alice's innocence. But the queen simply accused them next, and ordered her card soldiers to seize them. After fighting them off, Sora noticed that Alice had disappeared from her cage. While looking for her, he and his friends ran into the Trickmaster. They defeated the powerful monster, but Alice's whereabouts remained unknown.",
+        "Worlds": [ "Wonderland" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "White Rabbit", "Queen of Hearts", "Alice", "Card Solider(s)", "Trickmaster" ]
+      },
+      {
+        "Name": "Olympus Coliseum I",
+        "Description": "Sora, Donald, and Goofy tried to enter the tournament, but Phil, keeper of the Coliseum, turned them away. But with Hades's help Sora and his friends got the entry ticket to enter the games. Tough battles may lie ahead, but with the Keyblade, Sora should have nothing to fear. Good luck!",
+        "Worlds": [ "Olympus Coliseum" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "Phil", "Hades" ]
+      },
+      {
+        "Name": "Olympus Coliseum II",
+        "Description": "Sora, Donald, and Goofy fought brilliantly to advance to the finals. Their opponent was Cloud, who was hired by Hades to get rid of Sora and company. When Hades unleashed Cerberus during the match, Hercules entered the arena and took him on single-handedly. In the end, Sora and his friends helped Hercules defeat Cerberus. Phil was impressed by their feat and dubbed Sora, Donald, and Goofy junior heroes. Fight in other tournaments, continue your journey to become a true hero.",
+        "Worlds": [ "Olympus Coliseum" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "Cloud", "Hades", "Cerberus", "Hercules", "Phil" ]
+      },
+      {
+        "Name": "Olympus Coliseum III",
+        "Description": "Hades plotted to destroy Sora and Hercules, but failed. First, Cloud failed to carry out his orders, then Cerberus was defeated. But Hades did not give up on his goal - to rule the worlds as the king of darkness. He hosted the Hades Cup to deal with Sora personally. Overcoming tough trials, Sora and company defeated Hades.",
+        "Worlds": [ "Olympus Coliseum" ],
+        "Characters": [ "Hades", "Sora", "Hercules", "Cloud", "Cerberus" ]
+      },
+      {
+        "Name": "Deep Jungle I",
+        "Description": "Sora and Donald fought over the gummi ship's controls and crashed it in the Deep Jungle. While separated from Donald and Goofy, Sora was attacked by Sabor, but then rescued by Tarzan. Tarzan can't communicate well, but it appears Sora's friends are somewhere in the Deep Jungle. Could he be referring to Kairi and Riku? Go with Tarzan. See if you can find them.",
+        "Worlds": [ "Deep Jungle" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "Saber", "Tarzan", "Kairi", "Riku" ]
+      },
+      {
+        "Name": "Deep Jungle II",
+        "Description": "Sora got separated from Donald and Goofy. Tarzan rescued Sora when he was attacked by Sabor. According to Tarzan, Sora's friends are somewhere in the Deep Jungle. Meanwhile, Donald and Goofy found a gummi block that might be a clue to finding the king. After Sora, Donald, and Goofy found each other at the camp they learned about the gorillas and their nesting grounds from Jane. Kairi, Riku, and the king might be there. Tarzan asked Kerchak, the leader of the gorillas, for permission to take Sora and friends to the nesting grounds. But Kerchak wouldn't trust Sora after Clayton attempted to shoot Terk. Shortly after, the Heartless appeared at the camp. Jane and Terk got abducted.",
+        "Worlds": [ "Deep Jungle" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "Tarzan", "Saber", "Mickey", "Jane", "Riku", "Kairi", "Kerchak", "Clayton", "Terk" ]
+      },
+      {
+        "Name": "Deep Jungle III",
+        "Description": "Sora and his friends sought to reach the gorilla's nesting grounds, but Clayton, possessed by the Heartless, stood in their way. He abducted Jane and hunted down the gorillas. In their final showdown, Sora and company defeated Clayton and an invisible monster named Stealth Sneak. Sora finally gained Kerchak's trust and was allowed to go to the nesting grounds. Tarzan led everyone to a cavern with a mysterious keyhole. When Sora sealed it with the Keyblade, he found an unusual gummi block. Although Sora and the others couldn't find their friends, the new gummi block should help them get to another world. Sora, Donald, and Goofy said goodbye to Tarzan and the others and continued with their journeys.",
+        "Worlds": [ "Deep Jungle" ],
+        "Characters": [ "Sora", "Clayton", "Jane", "Stealth Sneak", "Kerchak" ]
+      },
+      {
+        "Name": "Agrabah I",
+        "Description": "Sora and his friends fought the Heartless off en route to Agrabah. Its streets were empty since Jafar, the evil vizier of Agrabah, had placed the residents under arrest. But Princess Jasmine and a few others managed to elude capture. She and Sora met in an alley, where she told him that Aladdin had left for the desert and had not returned since. Let's go find Aladdin!",
+        "Worlds": [ "Agrabah" ],
+        "Characters": [ "Sora", "Jafar", "Jasmine", "Aladdin" ]
+      },
+      {
+        "Name": "Agrabah II",
+        "Description": "There is a powerful genie sealed inside the magic lamp Aladdin found in the ruins. For him, things like thwarting Jafar's plots and turning Aladdin into a prince worthy of Jasmine are a piece of cake. Sora and his friends returned to Agrabah with Aladdin to stop Jafar. But they were too late, as Jasmine had been taken captive. They tried to rescue her, but were ambushed and lost the magic lamp to Jafar. While Sora and company battled the Pot Centipede, Jafar fled the scene and headed to the Cave of Wonders to find the Keyhole. Go after Jafar, and rescue Jasmine!",
+        "Worlds": [ "Agrabah" ],
+        "Characters": [ "Genie", "Aladdin", "Jafar", "Jasmine", "Sora", "Pot Centipede" ]
+      },
+      {
+        "Name": "Agrabah III",
+        "Description": "Hoping to take over Agrabah, Jafar took Jasmine and the lamp with him to the Cave of Wonders. Sora and his friends followed him there, where they encountered Maleficent. They learned that Maleficent and Jafar were rounding up the seven princesses, Jasmine being one, with the power to open the final Keyhole. With Genies at his side, Jafar attacked Sora and company. Somehow, they defeated him, but could not find Jasmine. She had been abducted by someone else. They returned to Agrabah, where Aladdin freed Genie with his final wish and asked him to help Sora find Jasmine. Genie agreed and joined the party.",
+        "Worlds": [ "Agrabah" ],
+        "Characters": [ "Jafar", "Jasmine", "Sora", "Maleficent", "Jasmine", "Genie", "Genie Jafar" ]
+      },
+      {
+        "Name": "Monstro I",
+        "Description": "On its way to another world, the gummi ship was swallowed by a huge whale called Monstro. Sora and company ran into Pinocchio and Geppetto, who had gotten trapped inside as well. They came up with a plan to escape using gummi blocks. Then Pinocchio wandered off somewhere. Where could he have gone? Let's go look for Pinocchio.",
+        "Worlds": [ "Monstro" ],
+        "Characters": [ "Monstro", "Sora", "Pinocchio", "Geppetto" ]
+      },
+      {
+        "Name": "Monstro II",
+        "Description": "Inside Monstro, Sora and his friends ran into Pinocchio and Geppetto. Pinocchio wandered off, and when Sora found him, he also found Riku. It was a strange reunion, and Riku suddenly ran off with Pinocchio. Baffled by Riku's behavior, Sora followed them. Amidst all the chaos, a Heartless attacked Pinocchio and left him lying motionless. Did it consume his heart? No! I still sense it. It's just sleeping. I should know. I'm his conscience. Sora, please go rescue Pinocchio!",
+        "Worlds": [ "Monstro" ],
+        "Characters": [ "Sora", "Pinocchio", "Geppetto", "Riku" ]
+      },
+      {
+        "Name": "Monstro III",
+        "Description": "Inside Monstro, Sora and his friends ran into Pinocchio and Geppetto. Pinocchio wandered off, and when Sora found him, he also found Riku. It was a strange reunion, and Riku suddenly ran off with Pinocchio. Baffled by Riku's behavior, Sora followed them. Amidst all the chaos, a Heartless attacked Pinocchio and left him lying motionless. Did it consume his heart? No way! His heart survived, and will remain strong as long as I do my duty as his conscience. Pinocchio awakened when I called his name. Riku fled the scene; leaving Sora bewildered by the change in his friend.",
+        "Worlds": [ "Monstro" ],
+        "Characters": [ "Sora", "Pinocchio", "Geppetto", "Riku" ]
+      },
+      {
+        "Name": "100 Acre Wood I",
+        "Description": "After opening a strange book inside Merlin's house, Sora found himself in a picture book. There he met Winnie the Pooh, who told him that all of his friends and his favorite Hunny Tree had vanished. Some pages have been torn out, causing their disappearance. Gather the missing pages, and reunite Pooh and his friends!",
+        "Worlds": [ "100 Acre Wood" ],
+        "Characters": [ "Merlin", "Sora", "Pooh" ]
+      },
+      {
+        "Name": "100 Acre Wood II",
+        "Description": "Sora was whisked away to the world of the Hundred Acre Wood, inside a book in Merlin's house. There he met Winnie the Pooh, who said all his friends had vanished. Some of the book's pages had been torn out. Taking his friends with them. Sora collected all the scattered pages and brought Pooh and his friends back together. A happy ending.",
+        "Worlds": [ "100 Acre Wood" ],
+        "Characters": [ "Merlin", "Sora", "Pooh" ]
+      },
+      {
+        "Name": "Atlantica I",
+        "Description": "In the undersea kingdom of Atlantica, Sora and his friends met Ariel. After saving her from the Heartless, they met King Triton, Ariel's Father, and asked him about the Keyhole. The king, distrustful of outsiders, refused to tell them anything. Ariel, who longed to go to the outside world, offered to help find the Keyhole. Now, let's find that Keyhole with Ariel!",
+        "Worlds": [ "Atlantica" ],
+        "Characters": [ "Sora", "Ariel", "King Triton" ]
+      },
+      {
+        "Name": "Atlantica II",
+        "Description": "King Triton chided Sora and Ariel for attempting to find the Keyhole, a deed that could threaten world order. Ariel was deeply saddened, and Ursula took advantage of this to manipulate her. She used Ariel to steal Triton's trident. With the power of the Trident, Ursula planned to take over Atlantica. To atone for her mistake, Ariel resolved to retrieve the trident. Go find Ursula's lair and recover the trident!",
+        "Worlds": [ "Atlantica" ],
+        "Characters": [ "Sora", "Ariel", "King Triton", "Ursula" ]
+      },
+      {
+        "Name": "Atlantica III",
+        "Description": "Ariel, a princess of Atlantica, yearned to go to other worlds. But her dream could not be realized as King Triton, her father, forbade such notions. Ursula took advantage of this to coax Ariel into leading her to Triton's trident, which she then seized for herself. To atone for her mistake, Ariel went to Ursula's lair with Sora, Donald and Goofy to retrieve the trident. After her morays were defeated, Ursula used the trident's power to become a giant, but was vanquished in the end. With the trident's power, Sora found the keyhole and sealed it.",
+        "Worlds": [ "Atlantica" ],
+        "Characters": [ "Sora", "Ariel", "King Triton", "Ursula", "Donald", "Goofy" ]
+      },
+      {
+        "Name": "Halloween Town I",
+        "Description": "Jack, the pumpkin king of Halloween Town, is working with Dr. Finkelstein to create a heart with which to control the Heartless for the Halloween festival. Pulse, emotion, terror, fear, hope, despair, and memory are the ingredients to make a heart. Sally has the memory. Find sally to get the memory!",
+        "Worlds": [ "Halloween Town" ],
+        "Characters": [ "Jack Skellington", "Dr. Finkelstein", "Sally" ]
+      },
+      {
+        "Name": "Halloween Town II",
+        "Description": "Sora, Jack, and the others fought their way through the Heartless until they reached a graveyard. There, they found Sally. They took her \"memory\" back to the lab to complete the heart. Oogie Boogie learned of Jack's plan and had Lock, Shock, and Barrel steal the heart. Oogie Boogie wanted the heart to control the Heartless and take over Halloween Town. Go with Jack and retrieve the heart!",
+        "Worlds": [ "Halloween Town" ],
+        "Characters": [ "Sora", "Jack Skellington", "Sally", "Oogie Boogie", "Lock", "Shock", "Barrel" ]
+      },
+      {
+        "Name": "Halloween Town III",
+        "Description": "Jack, the pumpkin king of Halloween Town, worked with Dr. Finkelstein and created a heart to control the Heartless for the Halloween festival. Oogie Boogie, plotting to use the heart to take over Halloween Town, had Lock, Shock and Barrel steal it. When Sora and company arrived at his manor, Oogie Boogie tried to summon a swarm of Heartless with the heart, but failed. Evidently, the heart was incomplete. After Sora and his friends defeated him, Oogie Boogie turned into a giant monster, becoming one with his manor. However, he was beaten yet again and disappeared along with the manor. Sora sealed the Keyhole in Halloween Town.",
+        "Worlds": [ "Halloween Town" ],
+        "Characters": [ "Jack Skellington", "Dr. Finkelstein", "Oogie Boogie", "Lock", "Shock", "Barrel", "Sora" ]
+      },
+      {
+        "Name": "Neverland I",
+        "Description": "In Neverland, Sora found Riku waiting for him - along with Kairi. Riku had joined forces with Captain Hook and opened himself to the darkness, believing its powers could save Kairi. With his new evil power, Riku confined Sora and company in the brig. There they met Peter Pan, who had come to rescue Wendy. Go with Peter Pan and find Kairi and Wendy.",
+        "Worlds": [ "Neverland" ],
+        "Characters": [ "Sora", "Riku", "Kairi", "Captain Hook", "Wendy", "Peter Pan" ]
+      },
+      {
+        "Name": "Neverland II",
+        "Description": "Sora, Donald, and Goofy, who were trapped inside Hook's pirate ship, went to find Kairi and Wendy with Peter Pan. They were able to find them, but learned that something was wrong with Kairi. She remained dormant, as if she had lost her heart. Just when Sora thought Kairi was finally within reach, Riku appeared and snatched her away again. When Sora pursued them to the main deck, he ran into Hook and his crew, and found that Tinker Bell had been taken captive. Sora walked the plank, with the crocodile waiting below, but Peter Pan came to the rescue. Together, they defeated Hook and his henchmen. Sora could not find Kairi, she had been taken to another world. Before heading after her, find the Keyhole in Neverland and seal it.",
+        "Worlds": [ "Neverland" ],
+        "Characters": [ "Sora", "Donald", "Goofy", "Kairi", "Wendy", "Peter Pan", "Riku", "Captain Hook", "Tinker Bell", "The Crocodile" ]
+      }
+    ],
+    "Kingdom Hearts Re:Chain of Memories": [
+      {
+        "Name": "Sora's Tale I",
+        "Description": "Our friends may be here... It was that thought that led us to Castle Oblivion, where cards rule over all. A mysterious man gave Sora a card, and using it took us to Traverse Town - of all places! It turned out the town was just a figment of our own remembrances, the first world of many that lie in Sora's heart. And so our journey through these worlds begins. \r\n",
+        "Worlds": [
+          "Castle Oblivion",
+          "Traverse Town"
+        ],
+        "Characters": [
+          "Sora"
+        ]
+      },
+      {
+        "Name": "Sora's Tale II",
+        "Description": "It seems we're slowly losing our memories of what happened before the castle. And all my notes about the last journey have vanished! But in exchange, Sora is remembering other things he must have forgotten until now - like a girl he knew when he was little. While fighting Larxene, Sora finally remembered the girl's name... Naminé. \r\n",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Sora",
+          "Larxene",
+          "Naminé"
+        ]
+      },
+      {
+        "Name": "Sora's Tale III",
+        "Description": "Sora pressed on in his search for Naminé, and can you believe it? He found Riku, his best friend whom we thought was lost. Sora was so happy, but Riku attacked him just like that, saying, \"I'll protect Naminé!\" What could he mean? Will something happen if Sora finds Naminé? Sora is chasing after Riku... and the answers. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Sora",
+          "Naminé",
+          "Riku"
+        ]
+      },
+      {
+        "Name": "Sora's Tale IV",
+        "Description": "So Sora's memories of Naminé were false... Marluxia wanted Sora's heart and the strength within, so he used Naminé to create fake memories and place them in Sora's heart. Larxene is gone, so we're going to the top floor to finish Marluxia. We want our memories back. And Sora - he wants to keep the promise he remembers. Namie may not be his friend, but in his heart, protecting her is the only choice. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Sora",
+          "Naminé",
+          "Marluxia",
+          "Larxene"
+        ]
+      },
+      {
+        "Name": "Traverse Town",
+        "Description": "The card the hooded man gave us took us to Traverse Town, where we were reunited with Leon, Yuffie, and our other friends. Leon acted like he'd forgotten Sora, but for whatever reason still knew his name. I guess his memory got mixed up somehow. Aerith sensed that the town and everyone there was a product of Sora's memories. It may sound crazy, but I think she was right. \r\n",
+        "Worlds": [
+          "Traverse Town"
+        ],
+        "Characters": [
+          "Leon",
+          "Yuffie",
+          "Leon",
+          "Aerith"
+        ]
+      },
+      {
+        "Name": "Wonderland",
+        "Description": "When we chased after the White Rabbit, we stumbled upon a trial in progress. The Queen of Hearts accused Alice of stealing her memory and sentenced her to death! Angered by the shoddy trial, Sora freed Alice and hunted down the real culprit. But even after we bested the Trickmaster, the Queen refused to believe that Alice was innocent. Fortunately, Alice's quick thinking pacified the Queen and no one had to lose their head. \r\n",
+        "Worlds": [
+          "Wonderland"
+        ],
+        "Characters": [
+          "White Rabbit",
+          "Queen of Hearts",
+          "Alice",
+          "Sora",
+          "Trickmaster(s)"
+        ]
+      },
+      {
+        "Name": "Olympus Coliseum",
+        "Description": "Sora wanted to take on Hercules, so we all decided to compete in the games. Hades, frantic to dispose of Hercules, hired Cloud to take him out. Cloud cooperated, thinking he would get his lost memories back. But not even Cloud could beat Hercules. Hades stepped in to finish the job, but we put his plans on ice. \r\n",
+        "Worlds": [
+          "Olympus Coliseum"
+        ],
+        "Characters": [
+          "Sora",
+          "Hercules",
+          "Hades",
+          "Cloud"
+        ]
+      },
+      {
+        "Name": "Agrabah",
+        "Description": "Aladdin brought the magic lamp back from the Cave of Wonders, hoping for a chance to meet Jasmine, Princess of Agrabah. Inside the lamp was Genie, who would grant three wishes to the lamp's bearer. Aladdin hoped to become a prince so he could see Jasmine whenever he wanted. But he used two wishes battling the Heartless, and then Jafar stole the lamp. Jafar turned into a genie, but we defeated him and Aladdin got the lamp back. Instead of becoming a prince, Aladdin used his last wish to set Genie free, and decided he wanted Jasmine to know him as he really is. \r\n",
+        "Worlds": [
+          "Agrabah"
+        ],
+        "Characters": [
+          "Aladdin",
+          "Jasmine",
+          "Genie",
+          "Jafar",
+          "Genie Jafar"
+        ]
+      },
+      {
+        "Name": "Halloween Town",
+        "Description": "Dr. Finkelstein invented a potion that restores true memories, but it drew the Heartless to Halloween Town. Intrigued, Sora went with Jack to look for Sally, who had nabbed the potion because she was scared of what it could do. Oogie Boogie swiped the potion and downed it in a single gulp. But his true memories drove him mad with fear. What if true memories do that to everyone's heart? Scary. \r\n",
+        "Worlds": [
+          "Halloween Town"
+        ],
+        "Characters": [
+          "Dr. Finkelstein",
+          "Sora",
+          "Jack Skellington",
+          "Sally",
+          "Oogie Boogie"
+        ]
+      },
+      {
+        "Name": "Monstro",
+        "Description": "Geppetto went out looking for Pinocchio and was swallowed up by the whale Monstro. But finding Pinocchio inside filled him with joy. But Pinocchio felt sad about running away from home and putting his father in danger, so he set off to find a way out of Monstro. After a run-in with a big Heartless, Pinocchio had a great idea: Why not make a commotion and get Monstro to spit us out? With our help, the plan worked, and Pinocchio and Geppetto escaped safely. \r\n",
+        "Worlds": [
+          "Monstro"
+        ],
+        "Characters": [
+          "Geppetto",
+          "Pinocchio",
+          "Monstro"
+        ]
+      },
+      {
+        "Name": "Atlantica",
+        "Description": "Ariel, Princess of Atlantica, was worried about her little friend Flounder, who was nowhere to be found. The sea witch Ursula told Ariel that Flounder was on the surface world, trapped, and King Triton's trident was the only way to save him. Ariel was so worried, she stole the trident for Ursula, but it was all a trick - Ursula had Flounder all along. With the trident's power Ursula became a giant, but we stopped her and Ariel resolved to apologize to her father, the king. \r\n",
+        "Worlds": [
+          "Atlantica"
+        ],
+        "Characters": [
+          "Ariel",
+          "Flounder",
+          "Ursula",
+          "King Triton"
+        ]
+      },
+      {
+        "Name": "Neverland",
+        "Description": "Peter Pan stowed away on Captain Hook's ship to save the kidnapped Wendy. But no sooner had she been saved than Wendy told Peter she wanted to go home to London. Would Wendy grow up and forget about him and Neverland? Peter didn't like that one bit, and left in a huff. Meanwhile, we were just trying to get off the ship. Hook caught us on the deck, but Peter came back and bailed us out. In the end, Peter and Wendy said their farewells, but promised to meet again one day. \r\n",
+        "Worlds": [
+          "Neverland"
+        ],
+        "Characters": [
+          "Peter Pan",
+          "Captain Hook",
+          "Wendy"
+        ]
+      },
+      {
+        "Name": "Hollow Bastion",
+        "Description": "The Beast came to rescue Belle from Maleficent's clutches, but to his dismay, Belle acted coldly and would not go with him. We felt bad for him, so we went to see Belle. It turned out she was only pretending to be cruel, to keep her heart and the love within safe from Maleficent. But faced with a choice, Belle couldn't hide how she felt for the Beast, and Maleficent stole her heart. Together with the Beast, we took care of Maleficent and restored Belle's heart. \r\n",
+        "Worlds": [
+          "Hollow Bastion"
+        ],
+        "Characters": [
+          "Beast",
+          "Belle",
+          "Maleficent"
+        ]
+      },
+      {
+        "Name": "100 Acre Wood",
+        "Description": "Pooh seemed to have lost his friends, so Sora stopped to help him look. Maybe Sora saw something of himself in Pooh, since he's looking for friends too. \r\n",
+        "Worlds": [
+          "100 Acre Wood"
+        ],
+        "Characters": [
+          "Pooh",
+          "Sora"
+        ]
+      },
+      {
+        "Name": "Twilight Town",
+        "Description": "The card Vexen gave us led to a town none of us remembered. But Sora held fast to his promise to Naminé, and we pressed on. Speaking of which, Vexen seemed ready to say something about that, but Axel showed up, and... Well, we won't be seeing Vexen again. \r\n",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Vexen",
+          "Sora",
+          "Naminé",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Destiny Islands",
+        "Description": "The last card led to the place where Sora grew up. Sora wandered the islet that was once his playground, wading through his memories to find the girl he cared for. But when he found Naminé, she told him the bitter truth - nothing he remembered of her never happened. \r\n",
+        "Worlds": [
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Sora",
+          "Naminé"
+        ]
+      },
+      {
+        "Name": "Castle Oblivion",
+        "Description": "Well, we've made it to the top. and many of our memories are gone. Sora can't even recall the name of the person he cares for most. But we've made a promise. No distance can separate us, and we'll be friends even if we can't remember it to be so. Axel is out of the way. We just have to stop Marluxia. He ordered Naminé to wipe Sora's memory, but it doesn't matter. Sora knows that promises don't fade as easily as memories. \r\n",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Sora",
+          "Axel",
+          "Marluxia",
+          "Naminé"
+        ]
+      },
+      {
+        "Name": "Riku's Tale I",
+        "Description": "Bored with his secluded island life, Riku dreamt of seeing other worlds. \r\nHe got his wish when darkness devoured Destiny Islands and he was thrust into the outside world. \r\nWhile looking for his lost friend Kairi, he met Maleficent, and accepted her help. \r\nBut Maleficent had her eyes on Riku's strength and was working to make him her underling. She gave Riku the power of darkness, but as he used it, it gained power over him. \r\nThis is why Riku fought his best friend, Sora, and how his heart fell to Ansem, pursuer of darkness. \r\nBut Riku's heart was freed by Sora's light. Riku, Sora, and the king worked together to close the door to darkness, but Riku was trapped inside, in the realm of darkness. \r\nWill he see the realm of light again? \r\n",
+        "Worlds": [
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Riku",
+          "Kairi",
+          "Maleficent",
+          "Sora",
+          "Ansem Seeker of Darkness"
+        ]
+      },
+      {
+        "Name": "Riku's Tale II",
+        "Description": "Led by a mysterious voice, Riku made his way through the card-worlds, but met only dark beings within. \r\nRiku was told that because he rejected the other things in his life to claim darkness, his heart is now devoid of anything but the darkness he sought. \r\nUnable to accept this, Riku encountered Ansem, who tried yet again to conquer him. \r\nThe king intervened to save Riku, but Ansem had not let go of his heart. \r\nAnd so Riku must fight the darkness within. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Riku",
+          "Ansem Seeker of Darkness"
+        ]
+      },
+      {
+        "Name": "Riku's Tale III",
+        "Description": "Embattled with the darkness in his heart, Riku met someone who looked just like him, a replica crafted by Vexen, a member of the Organization. \r\nThe replica commanded darkness freely, and called Riku cowardly for shunning the dark. \r\nMeanwhile, agents of the Organization laid their rivalry bare. Sora and Riku seem to be the reason they control the castle - but why? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Riku",
+          "Riku Replica",
+          "Vexen",
+          "Sora"
+        ]
+      },
+      {
+        "Name": "Riku's Tale IV",
+        "Description": "Vexen took his replica of Riku and headed for the surface, but finally fell at Sora's hands. \r\nLexaeus confronted Riku, intending to bring him to submission using all force necessary. \r\nIt was then that the powerful darkness in Riku's heart awakened. The darkness defeated Lexaeus, then dragged Riku into the realm of darkness. \r\nThere, Ansem's shadow loomed large, but Riku was again saved by the king's light. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Vexen",
+          "Riku Replica",
+          "Riku",
+          "Sora",
+          "Lexaeus",
+          "Ansem Seeker of Darkness"
+        ]
+      },
+      {
+        "Name": "Riku's Tale V",
+        "Description": "One by one, members of the Organization fell at Riku and Sora's hands - even Marluxia, lord of the castle. \r\nZexion, hoping to avoid a similar fate, tried to use memories of Riku's island home against him. \r\nIgnored by his friends and even attacked by Sora - it seemed Riku would be washed away by the light, but Kairi's voice gave him courage. \r\nNo longer afraid of the darkness, Riku saw through the fake Sora and thwarted Zexion's trap. \r\n",
+        "Worlds": [
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Riku",
+          "Sora",
+          "Marluxia",
+          "Zexion",
+          "Kairi",
+          "Zexion"
+        ]
+      },
+      {
+        "Name": "Riku's Tale VI",
+        "Description": "By embracing his inner darkness, Riku gained a great power, but so did Ansem. \r\nGuided by the enigmatic DiZ, Riku made his way through Twilight Town, defeating his copy and locating Naminé. \r\nWhen he found her, he also found Sora and friends in a deep slumber, waiting to get their lost memories back. \r\nNamine told Riku he could seal Ansem away forever by giving up his memories, but Riku refused to forget his friends. \r\nRiku chose to fight with his own strength. With the king at his side, he now makes ready for the final battle with Ansem. \r\nWill his choice take him to the realm of light...or darkness? \r\n",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Riku",
+          "Ansem Seeker of Darkness",
+          "DiZ",
+          "Naminé",
+          "Sora"
+        ]
+      }
+    ],
+    "Kingdom Hearts II": [
+      {
+        "Name": "Twilight Town",
+        "Description": "Guided by a voice calling out to him, Sora awoke in a mysterious old mansion. He must have been sleeping there for a long time, but he couldn't remember a thing. \r\nStepping outside, he found the town strangely familiar, even though he had never been there before. \r\nSora was wandering around Twilight Town as puzzled as ever when he met Hayner, Pence, and Olette in the back alley. They said they'd seen someone at the station who was looking for Sora and his friends. From the sounds of things, it must be the King. \r\nSora and his friends hurried to the station, but suddenly found themselves surrounded by swarms of foes. The black-clad warrior who rescued them from their predicament was none other than the King himself! There was little time to celebrate their reunion. \"You gotta board the train and leave town!\" said the King, who gave Sora a pouch of munny before disappearing. But if the King had been locked away in the realm of darkness and was safe and sound, that meant Riku must be, too. Sora made up his mind to search for Riku: \"He and I can go back to the islands together. Kairi's there waiting for us!\" Donald and Goofy agreed to come along too, of course. \r\nIt was time for them to set out on their next journey. Just like the King said, they had to take a train out of town; they said goodbye to Hayner and the others, who had come to the station to see them off. \r\nIt was a tearful farewell, even though Sora had only just met the three friends... Still feeling strangely sad, they rode the train to the base of a lonely tower. \r\nDonald and Goofy knew the fellow at the tower entrance - Pete, who was never up to any good. The King had banished him to another dimension, but the sorceress Maleficent freed Pete, who served her now. He was gathering an army of Heartless and had his eye on making a Heartless out of the King's teacher, Master Yen Sid. \r\nThe tower was overflowing with Heartless. Master Yen Sid was waiting for Sora and his friends when they finally made their way to the top: \"Chosen wielder of the Keyblade! You are the key that will open the door to light.\" \r\nAccording to Yen Sid, the light was under a new threat from the enemies called \"Nobodies.\" These were the empty shells left behind when someone with a strong heart became a Heartless, yet they had purpose and will they could act on. A group called Organization XIII was controlling these Nobodies, although their goals are still unknown. The King is on a journey to discover what exactly Organization XIII is trying to accomplish, and if they find the King, they'll likely know where Riku is, too. \r\nSora decided to go out in search of the King, but needed to change out of his too-small outfit first. \r\nThe three good fairies gave Sora enchanted garments in preparation for his journey. \r\nAll that was left was to set sail in the Gummi ship Master Yen Sid had prepared. If they opened the gates as indicated by the beam of light streaming from the Keyblade, new paths should appear one after the other, connecting the worlds once more. Yes, everything is connected, even hearts that are far apart and out of reach. A new adventure awaits! \r\nThey arrived in Twilight Town again to find Vivi desperately searching for help. \r\nSora and friends ran to the sandlot and defeated the Nobodies who were threatening Seifer and his gang. Saïx, a member of Organization XIII, appeared to give the group a warning. It seems Axel had gone AWOL and was aiming to turn Sora into a Heartless. He then made a fleeting remark about Riku before vanishing into the darkness. Seifer tried to get Sora to accept a trophy proclaiming him the strongest guy in town. That's when a flustered Pence came by and asked, \"You know somebody named Kairi?\" \r\nKairi had come to Twilight Town in search of Sora, but Axel had kidnapped her. \"I gotta help Kairi!\" Sora exclaimed. Just then the crystal from Seifer's trophy began to glow, and a new road was opened. Surely this road led to Kairi and Riku - and so believing, Sora and his friends were on their way to find them. \r\nThe box found in the realm of darkness held some ice cream and photos of the old mansion in Twilight Town. \r\nSora and his friends came by the mansion searching for clues, only to find Hayner and his friends recovering after being attacked by Heartless. Olette said they thought the old mansion was some kind of gateway to an alternate Twilight Town. \"What do you mean, alternate?\" For some strange reason, Sora and friends found they had duplicates of the handmade pouch and crystals that had supposedly been one of a kind. This proved that there was a Twilight Town \"out there\" that closely resembled the one \"over here.\" \"That other town must be where whatever's missing from here went!\" said Pence. If Kairi had disappeared from this Twilight Town... could she be waiting in the other one? That's when the King appeared. He was on the trail of Ansem the Wise, who was heading for Organization XIII's stronghold. Though he was pretty vague about it, it sounded like Sora might be able to meet up with Riku if he tagged along, too. \r\nAccording to the King, the old mansion's computer was connected to the Twilight Town \"over there,\" where they should be able to find a way into the realm of darkness. \r\nThe computer was password-protected, but Sora and his friends remembered a likely hint: the ice cream that had been in the box with the photos of the mansion! \r\nTurns out the password was \"Sea-Salt Ice Cream.\" Entering the name of Ansem the Wise's favorite treat activated the device, which shot out a beam of light. The road to the other Twilight Town had been opened. \r\nSora and his friends arrived in the other Twilight Town and joined the King in his search for a way into the dark realm. \r\nThe entrance was an eerie gaping hole in the basement hall of the old mansion. \r\nSora and his friends headed into the darkness, but were beset by enemies on all sides. Axel was the one who got them out of their predicament. He apologized for kidnapping Kairi and put everything he had into wiping out the marauding foes. When Sora asked why, Axel muttered, \"I just wanted to see Roxas again. He made me feel like I had a heart,\" before fading away. Though it had cost him his life, Axel had used every last drop of his strength to open the final path Sora had to follow - the path that led to the kidnapped Kairi. \r\n",
+        "Worlds": [
+          "Twilight Town",
+          "Mysterious Tower",
+          "Dark World",
+          "Simulated Twilight Town"
+        ],
+        "Characters": [
+          "Sora",
+          "Hayner",
+          "Pence",
+          "Olette",
+          "Mickey",
+          "Riku",
+          "Kairi",
+          "Donald",
+          "Goofy",
+          "Pete",
+          "Yen Sid",
+          "Vivi",
+          "Seifer",
+          "Saïx",
+          "Axel",
+          "Ansem the Wise"
+        ]
+      },
+      {
+        "Name": "Hollow Bastion / Radiant Garden",
+        "Description": "Once again we came to Hollow Bastion. Things were different, but peace remained as far-off as ever. \r\nWhile wandering through a town still plagued by Heartless, we were reunited with Yuffie. \r\n\"Welcome to the Hollow Bastion Restoration Committee!\" We were led to Merlin's house and found Leon and all our old friends there. Apparently they had all only recently remembered us. We agreed to help rebuild the town, but some big obstacles remained. \r\nIn Villain's Vale the Heartless were swarming, as Nobodies darted about. Sora was ready to take the entire horde on, but just then Organization XIII appeared, mocking Sora with puzzling words. But with no time to reflect on this, the Keyblade shone, opening the way to another world. Remembering Yen Sid's words, we set off once again. \r\nGuided by Merlin, we returned to Hollow Bastion. And what did he have? The Book of Pooh! \r\nBut the Heartless tore out the pages, and Pooh's memories with them. To put things back in order, we had no choice but to find all the torn pages. \r\nThorns had appeared in Disney Castle. If we didn't hurry, it would fall to the darkness. \r\nWith Merlin's assistance, we found out a way to save Disney Castle. \r\nThanks to Sora and his friends, peace returned to the castle once more. \r\nThe Heartless and Nobodies in Hollow Bastion continued to grow in number. \r\nUpon returning to Merlin's house, we learned of a computer Ansem used in his research. \r\nWhat's more, we found out the King was with Leon! \r\nBut when we got to Ansem's study, there was no King and no computer. \r\nThe door to the computer room was concealed by a hidden switch. \r\nHardly computer savvy, Sora and Donald pounded on the computer's keys, until a strange device activated and sucked us all into a strange world. \r\nThe world we found ourselves in was the computer system itself! With the help of a security program named Tron, we got back to the outside world and began looking for the password to a dataspace inside the computer. Inside that dataspace was all of Ansem's research data. \r\nBack in the outside world, we used scribbles on a blueprint (\"Door to Darkness\") and the King's own hints to figure out the password: the names of the Seven Princesses that were used to open that very door. \r\nWe headed back into the computer world to keep our promise to Tron. \r\nWe unlocked the dataspace and returned to Hollow Bastion. Now we could get the data inside the DTD. \r\nBut nearly all the data was corrupted, and no entries on Riku or Kairi were to be found. While poking around, we dug up someone's portrait. The King said it was Ansem, but he wasn't the Ansem we knew! The Ansem we knew was just the Heartless of someone who was pretending to be Ansem, and the Nobody of that same guy was the leader of Organization XIII. Whew! The King said he was searching for the real Ansem, who would know who the fake Ansem was. With all that said, the room lurched with a loud noise. \r\nOutside, the Heartless and Nobodies were swarming into the town. \r\nLeon and our other friends confronted the enemy horde. Everyone charged fearlessly into the sea of foes pouring from the valley's great maw. \r\nAnd who showed his face at the end? Xemnas, leader of Organization XIII. His true identity was Xehanort, pupil of Ansem the Wise. Sora tried to ask about Riku and Kairi, but Xemnas told him to \"ask your King\" and disappeared into the darkness. Then Axel appeared, warning Sora that the Organization was using him. Lost for answers, Sora was surrounded by Heartless -- and then a ray of light appeared... Amidst much speculation, the battle drew to a tentative close. \r\nHollow Bastion was supposed to be at peace... \r\nBut something was wrong. \r\nThe MCP hijacked the computer system and sent Heartless after Heartless into the town. \r\nWe headed off to see Tron again. \r\nThe source of the crisis was the MCP, which hoped to seize power. After destroying the MCP, we received a present from Tron. It was a picture of the town in its early days. Seeing the old sights brought back our friends' memories. When the name Hollow Bastion came into use, they did not know - but the town's true name was \"Radiant Garden.\" \r\n",
+        "Worlds": [
+          "Hollow Bastion",
+          "Disney Castle",
+          "Radiant Garden"
+        ],
+        "Characters": [
+          "Yuffie",
+          "Merlin",
+          "Sora",
+          "Yen Sid",
+          "Pooh",
+          "Ansem the Wise",
+          "Donald",
+          "Riku",
+          "Kairi",
+          "Mickey",
+          "Apprentice Xehanort",
+          "Tron",
+          "Leon",
+          "Axel",
+          "MCP"
+        ]
+      },
+      {
+        "Name": "Beast's Castle",
+        "Description": "We stopped by the castle, but the Beast wasn't being very friendly. It seemed all he was interested in was his precious rose. \r\nWe asked Belle what was going on. \r\nBelle told us the Beast had been acting strange lately, and had locked up the servants in the dungeon. \r\nWe went to the west hall to rescue the servants and learn more. \r\nBut a wardrobe was blocking the door to the basement. \r\nWhen we tried to move the wardrobe, it talked! It was a human who had been magically transformed. When an enchantress turned the young master, a prince, into a beast because of his cruelty, she transformed all of his servants as well. \r\nWe defeated the marauding door and entered the dungeon, where we found the enchanted servants. \r\nHaving served the Beast for many years, they believed Heartless had caused the change in his demeanor. We stepped up to the plate at the first mention of Heartless. \r\nThe servants showed us to a secret passage. \r\nWe opened the hidden door and headed for the Beast's room. \r\nInside was Xaldin from Organization XIII, stoking the flames of the Beast's anger. Enraged, the Beast set upon us, but he recovered his senses with the servants' help. The Beast worried that he had done something terrible to Belle while his mind was not his own. \r\nWanting to talk to Belle, the Beast went in search of her, but she was nowhere to be found. \r\nJust then, her voice came from the ballroom, calling for help! \r\nWe fought the Heartless that had come after Belle. She was unharmed, although Xaldin escaped. The Beast apologized for his behavior and the two became closer than ever. Still, it may be some time before the spell is broken. \r\nPeace had returned to the Beast's castle - for now... \r\nWe visited the castle again. The Beast was restless and ill at ease. \r\nIt was a special day indeed, when he would enjoy an elegant dance with Belle. As the dance was beginning, however, Xaldin appeared and said he had taken that which the Beast held \"very dear.\" \r\nXaldin had taken the Beast's precious rose. Brokenhearted, the Beast tried to send Belle and us out of the castle. The rose was the key to breaking the spell cast on the Beast and his servants; it was their only hope. \r\nBut there was no time to mope. \"Don't throw away your last chance,\" encouraged Sora. The Beast found the strength to fight again. \r\nThe fearless Xaldin looked down upon the revitalized Beast. \"When Kingdom Hearts is ours, we can exist fully and completely.\" \r\nXaldin tried to kidnap Belle as a way of trapping the Beast, but she fought back. We seized that moment to defeat Xaldin. The rose was returned safely, and the Beast realized what was truly dear to him. Their dance began. The spell will surely be broken any day now... \r\n",
+        "Worlds": [
+          "Beast’s Castle"
+        ],
+        "Characters": [
+          "Beast",
+          "Belle",
+          "Wardrobe",
+          "Xaldin",
+          "Sora"
+        ]
+      },
+      {
+        "Name": "Olympus Coliseum",
+        "Description": "We arrived a short distance from the Coliseum and spotted Heartless closing in on a woman. \r\nIt turned out to be Hercules' friend Megara, who was on her way to ask Hades to give Herc some time off. We were worried for her safety, so we headed for the Underworld in her place. \r\nMeanwhile, Hades was trying to make the warrior Auron, who had been summoned from the Underworld, go up against Hercules. Auron refused. We arrived in time to help Auron fight Hades, but the curse of the Underworld sapped our strength. \r\nAfter a bitter struggle, we managed to contain Cerberus and escape the Underworld. At the same time, Hades was looking for a way to use Sora's Keyblade to unlock the Underworld's coliseum. \r\nWe met up with Hercules at the Coliseum. When we told him we wanted to \"teach Hades a thing or two,\" Herc offered to get us the Olympus Stone, which keeps its bearer safe from the power of the Underworld. \r\nWhile Hercules was away, we trained hard under Phil's watchful eye. \r\nWhen Herc returned, it was with a heavy heart. \r\nThe Olympus Stone had been stolen by someone dressed in black. Just then, Hades arrived to say he'd dragged Meg down into the Underworld. Herc wanted to go save her right away, but he had a match with the Hydra to worry about. \r\nPhil, too, was attacked by someone in black. We were the only ones who could unravel this mystery. \r\nStill suffering from the Underworld's curse, we made our way deeper into Hades' lair. \r\nWe found and defeated a member of Organization XIII and won back the Olympus Stone. \r\nThe curse could no longer touch us. Sora discovered a suspicious lock deep within the Underworld and unlocked it with the Keyblade. \r\nThat's where Meg was! But why did Hades look so happy as he left the scene? Hercules caught up to the party and distracted the enemy so we could take Meg back up to the surface. Meg, however, was worried about Herc. \r\nWe went back to lend a hand and take down Pete, who had been working for Hades. Hades left the party with these chilling words: \"Maybe you should go check on that Hydra...\" \r\nHercules was sure he'd defeated the Hydra, but it had revived somehow - and now the Coliseum was in ruins. Though we managed to get rid of the beast for good, Herc lost his will to fight. We were concerned, but all we could do was trust Meg to take good care of him. \r\nSomething huge and mysterious had appeared at the Underworld entrance. \r\nThe Underdrome that Zeus had locked up had apparently been unlocked and put back in business. \r\nAll of us, including Hercules, were forced to participate in the Hades Cup. \r\nIf we made it all the way to the finals, we would have to face Auron. Hercules was still down on himself, but kept moving up the ranks. \r\nThe final challengers were decided! But what was wrong with Auron? He was acting strange. \r\nHades, the big baddie we'd all been after, had been controlling Auron with a magical statue. \r\nIf we could find that statue, Auron's will would be his own again. We headed for the Underworld as Herc's clash with Auron commenced. \r\nWe finally found the statue, which contained remnants of Auron's difficult past. His heart was strengthened by the very suffering he had had to endure. \r\nWe recovered Auron's heart, and Herc's feelings for Meg restored his strength as well. We all worked together to defeat Hades once and for all, and our heroism was commemorated in a constellation that will shine brightly in the night sky forevermore. \r\n",
+        "Worlds": [
+          "Olympus Coliseum"
+        ],
+        "Characters": [
+          "Hercules",
+          "Meg",
+          "Hades",
+          "Auron",
+          "Cerberus",
+          "Sora",
+          "Phil",
+          "Hydra",
+          "Pete",
+          "Zeus"
+        ]
+      },
+      {
+        "Name": "Agrabah",
+        "Description": "We ran into Iago, former lackey of our old nemesis, Jafar. He swore he was a new bird, and so we took him along to the palace to see Aladdin. \r\nWe found Jasmine, who was surprised and upset to see Iago. She must've suspected he was up to no good. Walking into town, we heard a peddler shout \"Stop, thief!\" He was chasing after Abu and Aladdin. It looks like Abu had swiped a lamp from the peddler. Aladdin returned it to its rightful owner... but that was the lamp with Jafar in it! \r\nWe couldn't let things stand like that, so we tried to get the peddler to give us the lamp. However, his asking price was a treasure fit for a sultan. We couldn't just go looting the palace to buy a measly lamp, though. Iago pointed out that there might be an appropriate treasure in the Cave of Wonders. \r\nWe arrived at the Cave of Wonders, former home of the magic lamp, in search of treasure. \r\nWe disarmed the traps set within the Cave and moved further in. \r\nAt long last, a staircase appeared before us. \r\nWe opened the door. \r\nJust beyond it was a room filled with treasure! We chose a suitable prize and returned to Agrabah, but the peddler's shop was empty. \r\nThe peddler was being pursued by Pete, who wanted the magic lamp. \r\nPete conjured up some Heartless to nab the lamp, but they were no match for us. The lamp was sealed away, deep inside the palace. Maybe Iago really had gone straight after all... \r\nThings should have been back to normal in Agrabah... \r\nJafar had returned - the peddler let him out of the magic lamp! Iago said he was in the desert ruins. \r\nIago led us to an oasis. A sandstorm blocked our way, but Genie's magic helped us get through and continue toward the ruins. \r\nBut Jafar was nowhere to be found. In fact, Iago had tricked us into going to the ruins. It was a scheme of Jafar's to get them away from the palace! \r\nWe rushed back to the palace and put an end to Jafar's evil ambitions. Genie restored the battle-scarred town, and peace returned once more. \r\n",
+        "Worlds": [
+          "Agrabah"
+        ],
+        "Characters": [
+          "Iago",
+          "Jafar",
+          "Aladdin",
+          "Jasmine",
+          "Abu",
+          "The Peddler",
+          "Genie Jafar",
+          "Pete"
+        ]
+      },
+      {
+        "Name": "The Land of Dragons",
+        "Description": "We arrived in a bamboo grove and spotted what looked like a huge Heartless nearby. It turned out to be Mushu, who had journeyed with us before. Sora met Mulan, and learned that Mushu is a guardian dragon for her family. She was pretending to be a man so she could join the Imperial Army and face the Huns. \r\nMulan attempted to join the army under the name Ping, but she was turned away. Sora proposed a way for Ping to prove himself: he must complete the captain's assignments as a test of his worth. \r\nPing worked hard on his assignments and grew ever stronger. \r\nAlthough Ping was allowed to join the army, he still wasn't recognized as much of a soldier. That's when Mushu spotted Shan-Yu walking into a cave. Ping would be a hero if he could defeat the mighty Hun leader. \r\nWe helped Ping search the cave for Shan-Yu, but he was gone. We cleared out a swarm of Heartless who had appeared in the cave instead. \r\nWhen we returned to camp to tell the captain of Ping's heroic deed, we found both the village and the troops had been decimated by Shan-Yu's army. \r\nWe faced off against the enemy army at the mountain peak. Ping devised an ace strategy for defeating both Shan-Yu and his Heartless hordes, but she was revealed to be a woman and expelled from the army. \r\nMulan was ready to give up and go back home. Then she spotted Shan-Yu, who she thought had been defeated, heading for the Imperial City. \r\nThe Emperor was in real trouble! \r\nWe arrived just in time to defeat Shan-Yu and keep the Emperor safe. Mulan was praised by both the Emperor and the Captain as China's bravest woman. \r\nPeace reigned in the Land of Dragons... or did it? \r\nWe stopped by the village again and spotted someone dressed all in black. \r\nMulan joined us as we pursued the man to the mountain's peak. \r\nSora felt something as he came face to face with the man. Could it be Riku? He ran away before Sora could find out. A giant Heartless showed up instead, and it was headed for the Imperial City! \r\nWe ran toward the Imperial City, but everything was fine. A black-cloaked man had been spotted nearby. \r\nWe hurried to the palace. \r\nThe doors were shut tight, but Mulan's quick thinking got us inside, where we found the man in black... \r\n\"Riku?\" The man revealed his identity after Sora called out to him. It was Xigbar from Organization XIII. We held off the enemies Xigbar sent after us. \r\nWe went to make sure the Emperor and the Captain were safe. They both said they had met a black-cloaked man earlier - and it wasn't Xigbar. Was it Riku? Just then a huge tremor shook the palace. \r\nThe giant Heartless we saw on the summit had arrived. We all worked together to defeat it and protect the Imperial City. Mulan's brave feats were recognized as she was asked to serve alongside the Captain. Sora was confident that Riku was all right. \r\n",
+        "Worlds": [
+          "The Land of Dragons"
+        ],
+        "Characters": [
+          "Mushu",
+          "Sora",
+          "Mulan",
+          "Ping",
+          "Shan-Yu",
+          "The Emperor",
+          "Riku",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "100 Acre Wood",
+        "Description": "Sora was back in the Hundred Acre Wood once again. \r\nPooh was in front of his house, thinking hard about something or other. \r\nWhen Sora spoke with Pooh, a strange force blew him back out of the book, which was about to be stolen by Heartless. Sora got it back and went inside, only to find that Pooh's house was all that was left. \r\nSora was relieved to learn that Pooh was safe and sound. \r\nBut something was wrong. The pages the Heartless had torn out had affected Pooh's memory. He could hardly remember a thing. \r\nWhen Sora arrived with the torn page, a tree with a tiny door appeared. \r\nSora spotted Piglet being blown around by the wind. \r\nPiglet was finally rescued, but was so stunned that Pooh had forgotten him that he was carried off by the wind yet again. \r\nSora tried to help Piglet, who had to jump down from a high perch. This courageous act jogged Pooh's memory a little: he remembered Piglet, but still didn't recognize Sora. \r\nWhen Sora arrived with the torn page, a tree surrounded by a garden appeared. \r\nPooh didn't remember Eeyore, either. The donkey suspected Pooh's memory would improve with a full stomach, so he led him to a stash of honey. \r\nBut the honey didn't seem to help Pooh remember a thing. Rabbit, whose honey Pooh was eating, thought the bear might need even more of the sweet and gooey treat. \r\nThat didn't help, either. Watching Rabbit rack his brain, Pooh remembered both Rabbit and Eeyore, although Sora was still a stranger to him. \r\nWhen Sora arrived with the torn page, a tree full of packages appeared. \r\nWorried about Pooh, Kanga and Roo brought over some medicine for him, but Tigger bounced away with it. \r\nTigger suggested that Pooh's memory might return if everyone bounced together. \r\nBut Pooh's mind remained as blank as ever. Seeing the downhearted Tigger brought back Pooh's memories of the rest of his friends. Then, in a dream, Pooh seemed about to remember something else... \r\nWhen Sora arrived with the torn page, a spooky-looking cave appeared. \r\nIt looked like Pooh had gone into the cave all by himself. \r\nHe had been looking for someone who'd made him a very special promise. That turned out to be Sora. Pooh and Sora took each other's hand and headed back happy, surrounded by their friends. \r\nWhen Sora arrived with the torn page, a hill surrounded by a starry sky appeared. \r\nPooh had gotten his head stuck in a honey pot. Silly bear! \r\nPooh was looking for a way to keep Sora from leaving. \"What should I do so you won't go far away?\" he asked. Sora pointed to Pooh's heart and told him he'll always be right there. \r\n",
+        "Worlds": [
+          "100 Acre Wood"
+        ],
+        "Characters": [
+          "Sora",
+          "Pooh",
+          "Piglet",
+          "Eeyore",
+          "Rabbit"
+        ]
+      },
+      {
+        "Name": "Pride Lands",
+        "Description": "We arrived in a gorge, only to be threatened by hyenas. We had to practice moving around so Sora, Donald, and Goofy could get used to their new jungle \"attire.\" \r\nThen they met Nala, a lioness cornered by Heartless. She told us about the sad state of her homeland, and Sora agreed to help make things right. \r\nBut according to the prophet, Rafiki, whoever saved the Pride Lands would be king. Sora just wasn't qualified. \r\nAs we started to leave the Pride Lands, we were surrounded by King Scar and his hyena henchmen, but Nala helped us escape. When Sora asked her if there was anyone else who could be king, she muttered, \"If only Simba were here...\" \r\nSimba had fought alongside Sora a year earlier. Nala was thrilled to hear this news! \r\nScar had told Nala that Simba had died along with Mufasa, their last king. Just then, Rafiki appeared and pointed toward the oasis. \r\nThat's where Simba was. \r\nNala asked him to come back to the Pride Lands, but Simba declined, saying it was better to forget the past and live for today - \"hakuna matata.\" \r\nSimba had been blaming himself for his father's death when he saw a vision of his father, who gave him the courage to return to the Pride Lands. \r\nSimba challenged Scar to a fight, during which he learned the truth: Scar had killed his father Mufasa. Simba roared with anger! \r\nSimba defeated Scar and let out a roar of triumph from the Pride Rock overlook. The lionesses responded to his call as their new king ascended to his throne. \r\nSimba is king of the Pride Lands. \r\nWe met up with the hyenas on the savannah. They could only laugh at the very mention of Simba, the new king. Thinking this was strange, we set off to see Simba when Scar's ghost appeared. \r\nAlthough this may have been a sign that the kingdom was in decline, Simba seemed unwilling to take any action. His choice caused great unease among his subjects. \r\nBut Simba had a reason for his inability to act - he was tied up in thinking \"What would my father have done?\" We helped him realize that his own decisions were more important, and Simba regained his confidence as a leader. \r\nAccording to Rafiki, Scar's ghost was a manifestation of Simba's weakness. \r\nWe headed for the elephant graveyard to learn just what the mystic mandrill meant by these words. We asked the hyenas about Scar's ghost, who suddenly reappeared. Simba ran away. \r\nWe gave Simba some much-needed encouragement, and he in turn realized how his many friends were there for him. Simba defeated Scar's ghost at last. \r\nSimba rescued Nala from the hands of a giant Heartless, and peace reigned over the Pride Lands once again. \r\n",
+        "Worlds": [
+          "Pride Lands"
+        ],
+        "Characters": [
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Nala",
+          "Rafiki",
+          "Scar",
+          "Simba",
+          "Mufasa"
+        ]
+      },
+      {
+        "Name": "Atlantica",
+        "Description": "Sora and friends paid a visit to Atlantica, the kingdom under the sea, and got to see Ariel again. \r\nEveryone was gearing up for a big musical, but Ariel just couldn't stay focused on rehearsals. Sebastian asked Sora, Donald, and Goofy to perform, but even then Ariel's mind seemed to be somewhere else. \r\nIt turned out she was curious about the human world. Flounder suggested showing her a statue he found, thinking it would cheer her up, since Ariel loves things from the surface. \r\nAriel was spellbound by Flounder's gift. It turned out to be a statue of the man she'd had her eyes on. \r\nAriel was in love with a human prince. \r\nBut he lived in the human world, and Ariel would have to become a human to be with him. Ursula convinced her to trade her voice for a chance to do so. \r\nAriel and Eric had a lovely time together... but Ursula had other plans. Sora stopped her from using Ariel's voice to steal Eric away, but King Triton was transformed when trying to stand up for his daughter. Thankfully, Eric came to the rescue! He joined forces with Sora and his friends, and they defeated the sea witch. \r\nEric learned that Ariel is a mermaid, but that didn't change his feelings for her. They were meant to be together. Sebastian's musical was a big hit, with Sora, Donald, and Goofy playing major roles. Thus land and sea came together as one. \r\n",
+        "Worlds": [
+          "Atlantica"
+        ],
+        "Characters": [
+          "Sora",
+          "Ariel",
+          "Donald",
+          "Goofy",
+          "Flounder",
+          "Ursula",
+          "Prince Eric",
+          "King Triton",
+          "Sebastian"
+        ]
+      },
+      {
+        "Name": "Disney Castle",
+        "Description": "We stopped by Disney Castle, but something wasn't quite right. \r\nHeartless had appeared in the peaceful castle. We got the specifics from Queen Minnie, then split up to get to the bottom of things. \r\nSora and Queen Minnie headed for the audience chamber, mowing down Heartless along the way. \r\nThe reason for the crisis was revealed in the Hall of the Cornerstone, hidden beneath the throne. The Cornerstone of Light that kept the castle peaceful was being overgrown by thorns. This was Maleficent's doing! \r\nWe took Queen Minnie's advice and headed for Hollow Bastion. Merlin created a mysterious door for us. He said we could restore the castle by closing another door beyond this one. \r\nWe stepped into the world beyond the mysterious door, where we came face to face with a rather nostalgic black-and-white world. \r\nThe door was connected to the past. Maleficent and Pete wanted to change the past and make the castle their own, but we put an end to their devious plans, and the castle was peaceful once more. \r\n",
+        "Worlds": [
+          "Disney Castle",
+          "Hollow Bastion"
+        ],
+        "Characters": [
+          "Minnie",
+          "Sora",
+          "Maleficent",
+          "Merlin",
+          "Pete"
+        ]
+      },
+      {
+        "Name": "Timeless River",
+        "Description": "We made our way through Merlin's door and into a black-and-white world on a quest to save the castle. \r\nWe ran into Pete, but he was a completely different person. Maybe he wasn't the one who fooled with the castle. While searching for another mysterious door, we discovered a suspicious window. We tugged on the pull cord and saw what had happened in this world moments before we arrived. \r\nWe knocked on another window and saw Maleficent angrily scolding... someone. \r\nYet another window showed a door identical to the one Merlin had made. It must lead to the same black-and-white world. \r\nFinally we learned the truth: these mysterious doors were connected with the past - and that's exactly where we were. \r\nThe final window showed Pete not as he was when we first met him in this world, but as old Pete the villain. \r\nWe brought Pete's boat to a halt and kept the Cornerstone of Light safe from harm. \r\nSora's Keyblade sealed the door shut, so Pete wouldn't be able to come back to the past. The Cornerstone of Light was returned to its rightful home, banishing darkness from the castle for good. \r\n",
+        "Worlds": [
+          "Timeless River"
+        ],
+        "Characters": [
+          "Merlin",
+          "Pete",
+          "Maleficent"
+        ]
+      },
+      {
+        "Name": "Port Royal",
+        "Description": "When we arrived at Port Royal, there was some kind of disturbance down at the harbor. \r\nThere we found Pete and a crew of undead pirates. They said something about a medallion and headed into town. \r\nWe followed them just in time to see the governor's daughter Elizabeth get kidnapped by the pirates. We went after them along with a young man named Will. \r\nBut the pirates had already set sail. We managed to persuade Jack Sparrow, a lone pirate we met at the harbor, to take the Royal Navy's Interceptor and go after the pirate's ship, the Black Pearl. \r\nMeanwhile Barbossa was divulging his secret: because they stole certain Aztec medallions, he and his crew were put under a horrible curse. To break the curse, all the medallions must be restored to their chest and the blood repaid... \r\nIt turned out the Black Pearl was Jack's boat, which Barbossa had stolen. The reason Jack helped us was so he could get his boat back. With compass in hand, Jack guided the Interceptor across the seas... We arrived at Isla de la Muerta, the resting place for the cursed gold. We were told to watch the boat while Will and Jack set off to rescue Elizabeth, but when no one returned, we started to worry. Inside the island cave, the raucous pirates stood before all the medallions they had finally tracked down. Now the blood could be repaid, and the curse broken... \r\n...except that Elizabeth's blood had no effect at all. While the pirates bickered over their plight, Will escaped with Elizabeth. \r\nThe truth came to light on the way back to Port Royal. The key to breaking the curse wasn't Elizabeth's blood, but that of Will's father - the blood of a pirate. The blood to be repaid ran in Will's veins. The scheming Barbossa tracked down the Interceptor, kidnapping Will and rigging the ship with gunpowder. \r\nAll of us, including Jack, were in a real pinch, but together we overcame the crisis and set off to rescue Will. \r\nOur battle with Barbossa ended in victory, and thanks to Jack himself being cursed, no less! Will and Elizabeth were elated to be together again, and Jack set sail on the Pearl once more. \r\nThe town looked peaceful - but was it? \r\nOur return to Port Royal was once again met with some sort of fuss down at the harbor. \r\nThe curse was supposed to be lifted, but sure enough, undead pirates were the source of the ruckus. With Jack's help we put them in line, and then Elizabeth showed up. Will, thinking the medallions might be the source of the problem, set off for Isla de Muerta. \r\nWe went out to sea per Elizabeth's wishes, and found Will drifting on a shipwreck. He said Organization XIII took the medallions. \r\nJack wanted nothing to do with it, but then a member of the Organization showed up. He invoked \"parley\" from the Pirates' Code and made off with several of the gold medallions. In all the fuss we were attacked by a monster, and the Interceptor was sunk. \r\nWe washed up in a ship graveyard. For some reason, Jack alone had fallen under the monster's curse. \r\n\"They're making pirates look like proper gents,\" said Jack, as we set off after the Organization and the gold. The final battle was to be in Port Royal. \r\nWe defeated the monster and removed Jack's curse. The Organization got away, but Port Royal would be at peace once the Aztec gold was at the bottom of the sea. The legendary pirate Jack Sparrow set off on the Black Pearl for another adventure. \r\n",
+        "Worlds": [
+          "Port Royal"
+        ],
+        "Characters": [
+          "Pete",
+          "Elizabeth Swann",
+          "Will Turner",
+          "Jack Sparrow",
+          "Barbossa"
+        ]
+      },
+      {
+        "Name": "Halloween Town",
+        "Description": "We stopped by Halloween Town, puzzled by its new appearance. \r\nObsessed with Christmas, Jack had decorated the town in the hopes of handling the holiday himself this year. Unaware of Sally's feeling of dread, Jack set off to see Santa Claus. \r\nJust then, Heartless appeared in town. \"How is Santa supposed to relax with all this going on?\" Jack fretted, and asked us to be Santa's bodyguards. \r\nSanta lived in Christmas Town, where a colorful scene unfolded before us as we walked through the gates. \r\nBut there were Heartless here, too. We fought as one and made our way to Santa's house. \r\nWe were happy to see that Santa was safe and sound when a loud noise came from a back room. \r\nLock, Shock, and Barrel were spotted running out of the toy workshop. \r\nWe followed the trio's footsteps back to Halloween Town and found the three pranksters, who said Oogie had returned - just before running away. It was then that the party learned that Maleficent had brought Oogie back to life! Sally's intuition had been right on. The newly revived Oogie kidnapped Santa! \r\nWe hurried back to Christmas Town in pursuit of Oogie. \r\nOogie was trying to take over the toy workshop, but we defeated him handily. With that taken care of, Jack told Santa that he'd like to deliver the presents this time. Santa reminded Jack that he had his own special role to play, so Jack returned to his post as the Pumpkin King. \r\nChristmas was right around the corner. \r\nWe stopped by Halloween Town and found presents scattered all over the place. We returned them to Santa, who said they had been stolen. We were about to set out with Jack to find the culprit when we heard a noise come from the toy workshop. \r\nWe went into the workshop, where we found Lock, Shock, and Barrel, who said they were only looking for parts for the doctor's experiment. Sally arrived and said that Heartless had appeared in the town square. Could they have been responsible? \r\nThe Heartless didn't steal any presents. And now the doctor's experiment had been stolen, too. Who on earth could the thief be? We would have to lure them in somehow. We borrowed Santa's workshop to make decoy presents. \r\nWe used these presents to set a trap for the thief. \r\nThe plan was a great success! We caught the thief right away - and it turned out to be the doctor's experiment. It had been searching for a heart of its own in all the wrapped presents. As the snow fell, Jack received a precious gift from Sally, who shared her feelings with him. \r\n",
+        "Worlds": [
+          "Halloween Town",
+          "Christmas Town"
+        ],
+        "Characters": [
+          "Jack Skellington",
+          "Santa Claus",
+          "Oogie Boogie",
+          "Lock",
+          "Shock",
+          "Barrel",
+          "Sally"
+        ]
+      },
+      {
+        "Name": "Space Paranoids",
+        "Description": "When we fiddled with Ansem's computer, the MCP sucked us into the computer system. Caught by Commander Sark, we were sent to a pit cell, where we met Tron, a security program. \r\nWith Tron's help, we broke out of the cell and headed for the energy core in the canyon. \r\nWe needed it to restore power to the terminal leading back to the outside world. \r\nWith everything for our return journey in order, Tron asked us a favor. \r\nTo gain access to the dataspace known as the DTD, we needed to find Tron's user and ask him the password. And the User? None other than Ansem. \r\nBack in the outside world, we used scribbles on a blueprint (\"Door to Darkness\") and the King's own hints to figure out the password: the names of the Seven Princesses that were used to open that very door. \r\nTron tried the password right away, unlocking the dataspace, but the MCP sent a hostile program, putting the town itself in danger. \r\nWe hurried to the I/O tower, but the program remained undisrupted. \r\nBy destroying the hostile program, we were able to save the town. \r\nAfter the battle, Tron told us more about Ansem. Both Tron and the MCP were improved by Ansem, but why would the same person restore two opposing programs? The mysteries remained, but we figured we'd find the answer eventually. Having gained a special connection to Tron, we returned to the outside world. \r\nThings should have calmed down in the computer world... \r\nThe town was facing a crisis because of the MCP, so we headed back into the computer world. \r\nIt seemed the MCP was ready to wage all-out war against the Users. Reunited with Tron, we went to download a program designed to destroy the MCP for good. \r\nLeon was doing his part in the outside world, too. \r\nAt the I/O tower, we downloaded the program, powering up Tron and getting us access to a solar sailer in the process. \r\nThe final battle was at hand... We boarded the solar sailer and headed for the MCP's mesa. \r\nWe defeated Sark, and thwarted the MCP's plans to conquer all. We made a promise with Tron to meet again and parted ways. Tron used his control of the system to send us a gift: a view of the town in its early days. \r\n",
+        "Worlds": [
+          "Space Paranoids"
+        ],
+        "Characters": [
+          "Ansem the Wise",
+          "MCP",
+          "Sark",
+          "Tron",
+          "Mickey",
+          "Leon"
+        ]
+      },
+      {
+        "Name": "The World That Never Was",
+        "Description": "Axel used the last of his strength to help us escape the darkness. We then found ourselves in a town bathed in eerie moonlight. It seemed Kairi was being held in the dungeon of this town's castle. \r\nWe were on our way to the castle when a man in a black coat blocked our path. He was wielding a Keyblade and bragging about how he'd defeated Riku... but Sora was the only one who saw him. \"Tell me. Tell me why he picked you!\" he said,and after losing his battle with Sora, disappeared - looking somehow satisfied. \r\nOrganization XIII's Saïx was waiting for us in the pitch-black castle, and pointed at the moon in the night sky. But that was no moon - it was Kingdom Hearts, and it must have absorbed countless hearts to grow to that size. \"The Organization doesn't need you anymore,\" Saïx scoffed, and summoned masses of Heartless to do Sora in. \r\nThat's when we heard an old familiar voice: Kairi! But there was no time to celebrate, as the enemies kept coming in droves. Kairi stepped in to end the battle and rescue Sora. The one who had lent a hand to Kairi was the false Ansem: Xehanort, apprentice to Ansem the Wise. Sora was at a loss... and then there was the fact that Organization XIII's Xigbar called him Roxas. Defeating Xigbar, however, brought Sora no closer to the truth. \r\nSora finally pushed through the throngs of Heartless and made his way to Kairi. Watching over the two as they embraced in joyous reunion was Xehanort's Heartless - Riku. DiZ, who had observed the battle, told the King his true identity. DiZ was the real Ansem the Wise, and his apprentice Xehanort's Nobody was Xemnas, leader of Organization XIII. We had already defeated Xehanort's Heartless in battle once before, when he went by the name \"Ansem, Seeker of Darkness.\" After his defeat, however, he latched on to Riku's heart and began drawing him into the darkness. Though Riku didn't give in to the darkness, he needed to use its power. \"Riku chose that form so he could harness the power of darkness.\" Everyone agreed with Sora: \"You're still Riku, no matter what!\" If the battle was what was keeping the power of darkness around, it was time to finish that fight once and for all. \r\nAfter taking on Luxord and Saïx, we learned the truth about Roxas. \"Roxas... is your Nobody, Sora.\" Roxas had been taken in by Xemnas and made a member of Organization XIII, but, wanting to meet Sora, had seemingly abandoned the shady group. \"I wish I could've met him too,\" muttered Sora; Riku pointed to Sora's heart, indicating that Roxas was within. Meanwhile, the King and Ansem the Wise were using a device to try to stop Kingdom Hearts, but it began to malfunction. It seemed no one could contain the power of hearts within the massive Kingdom Hearts... Once Ansem realized the truth about the human heart, he decided to listen to what his own heart was telling him. He accepted his fate at the hands of the device, which had run amok and was going to explode. The explosion scattered the hearts that had amassed within Kingdom Hearts, raining them down on us all. When the \"heartshower\" had lifted, Riku had regained his true form. \r\nMaleficent and Pete opened the path to the final battle. They, too, had chosen to do what their hearts commanded, and no one could interfere with their resolve. We joined together to battle Xemnas. When we cornered him, he extracted the power of Kingdom Hearts and vanished. The worlds would be in great danger if we just let him escape! A door appeared in a brilliant flash of light, just waiting for us. \"The worlds opened this path for us. Looks like they're dependin' on us to make sure they stay safe.\" With strong hearts, we went on to fight our final battle, our dear friends by our side. \r\n",
+        "Worlds": [
+          "The World That Never Was"
+        ],
+        "Characters": [
+          "Axel",
+          "Kairi",
+          "Riku",
+          "Sora",
+          "Saïx",
+          "Apprentice Xehanort",
+          "Ansem the Wise",
+          "Xigbar",
+          "DiZ",
+          "Xemnas",
+          "Ansem Seeker of Darkness",
+          "Luxord",
+          "Roxas",
+          "Maleficent",
+          "Pete"
+        ]
+      }
+    ],
+    "Kingdom Hearts 358/2 Days": [
+      {
+        "Name": "Day 7: Entry 1",
+        "Description": "It's been a week since I got here. Saïx told me to keep a diary, but he said nobody would check it. What am I supposed to write about? \r\nToday they told us to go to the Round Room, where we met our new member, No. XIV. Was I like that when I first got here? I think I was. But I don't remember too well. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 8: Entry 2",
+        "Description": "Axel and I went to Twilight Town today. He taught me a lot. \r\nBefore we RTC'd (Returned To the Castle) we swung by the clock tower and had some sea-salt ice cream. Axel called it the \"icing on the cake\" after a successful mission. Well, except there was no cake---just the ice cream. \r\nI don't know what to write in this thing! \r\n",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 9: Entry 3",
+        "Description": "The past few days, the other members have been showing me how to fight and do mission stuff. They also told me more about the Organization, and about myself. \r\nI still don't really get what a \"heart\" is. But apparently, it's a vital piece of who I am---so I've decided to cooperate. If I collect enough hearts, I can complete Kingdom Hearts. Then I'll be whole. \r\n",
+        "Worlds": [],
+        "Characters": []
+      },
+      {
+        "Name": "Day 14: Entry 4",
+        "Description": "Me and Axel went on a mission to Twilight Town. Afterwards, we went and had ice cream again up on the clock tower. \r\nHe said friends do stuff like that. Or they laugh together. So does that mean me and him are friends? \r\n",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 15: Entry 5",
+        "Description": "The other members have been teaching me more about how to fight and stuff. It's going, I guess. \r\nEvery day after work, I've been meeting Axel at the clock tower to have sea-salt ice cream. It really is salty! But still sweet, too. How come it tastes so familiar? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 22: Entry 6",
+        "Description": "Axel is going to some place called Castle Oblivion. He told me because we're friends. \r\nHe had to go home early to get ready, and after he left I noticed the word WINNER on my ice cream stick. I wonder what I won... I'll ask him when I see him tomorrow. \r\n",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 23: Entry 7",
+        "Description": "Axel left before I woke up this morning. I never got to ask him about the ice cream stick. \r\nI was partnered up with No. XIV for today's mission. Xion wore a hood the whole time and wouldn't say a word to me. Come to think of it, I didn't have a whole lot to say, either. \r\nAfterwards I went and had ice cream by myself. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 24: Entry 8",
+        "Description": "I teamed up with No. XIV again today. We finally talked a little---Xion even said my name for the first time. \r\nAfterwards I had ice cream by myself again. The lady at the shop said you can trade the WINNER stick for an extra bar. But I can't eat more than one. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 25: Entry 9",
+        "Description": "Today was my third day with Xion. I've gotten to know a little more about her. That's right---she's a girl, with black hair, and she can use the Keyblade just like me! \r\nI took her out for ice cream afterwards, but I'm saving the WINNER stick. Axel deserves a reward when he gets back. Xion wants to have ice cream with us from now on. Maybe we'll be friends. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 26: How Long?",
+        "Description": "I only remember part of this day. I heard somebody sent to Castle Oblivion was terminated. Saïx said it may have been Axel. \r\nI tried to ask Xigbar about it on the day's mission, and he said nothing's left of Nobodies once we're gone, because we have no hearts to leave behind. I don't remember much after that. They say I collapsed and wouldn't wake up... \r\n",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Saïx",
+          "Axel",
+          "Xigbar"
+        ]
+      },
+      {
+        "Name": "Day 50: Xion's Seashells",
+        "Description": "I must have missed a lot. It's like I had the longest dream. I woke up to find a bunch of seashells by my pillow. I counted them---one for each day they said I was asleep. \r\nI was wondering who left them there, but then when I got to the clock tower, Xion gave me another one. I held it up to my ear, and I could hear the ocean... Why did it sound so familiar? \r\nThe stuff I dreamed about felt strangely familiar, too. I remember being in a white room with somebody the same age as me wearing red clothes...and then he sort of disappeared into the white. \r\nAnd there was a girl's voice---she said she knew I'd be \"snoozing.\" Why would she know that? The voice was a little like Xion's. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 51: Annihilated",
+        "Description": "It sounds like the worst has come to pass: the whole C.O. team, wiped from existence. It's hard to come to grips with the idea that Axel is gone. I feel...choked up? I don't know what you'd call it. I've never had this kind of sensation. \r\nI went up to the clock tower to have ice cream, but nobody else showed up. \r\n",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 52: Ice Cream Alone",
+        "Description": "I sit up on the clock tower, but no one comes. Not Axel, not even Xion. That weird lump in my throat won't go away. \r\nSomething else is bothering me. This is gonna sound crazy (good thing this is a private diary!) but these pictures keep flashing through my head. Not all the time, just sometimes... Ever since I collapsed. \r\nIt happens when I'm awake, too---on missions---so I don't think it's a dream. Where are the pictures coming from? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 71: Axel's Back",
+        "Description": "After work, Axel turned up. Just like that, out of nowhere. I didn't know what to say. I thought we'd lost him for good. \r\nWe went up to the clock tower and talked for a while. I told him about Xion. \r\nThe choked-up sensation has gone away. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 72: Ice Cream with Axel",
+        "Description": "Me and Axel went to Agrabah. He seems different now that he's back from C.O. Ice cream was just the two of us today. \r\nI wonder when me and Axel and Xion will all get to have ice cream together.  \r\n",
+        "Worlds": [
+          "Agrabah",
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 73: Where's Xion?",
+        "Description": "After I finished my mission I wanted all three of us to have ice cream, but I couldn't find Xion. It's been at least ten days since I've seen her. \r\nAxel said he'd ask Saïx what was going on. Speaking of Axel, I didn't see him at the clock tower today. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 74: The Three of Us",
+        "Description": "My job today was to help Axel find Xion. It turns out she had gone missing, but we managed to find her. \r\nWe finally got to all have ice cream together, which was nice, but Xion can't use her Keyblade anymore. Axel says friends help each other out, so I'm gonna go on missions with her until she remembers how to work the Keyblade herself. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 75: Inseparable",
+        "Description": "Me and Xion are working together now. The Genie we met in Agrabah said he and his friend Al are \"inseparable.\" Axel told us best friends can be inseparable even if they're not always together, but it sounded like he wasn't too sure about it himself. \r\nI thought Axel knew everything. Oh well... \r\nThat reminds me, those weird pictures flashed through my head again while I was in Agrabah. The guy in red I wrote about before... Has he been to Agrabah or something? \r\n",
+        "Worlds": [
+          "Agrabah"
+        ],
+        "Characters": [
+          "Xion",
+          "Genie",
+          "Aladdin",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 94: Kingdom Hearts",
+        "Description": "Xemnas summoned us. Nothing he says ever makes sense to me. He showed us Kingdom Hearts, a big heart-shaped moon floating up there in the night sky, and said the human heart will never have power over us. Great...I guess? So why are we trying to get hearts again? \r\nAxel said I'll understand better once I have a heart, but I'm not so sure... \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xemnas",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 95: My Past",
+        "Description": "I went to Agrabah today with Xion. We make a pretty good team now. \r\nAfterwards me and her and Axel talked about us and the other Nobodies. The ones who make it into the Organization are powerful enough to keep their memories... But me and Xion can't remember our pasts. What was I like? \r\n",
+        "Worlds": [
+          "Agrabah"
+        ],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 96: Out of Trouble",
+        "Description": "Today's mission was with Xion, in Beast's Castle. I tried loaning her my Keyblade, and she had no problem using it. That meant I had to fight without it, but we got the job done. \r\nAfterwards Xion remembered how to summon her own Keyblade, so I guess we're out of trouble. When we were done, we all had ice cream together. \r\n",
+        "Worlds": [
+          "Beast’s Castle"
+        ],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 97: Our Place",
+        "Description": "Every day, after work, the three of us have been going to our place on top of the clock tower to have ice cream. We don't talk about much, but I wouldn't miss these conversations for the world. I wonder if Axel and Xion feel the same way... \r\nDo the other Organization members have their own routines? It's hard to picture. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 117: Special Nobodies",
+        "Description": "Today it was me and Xigbar. Axel and Xion went out on their own mission. \r\nXigbar told me that Xion and me are \"exceptional\"---you know, like, special Nobodies. Because we can use the Keyblade? \r\nWork dragged on late, so I didn't make it up to the clock tower. I wonder if Xion and Axel made it. \r\nThose pictures started flashing through my head again on the mission. The boy in red... What's it all about? Maybe when Xigbar called me \"special\" he meant \"crazy\"... \r\nSeriously, though, is Xion experiencing the same thing? It feels weird to ask. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xigbar",
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 118: Vacation",
+        "Description": "Today was my first vacation ever. I didn't know what to do with it. Axel said to do what I like, but all I like is having ice cream with my friends---so that's what I ended up doing. \r\nAxel leaves tomorrow for some kind of mission. Which reminds me---I still haven't given him the WINNER stick yet. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 119: Something to Protect",
+        "Description": "Axel has been gone forever. It's been just me and Xion at the clock tower. \r\nWhile me and Xaldin explored Beast's Castle, we found something he wants to protect...  Xaldin says that's a weakness, but I'm not so sure. What does it mean to care about something that much? I don't, so it's hard to wrap my head around the whole idea. \r\n",
+        "Worlds": [
+          "Beast’s Castle"
+        ],
+        "Characters": [
+          "Axel",
+          "Xion",
+          "Xaldin"
+        ]
+      },
+      {
+        "Name": "Day 149: WINNER",
+        "Description": "Today's mission took me to a new world. It was a weird place. I was up on the clock tower afterwards when Axel turned up after being away forever. He said he finished that long mission. But this time Xion didn't show. \r\nI was gonna give Axel that WINNER stick, but I should wait until I get another one. It wouldn't be fair to leave Xion out. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 150: Too Precious to Lose",
+        "Description": "Xion didn't come to the clock tower again today. She and Saïx had some kind of argument. \r\nAxel and I talked for a while about the things we can't bear to lose. Axel thinks that for Nobodies, it's our pasts, because that's all we have to remember the pain of losing something. I don't remember my past, but the idea of losing the present---Axel or Xion---scares me. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Saïx",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 151: What Makes Us Different",
+        "Description": "I ran into Xion in Twilight Town. I guess she messed up a mission pretty bad the other day, and it's been bugging her. \r\nWe went up to the clock tower afterwards. She said me and her are different---which is pretty obvious if you look at us, but I don't think that's what she meant. A lot seems to be on her mind, and it's not the same as what's on mine. \r\n",
+        "Worlds": [
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 152: I Don't Get It",
+        "Description": "I think Xion might be mad at me, but I don't know why. Axel says girls are complicated. You can't press the wrong buttons. Like I'm supposed to know what the right ones are. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 153: No Taste for It",
+        "Description": "It's hard spending time with Xion, and Axel seems busy, too. I've been having ice cream alone, but it's just not the same. All I taste is the salt, and my hands get all sticky. It's like I'm going through the motions of eating it just so I can throw the stick out and get on with life. I must've had about a hundred of these things, and I still haven't found another WINNER. \r\nI never did find a way to ask Xion about the pictures that go through my head. I don't really know what to do about anything right now. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 171: What's Love?",
+        "Description": "On my mission at Beast's Castle, Xaldin told me about \"love\" and the special power it has over people. \r\nI tried to ask Axel about it, but his explanation didn't make any sense to me. Every time I ask him about this kind of thing, he tells me I need a heart to understand. It's like he's dodging the questions. \r\n",
+        "Worlds": [
+          "Beast’s Castle"
+        ],
+        "Characters": [
+          "Xaldin",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 172: Xion Collapsed",
+        "Description": "Xion failed her mission and now she's in a deep sleep. I thought they were lying to me when they told me, but I went to see her, and she really was just asleep. I left a seashell by her pillow, just like she did for me. \r\nSaïx hates her. I don't know why. Maybe he knows more about her than the rest of us do. \r\nThose pictures flashed through my mind again on today's mission (the same boy in red as usual). I guess he's been to Wonderland. I'm still trying to figure out what it is I'm seeing. \r\n",
+        "Worlds": [
+          "Wonderland"
+        ],
+        "Characters": [
+          "Xion",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 173: Picking Up the Slack",
+        "Description": "I've decided to work harder while Xion is asleep to pick up some of the slack. Axel said he asked Saïx about her, but no dice. He did say that Saïx was having second thoughts about calling her broken, though. \r\nI just hope we get all this drama ironed out soon, so she doesn't have to wake up to it. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 174: Seashells for Her",
+        "Description": "Xion hasn't woken up, but I'm pulling double duty to make up for it. \r\nMe and Axel talk about the dumbest stuff now. Afterwards we head back to the castle, and I leave a seashell by Xion's pillow. It would please me to see her smile when she finds them. \r\nThose pictures flashed through my head again in Never Land. And when I flew, it felt like I'd done it before. Has the guy in red flown before, is that it? \r\n",
+        "Worlds": [
+          "Neverland"
+        ],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 193: Best Friends",
+        "Description": "Xion's awake now. The three of us were gonna go get some ice cream after our mission, but she passed out again, so we had to take her home. \r\nI talked with Axel in her room until she woke up. He said the three of us were best friends---inseparable. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 194: Even Far Apart",
+        "Description": "We've all started going back to our usual spot after work. Sometimes Axel and Xion are there waiting for me, other times I get there first. \r\nThings have gotten busier for us, so we can't all make it every day. But even if they're not there, at least now it seems like we're together again. I wonder if it seems that way to them, too. \r\nI forgot to ask Xion about the pictures in my head again... It was the same kid in red. Who is he? What does he have to do with me? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 224: What's Gotten Into Her?",
+        "Description": "I think something's wrong with Xion. Is she not feeling well again? \r\nAxel said we should all go to the beach next time we get a vacation. I think he senses something is wrong, too. That's why he suggested the beach---to make her feel better. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 225: Something Must Be Wrong",
+        "Description": "Okay, now I'm really worried about Xion. I told Axel, but all he said was that she'll get through it. \r\nHe knows something is wrong. I bet he's just telling me that to put my mind at ease. Well, it's not working. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 255: Now Axel's Acting Weird",
+        "Description": "I had ice cream with Axel after work today, but Xion didn't show. \r\nAxel said she got sent on an important mission, but he wouldn't look at me when he said it. I've been wondering what's wrong with Xion all this time, but now that I stop and think about it, Axel's not himself either. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          " Xion"
+        ]
+      },
+      {
+        "Name": "Day 256: Xion's Gone Missing",
+        "Description": "Xion has gone missing, but nobody said anything about her being hurt, so that's good...I guess. \r\nDid she run off? That doesn't make any sense. Xemnas told us not to go after her. The way Saïx explained it, it's almost like they don't think she's worth getting back. \r\nWhat is going on? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Xemnas",
+          "Saïx"
+        ]
+      },
+      {
+        "Name": "Day 257: He's Avoiding Me",
+        "Description": "I want to talk to Axel about Xion, but I can't seem to get ten seconds with the guy. \r\nWhat am I supposed to do? I can't believe he's avoiding me. We're supposed to be friends. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 276: By the Sea",
+        "Description": "I don't remember much about today's mission---just that it was by the beach. Or was it? The mission didn't even feel real. \r\nMe and Axel agreed to start looking for Xion tomorrow. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 277: No Sign of Her",
+        "Description": "I've looked everywhere for Xion, in every world, but there's just no sign of her. \r\nWhere is she? Why did she leave the Organization? I don't get it, any of it. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 296: Castle Oblivion",
+        "Description": "There's one place we haven't checked yet to see if Xion's there---Castle Oblivion. When I brought it up with Axel, he surprised me by saying that C.O. is where Xion comes from. I guess he just found out himself. \r\nIs that where she is? \r\n",
+        "Worlds": [
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 297: Who is That Guy?",
+        "Description": "I went to Castle Oblivion to find Xion, but I don't remember anything about it. Axel said I collapsed as soon as I got there. \r\nI woke up in Twilight Town, and incredibly enough, Xion was there. But she wasn't alone---there was this guy with her, and he was wearing the Organization's cloak. I could tell by his build that he wasn't one of us, though. Who is he? \r\n",
+        "Worlds": [
+          "Castle Oblivion",
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 298: Some Other Way",
+        "Description": "I don't believe it. Axel attacked Xion. There had to have been some other way. \r\nI know she's acting weird, but I hardly recognize Axel these days either. What's going through their heads? I feel so left out. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 299: Sora?",
+        "Description": "Xemnas told me that \"Sora\" is the connection between me and Xion. But just who exactly is Sora? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xemnas",
+          "Sora",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 300: No Words",
+        "Description": "For the first time in a while, the three of us met up on the clock tower. None of us really knew what to say. \r\nWe used to talk each other's ears off, but I guess those days are gone. \r\nSo much has happened lately that I've been forgetting to write about those pictures in my head. Now it happens even when I'm not on missions. More often, too. \r\nThey even show up in my dreams. Xion told me she has dreams, too. Is all of this connected? \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 301: My Dream",
+        "Description": "I dream all the time now, but I don't sleep well. I wake up tired every day. I guess that makes them nightmares, not dreams. \r\nXion and Axel don't come to the clock tower anymore. I thought maybe if I got everything off my chest with them, I might stop having the nightmares...but so much for testing that theory. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 321: No Energy Left",
+        "Description": "I feel so tired---almost disconnected from my body. The dreams have gotten stranger. Now I wake up with water on my cheeks. I don't know how it got there, but I think there's something really wrong with me. \r\nToday I was teamed up with Xion. She seems to be in a lot better shape than me. We had ice cream together, something we hadn't done in a while. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 322: Another Dream",
+        "Description": "I had another dream. My head feels heavy. \r\nI want to have ice cream with Xion and Axel again. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 352: Us and the Sunset",
+        "Description": "Me and Xion and Axel had ice cream. The sunset was beautiful. \r\nI don't have to write anything else down, because I'll never forget this day. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Xion",
+          "Axel"
+        ]
+      },
+      {
+        "Name": "Day 353: Broken Trust",
+        "Description": "Axel let Xion leave the Organization. Like he wanted her to go. \r\nShe's a puppet? A mirror that reflects me? He's talking nonsense. I can't trust him anymore. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion"
+        ]
+      },
+      {
+        "Name": "Day 354: Who Am I?",
+        "Description": "I don't understand the Organization. I don't understand Axel... I understand myself least of all. Why do I keep coming back to the castle? \r\nMe and Xion are special, connected by \"Sora.\" If she's a puppet, maybe I am, too. \r\nI don't know what I am. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Axel",
+          "Xion",
+          "Sora"
+        ]
+      },
+      {
+        "Name": "Day 355: I Am",
+        "Description": "I have to know who I am... \r\nI am DONE WITH THIS \r\n",
+        "Worlds": [],
+        "Characters": []
+      },
+      {
+        "Name": "Day 357: Three Again?",
+        "Description": "I'm going to set Kingdom Hearts free and find my way to Sora. I'm going to get Xion back. The three of us will have ice cream together again--- I know it. \r\n",
+        "Worlds": [],
+        "Characters": [
+          "Sora",
+          "Xion"
+        ]
+      }
+    ],
+    "Kingdom Hearts Dream Drop Distance": [
+      {
+        "Name": "Traverse Town (S)",
+        "Description": "Sora would require great power to rescue the individuals King Mickey mentioned in his letter and wake them from their sleep, so he agreed to take the Mark of Mastery examination. \r\nHe and Riku returned to the Destiny Islands shortly before their fall to darkness. After their raft was wrecked by a phantom Ursula, they unknowingly unlocked the first \"Sleeping Keyhole.\" \r\n*** \r\nSora was separated from Riku and wound up in his first \"Sleeping World,\" Traverse Town, where he met a boy named Neku. \r\nWhile helping Neku look for his \"Game\" partner, Sora was confronted by a figure in a black coat. Before he could find out who the stranger was, however, he was seized by the overwhelming urge to sleep. \r\nWhen Sora opened his eyes, neither Neku nor the figure in the black coat were anywhere to be seen. \r\nInstead of Neku, he found a girl named Rhyme. Rhyme had lost her memory, but Sora suspected she might be Neku's lost partner. Together, they continued the search for Neku. \r\nNo sooner had Neku explained that Rhyme wasn't his partner than the girl vanished. Then, the figure in the black coat appeared just long enough to summon a powerful Nightmare. \r\nSora defeated the Nightmare, and suddenly a strange projection appeared out of thin air. In it, Sora saw Riku. A boy named Joshua then appeared before Sora along with Rhyme. Joshua explained that Sora was looking at another version, or \"imagining,\" of Traverse Town, and that there was no way for him to get there. \r\nNeku, Shiki, Beat, and Rhyme vanished into the projection. This dual Traverse Town, Joshua explained, had appeared because it was needed; Neku and his friends were about to be wiped from existence, but in this world, the pieces of their dreams and the connections they formed had kept them in the Game--- literally. \"Who are you?\" Sora and Riku asked Joshua. \r\n\"Let's say...a friend,\" was all the mysterious boy would say before flying off into the night sky. \r\n",
+        "Worlds": [
+          "Traverse Town",
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Sora",
+          "Mickey",
+          "Riku",
+          "Ursula",
+          "Neku",
+          "Rhyme",
+          "Joshua",
+          "Shiki",
+          "Beat"
+        ]
+      },
+      {
+        "Name": "La Cité des Cloches (S)",
+        "Description": "While investigating an outbreak of \"monsters\" in the square, Sora met Quasimodo. Nightmares had Quasimodo surrounded, but he was enjoying being the King of Fools and was reluctant to leave. A gypsy named Esmeralda helped him get to safety in the cathedral. \r\nInside Notre Dame, Quasimodo returned the favor and helped Esmeralda escape the soldiers surrounding the cathedral by carrying her safely to the streets below. Sora learned that Judge Frollo had forbidden Quasimodo from ever leaving the cathedral, and grew concerned. He decided to seek out Quasimodo and talk to him about his predicament. \r\nWhile searching for Quasimodo, Sora ran into Captain Phoebus. Phoebus was beginning to harbor doubts about Frollo's methods, and had come to warn Esmeralda and the other gypsies that they were in danger. Upon hearing this, Quasimodo produced a pendant he had received from Esmeralda. The pendant would reveal the location of the gypsies' safe haven, known as the \"Court of Miracles.\" \r\nThey found Esmeralda in the Court of Miracles, but Judge Frollo appeared, arrested Esmeralda, and knocked Sora out cold. \r\nSora awoke to find the city ablaze. Esmeralda had been sentenced to burn, but Quasimodo rescued her while Sora confronted a giant Nightmare. \r\nBy the time the Nightmare fell, Quasimodo had already settled matters with Judge Frollo. He had learned not to let his heart be a prison, and was ready to brave the outside world. \r\nAlone, Sora found himself face-to-face with a grey-haired youth. The young man stayed only long enough to say: \"You are the one who has made your heart a prison...even if you are not the prisoner.\" Confused by these words, Sora unlocked the next Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "La Cité des Cloches"
+        ],
+        "Characters": [
+          "Sora",
+          "Quasimodo",
+          "Esmeralda",
+          "Frollo",
+          "Phoebus"
+        ]
+      },
+      {
+        "Name": "Prankster's Paradise (S)",
+        "Description": "Sora bumped into Jiminy at an amusement park after dark. Jiminy said Pinocchio had gone missing somewhere in the park, and boys who played and goofed off there for too long got turned into donkeys. Sora agreed to help Jiminy find Pinocchio before that could happen. \r\nBut by the time they rescued Pinocchio from some Nightmares, he had sprouted donkey ears and a tail. Jiminy and Pinocchio escaped while Sora faced off against more Nightmares. \r\nAfter eliminating the threat, Sora came face-to-face with the grey-haired youth and Xemnas, who accused Sora of being the same as the Nobodies. Once again, they vanished without further explanation. \r\nThe Blue Fairy found Sora and told him that Pinocchio and Jiminy had gone to the bottom of the sea to rescue Geppetto, who had been swallowed by Monstro the whale. \r\nSora got there just in time to witness Pinocchio and Jiminy getting gobbled up too. Then a giant Nightmare appeared and froze Monstro solid. \r\nSora defeated the Nightmare, and having been freed of the ice, Monstro let out a mighty sneeze. \r\nRemembering that this world would soon be swallowed by darkness, Sora unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "Prankster's Paradise"
+        ],
+        "Characters": [
+          "Sora",
+          "Jiminy",
+          "Pinocchio",
+          "Xemnas",
+          "Blue Fairy",
+          "Monstro"
+        ]
+      },
+      {
+        "Name": "The Grid (S)",
+        "Description": "Sora was excited to be back in a familiar world, but that excitement was cut short when the Black Guards tried to arrest him. Sora escaped but was ambushed by Rinzler, who mysteriously vanished without a fight. \r\nFlynn, Sam, and Quorra watched all this unfold; intrigued, Quorra approached Sora. As it turned out, Rinzler was really Sora's friend Tron, whose memory had been manipulated. Sora wanted to set Tron's memory straight, so Quorra agreed to take him to CLU, who might still possess Tron's original source code. \r\nWhile searching for the source code on the Throneship, Sora and Quorra were attacked by Rinzler. Quorra was overwhelmed, but before Sora could intervene, the Throneship hatch closed and she was left behind. \r\nThe grey-haired youth appeared along with Xemnas, who posed a difficult question: how could Sora be sure his memories and feelings were his to begin with? Then the grey-haired youth implied that this \"dream world\" was not a dream at all... Both vanished after saying their piece. \r\nSora was taken to the stadium, where he came face-to-face with CLU and Rinzler. CLU offered to restore Tron's memory in exchange for the Keyblade, but Sora had to refuse, leading to a battle with Rinzler. Sora did not want to fight his friend, but when Quorra arrived, safe and sound, and told him to use the Keyblade, he realized he might still be able to bring Tron to his senses. \r\nWith Rinzler's defeat, Sora became distracted. Seeing his chance, CLU hurled his disc---but Rinzler pushed Sora out of harm's way right in the nick of time. The disc caused Rinzler's footing to derez, and while he tried to grab for Sora's hand, he plunged into the abyss. \r\nRealizing some part of his friend inside Rinzler had reached for his hand, Sora struck upon the answer to Xemnas's question. We know we are real because our hearts lead us back to the truth. He unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "The Grid"
+        ],
+        "Characters": [
+          "Sora",
+          "Black Guard(s)",
+          "Rinzler",
+          "Kevin Flynn",
+          "Sam Flynn",
+          "Quorra",
+          "Tron",
+          "CLU",
+          "Xemnas"
+        ]
+      },
+      {
+        "Name": "Traverse Town (Revisited) (S)",
+        "Description": "Back in Traverse Town, Sora bumped into a familiar face. Joshua told him that Neku had found his partner, but they still hadn't made it back to their own world. To get there, they would need help completing a mission. Sora raced to the rescue. \r\nHe found Neku and Shiki surrounded by Nightmares, and convinced them to let him help. But it was no use; once defeated, the Nightmares' leader simply escaped to the other version of Traverse Town. \r\nJoshua returned and suggested they work with Riku and their friends in the other Traverse Town to trap the Nightmare and take it down. \r\nSora and his friends were ready when the Nightmare resurfaced in their side of the town, but this time it escaped to another world entirely---somewhere not even Joshua could reach. Discouraged, Neku and Shiki realized they had failed the mission, but Sora cheered them up by offering to take over where they had left off. \r\nAfter they all pledged to meet again one day, Sora unlocked the Sleeping Keyhole. \r\n*** \r\nMeanwhile, in another world... Axel was dreaming of his best friend, Roxas, and a promise he had made. \r\n\"Lea\" woke up and looked at himself in the mirror. He was a real person again! There were only four others there in the Radiant Garden study: Dilan, Aeleus, Even, and Ienzo. Lea wondered what had become of Braig and Isa. \r\nBut a thorough search of the castle environs turned up no other returnees. Aeleus assured him no one was outside the castle, and Ienzo rejected the idea of the missing members having reappeared in other worlds. Dilan and Even remained in unstable condition. Lea realized what he would have to do. \r\n*** \r\nElsewhere, King Mickey and friends could not help but wonder how Sora and Riku were doing with their exam. Just then, a raven flew into the tower. It was carrying Queen Minnie's tiara and a letter: a message from Maleficent. She had kidnapped Minnie, and if Mickey ever wanted to see her again, he, Donald, and Goofy would have to return to Disney Castle. \r\nKing Mickey and the others found themselves face-to-face with Maleficent and Pete, who had Minnie. Maleficent demanded the \"data\" for all worlds. \r\nUnable to strike, King Mickey braced himself for the end. But before Maleficent's magic could hit, a blazing chakram knocked it out of the air. In the commotion, Minnie used some magic of her own to free herself from Pete. Having lost the upper hand, Maleficent and Pete made a hasty retreat. \r\nKing Mickey turned to thank \"Axel,\" but the chakram's red-haired owner corrected him. \"My name is Lea,\" he said. \"Got it memorized?\" \r\n",
+        "Worlds": [
+          "Traverse Town",
+          "Radiant Garden",
+          "Disney Castle"
+        ],
+        "Characters": [
+          "Sora",
+          "Joshua",
+          "Neku",
+          "Riku",
+          "Shiki",
+          "Axel",
+          "Roxas",
+          "Lea",
+          "Dilan",
+          "Aeleus",
+          "Even",
+          "Ienzo",
+          "Braig",
+          "Isa",
+          "Mickey",
+          "Diablo",
+          "Minnie",
+          "Maleficent",
+          "Donald",
+          "Goofy",
+          "Pete"
+        ]
+      },
+      {
+        "Name": "Country of the Musketeers (S)",
+        "Description": "Much to his surprise, Sora found himself making the acquaintance of Mickey back when he was still in training. In this world, Mickey, Donald, and Goofy were still getting the hang of being \"Royal Musketeers.\" \r\nTheir current mission was to keep the princess's carriage safe. Sora offered to help, but along the way, a giant Nightmare attacked and the princess was kidnapped by the Beagle Boys. Mickey, Donald, Goofy, and Sora dashed to the rescue and saved the princess. \r\nThat night, however, Donald abandoned his post. Now that he knew their own captain had been after the princess all along, he was just too chicken to keep being a Musketeer, no matter what Mickey said. \r\nBut when Captain Pete showed up and nabbed Mickey, Donald had a change of heart. He, Sora, and Goofy set off to rescue their friend, and reminded each other of what made them true Musketeers. With Mickey rescued, it was time to go after Pete. \r\nMickey and friends confronted their captain, oblivious to the trap they had walked right into. A huge crate came plummeting down from above; Sora would never reach them in time! But before our heroes could be squashed, the crate mysteriously vanished. Sora knew it was Riku that had saved them. \r\nMickey and the others took care of the princess while Sora dealt with Pete. \r\nWith the villain out of the way, Mickey and the others were finally dubbed real, honest-to-goodness Royal Musketeers. Together they shouted the famous words: \"All for one, and one for all!\" \r\nKnowing he would always be connected to Riku, Sora unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "Country of the Musketeers"
+        ],
+        "Characters": [
+          "Sora",
+          "Mickey",
+          "Donald",
+          "Goofy",
+          "Minnie",
+          "Pete",
+          "Riku"
+        ]
+      },
+      {
+        "Name": "Symphony of Sorcery (S)",
+        "Description": "Sora bumped into Mickey again, this time trapped by the darkness emanating from a musical score. To banish the darkness, Mickey explained, he would need a \"Sound Idea.\" Sora jumped into the musical score to look for this mysterious power. \r\nDuring his search, Sora once again encountered the grey-haired youth. \"Sleep on and we will meet again,\" said the youth, before disappearing without another word. \r\nAfter obtaining a Sound Idea, Sora used it to try to conduct the music. But his Sound Idea alone wasn't enough to dispel the darkness. Just then, he and Mickey heard a second strain of music; the two melodies combined into a powerful harmony that drove the darkness away. Sora jumped back into the music one last time, determined to take out the source of the problem: the same Nightmare that had escaped from Traverse Town. \r\nOnce the Nightmare was defeated, Mickey was freed from the darkness. He and Sora vowed to meet again, and Sora unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "Symphony of Sorcery"
+        ],
+        "Characters": [
+          "Sora",
+          "Mickey"
+        ]
+      },
+      {
+        "Name": "The World That Never Was (S)",
+        "Description": "Now that Queen Minnie was safe, King Mickey and friends returned to Yen Sid's Tower with a guest. Lea seemed to want something from Yen Sid. With Xehanort's return drawing ever closer, the sorcerer was forced to take drastic measures, and so he agreed to Lea's request. \r\nKing Mickey and the others were now very worried about Sora and Riku, but Yen Sid insisted that the two were still out of Xehanort's reach. After discussing various possibilities, the king stumbled upon the truth: having given up his body, Xehanort was taking advantage of the period of time when a version of him had possessed Riku. He had been manipulating events all along. The king set off to rescue Sora and Riku. \r\n*** \r\nAfter unlocking the seven Sleeping Keyholes, Sora found himself in the same world where Organization XIII had once held its stronghold. None of it made any sense... \r\nXigbar appeared and revealed that Sora had been lured here, before plunging him into a deep sleep. \r\n*** \r\nThe grey-haired youth explained that it had all begun when he was approached by a man in a brown robe: Ansem. Later, when the Destiny Islands were about to be swallowed by darkness, that same Ansem possessed Riku. \r\nTraverse Town- Sora had been here many times before. He saw King Mickey and the others run by; when Sora chased after them, he found Naminé around the corner---except it was not Naminé at all, but some other girl in a black coat. Tears formed on Sora's cheeks for reasons he could not understand. Before he could reach the girl, his vision blurred. \r\nHe spotted someone in a black coat and called out to the figure, but this time it turned out to be Roxas. Roxas took Sora's hand, and all the hurt he had suffered lanced through Sora's memory. \r\nNext Sora saw Riku and Kairi---except they weren't Riku and Kairi; they were two strangers. They seemed kind, but called him \"Ven.\" Sora no longer looked like himself. He reached out to take the strangers' hands---but now they were Riku and Kairi again, and they were leaving him behind. He tried to catch them, but his legs were heavy; he could barely move. \r\nAfter a blinding flash, Sora found himself in his own past, when he was still little. Then the vision swooped away, as though he were being dragged out of it. \r\n*** \r\nHad those all been illusions? They were dreams, explained Xigbar. He and Xemnas went on to reveal other surprises- that Nobodies could have hearts after all, and that the Organization had been established for a greater purpose. Though shaken, Sora put his faith in the Keyblade and stood strong. \r\nThe grey-haired youth pointed to the sigil on Sora's chest, which had allowed them to keep tabs on him. Sora, he explained, was destined to be the thirteenth \"vessel\" they needed. \r\nSora called Riku's name as he sank into the dark abyss. \r\nA single ray of light chased him down, down, down... Right before the darkness enveloped him completely, an aura of light appeared and clad him in armor. Thus protected, his body reclined in the darkness's embrace. \r\n",
+        "Worlds": [
+          "The World That Never Was",
+          "Mysterious Tower",
+          "Destiny Islands",
+          "Traverse Town"
+        ],
+        "Characters": [
+          "Minnie",
+          "Mickey",
+          "Yen Sid",
+          "Lea",
+          "Master Xehanort",
+          "Sora",
+          "Riku",
+          "Xigbar",
+          "Ansem Seeker of Darkness",
+          "Naminé",
+          "Riku",
+          "Kairi",
+          "Ventus",
+          "Xemnas"
+        ]
+      },
+      {
+        "Name": "Traverse Town (R)",
+        "Description": "Having welcomed darkness into his heart, was he still worthy of the Keyblade? Riku decided to take the Mark of Mastery examination and find out. \r\nHe and Sora returned to the Destiny Islands shortly before their fall to darkness. After their raft was wrecked by a phantom Ursula, they unknowingly unlocked the first \"Sleeping Keyhole.\" \r\n*** \r\nSeparated from Sora, Riku found himself in his first \"Sleeping World,\" Traverse Town, where he met Joshua. The boy's tone suggested he knew more about this world than most. \r\nRiku agreed to help Joshua find a girl named Rhyme, but another boy, Beat, came along and picked a fight with Joshua. No sooner had Riku defeated Beat's Spirits than he found himself growing very sleepy. \r\nAfter waking up, he rescued a girl named Shiki from a pack of Nightmares and found himself stuck with her. Next, he encountered a figure in a black coat, who insinuated that Riku did not belong there... Beat arrived, and the stranger lowered his hood to reveal a grey-haired youth Riku had never seen before. The youth summoned a giant Nightmare, and vanished. \r\nRiku vanquished the Nightmare, and suddenly a strange projection appeared out of thin air. In it, Riku saw Sora. \r\nNeku, Shiki, Beat, and Rhyme vanished into the projection. This dual Traverse Town, Joshua explained, had appeared because it was needed; Neku and his friends were about to be wiped from existence, but in this world, the pieces of their dreams and the connections they formed had kept them in the Game--- literally. \"Who are you?\" Sora and Riku asked Joshua. \r\n\"Let's say...a friend,\" was all the mysterious boy would say before flying off into the night sky. \r\n",
+        "Worlds": [
+          "Traverse Town",
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Riku",
+          "Sora",
+          "Ursula",
+          "Joshua",
+          "Rhyme",
+          "Beat",
+          "Shiki",
+          "Neku",
+          "Shiki"
+        ]
+      },
+      {
+        "Name": "La Cité des Cloches (R)",
+        "Description": "Riku crossed paths with Esmeralda, a gypsy who was being chased by Judge Frollo and Captain Phoebus. She told Riku about the darkness that was driving Frollo. \r\nInside the cathedral of Notre Dame, Riku met Quasimodo. Judge Frollo was keeping Quasimodo walled up inside the cathedral, but Riku knew that the highest walls---for Quasimodo, and for himself---were around their hearts. \r\nAs Riku searched for Frollo, he was attacked by a giant Nightmare. Somehow he escaped and caught up with Frollo, who seemed to be the one controlling the Nightmares. He also found Phoebus, who was badly injured while trying to stop the judge. \r\nThe chase continued. Riku passed Quasimodo, who had just rescued Esmeralda. Riku was reassured to see how much stronger Quasimodo's heart had grown. \r\nFrollo's heart, however, fell to darkness. Ansem and the grey-haired youth appeared a moment later to remind Riku of the darkness in his own heart. But Riku knew he was strong enough to choose his own path, and with Keyblade in hand, he drove off the giant Nightmare. \r\nQuasimodo resolved to brave the outside world, while Riku reflected upon his past, and the future he must shape from it. He unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "La Cité des Cloches"
+        ],
+        "Characters": [
+          "Riku",
+          "Esmeralda",
+          "Frollo",
+          "Phoebus",
+          "Quasimodo",
+          "Ansem Seeker of Darkness"
+        ]
+      },
+      {
+        "Name": "Prankster's Paradise (R)",
+        "Description": "Inside the belly of Monstro the whale, Riku found Geppetto and Jiminy. He agreed to help them find Pinocchio, who had gone missing again. Jiminy tagged along. \r\nThey found Pinocchio with a figure in a black coat. Who was it this time? The figure lowered his hood to reveal...Riku. The figure disappeared before Riku could make sense of it all. He explained to Jiminy how he had once allowed darkness into his heart, but Jiminy and Pinocchio reminded him that friends like Sora would always keep him on the right path. \r\nHe had the others return to safety and headed further into Monstro, where he found and defeated a giant Nightmare. \r\nSomething was troubling him, though. Why did this world seem to have been thrown into the past? Could it still be trapped in some kind of dream? He unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "Prankster's Paradise",
+          "Monstro"
+        ],
+        "Characters": [
+          "Riku",
+          "Geppetto",
+          "Jiminy",
+          "Pinocchio",
+          "Monstro"
+        ]
+      },
+      {
+        "Name": "The Grid (R)",
+        "Description": "Upon arrival, Riku found himself in the spotlight---or rather, searchlights. Realizing he may have more nemeses to deal with than just the Nightmares, he decided to let himself be caught to find out more. In the process, he met Sam. \r\nBut they were soon separated, and Riku was forced into a Light Cycle battle. He seized a chance to escape and reunited with Sam. Sam needed to get out of this world, and when he mentioned a \"Portal,\" Riku decided to go along. \r\nThey split up briefly so Sam could investigate a lead, but something went wrong, and he returned with company: Quorra, who had malfunctioned, and his father, Flynn. They all continued to the Portal. \r\nOn the Solar Sailer that would take them there, Flynn repaired Quorra. She was the last of a life form called an ISO. The emergence of the ISOs had caused CLU to seize control of the Grid, trapping Flynn inside so he could never return home to the real world. \r\nSuddenly the Solar Sailer's course was altered, and the group found themselves landing on the Rectifier, CLU's warship. \r\nWhen they disembarked, Rinzler was on patrol. Knowing they would not be able to just slip by, Quorra intentionally let herself be caught so the others could escape. \r\nRiku and Sam saved Quorra and recovered Flynn's missing disc. After catching up with Flynn, they all headed for the Portal. \r\nCLU was waiting. He summoned a giant Nightmare and attacked. \r\nAs Riku finished off the Nightmare, CLU confronted Flynn: what was wrong with creating the perfect system? But Flynn explained that true perfection was unknowable---a fact that was lost on CLU because Flynn himself had not known at the time of CLU's creation. \r\nCLU seized Flynn's disc, but it was the wrong one; he had been tricked. Flynn's disc was in Quorra's hands, and now Sam was using it to open the Portal. It was time to say good-bye to his father for good. He raised the disc aloft, and he and Quorra vanished into the light just as Flynn and CLU fused and ceased to exist. \r\nRiku reflected on the Portal and the gates he himself had used to cross between worlds, realizing more trials were ahead. He unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "The Grid"
+        ],
+        "Characters": [
+          "Riku",
+          "Sam Flynn",
+          "Quorra",
+          "Kevin Flynn",
+          "CLU"
+        ]
+      },
+      {
+        "Name": "Traverse Town (Revisited) (R)",
+        "Description": "Joshua was waiting when Riku arrived back in Traverse Town. He asked for help defeating a powerful Nightmare capable of summoning other Nightmares. Riku learned that the two Traverse Towns connected by the Portal were not parallel worlds, but rather two distinct worlds that only felt the same. In other words, Riku was in a dream. \r\nHe met up with Beat and Rhyme and let them defend the area while he raced after the powerful Nightmare. But no sooner had he caught it than it escaped to the other Traverse Town. \r\nBeat and Rhyme were frustrated, but Riku assured them Sora would be able to handle things on the other side. They pledged to meet again one day, and Riku unlocked the Sleeping Keyhole. \r\n*** \r\nMeanwhile, in another world... Axel was dreaming of his best friend, Roxas, and a promise he had made. \r\n\"Lea\" woke up and looked at himself in the mirror. He was a real person again! There were only four others there in the Radiant Garden study: Dilan, Aeleus, Even, and Ienzo. Lea wondered what had become of Braig and Isa. \r\nBut a thorough search of the castle environs turned up no other returnees. Aeleus assured him no one was outside the castle, and Ienzo rejected the idea of the missing members having reappeared in other worlds. Dilan and Even remained in unstable condition. Lea realized what he would have to do. \r\n*** \r\nElsewhere, King Mickey and friends could not help but wonder how Sora and Riku were doing with their exam. Just then, a raven flew into the tower. It was carrying Queen Minnie's tiara and a letter: a message from Maleficent. She had kidnapped Minnie, and if Mickey ever wanted to see her again, he, Donald, and Goofy would have to return to Disney Castle. \r\nKing Mickey and the others found themselves face-to-face with Maleficent and Pete, who had Minnie. Maleficent demanded the \"data\" for all worlds. \r\nUnable to strike, King Mickey braced himself for the end. But before Maleficent's magic could hit, a blazing chakram knocked it out of the air. In the commotion, Minnie used some magic of her own to free herself from Pete. Having lost the upper hand, Maleficent and Pete made a hasty retreat. \r\nKing Mickey turned to thank \"Axel,\" but the chakram's red-haired owner corrected him. \"My name is Lea,\" he said. \"Got it memorized?\" \r\n",
+        "Worlds": [
+          "Traverse Town",
+          "Radiant Garden",
+          "Disney Castle"
+        ],
+        "Characters": [
+          "Joshua",
+          "Riku",
+          "Beat",
+          "Rhyme",
+          "Sora",
+          "Axel",
+          "Roxas",
+          "Lea",
+          "Dilan",
+          "Aeleus",
+          "Even",
+          "Ienzo",
+          "Braig",
+          "Isa",
+          "Mickey",
+          "Diablo",
+          "Minnie",
+          "Maleficent",
+          "Donald",
+          "Goofy",
+          "Pete"
+        ]
+      },
+      {
+        "Name": "Country of the Musketeers (R)",
+        "Description": "Riku spotted Pete going into a building and decided to tail him. Inside, Pete and the Beagle Boys were (predictably) up to no good. Sensing Mickey, Donald, and Goofy were in danger, Riku stayed on the villains' tails. \r\nHe rescued Princess Minnie, who had been locked inside a large box. She confirmed that Pete was leading Mickey and friends into a trap. Only a special gadget could save them, and right now it was in the Beagle Boys' clutches. \r\nRiku got the gadget back all the same. When Minnie thanked him, she likened him to a \"Musketeer\" and taught Riku the Musketeers' motto: \"All for one, and one for all!\" \r\nRiku rolled his eyes at first, but then realized the words spoke volumes for he and Sora's friendship. Remembering their connection, he unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "Country of the Musketeers"
+        ],
+        "Characters": [
+          "Riku",
+          "Pete",
+          "Beagle Boys",
+          "Mickey",
+          "Donald",
+          "Goofy",
+          "Minnie"
+        ]
+      },
+      {
+        "Name": "Symphony of Sorcery (R)",
+        "Description": "Riku found his friend Mickey trapped by the darkness emanating from a musical score. To banish the darkness, Mickey explained, he would need a \"Sound Idea.\" Riku agreed to search for this mysterious power and jumped into the musical score. \r\nDuring his search, Riku was confronted by the grey-haired youth, who issued a warning: \"Your abyss awaits.\" Then the stranger disappeared into the shadows. \r\nAfter obtaining a Sound Idea, Riku used it to try to conduct the music. But his Sound Idea alone wasn't enough to dispel the darkness. Just then, they heard a second strain of music; the two melodies combined into a powerful harmony that drove the darkness away. At last, Mickey was free. Riku knew it was Sora who had made up the difference. \r\nRiku promised Mickey they would meet again, and unlocked the Sleeping Keyhole. \r\n",
+        "Worlds": [
+          "Symphony of Sorcery"
+        ],
+        "Characters": [
+          "Riku",
+          "Mickey"
+        ]
+      },
+      {
+        "Name": "The World That Never Was (R)",
+        "Description": "Now that Queen Minnie was safe, King Mickey and friends returned to Yen Sid's Tower with a guest. Lea seemed to want something from Yen Sid. With Xehanort's return drawing ever closer, the sorcerer was forced to take drastic measures, and so he agreed to Lea's request. \r\nKing Mickey and the others were now very worried about Sora and Riku, but Yen Sid insisted that the two were still out of Xehanort's reach. After discussing various possibilities, the king stumbled upon the truth: having given up his body, Xehanort was taking advantage of the period of time when a version of him had possessed Riku. He had been manipulating events all along. The king set off to rescue Sora and Riku. \r\n*** \r\nAfter unlocking the seven Sleeping Keyholes, Riku found himself in the same world where Organization XIII had once held its stronghold. \r\nRiku found a spectral version of Sora trapped inside some sort of bubble. He tried to wake his friend, but a personification of Sora's nightmares, a figure in a black coat, approached from behind. \r\nHe defeated the Nightmare and kept calling to Sora, but it was Ansem who responded and dragged Riku into the darkness for a final confrontation. \r\nAnsem explained that Riku had unknowingly dove into Sora's dreams and become a Dream Eater, but he would be of no help to his friend so long as he kept the darkness inside him in check. Riku agreed---but rather than give in to Ansem and accept the darkness, Riku decided to return it to light once and for all. He drew his Keyblade. \r\nAfter Ansem was defeated, Riku awoke in the real world, but his Dream Eater powers remained. With the help of some Spirits, he was able to reach Sora. \r\nSora was seated on one of the Organization's thirteen thrones, but the grey- haired youth knocked Riku away before he could get to his friend. The youth revealed that Organization XIII's true purpose was to transfer the heart of Xehanort into thirteen worthy \"vessels.\" Now Sora was about to become the last of those vessels. \r\nAs if to drive this point home, twelve other figures materialized and filled the other seats. The youth revealed his identity: he was Xehanort's boyhood form. Just as he was gesturing to the highest seat of them all, King Mickey appeared and stopped time. He tried to rescue Sora, but someone lashed out at the king and knocked him away. Young Xehanort was able to move even when time was stopped! He and Riku fought. \r\nNo sooner had Riku bested the youth than time started to flow again, and Master Xehanort appeared in the highest seat. He told Riku and King Mickey about the \"seven guardians of light\" and \"thirteen seekers of darkness\" who were destined to clash and forge the X-blade. They were too late; Master Xehanort's heart was snaking its way toward Sora, and Xemnas and Ansem were barring the way... \r\nJust then, a blaze of fire stopped Xehanort's heart from reaching Sora. Lea had arrived right in the nick of time! The king and Riku were so shocked that they nearly forgot they were in danger, but Donald and Goofy arrived in a flash of light to save the day. \r\nMaster Xehanort had failed to claim Sora, but he assured all present that the clash between light and darkness was imminent. Then he and the other twelve members of the real Organization XIII dematerialized and returned whence they came. \r\n",
+        "Worlds": [
+          "The World That Never Was",
+          "Mysterious Tower",
+          "Destiny Islands",
+          "Traverse Town"
+        ],
+        "Characters": [
+          "Minnie",
+          "Mickey",
+          "Yen Sid",
+          "Lea",
+          "Master Xehanort",
+          "Riku",
+          "Sora",
+          "Anti Black Coat",
+          "Ansem Seeker of Darkness",
+          "Young Xehanort",
+          "Donald",
+          "Goofy"
+        ]
+      },
+      {
+        "Name": "Mysterious Tower (R)",
+        "Description": "King Mickey warned Yen Sid of Master Xehanort's true motives. \r\nThey needed to wake Sora up, and Yen Sid said that only one who had unlocked the Sleeping Keyholes possessed that power. And even if that person reached the abyss into which Sora's heart had fallen, they might never return from the darkness. But Riku had heard Sora calling to him, and knew he must be the one to make the dive back into Sora's slumber. \r\n*** \r\nIn the abyss, Riku was attacked by a suit of armor clad in deepest darkness. He defeated the armor and freed Sora from its defenses, then watched helplessly as his friend sank into the darkness. Did he do the right thing? Only Sora's Keyblade remained. Riku took it and unlocked the Keyhole. \r\nRiku's eyes blinked open. He was home, on their island. Figures appeared asking difficult questions: Roxas; another boy who looked like Roxas; a girl with raven hair. He sensed his answers mattered. When his eyes next blinked open, he found himself in the company of Ansem the Wise. \r\nAnsem the Wise gave Riku his research data, which he hoped would serve as a clue when Sora or those connected to him were most lost. The love in Sora's heart would be the only way to save them. With that, the true Ansem assured Riku that Sora had awoken. It was time to go home. \r\n*** \r\nRiku woke from his dive to hear what sounded like a celebration; were Sora, Donald, and Goofy having...a party? Sora threw his arms around Riku when he saw his friend was safe. Somehow, it all seemed very backwards. \r\nRiku passed the exam. He had shown the Mark of Mastery, and so Yen Sid dubbed him a true Keyblade Master. Sora was happy to see his best friend receive such an honor. Lea, however, was still trying to get the knack of summoning his own Keyblade. \r\nHis...what? As if that weren't enough of a shock, suddenly a Keyblade materialized in Lea's hand. He had become a Keyblade wielder! \r\nSora realized he had unfinished business. He opened the Sleeping Keyhole and ventured through alone. When he woke up in Traverse Town, he looked around for... \r\nThere they were! A moment later, Sora was surrounded by rowdy, but very happy Spirits. With a smile, Sora thanked them for all they had done. \r\n",
+        "Worlds": [
+          "Mysterious Tower",
+          "Destiny Islands",
+          "Traverse Town"
+        ],
+        "Characters": [
+          "Mickey",
+          "Yen Sid",
+          "Master Xehanort",
+          "Sora",
+          "Riku",
+          "Ansem the Wise",
+          "Lea"
+        ]
+      }
+    ],
+    "Kingdom Hearts III": [
+      {
+        "Name": "Main Story",
+        "Description": "Freshly revived and flanked by a new Organization XIII, Master Xehanort has set his plans in motion. By staging a clash between seven guardians of light and the Organization's thirteen seekers of darkness, he intends to forge a weapon called the \"χ-blade\" and plunge the worlds into shadow once more. We need to find seven guardians of light and meet his challenge. If we don't face him, Xehanort will target seven innocent hearts instead. \r\nKing Mickey's mentor, Master Yen Sid, believes the first step is to find three lost Keyblade wielders who vanished over a decade ago: Aqua, Ventus, and Terra. Any or all of them could be potential guardians of light. \r\nIn the meantime, Sora needs to free Roxas's heart, which is sleeping inside his own. To do so, he'll need the \"power of waking.\" \r\nAnd so it was that Master Yen Sid sent Sora, Donald, and Goofy on a new journey to try and find that power. \r\nEverybody returned to Master Yen Sid's tower to share information. Sora was given some brand-new vestments to wear, and I joined the team to chronicle the adventure. (Jiminy Cricket, at your service!) \r\nWhile we were away, Riku and King Mickey had been exploring the realm of darkness in search of Aqua, but they ran into a powerful swarm of Heartless. Both their Keyblades were rendered useless in the struggle, and they were forced to retreat to the tower. \r\nSora pointed out that we have no vessel to put Roxas's heart in and make him whole. Riku told him about the replicas created by Organization XIII. Maybe one of those would work, since they change appearance to reflect the heart that's put in them. That gave us all a little hope as we pressed on to the next world. \r\nSora knew that Organization XIII turning up in all the worlds we were visiting couldn't possibly be a good sign, but he was distracted by a call from Ienzo in Radiant Garden. \r\nIenzo and his team had deciphered some of Ansem the Wise's data, and it had revealed that Sora's heart was home to not one, not two, but three other unique hearts. The first was Roxas, and the second we now suspected was Ventus. Who was the third? With yet another new mystery to solve, we continued our journey. \r\nWe reported back to Master Yen Sid, Riku, and King Mickey, and learned that the \"New Seven Hearts\" Organization XIII were looking for must be seven hearts of pure light who inherited the powers of the seven princesses. \r\nSora knew we'd have to speed things up to keep Rapunzel, Elsa, Anna, and Kairi safe. He volunteered to head to the realm of darkness to keep looking for Aqua, but Riku convinced him to focus on acquiring the power of waking instead. \r\nAt last, we had our seven guardians. Joining Sora, Riku, and the King were Axel and Kairi—fresh back from their training with Merlin—and two of the missing Keyblade wielders, Aqua and Ventus. We all renewed our vows to rescue Roxas, Naminé, and Terra, who still remained out of reach. \r\nThe seven guardians (plus Donald and Goofy, which made nine) prepared for the journey to the battleground where they would face Organization XIII. \r\nWith our council adjourned, Sora returned to the Destiny Islands with Riku and Kairi. Kairi shared a paopu fruit with Sora, intertwining their destinies and making sure they remain a part of each other's lives, no matter what. \r\n",
+        "Worlds": [
+          "Mysterious Tower",
+          "Dark World",
+          "Radiant Garden",
+          "Destiny Islands"
+        ],
+        "Characters": [
+          "Master Xehanort",
+          "Mickey",
+          "Yen Sid",
+          "Aqua",
+          "Ventus",
+          "Terra",
+          "Roxas",
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Jiminy",
+          "Riku",
+          "Ienzo",
+          "Ansem the Wise",
+          "Rapunzel",
+          "Elsa",
+          "Anna",
+          "Kairi",
+          "Axel",
+          "Merlin",
+          "Naminé"
+        ]
+      },
+      {
+        "Name": "Olympus",
+        "Description": "When Master Yen Sid told Sora he'd need to get his powers back, he suggested visiting a certain friend who had lost all his strength and successfully gotten it back. \r\nSora knew exactly who Master Yen Sid meant, and followed his heart to Olympus. Yet instead of the familiar Coliseum, he, Donald, and Goofy found themselves on a steep mountain trail. Perhaps less surprisingly, they ran into Hades, god of the Underworld, who released powerful Titans that blew our daring trio clear off the mountain. \r\nSora, Donald, and Goofy landed in Thebes, where they literally dropped in on just the man they were looking for: the hero Hercules. However, their happy reunion was cut short when a pack of Heartless appeared and lit the city ablaze. With no time to waste, Herc and Sora split up to rescue any citizens still trapped in the fire. \r\nWhile searching the city, Sora and friends encountered a few less-than-Greek faces. Maleficent and Pete had come to Olympus in search of a black box, but paid little mind to Sora in his weakened state. More distressingly, Xigbar of Organization XIII seemed to suggest Sora's quest to gather hearts might do more harm than good. \r\nSora was unnerved, but saving the people of Thebes had to come first. \r\nJust when it seemed as though Thebes was out of danger, dark clouds began to swirl around Mount Olympus: a sign that after eighteen years of plotting, Hades had finally begun his coup. Herc raced ahead to the summit, worried for his father, Zeus, king of the gods. \r\nSora, Donald, and Goofy hurried after him. Up the mountain they went, sending the Rock Titan for a tumble along the way. Soon they reached the gods' abode and joined the battle for Olympus. \r\nHerc used his godlike strength to free his father, Zeus. A dash of immortal combat and a flash of divine lightning later, Hades and the Titans had been sent packing. \r\nSora never did get a clear answer about how to reclaim his lost strength, but Herc's off-the-cuff advice stuck with him. It's when we want to help people \"with all our heart\" that we're most likely to succeed—and that phrase would be Sora's beacon going forward. \r\n",
+        "Worlds": [
+          "Olympus"
+        ],
+        "Characters": [
+          "Yen Sid",
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Hades",
+          "Hercules",
+          "Maleficent",
+          "Pete",
+          "Xigbar",
+          "Zeus",
+          "Rock Titan"
+        ]
+      },
+      {
+        "Name": "Twilight Town",
+        "Description": "Determined to help Roxas, Sora followed his heart to Twilight Town. Despite the Nobodies and Heartless around, the townspeople seemed to be mostly going about their lives in peace. \r\nIt wasn't long before we ran into Hayner, Pence, and Olette, who were still on summer vacation. Goofy showed the kids a photo of them and Roxas. Amazingly, they had the same photo without Roxas. Intrigued, they decided to ask around town to see if anyone else knew about this mysterious boy. \r\nThe rest of us headed to the old mansion shown in the photo, where Hayner, Pence, and Olette caught up with us. We tried to use the computer inside to transport us into Roxas's digital Twilight Town, but it didn't work. Ienzo contacted us from Radiant Garden, and Sora decided to leave the brainwork to him and Pence. While they worked on a solution, we would head back outside and pursue other leads. \r\nOutside the mansion, Ansem and Xemnas were lying in wait for us. They tried to discourage Sora by saying that to release Roxas—his Nobody—he'd have to give his heart over to darkness. But Sora didn't buy it. None of us did. We and the Twilight Town kids agreed to keep wishing for Roxas's return, with all our hearts. \r\n",
+        "Worlds": [
+          "Twilight Town",
+          "Radiant Garden"
+        ],
+        "Characters": [
+          "Roxas",
+          "Sora",
+          "Hayner Pence",
+          "Olette",
+          "Goofy",
+          "Ienzo",
+          "Ansem Seeker of Darkness",
+          "Xemnas"
+        ]
+      },
+      {
+        "Name": "Toy Box",
+        "Description": "After an exciting voyage on the gummi ship, we arrived in a strange new world where Sora, Donald, and Goofy all assumed the appearances of toys. The new look didn't stop them from walloping the Heartless causing trouble, though. \r\nWoody, Buzz, and Andy's other toys saw the fight and introduced themselves. They reported that many of their friends had vanished, which was followed closely by the arrival of the Heartless and a hooded stranger in black. Immediately suspecting Organization XIII, we agreed to help the other toys search for clues at a nearby store called Galaxy Toys. \r\nNot long after arriving at Galaxy Toys, we had an unpleasant encounter with the Organization's Young Xehanort, who explained that he had separated Woody's group from Andy and the other toys by creating a second copy of their world. \r\nWorse yet, Young Xehanort seemed to have the power to possess the toys at the shop, which might explain why some of Woody's friends had disappeared. \r\nSora, Donald, and Goofy teamed up with Woody and Buzz to do battle with the possessed toys and rescue Rex, Hamm, and the Little Green Men. With all the toys out of danger, Sora was ready to go after Young Xehanort and put a stop to his scheme, but Buzz insisted that they had overstayed their welcome and needed to return home and wait for Andy. \r\nDespite being afraid of just about everything only moments ago, Rex was excited to find a likeness of Yozora, the video game character he'd mistaken Sora for. Buzz once again tried to convince the others to head home, but it was too late. Young Xehanort appeared and decided to advance his experiment to the next stage by taking control of Buzz and pitting him against his friends. \r\nSora managed to fight his way out of the trap Young Xehanort laid for him, and he, Woody, and the rest of us went to rescue Buzz. \r\nYoung Xehanort tried to shake us up by saying that friendship is just another reason to feel darkness and loneliness, but Woody knew different. Toy or not, even far apart, he could feel Andy's love filling his heart. Sora knew better too. There are hearts all around us, even in toys—and loneliness is just the heart's way of holding on and trying to reconnect. \r\nWe freed Buzz from Young Xehanort's control, and made a stand against the gigantic Heartless that appeared. \r\nDespite thwarting Young Xehanort's plans, we still weren't able to put the toys' world back to normal. Sora felt bad about it, but Woody pointed out the silver lining: if the world hadn't been split, none of us would have ever met each other. Happy to have made some new friends, we departed in high spirits—to infinity and beyond. \r\n",
+        "Worlds": [
+          "Toy Box"
+        ],
+        "Characters": [
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Woody",
+          "Buzz",
+          "Andy",
+          "Young Xehanort",
+          "Rex",
+          "Hamm",
+          "Little Green Men",
+          "Yozora"
+        ]
+      },
+      {
+        "Name": "Kingdom of Corona",
+        "Description": "We were all enjoying a leisurely stroll through the forest when a man came running by with Heartless hot on his heels. The man introduced himself as Flynn Rider and asked Sora, Donald, and Goofy to deal with the threat. But by the time the dust had settled, Flynn Rider was gone. We searched the environs, and discovered a hidden passage that led to a tower just like something out of a painting. \r\nWe reached the base of the tower just in time to see Flynn descending it alongside Rapunzel, a girl with long, looong hair. She had never been outside the tower before, and her one wish was to travel to the Kingdom and watch the people of Corona send up the lanterns. Concerned about all the Heartless, Sora volunteered to help Flynn escort her there safely. \r\nWe made good progress, thanks in large part to Rapunzel's bravery, but when we scaled a hill and found a flower patch full of ferocious Nobodies, Sora urged his new friends to flee while he, Donald, and Goofy pruned the threats back. \r\nAfter the battle, the Organization's Marluxia appeared with an unexpected demand: that Sora protect Rapunzel, the precious light of this world. \r\nSomeone else had been looking for Rapunzel, too: Mother Gothel, who lived with Rapunzel in the tower. Sora was starting to fear for Rapunzel's safety, but perhaps he was worried about the wrong person. The royal guards' most tenacious steed, Maximus, seemed to have a bone to pick with Mr. Flynn Rider. \r\nRapunzel's gentle words convinced Maximus to be nice (or at least relatively nice) to Flynn until we all got to the Kingdom. It sure was a relief to be back together again, where we could look after each other. \r\nAfter a lively round of dancing in the bustling city square, we parted ways. Rapunzel and Flynn rowed out onto the lake, while the rest of us watched from the dock as the lanterns took flight. \r\nAlways there to ruin the moment, Marluxia and his Nobodies appeared and helped guide Rapunzel away from Flynn and back to Mother Gothel. Marluxia needed Rapunzel, one of the \"New Seven Hearts,\" to stay in the tower where she would be safe—and possibly useful to the Organization. \r\nSora grew furious at this revelation, but Marluxia used his powers to put him in a deep sleep before he could fight back. \r\nA slobbery tongue-bath from Maximus woke Sora from his slumber, where Flynn, Donald, and Goofy were waiting. Flynn raced ahead to the tower to free Rapunzel while the rest of us dealt with a seemingly endless supply of Nobodies. \r\nAt the tower, we watched as a cape fell from the window and spawned a powerful Heartless. It was a tough fight, but we prevailed. \r\nThings nearly ended badly for Eugene—turns out that's Flynn's real name—but Rapunzel saved his life with the magic in her tears. She was the lost princess we saw in the Kingdom's mosaic, whom Mother Gothel had taken as a baby. It was also Mother Gothel who had brought Rapunzel the tiara in an attempt to drive her and Eugene apart. \r\nKnowing Eugene and Rapunzel had found true love and would look after each other, we parted ways with them, stronger for our new friendships and ready to explore more worlds. \r\n",
+        "Worlds": [
+          "Kingdom of Corona"
+        ],
+        "Characters": [
+          "Flynn Rider",
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Rapunzel",
+          "Marluxia",
+          "Mother Gothel",
+          "Maximus"
+        ]
+      },
+      {
+        "Name": "Monstropolis",
+        "Description": "As we arrived at the doors of a colossal power company called Monsters, Incorporated, Sora, Donald, and Goofy discovered that Donald's magic had transformed them into monsters, too. \r\nInside, we were alarmed to find a pair of monsters with a little human girl, Boo, but one look at how happy Boo was convinced us that the monsters, Mike and Sulley, must be friendly. When the decidedly less friendly Unversed appeared in the company lobby, we volunteered to play exterminator. \r\nGiven the circumstances, we all agreed that getting Boo home safely should be our top priority. Her house was connected to Sulley and Mike's company by a special door. \r\nBut our efforts to find it were cut short by sabotage: Randall, a former employee banished for his scheming, had returned and was eager to stage a comeback using the energy from negative emotions. Mike, Sulley, and the rest of us battled our way out of the factory with a little help from Boo's laugh energy. \r\nAlong our way back to the door vault, we faced power outages, explosions, fires, and other frustrations, but Sulley's quick thinking (and a little heavy lifting) helped us find a shortcut. \r\nOnce again we found ourselves face-to-face with Randall. Jealous of Sulley and Mike's success, he tried to use a huge Unversed to get us all out of the picture. Of course, since you're reading this, you know it didn't work. Sulley and Mike banished their rival from the factory again, and this time Sora used his Keyblade to lock the door behind Randall for good measure. \r\nJust as Sulley and Mike were about to send Boo home, the Organization's Vanitas appeared. He was the one who brought Randall back and furnished him with Unversed in order to gather negative emotions. \r\nVanitas revealed that Ventus, one of the missing Keyblade wielders, now sleeps inside of Sora, then attempted to rejoin with Ventus by force. Again, Sulley's quick thinking saved the day. With an imposing roar, he overpowered Vanitas and saved Sora from who knows what fate. \r\nWith our roller-coaster quest for Boo's door finally over, we said our good-byes to our little friend as she returned to her room. Next, it was time to bid Sulley and Mike farewell. We shared a few more laughs together, then said our thank-yous and got back to our usual business. \r\n",
+        "Worlds": [
+          "Monstropolis"
+        ],
+        "Characters": [
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Boo",
+          "Mike",
+          "Sulley",
+          "Randall",
+          "Vanitas",
+          "Ventus"
+        ]
+      },
+      {
+        "Name": "Arendelle",
+        "Description": "We next found ourselves on a freezing, snow-covered mountainside. While battling the cold and the Heartless, Sora saw a woman run across the frozen sea and up the mountain. We decided to go after her. \r\nAs she introduced herself as Queen Elsa of Arendelle, we were suddenly ambushed by more Heartless. Elsa wiped one of them out with a magical blast of ice. It was that power—and the possibility that she might hurt someone with it—that had convinced Elsa she must leave her kingdom behind. She ran from us, asking to be left alone, but her sadness and selflessness struck a chord with Sora. \r\nIt was then that a member of Organization XIII going by Larxene appeared and tried to trap us in a winding, wintry maze. We escaped and followed Elsa's trail up the North Mountain, where we watched in awe as she constructed a magnificent palace of ice. But again, Larxene prevented us from speaking with Elsa. It turned out the Organization had been observing Elsa to see if she might be one of the New Seven Hearts. Before we knew it, Larxene had flung us back down the \r\nslopes, where we soon found ourselves caught in a massive avalanche. \r\nSoon after digging ourselves out of the snow, we made some new friends: a walking, talking snowman named Olaf; Elsa's younger sister, Anna; Kristoff, her guide; and Sven, Kristoff's reindeer companion. \r\nAnna had come up the mountain to find Elsa and put an end to the unnatural winter affecting Arendelle. She told Sora about her childhood, and how she and her sister grew apart. Elsa's choice to live in solitude to protect her sister reminded Sora of Riku's actions in the past. \r\nWhen a pack of Heartless attacked, we told Anna and her friends to hurry on to Elsa's palace while we handled the threat. \r\nAfter getting bounced from the palace gates by an enormous ice creature, a frustrated Anna fought back—an act that literally snowballed into a full-blown panic. We tried to buy time for her and the others to escape, but we were backed up against a cliff that crumbled beneath us. Falling down the mountain was starting to become routine. \r\nSora was determined to speak to Elsa, but on the way back to the ice palace, we saw a suspicious man carrying her toward Arendelle. Further along, we crossed paths with the ice creature we'd battled before. Sora realized he was trying to save Elsa too, so we all joined forces and made our way toward the town. \r\nWe soon learned from Kristoff that Anna was in danger, too. Time was running out. As Kristoff and Sven ran ahead, we did our best to keep pace, crossing the icy sea with the help of our big snow-pal. \r\nWe watched helplessly as Anna stepped in to defend her sister and turned to solid ice. A powerful Heartless took shape from the darkness in the man who had attacked them. Knowing only we could stop it, we stepped in and did our small part to defend Arendelle. \r\nThen, we watched in wonder as Anna thawed. It was her selfless act of true love for her sister that dispelled the magic. Elsa, in turn, realized she could control her magic with that same love. Each of them proved to be one of the New Seven Hearts. \r\nWe still didn't have all seven of our guardians, but Larxene claimed the Organization was all but ready for the final clash. We knew Elsa and Anna's happiness would be short-lived if we didn't gather our numbers, and soon. \r\n",
+        "Worlds": [
+          "Arendelle"
+        ],
+        "Characters": [
+          "Sora",
+          "Elsa",
+          "Larxene",
+          "Olaf",
+          "Anna",
+          "Kristoff",
+          "Sven"
+        ]
+      },
+      {
+        "Name": "The Caribbean",
+        "Description": "There Sora and the rest of us were, enjoying the pirate life aboard our modest raft, when we suddenly began to run out of sea! We plummeted over a precipice and into the waiting abyss. \r\nWe found ourselves stranded in an endless, white desert—and strangely enough, along came the Black Pearl, coasting somehow atop the sands. Imagine our surprise when we saw its captain, our friend Jack Sparrow, chasing after it on foot. Soon, we too were pursuing the runaway ship. \r\nWe reached a beach where we found Jack's friends waiting—some of them familiar faces. All had come to rescue Jack from Davy Jones' Locker, to which he'd been banished after getting devoured by the Kraken. \r\nUp in the world of the living, Cutler Beckett had acquired the chest containing Davy Jones' heart. He was using it to manipulate Jones and his ship, the Flying Dutchman, and seize control of the whole ocean. \r\nAboard the Pearl, Tia Dalma explained that Jack, too, coveted the chest, to escape his unpaid debt to Jones. \r\nHaving only just escaped from Davy Jones' Locker, we were beset by a swarm of flying Heartless. Sora fell into the sea while fighting them off, and Donald and Goofy dove in after him. We washed up on a lonely island shore, but the Black Pearl was long gone. The only friend we found was Jack Sparrow, who insisted we set out in search of a new ship. \r\nDeep beyond an undersea grotto, we discovered a magnificent ship cached away. Under Jack's guidance, Sora took to the seas once more, but it wasn't long before we were approached by a ship captained by Luxord of Organization XIII. \r\nLuxord invoked the right of parley, and after some brief negotiations with Jack, the two agreed to a race. The stakes: information about a certain \"black box.\" \r\nOur crew won the race, but Luxord tricked Jack into revealing the box's location just the same. Satisfied, the swindler sailed off after the Flying Dutchman, and though Sora was eager to give chase, the ship was badly damaged, so we made for Port Royal to see to repairs instead. \r\nThe repairs, if you'll believe it, involved gathering strange, white crabs with an even stranger power. It appeared the ship we'd been sailing was an enchanted one, and that wasn't the end of the surprises. \r\nWhen the ship was repaired, Jack asked Sora what he sought to do with it. When Sora replied, \"to explore the seas, free as the wind,\" Jack acknowledged him as a true pirate captain, then disappeared. It turned out the Jack we'd been traveling with was just another phantasm sent by the goddess of the sea. \r\nSora was free to sail wherever he pleased. But he also knew the real Jack and his friends had a terrible battle ahead of them, so we set a course for Shipwreck Cove to offer what aid we could. \r\nDespite Luxord's interference, we managed to reach the Black Pearl before it was too late. Our pirate friends were preparing for one last stand against Beckett. We decided to make our way to the Flying Dutchman and help Jack in his fight against Davy Jones. \r\nThe battle was won, but not without sacrifice. To save Will's life, Jack had him run a sword through Davy Jones' heart. With that, Will became the Flying Dutchman's new captain, cursed to be apart from his love, Elizabeth, for ten years at a time. \r\nWe took comfort in the belief that even one day in a decade is still enough time for two hearts to remain connected, and then departed the seas to return to our greater mission. \r\n",
+        "Worlds": [
+          "The Caribbean"
+        ],
+        "Characters": [
+          "Sora",
+          "Jack Sparrow",
+          "Davy Jones",
+          "Tia Dalma",
+          "Luxord",
+          "Will Turner",
+          "Elizabeth Swann"
+        ]
+      },
+      {
+        "Name": "San Fransokyo",
+        "Description": "Not long after arriving in San Fransokyo, we met a team of crime-fighting heroes called Big Hero 6. After a near defeat against the Heartless, the team's leader, Hiro, gave Sora an AR device and asked him to train with them. By collecting Sora's data, Hiro would be able to upgrade everyone's abilities and gain the upper hand against the Heartless. \r\nAlways eager to help, \"Keyblade Hero 3\" took to the streets with their new friends. \r\nBy joining forces, Sora, Donald, Goofy, and the Big Hero 6 team successfully put the Heartless to rout. As we celebrated, Hiro explained that Baymax was originally a healthcare robot created by his late brother, Tadashi, and that the Big Hero 6 team had come together to fulfill Tadashi's dream of helping others. \r\nSeeing the connection Hiro and his friends shared reminded Sora of the bond between Roxas and his friends Hayner, Pence, and Olette. \r\nA new threat appeared in San Fransokyo: the Darkubes. They were immune to all forms of attack, and Hiro's analysis revealed that they could only be defeated by attacking the core unit controlling the swarm. As Hiro worked to track that core, the scattered Darkubes threatened the other members of Big Hero 6 before converging on a single location. \r\nA figure appeared dressed in a black coat. It was Riku—or at least what looked like a younger Riku—but this \"Dark Riku\" turned out to be a replica. He admitted the Organization was behind the Darkubes and was employing them to investigate the possibility of recreating a heart from data by using the first chip Hiro made for Baymax. \r\nThough the heroes were able to defeat the Darkubes' core, Dark Riku's words left Sora and Hiro especially shaken. \r\nHiro explained that the current Baymax is actually the second iteration of the robot that his brother, Tadashi, originally created. That meant the chip in Dark Riku's possession must be from the first Baymax, who was lost in another dimension. \r\nWe confronted Dark Riku atop a skyscraper and watched in horror as he summoned the original Baymax, installed the combat chip containing the negative emotions the Darkubes had gathered, and transformed Tadashi's gentle robot into an instrument of war. \r\nSora saw how hard it was for Hiro. Dark Baymax needed to be stopped, but Hiro's friend was still in there somewhere, beneath all the darkness. Bravely, Sora volunteered to step up in Hiro's place, and he and Baymax 2.0 took flight to remove this new threat from San Fransokyo's skies. \r\nHiro destroyed the chip, and with that, Dark Baymax was no more. Thankfully, though, that's not the end of our story. Hiro repaired his old friend so that the original Baymax could go back on duty as a personal healthcare companion. \r\nAll of us were overjoyed, and we joined Big Hero 6 in giving their old friend a warm, heartfelt welcome. \r\n",
+        "Worlds": [
+          "San Fransokyo"
+        ],
+        "Characters": [
+          "Hiro",
+          "Sora",
+          "Donald",
+          "Goofy",
+          "Roxas",
+          "Hayner",
+          "Pence",
+          "Olette",
+          "Riku",
+          "Dark Riku",
+          "Riku Replica",
+          "Baymax",
+          "Dark Baymax",
+          "Tadashi"
+        ]
+      },
+      {
+        "Name": "The Hundred Acre Wood",
+        "Description": "Back aboard the gummi ship, we received a call from Chip and Dale. They said the wizard Merlin wanted to speak with Sora for some reason. We headed to Twilight Town, where we suspected he might be having a spot of tea. \r\nSure enough, we found Merlin at Little Chef's bistro. The wizard produced a picture book: the very book containing the world of Winnie the Pooh and his friends. Sora should have been a familiar face in the Hundred Acre Wood, but for some reason his picture had vanished from the book's cover. Sora decided to pay the wood a visit and figure out what exactly might be going on. \r\n\"You're home,\" said Pooh as he and all his friends welcomed Sora back. Everyone seemed to be safe and happy as they gathered at Rabbit's house, and so Sora was all but ready to go. But before he could, he was roped into helping Rabbit with the garden work. \r\nOnce the last of the harvest was in, Rabbit presented an overjoyed Pooh Bear with a potful of honey. But Pooh's next remarks troubled Sora greatly. Sora realized that Pooh had forgotten him briefly, and that meant their connection had weakened somehow—or been weakened. \r\nSince the last time he'd seen Pooh, Sora had nearly become Xehanort's vessel. What other connections had been broken in the process? Merlin reminded him with a smile that what is lost can always be found again. \r\n",
+        "Worlds": [
+          "100 Acre Wood",
+          "Twilight Town"
+        ],
+        "Characters": [
+          "Chip",
+          "Dale",
+          "Sora",
+          "Merlin",
+          "Little Chef",
+          "Pooh",
+          "Rabbit",
+          "Master Xehanort"
+        ]
+      },
+      {
+        "Name": "The Realm of Darkness",
+        "Description": "As we returned to the gummi ship, Chip and Dale called with distressing news: they'd lost contact with Riku and the King within the realm of darkness. Sora let his heart be his guiding key, and we went through the gate that he created. \r\nThe gate led to the Destiny Islands, where Sora found an old Keyblade lying on the beach. We discovered a door that could only lead to the realm of darkness, and Sora proceeded through it alone, leaving the rest of us to anxiously await his return. \r\nSora followed Riku's voice to the shore of a dark sea. There, he found his friend and the King barely holding their own against Aqua, whose heart had been consumed by darkness. Sora prevailed over Aqua, and pulled her from the sea as she began sinking into its depths. At long last, Master Aqua returned to the realm of light. \r\nAqua wasted no time in traveling to Castle Oblivion to awaken Ventus. We decided to go along. As she arrived at the gates, Aqua raised her Keyblade and unlocked the castle, restoring it to its original form, the Land of Departure. \r\nInside, we found Ventus asleep on a throne, but we were not alone; Vanitas had followed us in yet another bid to take control of Ventus by force. \r\nAqua fought gallantly against Vanitas to protect her brother-in-training and keep the rest of us out of danger, but her opponent's underhanded tactics proved too much for her. As Vanitas raised his Keyblade to deliver the final blow, Sora cried out for help…with all his heart. \r\nThere, deep down inside him, he heard the voice of Ventus, who revealed the power of waking had been inside Sora all along. \r\nSora's power of waking returned Ventus's heart to his body, turning the tide of the battle and forcing Vanitas to retreat. Aqua and Ventus rejoiced in each other's company, the two lost Keyblade wielders reunited at long last. \r\n",
+        "Worlds": [
+          "Dark World",
+          "Destiny Islands",
+          "Castle Oblivion",
+          "The Land of Departure"
+        ],
+        "Characters": [
+          "Chip",
+          "Dale",
+          "Riku",
+          "Mickey",
+          "Sora",
+          "Aqua",
+          "Ventus",
+          "Vanitas"
+        ]
+      },
+      {
+        "Name": "The Keyblade Graveyard",
+        "Description": "The thirteen seekers of darkness and seven guardians of light convened in the Keyblade Graveyard, and the Keyblade War began anew. \r\nSora and the others cut through legions of Heartless, Nobodies, and Unversed, oblivious to the true dangers that awaited them. Terra-Xehanort appeared, and single-handedly struck down Ventus and Axel. Donald mustered all of his magical might to blast our foe away, but collapsed from the exhaustion afterwards. \r\nThen, a Demon Tide broke loose from the realm of darkness and consumed all of our friends. Our light had expired before it could so much as flicker. Crushed, Sora wept. \"Alone, I'm worthless. We've lost.\" \r\nBut as shadow washed over the rest of us, Riku reminded his friend: \"You don't believe that. I know you don't.\" \r\nSora awoke in a world of nothing but sea and sky. He'd seen this place in his dreams before. But this wasn't sleep. \r\nHe encountered a strange creature named Chirithy, who told him he was in The Final World. While Sora's heart had survived utter destruction, his physical form had been fragmented, and so he set about piecing himself back together. \r\nWhole once more, he wished with all his heart to save his friends, and returned to the legion of shadow that had consumed him. \r\nThat's when I realized I was still here, too. I encouraged Sora to explore the worlds we'd been to and free the hearts of our lost friends. \r\nSora pursued his friends' captor through dark corridor after dark corridor, freeing their hearts one by one—all except Kairi's. It was then that Chip and Dale told us the way to the Keyblade Graveyard had reopened. \r\nBefore we could go look for Kairi, though, Young Xehanort appeared and offered up a cryptic warning: that Sora was misusing the power of waking, and would pay a high price for it. What did he mean? \r\nWe returned to the site of our defeat, where Sora was reunited with Kairi amidst the Demon Tide's darkness. Kairi never stopped believing in Sora, and the pure light within her—one of the New Seven Hearts—was what kept his heart from being extinguished. She took his hand and, together, they left the dark to a familiar sight: the Keyblade Graveyard, shortly before we made our last stand. \r\nA heart of light, so long as it retains even the faintest glow, will always rise to banish the darkness, as sure as dawn sweeps away the night. \r\nSo it was that Terra's lingering will awakened and began wresting control of his body back from Xehanort. So it was that Keyblade wielders from the past came and fought alongside Sora against the great Demon Tide. And so it was that Yen Sid, Donald, and Goofy stood bravely against a sea of Heartless. \r\nThe many bonds we shared became our courage and our armor as we pressed on to settle things with Organization XIII once and for all. \r\nRiku had been holding his ground alone against Dark Riku and Xigbar—and Ansem, who retreated when Sora joined the fight. \r\nThe two friends defeated Dark Riku, who insisted the Riku on our side was the fake. But the final judgment was rendered by a third Riku—the replica inside Riku's heart. He could have seized Dark Riku's body for his own, but instead the replica sacrificed himself in order to tear Dark Riku free of the vessel, so that it could be saved for Naminé. \r\nXigbar was defeated as well, asserting with his final words that he too was worthy of wielding a Keyblade. With the present fight ended, Riku took off after Ansem, while Sora pressed onward to the next battle. \r\nSora arrived to find the King single-handedly facing Marluxia, Larxene, Luxord, and Xemnas. Seeing the tide of battle shift, Xemnas made a hasty retreat, leaving his fellow Organization members to be defeated one by one. \r\nLuxord, empowered by Xemnas, trapped the King in a card and challenged Sora to one final game. Sora saw through the ruse and emerged victorious. With his final breath, Luxord offered praise for the young Keyblade wielder. As for Larxene, she claimed she'd never truly been in Master Xehanort's corner, but was sticking by someone else. And Marluxia's defeat seemed to kindle his heart and trigger memories of who he once was. \r\nAnother small battle had been won. King Mickey went after Xemnas, and Sora continued on to help the others. \r\nVentus and Aqua were waging their own battles: he against Vanitas, and she against Terra-Xehanort. Sora arrived just in time to level the playing field. \r\nVanitas's mask was shattered, revealing a face identical to Sora's beneath it. Even as he perished, he refused to come into the light, insisting that light is defined by shadow. \r\nAs for Terra-Xehanort, Aqua and Ventus were careful not to harm their friend's body too gravely, but Terra-Xehanort refused to cease his vicious onslaught. Thankfully, their bonds of friendship won out. With a rasp, Terra spoke with his own voice for the first time in forever, and he banished Xehanort from his body once and for all. The three friends, battered but unbroken, celebrated their long overdue reunion while Sora pushed onward to the next battle. \r\nAxel and Kairi were still new to the Keyblade, and it was showing as they tried to fend off Saïx and another black coat. \r\nAs Xemnas prepared to finish off the \"traitor\" Axel, the mysterious third figure came to Axel's defense. Her name was Xion, and the connection that she and Axel shared was finally enough to awaken Roxas from within Sora and to call him back into this world. \r\nSora and the others now held the advantage, but Xemnas refused a peaceful end. He grabbed Kairi and fled. Roxas and Xion took Axel and Kairi's place in battle and helped Sora tame Saïx's rage. Before expiring, Saïx rekindled his friendship with Axel. Kairi's abduction was a crushing blow, but Sora knew he had to keep going. \r\nWith the gauntlet of battles fought and won, Sora rejoined Riku and the King. The three of them faced off against Xehanort in his various forms; they had no choice, now that Kairi was Xehanort's hostage. \r\nWith one light or another, Xehanort was determined to open Kingdom Hearts. \r\nSora, Riku, and Mickey showed tremendous courage as they defeated Ansem, Xemnas, and Young Xehanort. But these were the very clashes Master Xehanort needed to create the χ-blade. He required just one more. \r\nSora watched in horror as Master Xehanort struck Kairi down. \r\nSora and his friends were filled with rage, yet the moment they struck back at Xehanort, the clash between thirteen darknesses and seven lights was complete, and the χ-blade was forged. \r\nKingdom Hearts was steeped in darkness, and the world around us began to crumble, yet still the guardians of light refused to give up. King Mickey explained that if Xehanort could be drawn away from Kingdom Hearts, its power could be contained by the Keyblade for a time. Sora volunteered to take our nemesis on himself. \r\nWith Donald and Goofy by his side—two faithful friends who had stuck with him through countless adventures—Sora leapt toward Xehanort to cast the old Master through his own portal. \r\n",
+        "Worlds": [
+          "The Keyblade Graveyard",
+          "The Final World"
+        ],
+        "Characters": [
+          "Sora",
+          "Terra-Xehanort",
+          "Ventus",
+          "Axel",
+          "Donald",
+          "Riku",
+          "Chirithy",
+          "Kairi",
+          "Chip",
+          "Dale",
+          "Young Xehanort",
+          "Terra",
+          "Lingering Will",
+          "Xigbar",
+          "Replica Riku",
+          "Dark Riku",
+          "Ansem Seeker of Darkness",
+          "Naminé",
+          "Mickey",
+          "Marluxia",
+          "Larxene",
+          "Luxord",
+          "Xemnas",
+          "Vanitas",
+          "Aqua",
+          "Ventus",
+          "Saïx",
+          "Xion",
+          "Young Xehanort",
+          "Master Xehanort",
+          "Goofy"
+        ]
+      },
+      {
+        "Name": "Scala ad Caelum",
+        "Description": "The trio emerged into a breathtaking townscape where stark-white buildings stood beneath a sapphire sky. The world, Master Xehanort explained, was called Scala ad Caelum, and long ago it was a seat of power for Keyblade wielders. \r\nHere, at the end of a long, grueling journey, we steeled ourselves for the final battle—to see Xehanort's ambitions thwarted, and with hope in our hearts that somewhere, somehow, we might save Kairi in the process. \r\n",
+        "Worlds": [
+          "Scala ad Caelum"
+        ],
+        "Characters": [
+          "Master Xehanort",
+          "Kairi"
+        ]
+      },
+      {
+        "Name": "Re:Mind [DLC]",
+        "Description": "As Sora came to, he found himself back in the Final World, the world of ocean and sky. Before he even got his bearings, Chirithy appeared with an unexpected sound in this otherwise quiet world. \r\nChirithy taught Sora how to get Kairi back, but warned him of the great price he would have to pay. But Sora, who had always followed his heart, was determined to save Kairi. He decided to return to the past, existing only as an embodiment of his heart. \r\nSora returned to a point in the past where history had not yet been rewritten. There, he came into contact with the hearts of Ventus and Aqua, both of which were under threat from Terra-Xehanort. \r\nDeep within Ventus's heart, Sora battled a physical manifestation of the darkness, and as he traced his way into Aqua's heart, he came face to face with her fear and despair. \r\nSora proceeded to the world where there was no defeat. There, his heart was approached by Naminé's. Seeing that Terra's heart was lost deep in the darkness, Naminé had instead brought with her Terra's will, which embodied his fear, anger, and regret. It is with these unbridled emotions that Terra's lingering will confronted Terra-Xehanort. \r\nWhereas Terra-Xehanort represented Terra's physical body, the lingering will represented the tangible elements in his heart. The clash between these two entities would be devastating for Terra. In an effort to stop this, Sora followed the connection between hearts and joined the fight. Exhausted, Sora was caught off guard and lost consciousness. \r\nAs time continued to flow in the world of the past, Sora suddenly found himself inside Terra's heart. The true Terra had protected him from Terra-Xehanort's darkness. \r\nEncouraged, Sora resumed following the connection between hearts. \r\nThe next heart Sora arrived at was Roxas's. As Sora touched upon Roxas's heart, the memories of Roxas that were inside Xion also flooded into him. \r\nFor Roxas, it was not enough to merely return as he was. He needed to restore the connection he shared with his dearest friends, and reaffirm their bond. So with Sora's help, Roxas, Axel, and Xion recovered the Recusant's Sigil from Xemnas, the curse that binded them together in friendship. \r\nMeanwhile, it appeared as if events in the past could not be changed after all, as Kairi was abducted during the battle, just as before. But now, having followed the connections to five guardians—Ventus, Aqua, Terra, Roxas, and himself—Sora only needed to follow two more guardians' hearts before he finally reached Kairi's. \r\nBefore Sora was able to follow the next connection, he was forced to witness Kairi's essence being shattered yet again. \r\nBut while in the depths of despair, Sora heard the voice of the King. He informed Sora that Kairi could still be saved—Master Xehanort needed to keep her as insurance until Kingdom Hearts appeared. \r\nArmed with this knowledge, Sora jumped into Master Xehanort's portal before his past self caught up. \r\nSora failed to find Kairi in Scala ad Caelum, but by reaching the hearts of five guardians, he had found five fragments of her heart. He was certain that if he could follow the connection the remaining two guardians, he could find Kairi. \r\nAnd so, Sora followed the connection to Riku, then to King Mickey. \r\nFinally, Sora and Kairi were reunited. But before they could celebrate their reunion, Master Xehanort descended upon them. \r\nThe guardians of light, armed with the power of connecting hearts, succeeded in thwarting Master Xehanort's foul ambition, and in turn, Kingdom Hearts slowly faded into the clouds. \r\nThe world of ocean and sky—the Final World. Sora found himself here yet again, this time with Kairi's hand in his. \r\nBut this time, Sora had a purpose. He was determined to reunite Chirithy with its friend. With a smile, Sora extended his hand—\"Let's go!\" \r\n",
+        "Worlds": [
+          "The Final World"
+        ],
+        "Characters": [
+          "Sora",
+          "Chirithy",
+          "Kairi",
+          "Ventus",
+          "Aqua",
+          "Terra-Xehanort",
+          "Naminé",
+          "Terra",
+          "Lingering Will",
+          "Roxas",
+          "Xion",
+          "Axel",
+          "Xemnas",
+          "Mickey",
+          "Master Xehanort"
+        ]
+      }
+    ]
+  }
+}
