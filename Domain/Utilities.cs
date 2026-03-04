@@ -4,6 +4,7 @@ using System.Text.Json;
 using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models;
 using WayfinderProject.Domain.Models.Filters;
+using WayfinderProject.Domain.Models.JiminyJournal;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -148,6 +149,70 @@ namespace WayfinderProject.Domain
                         .SelectMany(wrapper => wrapper.WrappedMemoryArchiveSubData[item.Name])
                         .Cast<object>();
                     return item.ContainsText(state.SearchTerm, lines);
+                });
+            }
+
+            foreach (var rule in rules)
+            {
+                if (state.Selected.TryGetValue(rule.Id, out var selected) && selected.Any())
+                {
+                    filteredPool = filteredPool.Where(item =>
+                        selected.All(s => rule.Selector(item).Contains(s)));
+                }
+            }
+
+            foreach (var rule in rules)
+            {
+                var resultsInPool = filteredPool
+                    .SelectMany(rule.Selector)
+                    .Distinct()
+                    .OrderBy(s => s)
+                    .ToList();
+
+                state.Available[rule.Id] = resultsInPool;
+
+                if (state.Selected.ContainsKey(rule.Id))
+                {
+                    state.Selected[rule.Id] = state.Selected[rule.Id]
+                        .Intersect(resultsInPool)
+                        .ToList();
+                }
+            }
+
+            foreach (var rule in rules)
+            {
+                var resultsInPool = filteredPool
+                    .SelectMany(rule.Selector)
+                    .Distinct()
+                    .ToList();
+
+                var currentlySelected = state.Selected.ContainsKey(rule.Id)
+                    ? state.Selected[rule.Id]
+                    : new List<string>();
+
+                state.Available[rule.Id] = resultsInPool
+                    .Except(currentlySelected)
+                    .OrderBy(s => s)
+                    .ToList();
+            }
+
+            return state;
+        }
+
+        public static FilterState RefreshJiminyJournal<T>(
+                IEnumerable<T> allData, 
+                FilterState state, 
+                List<FilterRule<T>> rules)
+            where T : BaseJiminyJournalData
+        {
+            var filteredPool = allData;
+
+            if (!string.IsNullOrWhiteSpace(state.SearchTerm))
+            {
+                filteredPool = filteredPool.Where(item =>
+                {
+                    return item.Description.Contains(state.SearchTerm) || 
+                        item.AdditionalInformation.Contains(state.SearchTerm);
                 });
             }
 

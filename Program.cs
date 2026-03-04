@@ -8,7 +8,8 @@ using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.JiminyJournal;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
-using WayfinderProject.Domain.Strategies;
+using WayfinderProject.Domain.Strategies.JiminyJournal;
+using WayfinderProject.Domain.Strategies.MemoryArchive;
 using WayfinderProject.Services;
 using WayfinderProject.Services.JiminyJournal;
 using WayfinderProject.Services.MemoryArchive;
@@ -37,10 +38,10 @@ builder.Services.AddScoped<EnemyEntryService>();
 builder.Services.AddScoped<ReportEntryService>();
 builder.Services.AddScoped<StoryEntryService>();
 
-builder.Services.AddScoped<IDataFilterStrategy<CharacterEntry>>();
-builder.Services.AddScoped<IDataFilterStrategy<EnemyEntry>>();
-builder.Services.AddScoped<IDataFilterStrategy<ReportEntryService>>();
-builder.Services.AddScoped<IDataFilterStrategy<StoryEntryService>>();
+builder.Services.AddScoped<IDataFilterStrategy<CharacterEntry>, CharacterEntryFilterStrategy>();
+builder.Services.AddScoped<IDataFilterStrategy<EnemyEntry>, EnemyEntryFilterStrategy>();
+builder.Services.AddScoped<IDataFilterStrategy<ReportEntry>, ReportEntryFilterStrategy>();
+builder.Services.AddScoped<IDataFilterStrategy<StoryEntry>, StoryEntryFilterStrategy>();
 
 builder.Services.AddScoped<InventoryService>();
 builder.Services.AddScoped<RecipeService>();

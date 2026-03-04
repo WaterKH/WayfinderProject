@@ -4,7 +4,7 @@ using WayfinderProject.Domain.Models.Filters.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
-namespace WayfinderProject.Domain.Strategies
+namespace WayfinderProject.Domain.Strategies.MemoryArchive
 {
     public class TrailerFilterStrategy : IDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper>
     {

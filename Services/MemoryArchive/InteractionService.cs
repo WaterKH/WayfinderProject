@@ -5,7 +5,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
 namespace WayfinderProject.Services.MemoryArchive
 {
-    public class InteractionService : 
+    public class InteractionService :
         BaseDataService<
             Interaction<ScriptLine>, 
             InteractionCriteria,
