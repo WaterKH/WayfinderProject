@@ -145,7 +145,7 @@ namespace WayfinderProject.Services
         protected readonly HttpClient HttpClient;
         protected IEnumerable<T> Data = new List<T>();
         protected IDictionary<string, TSubWrapper> SubDataWrappers = new Dictionary<string, TSubWrapper>();
-        protected readonly IDataFilterStrategy<T, TSubWrapper> FilterStrategy;
+        protected readonly ISubDataFilterStrategy<T, TSubWrapper> FilterStrategy;
 
         public bool IsLoaded { get; protected set; }
         public FilterState State { get; protected set; } = new();
@@ -153,7 +153,7 @@ namespace WayfinderProject.Services
 
         private Random random = new();
 
-        protected BaseDataService(HttpClient httpClient, IDataFilterStrategy<T, TSubWrapper> filterStrategy)
+        protected BaseDataService(HttpClient httpClient, ISubDataFilterStrategy<T, TSubWrapper> filterStrategy)
         {
             HttpClient = httpClient;
             FilterStrategy = filterStrategy;

@@ -6,7 +6,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
 namespace WayfinderProject.Domain.Strategies
 {
-    public class InterviewFilterStrategy : IDataFilterStrategy<Interview<ScriptLine>, InterviewDialogueWrapper>
+    public class InterviewFilterStrategy : ISubDataFilterStrategy<Interview<ScriptLine>, InterviewDialogueWrapper>
     {
         public IEnumerable<Interview<ScriptLine>> Filter(IEnumerable<Interview<ScriptLine>> data, FilterCriteria criteria)
         {

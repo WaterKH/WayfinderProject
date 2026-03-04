@@ -18,7 +18,7 @@ namespace WayfinderProject.Services.MemoryArchive
             "Interactions", "Areas", "Characters", "Games", "Music", "Worlds"
         };
 
-        public InteractionService(HttpClient httpClient, IDataFilterStrategy<Interaction<ScriptLine>, InteractionScriptWrapper> filterStrategy)
+        public InteractionService(HttpClient httpClient, ISubDataFilterStrategy<Interaction<ScriptLine>, InteractionScriptWrapper> filterStrategy)
             : base(httpClient, filterStrategy) { }
 
         protected override IEnumerable<Interaction<ScriptLine>> MapWrapperToData(

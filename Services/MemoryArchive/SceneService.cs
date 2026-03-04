@@ -18,7 +18,7 @@ namespace WayfinderProject.Services.MemoryArchive
             "Scenes", "Areas", "Characters", "Games", "Music", "Worlds"
         };
 
-        public SceneService(HttpClient httpClient, IDataFilterStrategy<Scene<ScriptLine>, SceneScriptWrapper> filterStrategy)
+        public SceneService(HttpClient httpClient, ISubDataFilterStrategy<Scene<ScriptLine>, SceneScriptWrapper> filterStrategy)
             : base(httpClient, filterStrategy) { }
 
         protected override IEnumerable<Scene<ScriptLine>> MapWrapperToData(SceneWrapper<Scene<ScriptLine>> wrapper)

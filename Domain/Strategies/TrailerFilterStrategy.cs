@@ -6,7 +6,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
 namespace WayfinderProject.Domain.Strategies
 {
-    public class TrailerFilterStrategy : IDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper>
+    public class TrailerFilterStrategy : ISubDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper>
     {
         public IEnumerable<Trailer<ScriptLine>> Filter(IEnumerable<Trailer<ScriptLine>> data, FilterCriteria criteria)
         {

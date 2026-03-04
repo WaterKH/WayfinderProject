@@ -6,7 +6,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
 namespace WayfinderProject.Domain.Strategies
 {
-    public class SceneFilterStrategy : IDataFilterStrategy<Scene<ScriptLine>, SceneScriptWrapper>
+    public class SceneFilterStrategy : ISubDataFilterStrategy<Scene<ScriptLine>, SceneScriptWrapper>
     {
         public IEnumerable<Scene<ScriptLine>> Filter(IEnumerable<Scene<ScriptLine>> data, FilterCriteria criteria)
         {

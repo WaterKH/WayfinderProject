@@ -26,10 +26,10 @@ builder.Services.AddScoped<InterviewService>();
 builder.Services.AddScoped<SceneService>(); 
 builder.Services.AddScoped<TrailerService>();
 
-builder.Services.AddScoped<IDataFilterStrategy<Interaction<ScriptLine>, InteractionScriptWrapper>, InteractionFilterStrategy>();
-builder.Services.AddScoped<IDataFilterStrategy<Interview<ScriptLine>, InterviewDialogueWrapper>, InterviewFilterStrategy>();
-builder.Services.AddScoped<IDataFilterStrategy<Scene<ScriptLine>, SceneScriptWrapper>, SceneFilterStrategy>();
-builder.Services.AddScoped<IDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper>, TrailerFilterStrategy>();
+builder.Services.AddScoped<ISubDataFilterStrategy<Interaction<ScriptLine>, InteractionScriptWrapper>, InteractionFilterStrategy>();
+builder.Services.AddScoped<ISubDataFilterStrategy<Interview<ScriptLine>, InterviewDialogueWrapper>, InterviewFilterStrategy>();
+builder.Services.AddScoped<ISubDataFilterStrategy<Scene<ScriptLine>, SceneScriptWrapper>, SceneFilterStrategy>();
+builder.Services.AddScoped<ISubDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper>, TrailerFilterStrategy>();
 
 // Jiminy Journal Services and Strategies
 builder.Services.AddScoped<CharacterEntryService>();

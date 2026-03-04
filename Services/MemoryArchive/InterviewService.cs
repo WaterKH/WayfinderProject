@@ -18,7 +18,7 @@ namespace WayfinderProject.Services.MemoryArchive
             "Interviews", "Games", "Participants", "Providers", "Translators"
         };
 
-        public InterviewService(HttpClient httpClient, IDataFilterStrategy<Interview<ScriptLine>, InterviewDialogueWrapper> filterStrategy)
+        public InterviewService(HttpClient httpClient, ISubDataFilterStrategy<Interview<ScriptLine>, InterviewDialogueWrapper> filterStrategy)
             : base(httpClient, filterStrategy) { }
 
         protected override IEnumerable<Interview<ScriptLine>> MapWrapperToData(

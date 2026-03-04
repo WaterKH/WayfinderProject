@@ -18,7 +18,7 @@ namespace WayfinderProject.Services.MemoryArchive
             "Trailers", "Areas", "Characters", "Games", "Music", "Worlds"
         };
 
-        public TrailerService(HttpClient httpClient, IDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper> filterStrategy)
+        public TrailerService(HttpClient httpClient, ISubDataFilterStrategy<Trailer<ScriptLine>, TrailerScriptWrapper> filterStrategy)
             : base(httpClient, filterStrategy) { }
 
         protected override IEnumerable<Trailer<ScriptLine>> MapWrapperToData(TrailerWrapper<Trailer<ScriptLine>> wrapper)

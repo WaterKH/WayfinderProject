@@ -6,7 +6,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
 namespace WayfinderProject.Domain.Strategies
 {
-    public class InteractionFilterStrategy : IDataFilterStrategy<Interaction<ScriptLine>, InteractionScriptWrapper>
+    public class InteractionFilterStrategy : ISubDataFilterStrategy<Interaction<ScriptLine>, InteractionScriptWrapper>
     {
         public IEnumerable<Interaction<ScriptLine>> Filter(IEnumerable<Interaction<ScriptLine>> data, FilterCriteria criteria)
         {
