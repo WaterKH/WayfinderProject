@@ -6,7 +6,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 namespace WayfinderProject.Services.MemoryArchive
 {
     public class TrailerService :
-        BaseDataService<
+        SubBaseDataService<
             Trailer<ScriptLine>,
             TrailerCriteria,
             ScriptLine,

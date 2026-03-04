@@ -21,7 +21,7 @@ namespace WayfinderProject.Domain.Factories
         }
 
         public async Task<TService?> CreateAsync<TService, T, TCriteria, TSubData, TSubDataWrapper, TWrapper>(string path)
-            where TService : BaseDataService<T, TCriteria, TSubData, TSubDataWrapper, TWrapper>
+            where TService : SubBaseDataService<T, TCriteria, TSubData, TSubDataWrapper, TWrapper>
             where T : BaseData<TSubData>, IFilterable
             where TCriteria : FilterCriteria, new()
             where TSubDataWrapper : BaseSubWrapper<TSubData>, new()

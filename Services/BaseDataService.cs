@@ -136,7 +136,7 @@ namespace WayfinderProject.Services
         }
     }
 
-    public abstract class BaseDataService<T, TCriteria, TSubData, TSubWrapper, TWrapper> : IBaseDataService
+    public abstract class SubBaseDataService<T, TCriteria, TSubData, TSubWrapper, TWrapper> : IBaseDataService
         where T : BaseData<TSubData>, IFilterable
         where TCriteria : FilterCriteria, new()
         where TSubWrapper : BaseSubWrapper<TSubData>, new()
@@ -153,7 +153,7 @@ namespace WayfinderProject.Services
 
         private Random random = new();
 
-        protected BaseDataService(HttpClient httpClient, ISubDataFilterStrategy<T, TSubWrapper> filterStrategy)
+        protected SubBaseDataService(HttpClient httpClient, ISubDataFilterStrategy<T, TSubWrapper> filterStrategy)
         {
             HttpClient = httpClient;
             FilterStrategy = filterStrategy;

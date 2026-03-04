@@ -5,8 +5,8 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 
 namespace WayfinderProject.Services.MemoryArchive
 {
-    public class SceneService : 
-        BaseDataService<
+    public class SceneService :
+        SubBaseDataService<
             Scene<ScriptLine>, 
             SceneCriteria,
             ScriptLine,

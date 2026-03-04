@@ -6,7 +6,7 @@ using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 namespace WayfinderProject.Services.MemoryArchive
 {
     public class InterviewService :
-        BaseDataService<
+        SubBaseDataService<
             Interview<ScriptLine>,
             InterviewCriteria,
             ScriptLine,
