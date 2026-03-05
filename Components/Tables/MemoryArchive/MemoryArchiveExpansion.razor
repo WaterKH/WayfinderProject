@@ -22,7 +22,18 @@
                             <h3 class="@(detail.Color)-color">
                                 <img src="images/icons/@(detail.Icon).png" class="detail-icon" /> @detail.Title
                             </h3>
-                            <label>@string.Join(", ", detail.Data)</label>
+
+                            @if (detail.Title != "Music")
+                            {
+                                <label>@string.Join(", ", detail.Data)</label>
+                            }
+                            else
+                            {
+                                foreach (var music in detail.Data)
+                                {
+                                    <a href="@GetMusicLink(music)" target="_blank">@music</a><br />
+                                }
+                            }
                         </div>
                     }
                 </div>
@@ -83,6 +94,7 @@
 
 @code {
     [Parameter] public TItem Item { get; set; } = default!;
+    [Parameter] public Dictionary<string, string> MusicLookup { get; set; } = default!;
     [Parameter] public Func<Task>? GenerateShareLink { get; set; }
 
     public string CurrentSubOption { get; set; } = "Details";
@@ -134,6 +146,14 @@
     {
         currentCharacter = (currentCharacter == name) ? "" : name;
         await SearchDialogue();
+    }
+
+    public string GetMusicLink(string music)
+    {
+        if (!MusicLookup.ContainsKey(music))
+            return string.Empty;
+
+        return MusicLookup[music];
     }
 
     private IEnumerable<(string Title, string Color, string Icon, IEnumerable<string> Data)> GetDetails() => new[]

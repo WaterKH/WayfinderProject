@@ -1,6 +1,7 @@
 ﻿@page "/memory_archive"
 @inject NavigationManager NavigationManager
 @inject DataServiceFactory ServiceFactory
+@inject HttpClient HttpClient
 
 @inject IJSRuntime JS
 @inject IToastService toastService
@@ -228,7 +229,7 @@ else
             <ExpansionTemplate Context="item">
                 @if (item is Interaction<ScriptLine> interaction)
                 {
-                    <MemoryArchiveExpansion TItem="Interaction<ScriptLine>" Item="interaction" />
+                    <MemoryArchiveExpansion TItem="Interaction<ScriptLine>" Item="interaction" MusicLookup="MusicLookup" />
                 }
                 else if (item is Interview<ScriptLine> interview)
                 {
@@ -236,11 +237,11 @@ else
                 }
                 else if (item is Scene<ScriptLine> scene)
                 {
-                    <MemoryArchiveExpansion TItem="Scene<ScriptLine>" Item="scene" />
+                    <MemoryArchiveExpansion TItem="Scene<ScriptLine>" Item="scene" MusicLookup="MusicLookup" />
                 }
                 else if (item is Trailer<ScriptLine> trailer)
                 {
-                    <MemoryArchiveExpansion TItem="Trailer<ScriptLine>" Item="trailer" />
+                    <MemoryArchiveExpansion TItem="Trailer<ScriptLine>" Item="trailer" MusicLookup="MusicLookup" />
                 }
                 else
                 {
@@ -280,6 +281,7 @@ else
     private IEnumerable<object> CurrentResults = new List<object>();
     private Dictionary<string, IBaseDataService?> ServiceMap = new();
     private IEnumerable<string>? OrderedOptions => ActiveService?.GetOrderedCategoryNames();
+    private Dictionary<string, string> MusicLookup = new();
 
     private record CategoryConfig(
         string Name,
@@ -321,6 +323,9 @@ else
             Loading = false; // Set this to false so that Search can occur
             await Search();
         }
+
+        var music = await Utilities.LoadJsonAsync<MusicWrapper>(HttpClient, "data/seed/_music.json");
+        MusicLookup = music.Music.ToDictionary(m => m.Name, m => m.Link);
 
         Loading = false;
     }
