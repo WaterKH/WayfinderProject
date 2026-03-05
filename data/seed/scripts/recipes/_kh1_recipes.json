@@ -2,9 +2,8 @@
     "Script": {
         "None": [
             {
-                "EnemyName": "None",
-                "DropRate": -1,
-                "AdditionalInformation": ""
+                "Name": "None",
+                "Amount": -1
             }
         ],
         "Mega-Potion": [
