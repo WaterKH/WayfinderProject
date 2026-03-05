@@ -647,6 +647,12 @@
     font-weight: 700;
 }
 
+.detail-icon[b-zi0sxv454i] {
+    width: 25px;
+    margin-right: 10px;
+    margin-top: -3px;
+}
+
 .details-pane[b-zi0sxv454i] {
     height: 100%;
     overflow-y: auto;
