@@ -1024,9 +1024,18 @@
 
 
 .info-detail-icon[b-h7e1y15eyk] {
-    width: 50px;
+    width: 35px;
     margin-right: 10px;
     margin-top: -3px;
+}
+
+
+.image-container[b-h7e1y15eyk] {
+    height: 523px;
+}
+
+.font-weight-700[b-h7e1y15eyk] {
+    font-weight: 700;
 }
 /* /Components/Tables/MoogleShop/RecipeExpansion.razor.rz.scp.css */
 
@@ -1147,9 +1156,18 @@
 
 
 .info-detail-icon[b-mks2uhlwzi] {
-    width: 50px;
+    width: 35px;
     margin-right: 10px;
     margin-top: -3px;
+}
+
+
+.image-container[b-mks2uhlwzi] {
+    height: 523px;
+}
+
+.font-weight-700[b-mks2uhlwzi] {
+    font-weight: 700;
 }
 /* /Components/Tooltip.razor.rz.scp.css */
 .tooltip-wrapper[b-syltoarwo7] {
@@ -1384,7 +1402,6 @@ span[b-syltoarwo7] {
 /* Referenced from https://stackoverflow.com/questions/15857006/drawing-a-folder-icon-with-css */
 .ma-folder[b-ksq4fjga5l] {
     width: 80%;
-    height: 550px;
     margin: 0 auto;
     margin-top: 60px;
     margin-bottom: 50px;
@@ -1408,7 +1425,6 @@ span[b-syltoarwo7] {
 
 .jj-folder[b-ksq4fjga5l] {
     width: 80%;
-    height: 550px;
     margin: 0 auto;
     margin-top: 60px;
     margin-bottom: 50px;
@@ -1432,7 +1448,6 @@ span[b-syltoarwo7] {
 
 .ms-folder[b-ksq4fjga5l] {
     width: 80%;
-    height: 550px;
     margin: 0 auto;
     margin-top: 60px;
     margin-bottom: 50px;
@@ -1475,6 +1490,7 @@ span[b-syltoarwo7] {
 }
 
 .folder-image[b-ksq4fjga5l] {
+    text-align: center;
     width: 100%;
     background: rgba(0, 0, 0, 0);
     transform: scale(1);
