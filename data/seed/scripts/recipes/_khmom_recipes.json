@@ -1,5 +1,5 @@
 {
-    "Script": {
+    "MaterialsNeeded": {
         "None": [
             {
                 "Name": "None",
@@ -815,6 +815,6 @@
                 "Name": "Mythril Shard",
                 "Amount": 5
             }
-        ]   
+        ]
     }
 }

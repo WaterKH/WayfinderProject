@@ -1021,6 +1021,13 @@
         outline: none;
         border: 2px solid #2888ff;
     }
+
+
+.info-detail-icon[b-h7e1y15eyk] {
+    width: 50px;
+    margin-right: 10px;
+    margin-top: -3px;
+}
 /* /Components/Tables/MoogleShop/RecipeExpansion.razor.rz.scp.css */
 
 .expansion-row[b-mks2uhlwzi] {
@@ -1137,6 +1144,13 @@
         outline: none;
         border: 2px solid #2888ff;
     }
+
+
+.info-detail-icon[b-mks2uhlwzi] {
+    width: 50px;
+    margin-right: 10px;
+    margin-top: -3px;
+}
 /* /Components/Tooltip.razor.rz.scp.css */
 .tooltip-wrapper[b-syltoarwo7] {
     position: absolute;
