@@ -21,7 +21,11 @@ namespace WayfinderProject.Domain.Strategies.MemoryArchive
                 !Utilities.FilterFailed(interactionCriteria.Characters, interaction.Characters) &&
                 !Utilities.FilterFailed(interactionCriteria.Music, interaction.Music) &&
                 !Utilities.FilterFailed(interactionCriteria.Worlds, interaction.Worlds) &&
-                (interactionCriteria.Games.Count == 0 || interactionCriteria.Games.Contains(interaction.Game))
+                !Utilities.FilterFailed(interactionCriteria.Games, [interaction.Game]) &&
+                (
+                    string.IsNullOrEmpty(interactionCriteria.SearchTerm) ||
+                    interaction.SubData.Any(line => line.Line.Contains(interactionCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase))
+                )
             );
         }
 

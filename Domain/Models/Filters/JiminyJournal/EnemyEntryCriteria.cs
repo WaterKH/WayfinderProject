@@ -6,6 +6,7 @@
 
 
         public override bool IsActive => EnemyEntries.Count > 0 || Characters.Count > 0 || 
-                                         Worlds.Count > 0 || Games.Count > 0;
+                                         Worlds.Count > 0 || Games.Count > 0 ||
+                                         !string.IsNullOrEmpty(SearchTerm);
     }
 }

@@ -10,15 +10,20 @@ namespace WayfinderProject.Domain.Strategies.MoogleShop
     {
         public IEnumerable<Recipe> Filter(IEnumerable<Recipe> data, FilterCriteria criteria)
         {
-            if (criteria is not RecipeCriteria sceneCriteria || !sceneCriteria.IsActive)
+            if (criteria is not RecipeCriteria recipeCriteria || !recipeCriteria.IsActive)
             {
                 return data;
             }
 
-            return data.Where(scene =>
-                !Utilities.FilterFailed(sceneCriteria.Recipes, [scene.Name]) &&
-                !Utilities.FilterFailed(sceneCriteria.Categories, [scene.Category]) &&
-                (sceneCriteria.Games.Count == 0 || sceneCriteria.Games.Contains(scene.Game))
+            return data.Where(recipe =>
+                !Utilities.FilterFailed(recipeCriteria.Recipes, [recipe.Name]) &&
+                !Utilities.FilterFailed(recipeCriteria.Categories, [recipe.Category]) &&
+                !Utilities.FilterFailed(recipeCriteria.Games, [recipe.Game]) &&
+                (
+                    string.IsNullOrEmpty(recipeCriteria.SearchTerm) || 
+                    recipe.SubData.Any(item => item.Name.Contains(recipeCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                    recipe.UnlockConditionDescription.Contains(recipeCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase)
+                )
             );
         }
 

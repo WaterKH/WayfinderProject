@@ -7,6 +7,7 @@
         public List<string> Currencies { get; set; } = new();
 
         public override bool IsActive => Inventory.Count > 0 || Categories.Count > 0 || 
-                                        Costs.Count > 0 || Currencies.Count > 0 || Games.Count > 0;
+                                         Costs.Count > 0 || Currencies.Count > 0 || Games.Count > 0 ||
+                                         !string.IsNullOrEmpty(SearchTerm);
     }
 }

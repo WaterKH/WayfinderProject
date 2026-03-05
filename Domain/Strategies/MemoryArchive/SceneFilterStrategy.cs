@@ -1,4 +1,5 @@
-﻿using WayfinderProject.Domain.Interfaces;
+﻿using Microsoft.VisualBasic;
+using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.Filters;
 using WayfinderProject.Domain.Models.Filters.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive;
@@ -21,7 +22,11 @@ namespace WayfinderProject.Domain.Strategies.MemoryArchive
                 !Utilities.FilterFailed(sceneCriteria.Characters, scene.Characters) &&
                 !Utilities.FilterFailed(sceneCriteria.Music, scene.Music) &&
                 !Utilities.FilterFailed(sceneCriteria.Worlds, scene.Worlds) &&
-                (sceneCriteria.Games.Count == 0 || sceneCriteria.Games.Contains(scene.Game))
+                !Utilities.FilterFailed(sceneCriteria.Games, [scene.Game]) &&
+                (
+                    string.IsNullOrEmpty(sceneCriteria.SearchTerm) ||
+                    scene.SubData.Any(line => line.Line.Contains(sceneCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase))
+                )
             );
         }
 

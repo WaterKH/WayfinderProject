@@ -1,8 +1,10 @@
 ﻿using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.Filters;
 using WayfinderProject.Domain.Models.Filters.MemoryArchive;
+using WayfinderProject.Domain.Models.Filters.MoogleShop;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
+using WayfinderProject.Domain.Models.MoogleShop;
 
 namespace WayfinderProject.Domain.Strategies.MemoryArchive
 {
@@ -21,7 +23,11 @@ namespace WayfinderProject.Domain.Strategies.MemoryArchive
                 !Utilities.FilterFailed(trailerCriteria.Characters, trailer.Characters) &&
                 !Utilities.FilterFailed(trailerCriteria.Music, trailer.Music) &&
                 !Utilities.FilterFailed(trailerCriteria.Worlds, trailer.Worlds) &&
-                (trailerCriteria.Games.Count == 0 || trailerCriteria.Games.Contains(trailer.Game))
+                !Utilities.FilterFailed(trailerCriteria.Games, [trailer.Game]) &&
+                (
+                    string.IsNullOrEmpty(trailerCriteria.SearchTerm) ||
+                    trailer.SubData.Any(line => line.Line.Contains(trailerCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase))
+                )
             );
         }
 

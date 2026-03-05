@@ -1,4 +1,5 @@
-﻿using WayfinderProject.Domain.Interfaces;
+﻿using Microsoft.VisualBasic;
+using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.Filters;
 using WayfinderProject.Domain.Models.Filters.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive;
@@ -20,7 +21,11 @@ namespace WayfinderProject.Domain.Strategies.MemoryArchive
                 !Utilities.FilterFailed(interviewCriteria.Participants, interview.Participants) &&
                 !Utilities.FilterFailed(interviewCriteria.Providers, [interview.Provider]) &&
                 !Utilities.FilterFailed(interviewCriteria.Translators, [interview.Translator]) &&
-                (interviewCriteria.Games.Count == 0 || interviewCriteria.Games.Contains(interview.Game))
+                !Utilities.FilterFailed(interviewCriteria.Games, [interview.Game]) &&
+                (
+                    string.IsNullOrEmpty(interviewCriteria.SearchTerm) ||
+                    interview.SubData.Any(line => line.Line.Contains(interviewCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase))
+                )
             );
         }
 

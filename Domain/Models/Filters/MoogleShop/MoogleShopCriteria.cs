@@ -4,6 +4,7 @@
     {
         public List<string> Categories { get; set; } = new();
 
-        public virtual bool IsActive => Categories.Count > 0 || Games.Count > 0;
+        public virtual bool IsActive => Categories.Count > 0 || Games.Count > 0 ||
+                                        !string.IsNullOrEmpty(SearchTerm);
     }
 }

@@ -10,17 +10,24 @@ namespace WayfinderProject.Domain.Strategies.MoogleShop
     {
         public IEnumerable<Inventory> Filter(IEnumerable<Inventory> data, FilterCriteria criteria)
         {
-            if (criteria is not InventoryCriteria sceneCriteria || !sceneCriteria.IsActive)
+            if (criteria is not InventoryCriteria inventoryCriteria || !inventoryCriteria.IsActive)
             {
                 return data;
             }
 
-            return data.Where(scene =>
-                !Utilities.FilterFailed(sceneCriteria.Inventory, [scene.Name]) &&
-                !Utilities.FilterFailed(sceneCriteria.Categories, [scene.Category]) &&
-                !Utilities.FilterFailed(sceneCriteria.Currencies, [scene.Currency]) &&
-                !Utilities.FilterFailed(sceneCriteria.Costs, [scene.Cost.ToString()]) &&
-                (sceneCriteria.Games.Count == 0 || sceneCriteria.Games.Contains(scene.Game))
+            return data.Where(inventory =>
+                !Utilities.FilterFailed(inventoryCriteria.Inventory, [inventory.Name]) &&
+                !Utilities.FilterFailed(inventoryCriteria.Categories, [inventory.Category]) &&
+                !Utilities.FilterFailed(inventoryCriteria.Currencies, [inventory.Currency]) &&
+                !Utilities.FilterFailed(inventoryCriteria.Costs, [inventory.Cost.ToString()]) &&
+                !Utilities.FilterFailed(inventoryCriteria.Games, [inventory.Game]) &&
+                (
+                    string.IsNullOrEmpty(inventoryCriteria.SearchTerm) ||
+                    inventory.SubData.Any(item => item.AdditionalInformation.Contains(inventoryCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase) ||
+                                                    item.EnemyName.Contains(inventoryCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                    inventory.Description.Contains(inventoryCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase) ||
+                    inventory.AdditionalInformation.Contains(inventoryCriteria.SearchTerm, StringComparison.OrdinalIgnoreCase)
+                )
             );
         }
 

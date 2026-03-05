@@ -42,7 +42,7 @@
                             <input id="main-search"
                                    class="custom-input"
                                    value="@ActiveService?.State.SearchTerm"
-                                   @oninput="HandleSearchInput"
+                                   @onchange="HandleSearchInput"
                                    placeholder="Search for a Word, Phrase or Quote...">
 
                             @* <button class="wayfinder-search-button" @onclick="Search">Search</button> *@
@@ -133,7 +133,7 @@ else
             <input id="main-search-alt"
                    class="custom-input"
                    value="@ActiveService?.State.SearchTerm"
-                   @oninput="HandleSearchInput"
+                   @onchange="HandleSearchInput"
                    placeholder="Start Typing...">
 
             @* @if (!this.IsMobile)

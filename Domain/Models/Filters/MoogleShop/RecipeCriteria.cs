@@ -4,6 +4,7 @@
     {
         public List<string> Recipes { get; set; } = new();
 
-        public override bool IsActive => Recipes.Count > 0 || Categories.Count > 0 || Games.Count > 0;
+        public override bool IsActive => Recipes.Count > 0 || Categories.Count > 0 || Games.Count > 0 ||
+                                         !string.IsNullOrEmpty(SearchTerm);
     }
 }

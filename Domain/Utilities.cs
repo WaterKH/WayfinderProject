@@ -162,46 +162,70 @@ namespace WayfinderProject.Domain
                 });
             }
 
+            //foreach (var rule in rules)
+            //{
+            //    if (state.Selected.TryGetValue(rule.Id, out var selected) && selected.Any())
+            //    {
+            //        filteredPool = filteredPool.Where(item =>
+            //            selected.All(s => rule.Selector(item).Contains(s)));
+            //    }
+            //}
+
+            //foreach (var rule in rules)
+            //{
+            //    var resultsInPool = filteredPool
+            //        .SelectMany(rule.Selector)
+            //        .Distinct()
+            //        .OrderBy(s => s)
+            //        .ToList();
+
+            //    state.Available[rule.Id] = resultsInPool;
+
+            //    if (state.Selected.ContainsKey(rule.Id))
+            //    {
+            //        state.Selected[rule.Id] = state.Selected[rule.Id]
+            //            .Intersect(resultsInPool)
+            //            .ToList();
+            //    }
+            //}
+
+            //foreach (var rule in rules)
+            //{
+            //    var resultsInPool = filteredPool
+            //        .SelectMany(rule.Selector)
+            //        .Distinct()
+            //        .ToList();
+
+            //    var currentlySelected = state.Selected.ContainsKey(rule.Id)
+            //        ? state.Selected[rule.Id]
+            //        : new List<string>();
+
+            //    state.Available[rule.Id] = resultsInPool
+            //        .Except(currentlySelected)
+            //        .OrderBy(s => s)
+            //        .ToList();
+            //}
+
+            filteredPool = rules.Aggregate(filteredPool, (current, rule) =>
+                state.Selected.TryGetValue(rule.Id, out var selected) && selected.Any()
+                    ? current.Where(item => selected.All(s => rule.Selector(item).Contains(s)))
+                    : current);
+
+            // 2. Update Available and Selected lists in one pass
             foreach (var rule in rules)
             {
-                if (state.Selected.TryGetValue(rule.Id, out var selected) && selected.Any())
+                var resultsInPool = filteredPool.SelectMany(rule.Selector).Distinct().ToList();
+                var id = rule.Id;
+
+                // Update Selected: Keep only what's still available in the filtered pool
+                if (state.Selected.TryGetValue(id, out var selected))
                 {
-                    filteredPool = filteredPool.Where(item =>
-                        selected.All(s => rule.Selector(item).Contains(s)));
+                    state.Selected[id] = selected.Intersect(resultsInPool).ToList();
                 }
-            }
 
-            foreach (var rule in rules)
-            {
-                var resultsInPool = filteredPool
-                    .SelectMany(rule.Selector)
-                    .Distinct()
-                    .OrderBy(s => s)
-                    .ToList();
-
-                state.Available[rule.Id] = resultsInPool;
-
-                if (state.Selected.ContainsKey(rule.Id))
-                {
-                    state.Selected[rule.Id] = state.Selected[rule.Id]
-                        .Intersect(resultsInPool)
-                        .ToList();
-                }
-            }
-
-            foreach (var rule in rules)
-            {
-                var resultsInPool = filteredPool
-                    .SelectMany(rule.Selector)
-                    .Distinct()
-                    .ToList();
-
-                var currentlySelected = state.Selected.ContainsKey(rule.Id)
-                    ? state.Selected[rule.Id]
-                    : new List<string>();
-
-                state.Available[rule.Id] = resultsInPool
-                    .Except(currentlySelected)
+                // Update Available: Results in pool minus what is currently selected, sorted
+                state.Available[id] = resultsInPool
+                    .Except(state.Selected.GetValueOrDefault(id) ?? [])
                     .OrderBy(s => s)
                     .ToList();
             }
