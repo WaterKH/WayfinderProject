@@ -27,6 +27,12 @@
     margin-top: -3px;
 }
 
+.info-detail-icon {
+    width: 50px;
+    margin-right: 10px;
+    margin-top: -3px;
+}
+
 .details-pane {
     height: 100%;
     overflow-y: auto;
