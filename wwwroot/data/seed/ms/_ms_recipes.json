@@ -4,705 +4,167 @@
             {
                 "Name": "Mega-Potion",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Spirit Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Power Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Cottage",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Bright Shard",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Mega-Ether",
                 "Category": "Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Thunder Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items."
             },
             {
                 "Name": "AP Up",
                 "Category": "Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Gem",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Frost Gem",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Thunder Gem",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Mythril",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items."
             },
             {
                 "Name": "Elixir",
                 "Category": "Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Power Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Shiny Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Bright Crystal",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Orichalcum",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items."
             },
             {
                 "Name": "Defense Up",
                 "Category": "Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Bright Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Bright Gem",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Power Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Orichalcum",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items."
             },
             {
                 "Name": "Megalixir",
                 "Category": "Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Lucid Crystal",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Gale",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Dark Matter",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items."
             },
             {
                 "Name": "Power Up",
                 "Category": "Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Spirit Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Spirit Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Power Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Power Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Dark Matter",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items."
             },
             {
                 "Name": "Energy Bangle",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Spirit Shard",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Bright Shard",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Power Chain",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Power Shard",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Magic Armlet",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Thunder Shard",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "EXP Earring",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Fury Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Power Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Serenity Power",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Dark Matter",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Guard Earring",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Bright Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items."
             },
             {
                 "Name": "Angel Bangle",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Thunder Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Bright Gem",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items."
             },
             {
                 "Name": "Golem Chain",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Shard",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Spirit Gem",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items."
             },
             {
                 "Name": "Rune Armlet",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Frost Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Thunder Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items."
             },
             {
                 "Name": "Moogle Badge",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Frost Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Lightning Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Orichalcum",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 2 by synthesizing 3 items."
             },
             {
                 "Name": "Dark Ring",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 2
-                    },
-                    {
-                        "Name": "Bright Gem",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items."
             },
             {
                 "Name": "Master Earring",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Spirit Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Spirit Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Fury Stone",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items."
             },
             {
                 "Name": "Gaia Bangle",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Lightning Stone",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items."
             },
             {
                 "Name": "Titan Chain",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Power Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Power Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Power Stone",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items."
             },
             {
                 "Name": "Heartguard",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Lucid Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Bright Crystal",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items."
             },
             {
                 "Name": "Three Stars",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Power Gem",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Mystery Goo",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Shiny Crystal",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items."
             },
             {
                 "Name": "Atlas Armlet",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Thunder Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Mystery Goo",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Dark Matter",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items."
             },
             {
                 "Name": "Crystal Crown",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Power Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Shiny Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Blazing Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Frost Stone",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 4 by synthesizing 15 items."
             },
             {
                 "Name": "Cosmic Arts",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Bright Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Bright Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Bright Crystal",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril Stone",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items."
             },
             {
                 "Name": "EXP Bracelet",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Energy Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Dazzling Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Stormy Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Orichalcum",
-                        "Amount": 8
-                    },
-                    {
-                        "Name": "Dark Matter",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items."
             },
             {
                 "Name": "Ribbon",
                 "Category": "Accessory",
-                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blaze Gem",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Frost Gem",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Thunder Gem",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Gale",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Serenity Power",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items."
             },
             {
                 "Name": "Mythril",
                 "Category": "Synthesis Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Mythril Stone",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mystery Goo",
-                        "Amount": 1
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 3 by synthesizing 9 items."
             },
             {
                 "Name": "Dark Matter",
                 "Category": "Synthesis Item",
-                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 9
-                    },
-                    {
-                        "Name": "Gale",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 5 by synthesizing 21 items."
             },
             {
                 "Name": "Fantasista",
                 "Category": "Staff",
-                "UnlockConditionDescription": "Unlock Synthesis Set 6 by synthesizing 30 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Fury Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Power Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Mythril Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Energy Stone",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 6 by synthesizing 30 items."
             },
             {
                 "Name": "Seven Elements",
                 "Category": "Shield",
-                "UnlockConditionDescription": "Unlock Synthesis Set 6 by synthesizing 30 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Frost Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Lightning Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Dazzling Stone",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 6 by synthesizing 30 items."
             },
             {
                 "Name": "Ultima Weapon",
                 "Category": "Keyblade",
-                "UnlockConditionDescription": "Unlock Synthesis Set 6 by synthesizing 30 items.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Thunder Gem",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Mystery Goo",
-                        "Amount": 5
-                    },
-                    {
-                        "Name": "Serenity Power",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Stormy Stone",
-                        "Amount": 3
-                    },
-                    {
-                        "Name": "Dark Matter",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Unlock Synthesis Set 6 by synthesizing 30 items."
             }
         ],
         "Kingdom Hearts Re:Chain of Memories": [],
@@ -717,1377 +179,567 @@
             {
                 "Name": "Potion",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 6
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Mega-Potion",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 4
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 4
-                    },
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Item Boost",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 16
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "EXP Boost",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Summoning Star",
                 "Category": "Item",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 7
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 7
-                    },
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Sora” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Sora” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 27
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Riku” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Riku” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 36
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Kairi I” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Kairi I” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 27
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Roxas” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Roxas” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 27
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Naminé” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Naminé” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 36
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Musique pour la tristesse de Xion” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Musique pour la tristesse de Xion” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 45
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Terra” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Terra” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 33
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Ventus” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Ventus” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 33
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Aqua” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Aqua” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 28
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Another Side” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Another Side” Field Battle MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 28
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Fate of the Unknown” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Fate of the Unknown” Field Battle MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 74
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“CALLING -KINGDOM MIX-” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“CALLING -KINGDOM MIX-” Field Battle MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 65
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“A Whole New World” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“A Whole New World” Field Battle MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 56
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Beauty and the Beast” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Beauty and the Beast” Field Battle MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 56
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Circle Of Life” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Circle Of Life” Field Battle MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 98
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Part of Your World” Memory Dive MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "“Part of Your World” Memory Dive MS Material",
-                        "Amount": 1
-                    },
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 78
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Hand in Hand” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 35
-                    },
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 25
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Working Together - Allegro vivace” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 44
-                    },
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 32
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Sora - Allegro con brio” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 30
-                    },
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 21
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Medley of Conflict” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 27
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 28
-                    },
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 27
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "“Destati” Field Battle MS",
                 "Category": "Music Stage Key",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 27
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 28
-                    },
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 27
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Princesses & New Seven Hearts",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 58
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Characters",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 25
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Organization XIII",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 60
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Villains",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 43
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Characters (Illustrated)",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 22
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Characters (Stylized)",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 63
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Characters (KH III)",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 56
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Special A",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 20
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Special B",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 20
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Special C",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 14
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Special D",
                 "Category": "ProfiCard Icon",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 10
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Key Art A",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Key Art B",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 11
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Key Art C",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Station of Awakening",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Story Scene A",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Story Scene B",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 11
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Story Scene C",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 8
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Story Scene D",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Character A",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Character B",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 11
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Character C",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Character D",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Character E",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Enemy A",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Enemy B",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 11
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Enemy C",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 8
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Enemy D",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Keyblade A",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Keyblade B",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 11
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Keyblade C",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Keyblade D",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 7
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Key Art No. 1 - 20",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Key Art No. 21 - 40",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Key Art No. 41 - 61",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Station of Awakening No. 1 - 23",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 1 - 20",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 21 - 40",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 41 - 60",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 61 - 80",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 81 - 100",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 101 - 120",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Story Scene No. 121 - 130",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 1 - 30",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 31 - 60",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 61 - 90",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 91 - 120",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 121 - 150",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 151 - 180",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 181 - 210",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 211 - 240",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 241 - 270",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 271 - 300",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Character No. 301 - 321",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Enemy No. 1 - 30",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Enemy No. 31 - 60",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Enemy No. 61 - 90",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Enemy No. 91 - 120",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Enemy No. 121 - 150",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Enemy No. 151 - 193",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Keyblade No. 1 -20",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Keyblade No. 21 - 40",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Keyblade No. 41 - 60",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Keyblade No. 61 - 80",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Keyblade No. 81 - 100",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Keyblade No. 101 - 125",
                 "Category": "Collector’s Card",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Soothing Crystal",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 2.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Gem",
-                        "Amount": 7
-                    },
-                    {
-                        "Name": "Pulsing Gem",
-                        "Amount": 9
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 2."
             },
             {
                 "Name": "Soothing Crystal (Alt.)",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 15
-                    },
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 16
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Wellspring Crystal",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 4.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Gem",
-                        "Amount": 17
-                    },
-                    {
-                        "Name": "Betwixt Gem",
-                        "Amount": 12
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 4."
             },
             {
                 "Name": "Wellspring Crystal (Alt.)",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 24
-                    },
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 23
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Hungry Crystal",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 6.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Gem",
-                        "Amount": 12
-                    },
-                    {
-                        "Name": "Mythril Gem",
-                        "Amount": 11
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 6."
             },
             {
                 "Name": "Hungry Crystal (Alt.)",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 8.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 23
-                    },
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 23
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 8."
             },
             {
                 "Name": "Blazing Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Frost Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Frost Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lightning Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Lightning Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Blazing Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": ""
             },
             {
                 "Name": "Lucid Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 3.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 3."
             },
             {
                 "Name": "Pulsing Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 5.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 3
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 5."
             },
             {
                 "Name": "Writhing Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 5.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 5."
             },
             {
                 "Name": "Betwixt Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 7.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 7."
             },
             {
                 "Name": "Twilight Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 7.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 7."
             },
             {
                 "Name": "Mythril Shard",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 7.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 2
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 7."
             },
             {
                 "Name": "Lucid Gem",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 3.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Lucid Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 3."
             },
             {
                 "Name": "Pulsing Gem",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 5.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Pulsing Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 5."
             },
             {
                 "Name": "Writhing Gem",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 5.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Writhing Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 5."
             },
             {
                 "Name": "Betwixt Gem",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 7.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Betwixt Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 7."
             },
             {
                 "Name": "Twilight Gem",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 7.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Twilight Shard",
-                        "Amount": 4
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 7."
             },
             {
                 "Name": "Mythril Gem",
                 "Category": "Synthesis Material",
-                "UnlockConditionDescription": "Get the Moogle to level 7.",
-                "MaterialsNeeded": [
-                    {
-                        "Name": "Mythril Shard",
-                        "Amount": 5
-                    }
-                ]
+                "UnlockConditionDescription": "Get the Moogle to level 7."
             }
         ]
     }

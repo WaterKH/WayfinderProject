@@ -6,6 +6,7 @@ using WayfinderProject.Domain.Models;
 using WayfinderProject.Domain.Models.Filters;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
+using WayfinderProject.Domain.Models.MoogleShop;
 
 namespace WayfinderProject.Domain
 {
@@ -92,6 +93,11 @@ namespace WayfinderProject.Domain
                 path = $"data/seed/scripts/scenes/{code}_lines.json";
             else if (item is Trailer<ScriptLine>)
                 path = $"data/seed/scripts/trailers/{code}_trailers.json";
+
+            else if (item is Inventory)
+                path = $"data/seed/scripts/inventory/{code}_inventory.json";
+            else if (item is Recipe)
+                path = $"data/seed/scripts/recipes/{code}_recipes.json";
 
             return path;
         }
