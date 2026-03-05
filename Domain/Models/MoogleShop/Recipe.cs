@@ -1,5 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 using WayfinderProject.Domain.Interfaces;
+using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 using WayfinderProject.Domain.Models.MoogleShop.SubData;
 
 namespace WayfinderProject.Domain.Models.MoogleShop
@@ -16,7 +17,12 @@ namespace WayfinderProject.Domain.Models.MoogleShop
 
         public bool ContainsText(string term, IEnumerable<object> data)
         {
-            throw new NotImplementedException();
+            var materials = data.Cast<Material>();
+
+            return UnlockConditionDescription.Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                    materials.Any(material =>
+                        material.Name.Contains(term, StringComparison.OrdinalIgnoreCase)
+                    );
         }
     }
 }

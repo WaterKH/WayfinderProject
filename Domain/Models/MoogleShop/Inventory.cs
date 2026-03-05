@@ -19,7 +19,13 @@ namespace WayfinderProject.Domain.Models.MoogleShop
 
         public bool ContainsText(string term, IEnumerable<object> data)
         {
-            throw new NotImplementedException();
+            var items = data.Cast<Material>();
+
+            return Description.Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                    AdditionalInformation.Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                    items.Any(item =>
+                        item.Name.Contains(term, StringComparison.OrdinalIgnoreCase)
+                    );
         }
     }
 }
