@@ -4,10 +4,8 @@ using System.Text.Json;
 using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models;
 using WayfinderProject.Domain.Models.Filters;
-using WayfinderProject.Domain.Models.JiminyJournal;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WayfinderProject.Domain
 {
