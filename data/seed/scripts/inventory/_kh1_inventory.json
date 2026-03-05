@@ -562,344 +562,342 @@
                 "AdditionalInformation": "If the twenty-fourth and thirtieth enemy is defeated"
             }
         ],
-        {
-            "Power Crystal": [
-                {
-                    "EnemyName": "Wyvern",
-                    "DropRate": 2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Energy Stone": [
-                {
-                    "EnemyName": "Stealth Soldier",
-                    "DropRate": 35,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Spirit Shard": [
-                {
-                    "EnemyName": "Large Body",
-                    "DropRate": 12,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "Soldier",
-                    "DropRate": 8,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 100,
-                    "AdditionalInformation": "If the third spell is Aero."
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 40,
-                    "AdditionalInformation": "If summoned in Neverland and after the second time gauge is filled."
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 60,
-                    "AdditionalInformation": "If summoned in Neverland and after the third time gauge is filled."
-                }
-            ],
-            "Fury Stone": [
-                {
-                    "EnemyName": "Gigas Shadow",
-                    "DropRate": 10,
-                    "AdditionalInformation": "If first time defeated"
-                },
-                {
-                    "EnemyName": "Gigas Shadow",
-                    "DropRate": 20,
-                    "AdditionalInformation": "If second time defeated"
-                },
-                {
-                    "EnemyName": "Gigas Shadow",
-                    "DropRate": 35,
-                    "AdditionalInformation": "If third time defeated"
-                },
-                {
-                    "EnemyName": "Gigas Shadow",
-                    "DropRate": 50,
-                    "AdditionalInformation": "If fourth time defeated"
-                },
-                {
-                    "EnemyName": "Gigas Shadow",
-                    "DropRate": 100,
-                    "AdditionalInformation": "If fifth, sixth or seventh time defeated"
-                }
-            ],
-            "Spirit Gem": [
-                {
-                    "EnemyName": "Air Soldier",
-                    "DropRate": 4,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 10,
-                    "AdditionalInformation": "If the third spell is Aero."
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 40,
-                    "AdditionalInformation": "If all three spells are Aero."
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 30,
-                    "AdditionalInformation": "If summoned in Neverland and after the third time gauge is filled."
-                }
-            ],
-            "Bright Shard": [
-                {
-                    "EnemyName": "Green Requiem",
-                    "DropRate": 10,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 100,
-                    "AdditionalInformation": "If the third spell is Cure."
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 40,
-                    "AdditionalInformation": "If summoned in Agrabah and after the second time gauge is filled."
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 60,
-                    "AdditionalInformation": "If summoned in Agrabah and after the third time gauge is filled."
-                }
-            ],
-            "Bright Gem": [
-                {
-                    "EnemyName": "Search Ghost",
-                    "DropRate": 4,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 10,
-                    "AdditionalInformation": "If the third spell is Cure."
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 40,
-                    "AdditionalInformation": "If all three spells are Cure."
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 30,
-                    "AdditionalInformation": "If summoned in Agrabah and after the third time gauge is filled."
-                }
-            ],
-            "Bright Crystal": [
-                {
-                    "EnemyName": "Defender",
-                    "DropRate": 2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Dazzling Stone": [
-                {
-                    "EnemyName": "Jet Balloon",
-                    "DropRate": 2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Shiny Crystal": [
-                {
-                    "EnemyName": "Wizard",
-                    "DropRate": 2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Mythril Shard": [
-                {
-                    "EnemyName": "Barrel Spider",
-                    "DropRate": 1,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "Arch Behemoth",
-                    "DropRate": 20,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "Pot Scorpion",
-                    "DropRate": 20,
-                    "AdditionalInformation": "After breaking all 11 pots"
-                },
-                {
-                    "EnemyName": "Pot Spider",
-                    "DropRate": 1,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 20,
-                    "AdditionalInformation": "If summoned in End of the World and after the second/third time gauge is filled."
-                }
-            ],
-            "Mythril": [
-                {
-                    "EnemyName": "Bambi",
-                    "DropRate": 10,
-                    "AdditionalInformation": "If summoned in End of the World and after the third time gauge is filled."
-                }
-            ],
-            "Mythril Stone": [
-                {
-                    "EnemyName": "Pot Scorpion",
-                    "DropRate": 10,
-                    "AdditionalInformation": "After eleventh pot destroyed"
-                },
-                {
-                    "EnemyName": "Pot Scorpion",
-                    "DropRate": 20,
-                    "AdditionalInformation": "If less than 11 pots are broken"
-                },
-                {
-                    "EnemyName": "Pot Scorpion",
-                    "DropRate": 35,
-                    "AdditionalInformation": "After breaking all 11 pots"
-                }
-            ],
-            "Mystery Goo": [
-                {
-                    "EnemyName": "Rare Truffle",
-                    "DropRate": 10,
-                    "AdditionalInformation": "If juggled 10 times."
-                },
-                {
-                    "EnemyName": "Rare Truffle",
-                    "DropRate": 40,
-                    "AdditionalInformation": "If juggled 50 times."
-                },
-                {
-                    "EnemyName": "Rare Truffle",
-                    "DropRate": 100,
-                    "AdditionalInformation": "If juggled 100 times."
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 10,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "White Mushroom",
-                    "DropRate": 20,
-                    "AdditionalInformation": "If any spell is cast three times."
-                },
-                {
-                    "EnemyName": "Black Fungus",
-                    "DropRate": 20,
-                    "AdditionalInformation": "If defeated with a combo finisher."
-                }
-            ],
-            "Serenity Power": [
-                {
-                    "EnemyName": "Pink Agaricus",
-                    "DropRate": 10,
-                    "AdditionalInformation": "If hit 40 times."
-                },
-                {
-                    "EnemyName": "Pink Agaricus",
-                    "DropRate": 20,
-                    "AdditionalInformation": "If hit 70 times."
-                },
-                {
-                    "EnemyName": "Pink Agaricus",
-                    "DropRate": 100,
-                    "AdditionalInformation": "If hit 100 times."
-                }
-            ],
-            "Gale": [
-                {
-                    "EnemyName": "Angel Star",
-                    "DropRate": 6,
-                    "AdditionalInformation": ""
-                },
-                {
-                    "EnemyName": "Invisible",
-                    "DropRate": 6,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Stormy Stone": [
-                {
-                    "EnemyName": "Neoshadow",
-                    "DropRate": 2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Orichalcum": [],
-            "Dark Matter": [],
-            "Wooden Sword": [],
-            "Kingdom Key": [],
-            "Jungle King": [],
-            "Three Wishes": [],
-            "Wishing Star": [],
-            "Spellbinder": [],
-            "Crabclaw": [],
-            "Pumpkinhead": [],
-            "Fairy Harp": [],
-            "Metal Chocobo": [],
-            "Olympia": [],
-            "Lady Luck": [],
-            "Oblivion": [],
-            "Divine Rose": [],
-            "Oathkeeper": [],
-            "Lionheart": [],
-            "Diamond Dust": [],
-            "One-Winged Angel": [],
-            "Ultima Weapon": [],
-            "Mage's Staff": [],
-            "Morning Star": [],
-            "Warhammer": [],
-            "Shooting Star": [],
-            "Magus Staff": [],
-            "Silver Mallet": [],
-            "Wisdom Staff": [],
-            "Grand Mallet": [],
-            "Wizard's Relic": [
-                {
-                    "EnemyName": "Wizard",
-                    "DropRate": 0.2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Lord Fortune": [],
-            "Violetta": [],
-            "Dream Rod": [],
-            "Save the Queen": [],
-            "Meteor Strike": [],
-            "Fantasista": [],
-            "Knight’s Shield": [],
-            "Smasher": [],
-            "Stout Shield": [],
-            "Mythril Shield": [],
-            "Gigas Fist": [],
-            "Golem Shield": [],
-            "Onyx Shield": [],
-            "Adamant Shield": [],
-            "Dream Shield": [],
-            "Herc's Shield": [],
-            "Defender": [
-                {
-                    "EnemyName": "Defender",
-                    "DropRate": 0.2,
-                    "AdditionalInformation": ""
-                }
-            ],
-            "Genji Shield": [],
-            "Save the King": [],
-            "Mighty Shield": [],
-            "Seven Elements": []
-        }
+        "Power Crystal": [
+            {
+                "EnemyName": "Wyvern",
+                "DropRate": 2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Energy Stone": [
+            {
+                "EnemyName": "Stealth Soldier",
+                "DropRate": 35,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Spirit Shard": [
+            {
+                "EnemyName": "Large Body",
+                "DropRate": 12,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Soldier",
+                "DropRate": 8,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Aero."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 40,
+                "AdditionalInformation": "If summoned in Neverland and after the second time gauge is filled."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 60,
+                "AdditionalInformation": "If summoned in Neverland and after the third time gauge is filled."
+            }
+        ],
+        "Fury Stone": [
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 10,
+                "AdditionalInformation": "If first time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 20,
+                "AdditionalInformation": "If second time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 35,
+                "AdditionalInformation": "If third time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 50,
+                "AdditionalInformation": "If fourth time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 100,
+                "AdditionalInformation": "If fifth, sixth or seventh time defeated"
+            }
+        ],
+        "Spirit Gem": [
+            {
+                "EnemyName": "Air Soldier",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": "If the third spell is Aero."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 40,
+                "AdditionalInformation": "If all three spells are Aero."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 30,
+                "AdditionalInformation": "If summoned in Neverland and after the third time gauge is filled."
+            }
+        ],
+        "Bright Shard": [
+            {
+                "EnemyName": "Green Requiem",
+                "DropRate": 10,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Cure."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 40,
+                "AdditionalInformation": "If summoned in Agrabah and after the second time gauge is filled."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 60,
+                "AdditionalInformation": "If summoned in Agrabah and after the third time gauge is filled."
+            }
+        ],
+        "Bright Gem": [
+            {
+                "EnemyName": "Search Ghost",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": "If the third spell is Cure."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 40,
+                "AdditionalInformation": "If all three spells are Cure."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 30,
+                "AdditionalInformation": "If summoned in Agrabah and after the third time gauge is filled."
+            }
+        ],
+        "Bright Crystal": [
+            {
+                "EnemyName": "Defender",
+                "DropRate": 2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Dazzling Stone": [
+            {
+                "EnemyName": "Jet Balloon",
+                "DropRate": 2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Shiny Crystal": [
+            {
+                "EnemyName": "Wizard",
+                "DropRate": 2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Mythril Shard": [
+            {
+                "EnemyName": "Barrel Spider",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Arch Behemoth",
+                "DropRate": 20,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Pot Scorpion",
+                "DropRate": 20,
+                "AdditionalInformation": "After breaking all 11 pots"
+            },
+            {
+                "EnemyName": "Pot Spider",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in End of the World and after the second/third time gauge is filled."
+            }
+        ],
+        "Mythril": [
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 10,
+                "AdditionalInformation": "If summoned in End of the World and after the third time gauge is filled."
+            }
+        ],
+        "Mythril Stone": [
+            {
+                "EnemyName": "Pot Scorpion",
+                "DropRate": 10,
+                "AdditionalInformation": "After eleventh pot destroyed"
+            },
+            {
+                "EnemyName": "Pot Scorpion",
+                "DropRate": 20,
+                "AdditionalInformation": "If less than 11 pots are broken"
+            },
+            {
+                "EnemyName": "Pot Scorpion",
+                "DropRate": 35,
+                "AdditionalInformation": "After breaking all 11 pots"
+            }
+        ],
+        "Mystery Goo": [
+            {
+                "EnemyName": "Rare Truffle",
+                "DropRate": 10,
+                "AdditionalInformation": "If juggled 10 times."
+            },
+            {
+                "EnemyName": "Rare Truffle",
+                "DropRate": 40,
+                "AdditionalInformation": "If juggled 50 times."
+            },
+            {
+                "EnemyName": "Rare Truffle",
+                "DropRate": 100,
+                "AdditionalInformation": "If juggled 100 times."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 20,
+                "AdditionalInformation": "If any spell is cast three times."
+            },
+            {
+                "EnemyName": "Black Fungus",
+                "DropRate": 20,
+                "AdditionalInformation": "If defeated with a combo finisher."
+            }
+        ],
+        "Serenity Power": [
+            {
+                "EnemyName": "Pink Agaricus",
+                "DropRate": 10,
+                "AdditionalInformation": "If hit 40 times."
+            },
+            {
+                "EnemyName": "Pink Agaricus",
+                "DropRate": 20,
+                "AdditionalInformation": "If hit 70 times."
+            },
+            {
+                "EnemyName": "Pink Agaricus",
+                "DropRate": 100,
+                "AdditionalInformation": "If hit 100 times."
+            }
+        ],
+        "Gale": [
+            {
+                "EnemyName": "Angel Star",
+                "DropRate": 6,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Invisible",
+                "DropRate": 6,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Stormy Stone": [
+            {
+                "EnemyName": "Neoshadow",
+                "DropRate": 2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Orichalcum": [],
+        "Dark Matter": [],
+        "Wooden Sword": [],
+        "Kingdom Key": [],
+        "Jungle King": [],
+        "Three Wishes": [],
+        "Wishing Star": [],
+        "Spellbinder": [],
+        "Crabclaw": [],
+        "Pumpkinhead": [],
+        "Fairy Harp": [],
+        "Metal Chocobo": [],
+        "Olympia": [],
+        "Lady Luck": [],
+        "Oblivion": [],
+        "Divine Rose": [],
+        "Oathkeeper": [],
+        "Lionheart": [],
+        "Diamond Dust": [],
+        "One-Winged Angel": [],
+        "Ultima Weapon": [],
+        "Mage's Staff": [],
+        "Morning Star": [],
+        "Warhammer": [],
+        "Shooting Star": [],
+        "Magus Staff": [],
+        "Silver Mallet": [],
+        "Wisdom Staff": [],
+        "Grand Mallet": [],
+        "Wizard's Relic": [
+            {
+                "EnemyName": "Wizard",
+                "DropRate": 0.2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Lord Fortune": [],
+        "Violetta": [],
+        "Dream Rod": [],
+        "Save the Queen": [],
+        "Meteor Strike": [],
+        "Fantasista": [],
+        "Knight’s Shield": [],
+        "Smasher": [],
+        "Stout Shield": [],
+        "Mythril Shield": [],
+        "Gigas Fist": [],
+        "Golem Shield": [],
+        "Onyx Shield": [],
+        "Adamant Shield": [],
+        "Dream Shield": [],
+        "Herc's Shield": [],
+        "Defender": [
+            {
+                "EnemyName": "Defender",
+                "DropRate": 0.2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Genji Shield": [],
+        "Save the King": [],
+        "Mighty Shield": [],
+        "Seven Elements": []
     }
 }
