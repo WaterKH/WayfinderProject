@@ -116,7 +116,16 @@
 
 
 .info-detail-icon {
-    width: 50px;
+    width: 35px;
     margin-right: 10px;
     margin-top: -3px;
+}
+
+
+.image-container {
+    height: 523px;
+}
+
+.font-weight-700 {
+    font-weight: 700;
 }

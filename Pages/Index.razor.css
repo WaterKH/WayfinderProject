@@ -34,7 +34,6 @@
 /* Referenced from https://stackoverflow.com/questions/15857006/drawing-a-folder-icon-with-css */
 .ma-folder {
     width: 80%;
-    height: 550px;
     margin: 0 auto;
     margin-top: 60px;
     margin-bottom: 50px;
@@ -58,7 +57,6 @@
 
 .jj-folder {
     width: 80%;
-    height: 550px;
     margin: 0 auto;
     margin-top: 60px;
     margin-bottom: 50px;
@@ -82,7 +80,6 @@
 
 .ms-folder {
     width: 80%;
-    height: 550px;
     margin: 0 auto;
     margin-top: 60px;
     margin-bottom: 50px;
@@ -125,6 +122,7 @@
 }
 
 .folder-image {
+    text-align: center;
     width: 100%;
     background: rgba(0, 0, 0, 0);
     transform: scale(1);

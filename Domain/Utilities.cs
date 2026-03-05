@@ -31,6 +31,8 @@ namespace WayfinderProject.Domain
                 "Kingdom Hearts III" => "_kh3",
                 "Kingdom Hearts Dark Road" => "_khdr",
                 "Kingdom Hearts Melody of Memory" => "_khmom",
+                "Kingdom Hearts IV" => "_kh4",
+                "Kingdom Hearts Missing-Link" => "_khml",
                 _ => "",
             };
         }
@@ -113,7 +115,7 @@ namespace WayfinderProject.Domain
                 string json = await httpClient.GetStringAsync(path);
                 return JsonSerializer.Deserialize<T>(json) ?? new T();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 // TODO: Add logging
                 return new T();

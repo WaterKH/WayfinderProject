@@ -113,6 +113,27 @@
     <Content Update="wwwroot\data\seed\scripts\scenes\_kh_unionx_lines.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_kh1_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_kh2_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_khml_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_kh4_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_kh3_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_khdr_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\trailers\_khmom_trailers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\data\seed\_areas.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -131,10 +152,6 @@
     <Content Update="wwwroot\data\seed\_worlds.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\data\seed\scripts\trailers\" />
   </ItemGroup>
 
 </Project>

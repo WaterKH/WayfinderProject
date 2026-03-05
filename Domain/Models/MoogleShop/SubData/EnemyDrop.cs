@@ -11,7 +11,7 @@ namespace WayfinderProject.Domain.Models.MoogleShop.SubData
     public class EnemyDrop
     {
         public string EnemyName { get; set; } = string.Empty;
-        public int DropRate { get; set; } = 0;
+        public double DropRate { get; set; } = 0.0;
         public string AdditionalInformation { get; set; } = string.Empty;
     }
 }
