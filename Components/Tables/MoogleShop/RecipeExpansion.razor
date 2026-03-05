@@ -33,33 +33,45 @@
         </div>
     </div>
 
-    <div class="col-md-7">
-        <div class="expansion-content-card">
-            <div class="dialogue-pane">
-                
-                <hr />
-                <div class="dialogue-table-container">
-                    <table class="table">
-                        <thead>
-                            <tr>
-                                <th style="width: 125px; background: transparent;">Item</th>
-                                <th style="background: transparent;">Amount</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach (var data in Item.SubData)
-                            {
+    @if (Item.SubData.Count > 0)
+    {
+        <div class="col-md-7">
+            <div class="expansion-content-card">
+                <div class="dialogue-pane">
+
+                    <hr />
+                    <div class="dialogue-table-container">
+                        <table class="table">
+                            <thead>
                                 <tr>
-                                    <td><strong>@data.Name</strong></td>
-                                    <td>@data.Amount</td>
+                                    <th style="background: transparent;">Item</th>
+                                    <th style="background: transparent;">Amount</th>
                                 </tr>
-                            }
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>
+                                @foreach (var data in Item.SubData)
+                                {
+                                    <tr>
+                                        <td><strong>@data.Name</strong></td>
+                                        <td>@data.Amount</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+    }
+    else
+    {
+
+        <div class="col-md-2"></div>
+
+        <div class="col-md-4">
+            <img class="image-container" src="images/MS.png" />
+        </div>
+    }
 </div>
 
 
