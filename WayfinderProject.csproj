@@ -134,7 +134,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Components\Common\" />
     <Folder Include="wwwroot\data\seed\scripts\trailers\" />
   </ItemGroup>
 

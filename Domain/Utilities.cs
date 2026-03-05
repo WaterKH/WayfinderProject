@@ -50,6 +50,8 @@ namespace WayfinderProject.Domain
                 case "Records":
                 case "Scenes":
                 case "Trailers":
+                case "Inventory Items":
+                case "Recipe Items":
                     path = "images/icons/scenes_gray.png";
                     break;
                 case "Games":
@@ -57,11 +59,13 @@ namespace WayfinderProject.Domain
                     break;
                 case "Worlds":
                 case "Providers":
+                case "Currencies":
                     path = "images/icons/worlds_gray.png";
                     break;
                 case "Areas":
                 case "Categories":
                 case "Synthesis Materials":
+                case "Costs":
                     path = "images/icons/areas_gray.png";
                     break;
                 case "Characters":

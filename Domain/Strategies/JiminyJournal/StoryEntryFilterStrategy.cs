@@ -28,7 +28,7 @@ namespace WayfinderProject.Domain.Strategies.JiminyJournal
             {
                 new() { Id = "Characters", Selector = s => s.Characters },
                 new() { Id = "Games", Selector = s => [s.Game] },
-                new() { Id = "StoryEntries", Selector = s => [s.Name] },
+                new() { Id = "Entries", Selector = s => [s.Name] },
                 new() { Id = "Worlds", Selector = s => s.Worlds }
             };
 

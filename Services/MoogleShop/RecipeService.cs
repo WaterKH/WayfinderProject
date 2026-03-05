@@ -15,7 +15,7 @@ namespace WayfinderProject.Services.MoogleShop
     {
         protected override List<string> CategoryPriority => new()
         {
-            "Synthesis Items", "Games", "Categories"
+            "Recipe Items", "Games", "Categories"
         };
 
         public RecipeService(HttpClient httpClient, IDataFilterStrategy<Recipe, MaterialWrapper> filterStrategy)

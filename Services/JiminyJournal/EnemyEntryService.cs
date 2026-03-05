@@ -12,7 +12,7 @@ namespace WayfinderProject.Services.JiminyJournal
     {
         protected override List<string> CategoryPriority => new()
         {
-            "Entry", "Areas", "Characters", "Games", "Worlds"
+            "Entries", "Areas", "Characters", "Games", "Worlds"
         };
 
         public EnemyEntryService(HttpClient httpClient, IDataFilterStrategy<EnemyEntry> filterStrategy)
