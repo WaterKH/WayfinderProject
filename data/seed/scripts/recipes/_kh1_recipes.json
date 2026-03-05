@@ -1,0 +1,549 @@
+{
+    "Script": {
+        "None": [
+            {
+                "EnemyName": "None",
+                "DropRate": -1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Mega-Potion": [
+            {
+                "Name": "Spirit Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Power Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril Shard",
+                "Amount": 4
+            }
+        ],
+        "Cottage": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Bright Shard",
+                "Amount": 1
+            }
+        ],
+        "Mega-Ether": [
+            {
+                "Name": "Blaze Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Thunder Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril",
+                "Amount": 2
+            }
+        ],
+        "AP Up": [
+            {
+                "Name": "Blaze Gem",
+                "Amount": 2
+            },
+            {
+                "Name": "Frost Gem",
+                "Amount": 2
+            },
+            {
+                "Name": "Thunder Gem",
+                "Amount": 2
+            },
+            {
+                "Name": "Mythril",
+                "Amount": 4
+            }
+        ],
+        "Elixir": [
+            {
+                "Name": "Power Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Shiny Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Bright Crystal",
+                "Amount": 2
+            },
+            {
+                "Name": "Orichalcum",
+                "Amount": 3
+            }
+        ],
+        "Defense Up": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Bright Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Bright Gem",
+                "Amount": 2
+            },
+            {
+                "Name": "Power Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Orichalcum",
+                "Amount": 5
+            }
+        ],
+        "Megalixir": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 5
+            },
+            {
+                "Name": "Lucid Crystal",
+                "Amount": 3
+            },
+            {
+                "Name": "Gale",
+                "Amount": 2
+            },
+            {
+                "Name": "Dark Matter",
+                "Amount": 1
+            }
+        ],
+        "Power Up": [
+            {
+                "Name": "Spirit Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Spirit Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Power Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Power Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Dark Matter",
+                "Amount": 1
+            }
+        ],
+        "Energy Bangle": [
+            {
+                "Name": "Spirit Shard",
+                "Amount": 2
+            },
+            {
+                "Name": "Bright Shard",
+                "Amount": 1
+            }
+        ],
+        "Power Chain": [
+            {
+                "Name": "Power Shard",
+                "Amount": 2
+            },
+            {
+                "Name": "Lucid Shard",
+                "Amount": 1
+            }
+        ],
+        "Magic Armlet": [
+            {
+                "Name": "Blaze Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Thunder Shard",
+                "Amount": 3
+            }
+        ],
+        "EXP Earring": [
+            {
+                "Name": "Fury Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Power Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Serenity Power",
+                "Amount": 1
+            },
+            {
+                "Name": "Dark Matter",
+                "Amount": 3
+            }
+        ],
+        "Guard Earring": [
+            {
+                "Name": "Bright Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril Shard",
+                "Amount": 3
+            }
+        ],
+        "Angel Bangle": [
+            {
+                "Name": "Thunder Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Bright Gem",
+                "Amount": 1
+            }
+        ],
+        "Golem Chain": [
+            {
+                "Name": "Blaze Shard",
+                "Amount": 3
+            },
+            {
+                "Name": "Spirit Gem",
+                "Amount": 1
+            }
+        ],
+        "Rune Armlet": [
+            {
+                "Name": "Blaze Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Frost Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Thunder Gem",
+                "Amount": 3
+            }
+        ],
+        "Moogle Badge": [
+            {
+                "Name": "Blazing Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Frost Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Lightning Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril",
+                "Amount": 5
+            },
+            {
+                "Name": "Orichalcum",
+                "Amount": 3
+            }
+        ],
+        "Dark Ring": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 2
+            },
+            {
+                "Name": "Bright Gem",
+                "Amount": 2
+            }
+        ],
+        "Master Earring": [
+            {
+                "Name": "Spirit Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Spirit Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Fury Stone",
+                "Amount": 1
+            }
+        ],
+        "Gaia Bangle": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Lucid Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Lightning Stone",
+                "Amount": 1
+            }
+        ],
+        "Titan Chain": [
+            {
+                "Name": "Power Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Power Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Power Stone",
+                "Amount": 1
+            }
+        ],
+        "Heartguard": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Lucid Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Bright Crystal",
+                "Amount": 1
+            }
+        ],
+        "Three Stars": [
+            {
+                "Name": "Power Gem",
+                "Amount": 5
+            },
+            {
+                "Name": "Mystery Goo",
+                "Amount": 3
+            },
+            {
+                "Name": "Shiny Crystal",
+                "Amount": 1
+            }
+        ],
+        "Atlas Armlet": [
+            {
+                "Name": "Blaze Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Thunder Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Mystery Goo",
+                "Amount": 1
+            },
+            {
+                "Name": "Dark Matter",
+                "Amount": 3
+            }
+        ],
+        "Crystal Crown": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Power Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Shiny Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Blazing Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Frost Stone",
+                "Amount": 3
+            }
+        ],
+        "Cosmic Arts": [
+            {
+                "Name": "Bright Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Bright Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Bright Crystal",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril Stone",
+                "Amount": 3
+            }
+        ],
+        "EXP Bracelet": [
+            {
+                "Name": "Energy Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Dazzling Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Stormy Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Orichalcum",
+                "Amount": 8
+            },
+            {
+                "Name": "Dark Matter",
+                "Amount": 3
+            }
+        ],
+        "Ribbon": [
+            {
+                "Name": "Blaze Gem",
+                "Amount": 3
+            },
+            {
+                "Name": "Frost Gem",
+                "Amount": 5
+            },
+            {
+                "Name": "Thunder Gem",
+                "Amount": 5
+            },
+            {
+                "Name": "Gale",
+                "Amount": 1
+            },
+            {
+                "Name": "Serenity Power",
+                "Amount": 3
+            }
+        ],
+        "Mythril": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 5
+            },
+            {
+                "Name": "Mythril Stone",
+                "Amount": 1
+            },
+            {
+                "Name": "Mystery Goo",
+                "Amount": 1
+            }
+        ],
+        "Dark Matter": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 9
+            },
+            {
+                "Name": "Gale",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril",
+                "Amount": 2
+            }
+        ],
+        "Fantasista": [
+            {
+                "Name": "Fury Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Power Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Mythril Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Energy Stone",
+                "Amount": 5
+            }
+        ],
+        "Seven Elements": [
+            {
+                "Name": "Blazing Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Frost Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Lightning Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Dazzling Stone",
+                "Amount": 5
+            }
+        ],
+        "Ultima Weapon": [
+            {
+                "Name": "Thunder Gem",
+                "Amount": 5
+            },
+            {
+                "Name": "Mystery Goo",
+                "Amount": 5
+            },
+            {
+                "Name": "Serenity Power",
+                "Amount": 3
+            },
+            {
+                "Name": "Stormy Stone",
+                "Amount": 3
+            },
+            {
+                "Name": "Dark Matter",
+                "Amount": 3
+            }
+        ]
+    }
+}

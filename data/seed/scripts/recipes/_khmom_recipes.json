@@ -1,0 +1,821 @@
+{
+    "Script": {
+        "None": [
+            {
+                "EnemyName": "None",
+                "DropRate": -1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Potion": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 6
+            }
+        ],
+        "Mega-Potion": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 4
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 4
+            },
+            {
+                "Name": "Lightning Shard",
+                "Amount": 4
+            }
+        ],
+        "Item Boost": [
+            {
+                "Name": "Frost Shard",
+                "Amount": 16
+            }
+        ],
+        "EXP Boost": [
+            {
+                "Name": "Lightning Shard",
+                "Amount": 9
+            }
+        ],
+        "Summoning Star": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 7
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 7
+            },
+            {
+                "Name": "Lightning Shard",
+                "Amount": 7
+            }
+        ],
+        "“Sora” Memory Dive MS": [
+            {
+                "Name": "“Sora” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Lucid Gem",
+                "Amount": 27
+            }
+        ],
+        "“Riku” Memory Dive MS": [
+            {
+                "Name": "“Riku” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 36
+            }
+        ],
+        "“Kairi I” Memory Dive MS": [
+            {
+                "Name": "“Kairi I” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Lucid Gem",
+                "Amount": 27
+            }
+        ],
+        "“Roxas” Memory Dive MS": [
+            {
+                "Name": "“Roxas” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Lucid Gem",
+                "Amount": 27
+            }
+        ],
+        "“Naminé” Memory Dive MS": [
+            {
+                "Name": "“Naminé” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 36
+            }
+        ],
+        "“Musique pour la tristesse de Xion” Memory Dive MS": [
+            {
+                "Name": "“Musique pour la tristesse de Xion” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Writhing Gem",
+                "Amount": 45
+            }
+        ],
+        "“Terra” Memory Dive MS": [
+            {
+                "Name": "“Terra” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 33
+            }
+        ],
+        "“Ventus” Memory Dive MS": [
+            {
+                "Name": "“Ventus” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 33
+            }
+        ],
+        "“Aqua” Memory Dive MS": [
+            {
+                "Name": "“Aqua” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril Gem",
+                "Amount": 28
+            }
+        ],
+        "“Another Side” Field Battle MS": [
+            {
+                "Name": "“Another Side” Field Battle MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Mythril Gem",
+                "Amount": 28
+            }
+        ],
+        "“Fate of the Unknown” Field Battle MS": [
+            {
+                "Name": "“Fate of the Unknown” Field Battle MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 74
+            }
+        ],
+        "“CALLING -KINGDOM MIX-” Field Battle MS": [
+            {
+                "Name": "“CALLING -KINGDOM MIX-” Field Battle MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Twilight Shard",
+                "Amount": 65
+            }
+        ],
+        "“A Whole New World” Field Battle MS": [
+            {
+                "Name": "“A Whole New World” Field Battle MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Lucid Shard",
+                "Amount": 56
+            }
+        ],
+        "“Beauty and the Beast” Field Battle MS": [
+            {
+                "Name": "“Beauty and the Beast” Field Battle MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Lucid Shard",
+                "Amount": 56
+            }
+        ],
+        "“Circle Of Life” Field Battle MS": [
+            {
+                "Name": "“Circle Of Life” Field Battle MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Writhing Shard",
+                "Amount": 98
+            }
+        ],
+        "“Part of Your World” Memory Dive MS": [
+            {
+                "Name": "“Part of Your World” Memory Dive MS Material",
+                "Amount": 1
+            },
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 78
+            }
+        ],
+        "“Hand in Hand” Field Battle MS": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 35
+            },
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 25
+            }
+        ],
+        "“Working Together - Allegro vivace” Field Battle MS": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 44
+            },
+            {
+                "Name": "Writhing Shard",
+                "Amount": 32
+            }
+        ],
+        "“Sora - Allegro con brio” Field Battle MS": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 30
+            },
+            {
+                "Name": "Twilight Shard",
+                "Amount": 21
+            }
+        ],
+        "“Medley of Conflict” Field Battle MS": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 27
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 28
+            },
+            {
+                "Name": "Lightning Shard",
+                "Amount": 27
+            }
+        ],
+        "“Destati” Field Battle MS": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 27
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 28
+            },
+            {
+                "Name": "Lightning Shard",
+                "Amount": 27
+            }
+        ],
+        "Princesses & New Seven Hearts": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 58
+            }
+        ],
+        "Characters": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 25
+            }
+        ],
+        "Organization XIII": [
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 60
+            }
+        ],
+        "Villains": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 43
+            }
+        ],
+        "Characters (Illustrated)": [
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 22
+            }
+        ],
+        "Characters (Stylized)": [
+            {
+                "Name": "Twilight Shard",
+                "Amount": 63
+            }
+        ],
+        "Characters (KH III)": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 56
+            }
+        ],
+        "Special A": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 20
+            }
+        ],
+        "Special B": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 20
+            }
+        ],
+        "Special C": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 14
+            }
+        ],
+        "Special D": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 10
+            }
+        ],
+        "Key Art A": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 9
+            }
+        ],
+        "Key Art B": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 11
+            }
+        ],
+        "Key Art C": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 7
+            }
+        ],
+        "Station of Awakening": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 7
+            }
+        ],
+        "Story Scene A": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 9
+            }
+        ],
+        "Story Scene B": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 11
+            }
+        ],
+        "Story Scene C": [
+            {
+                "Name": "Twilight Shard",
+                "Amount": 8
+            }
+        ],
+        "Story Scene D": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 7
+            }
+        ],
+        "Character A": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 9
+            }
+        ],
+        "Character B": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 11
+            }
+        ],
+        "Character C": [
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 9
+            }
+        ],
+        "Character D": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 7
+            }
+        ],
+        "Character E": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 7
+            }
+        ],
+        "Enemy A": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 9
+            }
+        ],
+        "Enemy B": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 11
+            }
+        ],
+        "Enemy C": [
+            {
+                "Name": "Twilight Shard",
+                "Amount": 8
+            }
+        ],
+        "Enemy D": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 7
+            }
+        ],
+        "Keyblade A": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 9
+            }
+        ],
+        "Keyblade B": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 11
+            }
+        ],
+        "Keyblade C": [
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 9
+            }
+        ],
+        "Keyblade D": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 7
+            }
+        ],
+        "Key Art No. 1 - 20": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 3
+            }
+        ],
+        "Key Art No. 21 - 40": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 3
+            }
+        ],
+        "Key Art No. 41 - 61": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 3
+            }
+        ],
+        "Station of Awakening No. 1 - 23": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 3
+            }
+        ],
+        "Story Scene No. 1 - 20": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Story Scene No. 21 - 40": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Story Scene No. 41 - 60": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Story Scene No. 61 - 80": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Story Scene No. 81 - 100": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Story Scene No. 101 - 120": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Story Scene No. 121 - 130": [
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 1 - 30": [
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 31 - 60": [
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 61 - 90": [
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 91 - 120": [
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 121 - 150": [
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 151 - 180": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 181 - 210": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 211 - 240": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 241 - 270": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 271 - 300": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 4
+            }
+        ],
+        "Character No. 301 - 321": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 4
+            }
+        ],
+        "Enemy No. 1 - 30": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 5
+            }
+        ],
+        "Enemy No. 31 - 60": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 5
+            }
+        ],
+        "Enemy No. 61 - 90": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 5
+            }
+        ],
+        "Enemy No. 91 - 120": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 5
+            }
+        ],
+        "Enemy No. 121 - 150": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 5
+            }
+        ],
+        "Enemy No. 151 - 193": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 5
+            }
+        ],
+        "Keyblade No. 1 -20": [
+            {
+                "Name": "Mythril Gem",
+                "Amount": 3
+            }
+        ],
+        "Keyblade No. 21 - 40": [
+            {
+                "Name": "Mythril Gem",
+                "Amount": 3
+            }
+        ],
+        "Keyblade No. 41 - 60": [
+            {
+                "Name": "Mythril Gem",
+                "Amount": 3
+            }
+        ],
+        "Keyblade No. 61 - 80": [
+            {
+                "Name": "Mythril Gem",
+                "Amount": 3
+            }
+        ],
+        "Keyblade No. 81 - 100": [
+            {
+                "Name": "Mythril Gem",
+                "Amount": 3
+            }
+        ],
+        "Keyblade No. 101 - 125": [
+            {
+                "Name": "Mythril Gem",
+                "Amount": 3
+            }
+        ],
+        "Soothing Crystal": [
+            {
+                "Name": "Lucid Gem",
+                "Amount": 7
+            },
+            {
+                "Name": "Pulsing Gem",
+                "Amount": 9
+            }
+        ],
+        "Soothing Crystal (Alt.)": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 15
+            },
+            {
+                "Name": "Frost Shard",
+                "Amount": 16
+            }
+        ],
+        "Wellspring Crystal": [
+            {
+                "Name": "Writhing Gem",
+                "Amount": 17
+            },
+            {
+                "Name": "Betwixt Gem",
+                "Amount": 12
+            }
+        ],
+        "Wellspring Crystal (Alt.)": [
+            {
+                "Name": "Frost Shard",
+                "Amount": 24
+            },
+            {
+                "Name": "Lightning Shard",
+                "Amount": 23
+            }
+        ],
+        "Hungry Crystal": [
+            {
+                "Name": "Twilight Gem",
+                "Amount": 12
+            },
+            {
+                "Name": "Mythril Gem",
+                "Amount": 11
+            }
+        ],
+        "Hungry Crystal (Alt.)": [
+            {
+                "Name": "Lightning Shard",
+                "Amount": 23
+            },
+            {
+                "Name": "Blazing Shard",
+                "Amount": 23
+            }
+        ],
+        "Blazing Shard": [
+            {
+                "Name": "Frost Shard",
+                "Amount": 2
+            }
+        ],
+        "Frost Shard": [
+            {
+                "Name": "Lightning Shard",
+                "Amount": 2
+            }
+        ],
+        "Lightning Shard": [
+            {
+                "Name": "Blazing Shard",
+                "Amount": 2
+            }
+        ],
+        "Lucid Shard": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 3
+            }
+        ],
+        "Pulsing Shard": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 3
+            }
+        ],
+        "Writhing Shard": [
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 2
+            }
+        ],
+        "Betwixt Shard": [
+            {
+                "Name": "Twilight Shard",
+                "Amount": 2
+            }
+        ],
+        "Twilight Shard": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 2
+            }
+        ],
+        "Mythril Shard": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 2
+            }
+        ],
+        "Lucid Gem": [
+            {
+                "Name": "Lucid Shard",
+                "Amount": 4
+            }
+        ],
+        "Pulsing Gem": [
+            {
+                "Name": "Pulsing Shard",
+                "Amount": 4
+            }
+        ],
+        "Writhing Gem": [
+            {
+                "Name": "Writhing Shard",
+                "Amount": 4
+            }
+        ],
+        "Betwixt Gem": [
+            {
+                "Name": "Betwixt Shard",
+                "Amount": 4
+            }
+        ],
+        "Twilight Gem": [
+            {
+                "Name": "Twilight Shard",
+                "Amount": 4
+            }
+        ],
+        "Mythril Gem": [
+            {
+                "Name": "Mythril Shard",
+                "Amount": 5
+            }
+        ]   
+    }
+}

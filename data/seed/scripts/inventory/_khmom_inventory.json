@@ -1,0 +1,50 @@
+{
+    "Script": {
+        "None": [
+            {
+                "EnemyName": "None",
+                "DropRate": -1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Potion": [],
+        "Mega-Potion": [],
+        "Item Boost": [],
+        "EXP Boost": [],
+        "Summoning Star": [],
+        "Soothing Crystal": [],
+        "Wellspring Crystal": [],
+        "Hungry Crystal": [],
+        "Blazing Shard": [],
+        "Frost Shard": [],
+        "Lightning Shard": [],
+        "Lucid Shard": [],
+        "Pulsing Shard": [],
+        "Writhing Shard": [],
+        "Betwixt Shard": [],
+        "Twilight Shard": [],
+        "Mythril Shard": [],
+        "Lucid Gem": [],
+        "Pulsing Gem": [],
+        "Writhing Gem": [],
+        "Betwixt Gem": [],
+        "Twilight Gem": [],
+        "Mythril Gem": [],
+        "“Sora” Memory Dive MS Material": [],
+        "“Riku” Memory Dive MS Material": [],
+        "“Kairi I” Memory Dive MS Material": [],
+        "“Roxas” Memory Dive MS Material": [],
+        "“Naminé” Memory Dive MS Material": [],
+        "“Musique pour la tristesse de Xion” Memory Dive MS Material": [],
+        "“Terra” Memory Dive MS Material": [],
+        "“Ventus” Memory Dive MS Material": [],
+        "“Aqua” Memory Dive MS Material": [],
+        "“Another Side” Field Battle MS Material": [],
+        "“Fate of the Unknown” Field Battle MS Material": [],
+        "“CALLING -KINGDOM MIX-” Field Battle MS Material": [],
+        "“A Whole New World” Field Battle MS Material": [],
+        "“Beauty and the Beast” Field Battle MS Material": [],
+        "“Circle Of Life” Field Battle MS Material": [],
+        "“Part of Your World” Memory Dive MS Material": []
+    }
+}

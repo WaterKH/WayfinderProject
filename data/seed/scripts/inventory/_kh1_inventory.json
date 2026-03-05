@@ -1,0 +1,905 @@
+{
+    "Script": {
+        "None": [
+            {
+                "EnemyName": "None",
+                "DropRate": -1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Protect Chain": [
+            {
+                "EnemyName": "Soldier",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Protera Chain": [
+            {
+                "EnemyName": "Large Body",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Bouncywild",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Powerwild",
+                "DropRate": 0.5,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Bandit",
+                "DropRate": 0.5,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Green Requiem",
+                "DropRate": 0.5,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Protega Chain": [],
+        "Fire Ring": [],
+        "Fira Ring": [
+            {
+                "EnemyName": "Red Nocturne",
+                "DropRate": 0.5,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Firaga Ring": [
+            {
+                "EnemyName": "Fat Bandit",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Firagun Band": [],
+        "Blizzard Ring": [],
+        "Blizzara Ring": [
+            {
+                "EnemyName": "Blue Rhapsody",
+                "DropRate": 0.5,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Blizzaga Ring": [
+            {
+                "EnemyName": "Sea Neon",
+                "DropRate": 0.2,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Sheltering Zone",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Blizzagun Band": [],
+        "Thunder Ring": [],
+        "Thundara Ring": [
+            {
+                "EnemyName": "Yellow Opera",
+                "DropRate": 0.5,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Thundaga Ring": [
+            {
+                "EnemyName": "Aquatank",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Screwdiver",
+                "DropRate": 0.2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Thundagun Band": [],
+        "Element Ring": [
+            {
+                "EnemyName": "Battleship",
+                "DropRate": 2,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Three Stars": [],
+        "Obsidian Ring": [],
+        "Chaos Ring": [],
+        "Dark Ring": [],
+        "Ability Stud": [],
+        "Guard Earring": [],
+        "Master Earring": [],
+        "Power Chain": [],
+        "Golem Chain": [],
+        "Titan Chain": [],
+        "Energy Bangle": [],
+        "Angel Bangle": [],
+        "Gaia Bangle": [],
+        "Magic Armlet": [],
+        "Rune Armlet": [],
+        "Atlas Armlet": [],
+        "Brave Warrior": [],
+        "Ifrit's Horn": [
+            {
+                "EnemyName": "Trickmaster",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Inferno Band": [
+            {
+                "EnemyName": "Cerberus",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "White Fang": [
+            {
+                "EnemyName": "Sabor",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Ray of Light": [
+            {
+                "EnemyName": "Pot Centipede",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Holy Circlet": [
+            {
+                "EnemyName": "Oogie Boogie",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Raven’s Claw": [
+            {
+                "EnemyName": "Shadow Sora",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Omega Arts": [
+            {
+                "EnemyName": "Behemoth",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Moogle Badge": [],
+        "Cosmic Arts": [],
+        "Heartguard": [],
+        "Crystal Crown": [],
+        "Ribbon": [],
+        "Royal Crown": [],
+        "Prime Cap": [
+            {
+                "EnemyName": "Pink Agaricus",
+                "DropRate": 100,
+                "AdditionalInformation": "If hit over 100 times."
+            }
+        ],
+        "Shiva Belt": [],
+        "Ramuh Belt": [],
+        "Ifrit Belt": [],
+        "EXP Earring": [],
+        "EXP Ring": [],
+        "EXP Bracelet": [],
+        "EXP Necklace": [
+            {
+                "EnemyName": "Xemnas",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Potion": [],
+        "Hi-Potion": [],
+        "Mega-Potion": [],
+        "Ether": [],
+        "Mega-Ether": [],
+        "Elixir": [
+            {
+                "EnemyName": "Defender",
+                "DropRate": 0,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Wyvern",
+                "DropRate": 0,
+                "AdditionalInformation": ""
+            }
+        ],
+        "Megalixir": [
+            {
+                "EnemyName": "Rare Truffle",
+                "DropRate": 100,
+                "AdditionalInformation": "If hit over 100 times."
+            }
+        ],
+        "Tent": [],
+        "Camping Set": [],
+        "Cottage": [],
+        "Power Up": [],
+        "Defense Up": [],
+        "AP Up": [],
+        "Blaze Shard": [
+            {
+                "EnemyName": "Red Nocturne",
+                "DropRate": 6,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Fire."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Traverse Town and after the second/third time gauge is filled."
+            }
+        ],
+        "Blazing Stone": [
+            {
+                "EnemyName": "Chimera",
+                "DropRate": 35,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Chimera",
+                "DropRate": 20,
+                "AdditionalInformation": "When 6 heads are knocked back"
+            },
+            {
+                "EnemyName": "Chimera",
+                "DropRate": 40,
+                "AdditionalInformation": "When 9 heads are knocked back"
+            }
+        ],
+        "Blaze Gem": [
+            {
+                "EnemyName": "Bandit",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Fat Bandit",
+                "DropRate": 8,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": "If the third spell is Fire."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 40,
+                "AdditionalInformation": "If all three spells are Fire."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Traverse Town and after the third time gauge is filled."
+            }
+        ],
+        "Frost Shard": [
+            {
+                "EnemyName": "Blue Rhapsody",
+                "DropRate": 12,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Blizzard."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Wonderland and after the second/third time gauge is filled."
+            }
+        ],
+        "Frost Stone": [
+            {
+                "EnemyName": "Grand Ghost",
+                "DropRate": 100,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Grand Ghost",
+                "DropRate": 5,
+                "AdditionalInformation": "When using a Mega-Potion"
+            },
+            {
+                "EnemyName": "Grand Ghost",
+                "DropRate": 10,
+                "AdditionalInformation": "When using a Mega-Ether"
+            },
+            {
+                "EnemyName": "Grand Ghost",
+                "DropRate": 35,
+                "AdditionalInformation": "When using an Elixir"
+            },
+            {
+                "EnemyName": "Grand Ghost",
+                "DropRate": 100,
+                "AdditionalInformation": "When using a Megalixir"
+            },
+            {
+                "EnemyName": "Grand Ghost",
+                "DropRate": 20,
+                "AdditionalInformation": "(2nd Drop) When using a Megalixir"
+            }
+        ],
+        "Frost Gem": [
+            {
+                "EnemyName": "Sea Neon",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Sheltering Zone",
+                "DropRate": 8,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": "If the third spell is Blizzard."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 40,
+                "AdditionalInformation": "If all three spells are Blizzard."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Wonderland and after the third time gauge is filled."
+            }
+        ],
+        "Thunder Shard": [
+            {
+                "EnemyName": "Yellow Opera",
+                "DropRate": 8,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Thunder."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Deep Jungle and after the second/third time gauge is filled."
+            }
+        ],
+        "Lightning Stone": [
+            {
+                "EnemyName": "Black Ballade",
+                "DropRate": 10,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Black Ballade",
+                "DropRate": 100,
+                "AdditionalInformation": "If correct enemy is hit 4 times"
+            }
+        ],
+        "Thunder Gem": [
+            {
+                "EnemyName": "Aquatank",
+                "DropRate": 8,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Screwdiver",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": "If the third spell is Thunder."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 40,
+                "AdditionalInformation": "If all three spells are Thunder."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Deep Jungle and after the third time gauge is filled."
+            }
+        ],
+        "Lucid Shard": [
+            {
+                "EnemyName": "Shadow",
+                "DropRate": 6,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Gravity."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Monstro and after the second/third time gauge is filled."
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 10,
+                "AdditionalInformation": "If first time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 20,
+                "AdditionalInformation": "If second time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 35,
+                "AdditionalInformation": "If third time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 50,
+                "AdditionalInformation": "If fourth time defeated"
+            },
+            {
+                "EnemyName": "Gigas Shadow",
+                "DropRate": 100,
+                "AdditionalInformation": "If fifth, sixth or seventh time defeated"
+            }
+        ],
+        "Lucid Gem": [
+            {
+                "EnemyName": "Gargoyle",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Wight Knight",
+                "DropRate": 4,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 10,
+                "AdditionalInformation": "If the third spell is Gravity."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 40,
+                "AdditionalInformation": "If all three spells are Gravity."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Monstro and after the third time gauge is filled."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 10,
+                "AdditionalInformation": "If summoned in Monstro and after the second time gauge is filled."
+            }
+        ],
+        "Lucid Crystal": [
+            {
+                "EnemyName": "Darkball",
+                "DropRate": 1,
+                "AdditionalInformation": ""
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 10,
+                "AdditionalInformation": "If summoned in Monstro and after the third time gauge is filled."
+            }
+        ],
+        "Power Shard": [
+            {
+                "EnemyName": "Bouncywild",
+                "DropRate": 12,
+                "AdditionalInformation": "If defeated without a banana peel."
+            },
+            {
+                "EnemyName": "Bouncywild",
+                "DropRate": 24,
+                "AdditionalInformation": "If defeated with a banana peel."
+            },
+            {
+                "EnemyName": "Powerwild",
+                "DropRate": 8,
+                "AdditionalInformation": "If defeated without a banana peel."
+            },
+            {
+                "EnemyName": "Powerwild",
+                "DropRate": 16,
+                "AdditionalInformation": "If defeated with a banana peel."
+            },
+            {
+                "EnemyName": "White Mushroom",
+                "DropRate": 100,
+                "AdditionalInformation": "If the third spell is Stop."
+            },
+            {
+                "EnemyName": "Bambi",
+                "DropRate": 20,
+                "AdditionalInformation": "If summoned in Halloween Town and after the second/third time gauge is filled."
+            }
+        ],
+        "Power Stone": [
+            {
+                "EnemyName": "Sniperwild",
+                "DropRate": 35,
+                "AdditionalInformation": "If the sixth enemy is defeated"
+            },
+            {
+                "EnemyName": "Sniperwild",
+                "DropRate": 50,
+                "AdditionalInformation": "If the twelfth enemy is defeated"
+            },
+            {
+                "EnemyName": "Sniperwild",
+                "DropRate": 60,
+                "AdditionalInformation": "If the eighteenth enemy is defeated"
+            },
+            {
+                "EnemyName": "Sniperwild",
+                "DropRate": 100,
+                "AdditionalInformation": "If the twenty-fourth and thirtieth enemy is defeated"
+            }
+        ],
+        {
+            "Power Crystal": [
+                {
+                    "EnemyName": "Wyvern",
+                    "DropRate": 2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Energy Stone": [
+                {
+                    "EnemyName": "Stealth Soldier",
+                    "DropRate": 35,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Spirit Shard": [
+                {
+                    "EnemyName": "Large Body",
+                    "DropRate": 12,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "Soldier",
+                    "DropRate": 8,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 100,
+                    "AdditionalInformation": "If the third spell is Aero."
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 40,
+                    "AdditionalInformation": "If summoned in Neverland and after the second time gauge is filled."
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 60,
+                    "AdditionalInformation": "If summoned in Neverland and after the third time gauge is filled."
+                }
+            ],
+            "Fury Stone": [
+                {
+                    "EnemyName": "Gigas Shadow",
+                    "DropRate": 10,
+                    "AdditionalInformation": "If first time defeated"
+                },
+                {
+                    "EnemyName": "Gigas Shadow",
+                    "DropRate": 20,
+                    "AdditionalInformation": "If second time defeated"
+                },
+                {
+                    "EnemyName": "Gigas Shadow",
+                    "DropRate": 35,
+                    "AdditionalInformation": "If third time defeated"
+                },
+                {
+                    "EnemyName": "Gigas Shadow",
+                    "DropRate": 50,
+                    "AdditionalInformation": "If fourth time defeated"
+                },
+                {
+                    "EnemyName": "Gigas Shadow",
+                    "DropRate": 100,
+                    "AdditionalInformation": "If fifth, sixth or seventh time defeated"
+                }
+            ],
+            "Spirit Gem": [
+                {
+                    "EnemyName": "Air Soldier",
+                    "DropRate": 4,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 10,
+                    "AdditionalInformation": "If the third spell is Aero."
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 40,
+                    "AdditionalInformation": "If all three spells are Aero."
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 30,
+                    "AdditionalInformation": "If summoned in Neverland and after the third time gauge is filled."
+                }
+            ],
+            "Bright Shard": [
+                {
+                    "EnemyName": "Green Requiem",
+                    "DropRate": 10,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 100,
+                    "AdditionalInformation": "If the third spell is Cure."
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 40,
+                    "AdditionalInformation": "If summoned in Agrabah and after the second time gauge is filled."
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 60,
+                    "AdditionalInformation": "If summoned in Agrabah and after the third time gauge is filled."
+                }
+            ],
+            "Bright Gem": [
+                {
+                    "EnemyName": "Search Ghost",
+                    "DropRate": 4,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 10,
+                    "AdditionalInformation": "If the third spell is Cure."
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 40,
+                    "AdditionalInformation": "If all three spells are Cure."
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 30,
+                    "AdditionalInformation": "If summoned in Agrabah and after the third time gauge is filled."
+                }
+            ],
+            "Bright Crystal": [
+                {
+                    "EnemyName": "Defender",
+                    "DropRate": 2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Dazzling Stone": [
+                {
+                    "EnemyName": "Jet Balloon",
+                    "DropRate": 2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Shiny Crystal": [
+                {
+                    "EnemyName": "Wizard",
+                    "DropRate": 2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Mythril Shard": [
+                {
+                    "EnemyName": "Barrel Spider",
+                    "DropRate": 1,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "Arch Behemoth",
+                    "DropRate": 20,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "Pot Scorpion",
+                    "DropRate": 20,
+                    "AdditionalInformation": "After breaking all 11 pots"
+                },
+                {
+                    "EnemyName": "Pot Spider",
+                    "DropRate": 1,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 20,
+                    "AdditionalInformation": "If summoned in End of the World and after the second/third time gauge is filled."
+                }
+            ],
+            "Mythril": [
+                {
+                    "EnemyName": "Bambi",
+                    "DropRate": 10,
+                    "AdditionalInformation": "If summoned in End of the World and after the third time gauge is filled."
+                }
+            ],
+            "Mythril Stone": [
+                {
+                    "EnemyName": "Pot Scorpion",
+                    "DropRate": 10,
+                    "AdditionalInformation": "After eleventh pot destroyed"
+                },
+                {
+                    "EnemyName": "Pot Scorpion",
+                    "DropRate": 20,
+                    "AdditionalInformation": "If less than 11 pots are broken"
+                },
+                {
+                    "EnemyName": "Pot Scorpion",
+                    "DropRate": 35,
+                    "AdditionalInformation": "After breaking all 11 pots"
+                }
+            ],
+            "Mystery Goo": [
+                {
+                    "EnemyName": "Rare Truffle",
+                    "DropRate": 10,
+                    "AdditionalInformation": "If juggled 10 times."
+                },
+                {
+                    "EnemyName": "Rare Truffle",
+                    "DropRate": 40,
+                    "AdditionalInformation": "If juggled 50 times."
+                },
+                {
+                    "EnemyName": "Rare Truffle",
+                    "DropRate": 100,
+                    "AdditionalInformation": "If juggled 100 times."
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 10,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "White Mushroom",
+                    "DropRate": 20,
+                    "AdditionalInformation": "If any spell is cast three times."
+                },
+                {
+                    "EnemyName": "Black Fungus",
+                    "DropRate": 20,
+                    "AdditionalInformation": "If defeated with a combo finisher."
+                }
+            ],
+            "Serenity Power": [
+                {
+                    "EnemyName": "Pink Agaricus",
+                    "DropRate": 10,
+                    "AdditionalInformation": "If hit 40 times."
+                },
+                {
+                    "EnemyName": "Pink Agaricus",
+                    "DropRate": 20,
+                    "AdditionalInformation": "If hit 70 times."
+                },
+                {
+                    "EnemyName": "Pink Agaricus",
+                    "DropRate": 100,
+                    "AdditionalInformation": "If hit 100 times."
+                }
+            ],
+            "Gale": [
+                {
+                    "EnemyName": "Angel Star",
+                    "DropRate": 6,
+                    "AdditionalInformation": ""
+                },
+                {
+                    "EnemyName": "Invisible",
+                    "DropRate": 6,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Stormy Stone": [
+                {
+                    "EnemyName": "Neoshadow",
+                    "DropRate": 2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Orichalcum": [],
+            "Dark Matter": [],
+            "Wooden Sword": [],
+            "Kingdom Key": [],
+            "Jungle King": [],
+            "Three Wishes": [],
+            "Wishing Star": [],
+            "Spellbinder": [],
+            "Crabclaw": [],
+            "Pumpkinhead": [],
+            "Fairy Harp": [],
+            "Metal Chocobo": [],
+            "Olympia": [],
+            "Lady Luck": [],
+            "Oblivion": [],
+            "Divine Rose": [],
+            "Oathkeeper": [],
+            "Lionheart": [],
+            "Diamond Dust": [],
+            "One-Winged Angel": [],
+            "Ultima Weapon": [],
+            "Mage's Staff": [],
+            "Morning Star": [],
+            "Warhammer": [],
+            "Shooting Star": [],
+            "Magus Staff": [],
+            "Silver Mallet": [],
+            "Wisdom Staff": [],
+            "Grand Mallet": [],
+            "Wizard's Relic": [
+                {
+                    "EnemyName": "Wizard",
+                    "DropRate": 0.2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Lord Fortune": [],
+            "Violetta": [],
+            "Dream Rod": [],
+            "Save the Queen": [],
+            "Meteor Strike": [],
+            "Fantasista": [],
+            "Knight’s Shield": [],
+            "Smasher": [],
+            "Stout Shield": [],
+            "Mythril Shield": [],
+            "Gigas Fist": [],
+            "Golem Shield": [],
+            "Onyx Shield": [],
+            "Adamant Shield": [],
+            "Dream Shield": [],
+            "Herc's Shield": [],
+            "Defender": [
+                {
+                    "EnemyName": "Defender",
+                    "DropRate": 0.2,
+                    "AdditionalInformation": ""
+                }
+            ],
+            "Genji Shield": [],
+            "Save the King": [],
+            "Mighty Shield": [],
+            "Seven Elements": []
+        }
+    }
+}
