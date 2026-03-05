@@ -38,10 +38,22 @@
     <Content Update="wwwroot\data\seed\ma\_trailers.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\data\seed\ms\_ms_inventory.json">
+    <Content Update="wwwroot\data\seed\ms\_inventory.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\data\seed\ms\_ms_recipes.json">
+    <Content Update="wwwroot\data\seed\ms\_recipes.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\inventory\_kh1_inventory.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\inventory\_khmom_inventory.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\recipes\_kh1_recipes.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\seed\scripts\recipes\_khmom_recipes.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\data\seed\scripts\scenes\_kh0_2_lines.json">
