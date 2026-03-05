@@ -1,5 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 using WayfinderProject.Domain.Interfaces;
+using WayfinderProject.Domain.Models.Attributes;
 using WayfinderProject.Domain.Models.MoogleShop.SubData;
 
 namespace WayfinderProject.Domain.Models.MoogleShop
@@ -16,6 +17,9 @@ namespace WayfinderProject.Domain.Models.MoogleShop
         public string AdditionalInformation { get; set; } = string.Empty;
         public int Cost { get; set; } = 0;
         public string Currency { get; set; } = string.Empty;
+
+        [DisplayInTable(headerName: "Cost", iconPath: "worlds_gray.png", order: 4, colorClass: "orange")]
+        public string CombinedCostCurrency { get => Cost > 0 ? $"{Cost} {Currency}" : ""; }
 
         public bool ContainsText(string term, IEnumerable<object> data)
         {

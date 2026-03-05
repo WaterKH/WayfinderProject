@@ -1,6 +1,5 @@
 ﻿using System.Text.Json.Serialization;
 using WayfinderProject.Domain.Interfaces;
-using WayfinderProject.Domain.Models.MemoryArchive.SubData;
 using WayfinderProject.Domain.Models.MoogleShop.SubData;
 
 namespace WayfinderProject.Domain.Models.MoogleShop
