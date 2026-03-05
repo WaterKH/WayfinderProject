@@ -93,7 +93,16 @@
             <iconify-icon icon="mingcute:left-line"></iconify-icon>
         </button>
 
-        <span class="page-info">Page @_currentPage of @TotalPages</span>
+        <div class="page-jump">
+            <span>Page</span>
+            <input type="number"
+                   value="@_currentPage"
+                   @onchange="HandlePageInput"
+                   min="1"
+                   max="@TotalPages"
+                   class="input-page-selector" />
+            <span>of @TotalPages</span>
+        </div>
 
         <button class="btn-nav" @onclick="() => ChangePage(_currentPage + 1)" disabled="@(_currentPage == TotalPages)">
             <iconify-icon icon="mingcute:right-line"></iconify-icon>
@@ -180,8 +189,17 @@
         .Skip((_currentPage - 1) * ItemsPerPage)
         .Take(ItemsPerPage);
 
-    private void ChangePage(int page)
+    private async Task ChangePage(int page)
     {
         _currentPage = Math.Clamp(page, 1, TotalPages);
+    }
+
+    private async Task HandlePageInput(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value?.ToString(), out int targetPage))
+        {
+            var sanitizedPage = Math.Clamp(targetPage, 1, TotalPages);
+            await ChangePage(sanitizedPage);
+        }
     }
 }

@@ -226,3 +226,30 @@
     visibility: collapse; 
 }
 
+.pagination-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.page-jump {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.9rem;
+}
+
+.input-page-selector {
+    width: 50px;
+    text-align: center;
+    padding: 2px 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: white;
+}
+
+    .input-page-selector::-webkit-outer-spin-button,
+    .input-page-selector::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
