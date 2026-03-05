@@ -93,7 +93,7 @@
                     <div class="wayfinder-title">
                         <strong>
                             <span style="color: #ea4a4a;">Random</span>
-                            <span style="color: #2cce78;">Scene</span>
+                            <span style="color: #2cce78;">Entry</span>
                             <span style="color: #5499fc;">Gen</span>
                         </strong>
                     </div>
@@ -294,9 +294,9 @@ else
         await Task.Yield();
 
         var characterEntryTask = ServiceFactory.CreateAsync<CharacterEntryService, CharacterEntry, CharacterEntryCriteria, CharacterEntryWrapper<CharacterEntry>>(Constants.CharacterEntriesPath);
-        var enemyEntryService = ServiceFactory.CreateAsync<EnemyEntryService, EnemyEntry, EnemyEntryCriteria, EnemyEntryWrapper<EnemyEntry>>(Constants.InterviewsPath);
-        var reportEntryService = ServiceFactory.CreateAsync<ReportEntryService, ReportEntry, ReportEntryCriteria, ReportEntryWrapper<ReportEntry>>(Constants.ScenesPath);
-        var storyEntryService = ServiceFactory.CreateAsync<StoryEntryService, StoryEntry, StoryEntryCriteria, StoryEntryWrapper<StoryEntry>>(Constants.TrailersPath);
+        var enemyEntryService = ServiceFactory.CreateAsync<EnemyEntryService, EnemyEntry, EnemyEntryCriteria, EnemyEntryWrapper<EnemyEntry>>(Constants.EnemyEntriesPath);
+        var reportEntryService = ServiceFactory.CreateAsync<ReportEntryService, ReportEntry, ReportEntryCriteria, ReportEntryWrapper<ReportEntry>>(Constants.ReportEntriesPath);
+        var storyEntryService = ServiceFactory.CreateAsync<StoryEntryService, StoryEntry, StoryEntryCriteria, StoryEntryWrapper<StoryEntry>>(Constants.StoryEntriesPath);
 
         await Task.WhenAll(characterEntryTask, enemyEntryService, reportEntryService, storyEntryService);
 
