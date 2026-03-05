@@ -174,7 +174,7 @@ namespace WayfinderProject.Services
             {
                 if (!SubDataWrappers.TryGetValue(data.Game, out var subDataWrapper)) continue;
 
-                var entries = subDataWrapper.WrappedMemoryArchiveSubData;
+                var entries = subDataWrapper.WrappedSubData;
 
                 if (entries.TryGetValue(data.Name, out var foundData))
                 {

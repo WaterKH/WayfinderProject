@@ -2,6 +2,6 @@
 {
     public interface IBaseSubWrapper<TSubData>
     {
-        Dictionary<string, List<TSubData>> WrappedMemoryArchiveSubData { get; set; }
+        Dictionary<string, List<TSubData>> WrappedSubData { get; set; }
     }
 }

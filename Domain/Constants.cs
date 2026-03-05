@@ -11,5 +11,8 @@
         public const string EnemyEntriesPath = "data/seed/jj/_enemies.json";
         public const string ReportEntriesPath = "data/seed/jj/_reports.json";
         public const string StoryEntriesPath = "data/seed/jj/_story.json";
+
+        public const string InventoryPath = "data/seed/ms/_inventory.json";
+        public const string RecipesPath = "data/seed/ms/_recipes.json";
     }
 }

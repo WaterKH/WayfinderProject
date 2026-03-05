@@ -143,8 +143,8 @@ namespace WayfinderProject.Domain
                 filteredPool = filteredPool.Where(item =>
                 {
                     var lines = subData.Values
-                        .Where(wrapper => wrapper.WrappedMemoryArchiveSubData.ContainsKey(item.Name))
-                        .SelectMany(wrapper => wrapper.WrappedMemoryArchiveSubData[item.Name])
+                        .Where(wrapper => wrapper.WrappedSubData.ContainsKey(item.Name))
+                        .SelectMany(wrapper => wrapper.WrappedSubData[item.Name])
                         .Cast<object>();
                     return item.ContainsText(state.SearchTerm, lines);
                 });

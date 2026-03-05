@@ -8,11 +8,15 @@ using WayfinderProject.Domain.Interfaces;
 using WayfinderProject.Domain.Models.JiminyJournal;
 using WayfinderProject.Domain.Models.MemoryArchive;
 using WayfinderProject.Domain.Models.MemoryArchive.SubData;
+using WayfinderProject.Domain.Models.MoogleShop;
+using WayfinderProject.Domain.Models.MoogleShop.SubData;
 using WayfinderProject.Domain.Strategies.JiminyJournal;
 using WayfinderProject.Domain.Strategies.MemoryArchive;
+using WayfinderProject.Domain.Strategies.MoogleShop;
 using WayfinderProject.Services;
 using WayfinderProject.Services.JiminyJournal;
 using WayfinderProject.Services.MemoryArchive;
+using WayfinderProject.Services.MoogleShop;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -43,8 +47,12 @@ builder.Services.AddScoped<IDataFilterStrategy<EnemyEntry>, EnemyEntryFilterStra
 builder.Services.AddScoped<IDataFilterStrategy<ReportEntry>, ReportEntryFilterStrategy>();
 builder.Services.AddScoped<IDataFilterStrategy<StoryEntry>, StoryEntryFilterStrategy>();
 
+// Moogle Shop Services and Strategies
 builder.Services.AddScoped<InventoryService>();
 builder.Services.AddScoped<RecipeService>();
+
+builder.Services.AddScoped<IDataFilterStrategy<Inventory, EnemyDropWrapper>, InventoryFilterStrategy>();
+builder.Services.AddScoped<IDataFilterStrategy<Recipe, MaterialWrapper>, RecipeFilterStrategy>();
 
 builder.Services.AddBlazoredModal(); 
 builder.Services.AddBlazoredToast();

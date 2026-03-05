@@ -1,0 +1,75 @@
+﻿@typeparam TItem where TItem : WayfinderProject.Domain.Models.MoogleShop.Recipe
+@using WayfinderProject.Domain
+@using WayfinderProject.Domain.Models.MoogleShop
+@using WayfinderProject.Domain.Models.MoogleShop.SubData
+
+
+<div class="row">
+    <div class="col-md-5">
+        <div class="expansion-content-card">
+            <div class="details-pane">
+                <h3>@Item.Name</h3>
+
+                @foreach (var detail in GetDetails())
+                {
+                    <div class="mt-4">
+                        <h3 class="@(detail.Color)-color">
+                            <img src="images/icons/@(detail.Icon).png" class="detail-icon" /> @detail.Title
+                        </h3>
+                        <label>@string.Join(", ", detail.Data)</label>
+                    </div>
+                }
+
+                @if (!string.IsNullOrEmpty(Item.UnlockConditionDescription))
+                {
+                    <div class="mt-4">
+                        <h3>
+                            <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(Item.Game)).png" class="info-detail-icon" /> Unlock Condition
+                        </h3>
+                        <label class="font-weight-700">@Item.UnlockConditionDescription</label>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-7">
+        <div class="expansion-content-card">
+            <div class="dialogue-pane">
+                
+                <hr />
+                <div class="dialogue-table-container">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th style="width: 125px; background: transparent;">Item</th>
+                                <th style="background: transparent;">Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var data in Item.SubData)
+                            {
+                                <tr>
+                                    <td><strong>@data.Name</strong></td>
+                                    <td>@data.Amount</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public TItem Item { get; set; } = default!;
+    [Parameter] public Func<Task>? GenerateShareLink { get; set; }
+
+    private IEnumerable<(string Title, string Color, string Icon, IEnumerable<string> Data)> GetDetails() => new[]
+    {
+        (Title: "Game", Color: "game", Icon: "games_gray", Data: (IEnumerable<string>)[Item.Game]),
+        (Title: "Categories", Color: "area", Icon: "area", Data: (IEnumerable<string>)[Item.Category])
+    };
+}

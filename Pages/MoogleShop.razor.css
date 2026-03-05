@@ -6,7 +6,7 @@
 .wayfinder-parallax {
     border-radius: 35px;
     padding: 20px;
-    /*    background-image: url(/images/updated-backgrounds/moogle_textless.png);*/
+    /*    background-image: url(/images/updated-backgrounds/memoryarchive_textless.png);*/
     background-image: none;
     background-attachment: fixed;
     background-position: left;
@@ -97,7 +97,7 @@
     }
 
 .custom-input {
-    padding: 10px 100px 10px 40px;
+    padding: 10px 200px 10px 40px;
     border-radius: 50px;
     text-align: left;
     width: 40%;
@@ -179,7 +179,6 @@
 }
 
 
-
 .a {
     color: #2997ff;
 }
@@ -226,7 +225,6 @@
 }
 
 
-
 /* Rounded sliders */
 .slider.round {
     border-radius: 34px;
@@ -260,3 +258,51 @@
         background: #555;
         border-radius: 10px;
     }
+
+
+.advanced-search-box {
+    margin-top: 10px;
+    padding: 0px 15px 15px 25px;
+    border-radius: 30px;
+    width: 100%;
+    height: auto;
+    background-color: #f1f1f1;
+}
+
+.clickable {
+    float: right;
+    font-size: 1rem;
+    color: #3e79a7;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: .8rem;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    padding: 4px 5px;
+    border-radius: 500px;
+    background-color: #bee2ff;
+}
+
+.spinner {
+    width: 100px;
+    height: 100px;
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #387ee6;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-top: 50px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

@@ -6,6 +6,6 @@ namespace WayfinderProject.Domain.Models.MemoryArchive
     public class InteractionScriptWrapper : BaseSubWrapper<ScriptLine>
     {
         [JsonPropertyName("Script")]
-        public override Dictionary<string, List<ScriptLine>> WrappedMemoryArchiveSubData { get; set; } = new();
+        public override Dictionary<string, List<ScriptLine>> WrappedSubData { get; set; } = new();
     }
 }

@@ -2,6 +2,6 @@
 {
     public interface IFilterable
     {
-        bool ContainsText(string term, IEnumerable<object> subLines);
+        bool ContainsText(string term, IEnumerable<object> data);
     }
 }
