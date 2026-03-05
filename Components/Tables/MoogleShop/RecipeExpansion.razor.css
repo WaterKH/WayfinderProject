@@ -113,3 +113,10 @@
         outline: none;
         border: 2px solid #2888ff;
     }
+
+
+.info-detail-icon {
+    width: 50px;
+    margin-right: 10px;
+    margin-top: -3px;
+}
