@@ -1665,36 +1665,6 @@
         "Order": 1,
         "Person": "Ventus",
         "Line": "Leave it to me!"
-      },
-      {
-        "Order": 2,
-        "Person": "Ventus",
-        "Line": "Oh. There it is."
-      },
-      {
-        "Order": 3,
-        "Person": "Jaq",
-        "Line": "Look out! Rucifee! Hurry! Hurry, Ven! Ooh, that hurts..."
-      },
-      {
-        "Order": 4,
-        "Person": "Ventus",
-        "Line": "Time to play, cat!"
-      },
-      {
-        "Order": 5,
-        "Person": "Jaq",
-        "Line": "Ven-Ven!"
-      },
-      {
-        "Order": 6,
-        "Person": "Ventus",
-        "Line": "Take the pearl, Jaq! I'll hold him off. Run!"
-      },
-      {
-        "Order": 7,
-        "Person": "Jaq",
-        "Line": "Zugk-zugk!"
       }
     ],
     "That's What Friends Do": [
