@@ -2867,7 +2867,7 @@
         "Line": "Princess! That's so sweet. It's just like a miracle..."
       }
     ],
-    "Flashback; Ventus Wakes Up": [
+    "Flashback: Ventus Wakes Up": [
       {
         "Order": 0,
         "Person": "Aqua",
@@ -3559,7 +3559,7 @@
         "Line": "So that's what it was."
       }
     ],
-    "Flashback; The Boy with No Memories": [
+    "Flashback: The Boy with No Memories": [
       {
         "Order": 0,
         "Person": "Aqua",
@@ -5049,7 +5049,7 @@
         "Line": "I don't want to put you in harm's way. You understand?"
       }
     ],
-    "Flashback; The Wooden Keyblade": [
+    "Flashback: The Wooden Keyblade": [
       {
         "Order": 0,
         "Person": "Terra",
@@ -8760,7 +8760,7 @@
         "Line": "I lost them!"
       }
     ],
-    "Flashback; The Last Night (Ventus)": [
+    "Flashback: The Last Night (Ventus)": [
       {
         "Order": 0,
         "Person": "Ventus",
@@ -8890,7 +8890,7 @@
         "Line": "Hooray! We sure showed Hook this time!"
       }
     ],
-    "Flashback; The Last Night (Terra)": [
+    "Flashback: The Last Night (Terra)": [
       {
         "Order": 0,
         "Person": "Terra",
@@ -9512,7 +9512,7 @@
         "Line": "I've done it... He's... finally... finished... Ven, Terra... you can rest easy."
       }
     ],
-    "Flashback; The Last Night (Aqua)": [
+    "Flashback: The Last Night (Aqua)": [
       {
         "Order": 0,
         "Person": "Terra",
@@ -10138,7 +10138,7 @@
         "Line": "I knew it. Xehanort- he could never let it go."
       }
     ],
-    "Flashback; The Keyblade Masters": [
+    "Flashback: The Keyblade Masters": [
       {
         "Order": 0,
         "Person": "Eraqus",
@@ -10501,7 +10501,7 @@
         "Line": "You used to be too broken to talk back."
       }
     ],
-    "Flashback; Vanitas's Making": [
+    "Flashback: Vanitas's Making": [
       {
         "Order": 0,
         "Person": "Ventus",
