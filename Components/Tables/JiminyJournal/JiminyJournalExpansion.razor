@@ -39,7 +39,14 @@
     <div class="col-md-2"></div>
 
     <div class="col-md-4">
-        <img class="image-container" src="images/JJ.png" />
+        @if (!string.IsNullOrEmpty(Item.ImageLink))
+        {
+            <img class="image-container" src="@(Item.ImageLink)" />
+        }
+        else
+        {
+            <img class="image-container" src="images/JJ.png" />
+        }
     </div>
 </div>
 

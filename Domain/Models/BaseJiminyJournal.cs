@@ -9,6 +9,7 @@ namespace WayfinderProject.Domain.Models
         [DisplayInTable(headerName: "Worlds", iconPath: "worlds_gray.png", order: 3, colorClass: "red")]
         public List<string> Worlds { get; set; } = new();
         public string Description { get; set; } = string.Empty;
+        public string ImageLink { get; set; } = string.Empty;
         public string AdditionalInformation { get; set; } = string.Empty;
     }
 }
