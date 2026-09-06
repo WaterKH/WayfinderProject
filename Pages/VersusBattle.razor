@@ -1,7 +1,256 @@
+@page "/versus_battle"
+@inject NavigationManager NavigationManager
+@inject DataServiceFactory ServiceFactory
+
+@inject IJSRuntime JS
+@inject IToastService toastService
+
+@using WayfinderProject.Domain
+@using WayfinderProject.Domain.Factories
+@using WayfinderProject.Domain.Models
+@using WayfinderProject.Domain.Models.Filters.JiminyJournal
+@using WayfinderProject.Domain.Models.JiminyJournal
+@using WayfinderProject.Services.JiminyJournal
+
 <PageTitle>The Wayfinder Project - Versus Battle</PageTitle>
 
 <br />
 <br />
 
 <div class="wayfinder-background">
+    <div class="wayfinder-parallax">
+
+        @if (!this.IsMobile)
+        {
+            <div class="row" style="width: 100%; margin: 0px 0px 30px 0px">
+                <div class="col-md-12" style="align-self: center;">
+                    <div class="wayfinder-title">
+                        <img src="images/wayfinder_project_title.png" />
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="row" style="width: 100%; margin: 0px 0px 30px 0px">
+                <div class="col-md-1"></div>
+
+                <div class="col-md-4" style="text-align: center;">
+                    <div class="wayfinder-title">
+                        <strong><span style="color: #522aff;">Battle of the Day</span></strong>
+                    </div>
+
+                    <div class="wayfinder-alt-description">
+                        <strong>
+                            Discover a brand new daily versus battle by visiting The Wayfinder Project everyday! Follow <a href="https://twitter.com/WFP_KH" target="_blank">@@WFP_KH on Twitter</a>!
+                        </strong>
+                    </div>
+
+                    <br />
+
+                    <button class="wayfinder-button" onclick="@(() => this.NavigateToDailyBattle())" @onclick:stopPropagation>Daily Battle</button>
+                </div>
+
+                <div class="col-md-2"></div>
+
+                @if (this.IsMobile)
+                {
+                    <span style="margin-bottom: 25px;"></span>
+                }
+
+                <div class="col-md-4" style="text-align: center;">
+                    <div class="wayfinder-title">
+                        <strong>
+                            <span style="color: #ea4a4a;">Random</span>
+                            <span style="color: #2cce78;">Battle</span>
+                            <span style="color: #5499fc;">Gen</span>
+                        </strong>
+                    </div>
+
+                    <div class="wayfinder-alt-description">
+                        <strong>
+                            Generate a random versus battle right now!
+                        </strong>
+                    </div>
+
+                    <br />
+
+                    <button class="wayfinder-button" onclick="@(() => this.NavigateToRandomBattle())" @onclick:stopPropagation>Random Battle</button>
+                </div>
+
+                <div class="col-md-1"></div>
+            </div>
+        }
+    </div>
 </div>
+
+@if (Loading)
+{
+    <div class="row justify-content-center"><div class="spinner col-md-12"></div></div>
+}
+else
+{
+    @if (FirstEnemy == null || SecondEnemy == null)
+    {
+        <div class="row justify-content-center"><div class="col-md-12" style="text-align:center; margin-top: 25px; margin-bottom: 50px;">
+            <p>Select "Daily Battle" or "Random Battle" to generate a versus match.</p>
+        </div></div>
+    }
+    else
+    {
+        <div class="row" style="margin-top: 25px; margin-bottom: 50px; align-items: center;">
+            <div class="col-md-5">
+                <div style="margin-top:20px; text-align:center;">
+                    @if (!string.IsNullOrEmpty(FirstEnemy.ImageLink))
+                    {
+                        <img class="image-container" src="@(FirstEnemy.ImageLink)" />
+                    }
+                    else
+                    {
+                        <img class="image-container" src="images/JJ.png" />
+                    }
+                </div>
+
+                <div class="expansion-content-card">
+                    <div class="details-pane">
+                        <h3>@FirstEnemy.Name</h3>
+
+                        <div class="mt-3">
+                            <h5>
+                                <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(FirstEnemy.Game)).png" class="info-detail-icon" /> @FirstEnemy.Game
+                            </h5>
+                        </div>
+
+                        <div class="mt-4">
+                            <h3>Information</h3>
+                            <label class="font-weight-700">@FirstEnemy.Description</label>
+                        </div>
+
+                        @if (!string.IsNullOrEmpty(FirstEnemy.AdditionalInformation))
+                        {
+                            <div class="mt-4">
+                                <label class="font-weight-700">@FirstEnemy.AdditionalInformation</label>
+                            </div>
+                        }
+
+                        <div class="mt-3">
+                            <h4 class="world-color"><img src="images/icons/worlds.png" class="detail-icon" /> Worlds</h4>
+                            <label>@string.Join(", ", FirstEnemy.Worlds)</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 text-center">
+                <div style="display:flex; align-items:center; justify-content:center; height:100%;">
+                    <div>
+                        <img src="images/versus.png" style="max-width:120px;" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div style="margin-top:10px; text-align:center;">
+                    @if (!string.IsNullOrEmpty(SecondEnemy.ImageLink))
+                    {
+                        <img class="image-container" src="@(SecondEnemy.ImageLink)" />
+                    }
+                    else
+                    {
+                        <img class="image-container" src="images/JJ.png" />
+                    }
+                </div>
+
+                <div class="expansion-content-card">
+                    <div class="details-pane">
+                        <h3>@SecondEnemy.Name</h3>
+
+                        <div class="mt-3">
+                            <h5>
+                                <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(SecondEnemy.Game)).png" class="info-detail-icon" /> @SecondEnemy.Game
+                            </h5>
+                        </div>
+
+                        <div class="mt-4">
+                            <h3>Information</h3>
+                            <label class="font-weight-700">@SecondEnemy.Description</label>
+                        </div>
+
+                        @if (!string.IsNullOrEmpty(SecondEnemy.AdditionalInformation))
+                        {
+                            <div class="mt-4">
+                                <label class="font-weight-700">@SecondEnemy.AdditionalInformation</label>
+                            </div>
+                        }
+
+                        <div class="mt-3">
+                            <h4 class="world-color"><img src="images/icons/worlds.png" class="detail-icon" /> Worlds</h4>
+                            <label>@string.Join(", ", SecondEnemy.Worlds)</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+
+@code {
+    public bool Loading { get; set; }
+    public bool IsMobile { get; set; }
+
+    public string CurrentViewMobile { get; set; } = "Available";
+
+    public EnemyEntryService? EnemyEntryService;
+
+    private IEnumerable<object> CurrentResults = new List<object>();
+
+    private EnemyEntry FirstEnemy {get; set; } = null!;
+    private EnemyEntry SecondEnemy {get; set; } = null!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Loading = true;
+
+        await Task.Yield();
+
+        var enemyEntryService = ServiceFactory.CreateAsync<EnemyEntryService, EnemyEntry, EnemyEntryCriteria, EnemyEntryWrapper<EnemyEntry>>(Constants.EnemyEntriesPath);
+
+        await Task.WhenAll(enemyEntryService);
+
+        EnemyEntryService = enemyEntryService.Result;
+
+        Loading = false;
+    }
+
+    private async Task NavigateToRandomBattle()
+    {
+        // Random-ness is handled within the Service
+        await NavigateToBattle();
+    }
+
+    private async Task NavigateToDailyBattle()
+    {
+        var seed = DateTime.UtcNow.ToShortDateString();
+        var seed1 = seed + "_1";
+        var seed2 = seed + "_2";
+        await NavigateToBattle(seed1, seed2);
+    }
+
+
+    private async Task NavigateToBattle(string seed1 = "", string seed2 = "")
+    {
+        if (EnemyEntryService == null) return;
+        var result1 = EnemyEntryService.GetRandomResult(seed1) as EnemyEntry ?? new();
+        var result2 = EnemyEntryService.GetRandomResult(seed2) as EnemyEntry ?? new();
+
+        if (result1.Name == result2.Name)
+        {
+            result2 = EnemyEntryService.GetRandomResult(seed2) as EnemyEntry ?? new();
+        }
+
+        FirstEnemy = result1;
+        SecondEnemy = result2;
+        
+        StateHasChanged();
+    }
+}
