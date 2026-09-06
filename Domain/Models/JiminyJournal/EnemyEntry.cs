@@ -8,8 +8,5 @@ namespace WayfinderProject.Domain.Models.JiminyJournal
         public override Dictionary<string, List<T>> WrappedData { get; set; } = new();
     }
 
-    public class EnemyEntry : BaseJiminyJournalData
-    {
-        public string ImageLink {get; set; } = string.Empty;
-    }
+    public class EnemyEntry : BaseJiminyJournalData { }
 }
