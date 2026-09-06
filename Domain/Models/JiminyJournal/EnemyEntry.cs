@@ -9,5 +9,7 @@ namespace WayfinderProject.Domain.Models.JiminyJournal
     }
 
     public class EnemyEntry : BaseJiminyJournalData
-    { }
+    {
+        public string ImageLink {get; set; } = string.Empty;
+    }
 }
