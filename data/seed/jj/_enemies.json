@@ -5,337 +5,393 @@
         "Name": "Air Pirate",
         "Description": "Winged Heartless that mostly appear in Neverland. They are extremely combative and are hardly ever caught off guard. They attack with martial-arts-like techniques.",
         "Worlds": [ "Neverland" ],
-        "Characters": [ "Air Pirate(s)" ]
+        "Characters": [ "Air Pirate(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Air Soldier",
         "Description": "Winged Heartless. They fly over their enemies and dive to strike them. Their high endurance and quickness make them tough to beat.",
         "Worlds": [ "Neverland" ],
-        "Characters": [ "Air Soldier(s)" ]
+        "Characters": [ "Air Soldier(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Angel Star",
         "Description": "Flying Heartless that cast potent spells. They are born of holy spells. They attack from long range with magic. They block physical attacks with their wings, making them difficult to defeat.",
         "Worlds": [ "End of the World" ],
-        "Characters": [ "Angel Star(s)" ]
+        "Characters": [ "Angel Star(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Aquatank",
         "Description": "Heartless resembling a fish that calmly swim the seas. They are often carrying Screwdivers. Leisurely large creatures that do not attack unless provoked.",
         "Worlds": [ "Atlantica" ],
-        "Characters": [ "Aquatank(s)", "Screwdiver(s)" ]
+        "Characters": [ "Aquatank(s)", "Screwdiver(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Arch Behemoth",
         "Description": "A Behemoth subspecies. Although similar in appearance to the Behemoth, it lacks their aptitude. However, it shares their strengths and weaknesses.",
         "Worlds": [ "End of the World" ],
-        "Characters": [ "Arch Behemoth(s)", "Behemoth(s)" ]
+        "Characters": [ "Arch Behemoth(s)", "Behemoth(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Bandit",
         "Description": "Heartless that mostly appear in Agrabah. They can travel under the sand. They attack deftly with a long sword. Attack them with caution.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Bandit(s)" ]
+        "Characters": [ "Bandit(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Barrel Spider",
         "Description": "Gunpowder barrel turned Heartless. They charge into their enemies and explode. Any physical impact or fire will set them off.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Barrel Spider(s)" ]
+        "Characters": [ "Barrel Spider(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Battleship",
         "Description": "Heartless that fused together with a pirate ship. They attack with homing and magic projectiles. Attack them at close range.",
         "Worlds": [ "Neverland" ],
-        "Characters": [ "Battleship(s)" ]
+        "Characters": [ "Battleship(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Behemoth",
         "Description": "Immensely powerful Heartless. With their large frame, they trample enemies, and repel most attacks. Damaging their weak point makes them lose consciousness. Strike them with potent attacks while they are down.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Behemoth(s)" ]
+        "Characters": [ "Behemoth(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Black Ballade",
         "Description": "A Heartless that confuses its enemy by creating projections of itself. If the copies are attacked, it will resort to counterattacks and eventually run away. However, if it is attacked directly and relentlessly...",
         "Worlds": [ "Deep Jungle" ],
-        "Characters": [ "Black Ballade(s)" ]
+        "Characters": [ "Black Ballade(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Black Fungus",
         "Description": "Hostile Heartless, unlike White Mushrooms. They attack with poison. Defeating them may bring good things, but it is not easy.",
         "Worlds": [ ":None:" ],
-        "Characters": [ "Black Fungus(i)" ]
+        "Characters": [ "Black Fungus(i)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Blue Rhapsody",
         "Description": "Spellcasting Heartless. They approach their enemies by bouncing about and attack with Blizzard and absorb blizzard attacks.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Blue Rhapsody(ies)" ]
+        "Characters": [ "Blue Rhapsody(ies)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Bouncywild",
         "Description": "Heartless resembling a monkey. Unlike Powerwilds, they attack from long range with a sling shot. They scamper about during battle, making them difficult to hit.",
         "Worlds": [ "Deep Jungle" ],
-        "Characters": [ "Bouncywild(s)" ]
+        "Characters": [ "Bouncywild(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Chimera",
         "Description": "A Heartless wandering the streets of Halloween Town. Generally a slow-paced creature, it attacks quickly and relentlessly when angered. Armed with various abilities such as summoning Gargoyles, one must use this creature's own tricks against it.",
         "Worlds": [ "Halloween Town" ],
-        "Characters": [ "Chimera(s)", "Gargoyle(s)" ]
+        "Characters": [ "Chimera(s)", "Gargoyle(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Darkball",
         "Description": "Heartless born purely out of darkness. Their movements are unpredictable, as they often make sudden moves and attacks.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Darkball(s)" ]
+        "Characters": [ "Darkball(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Darkside",
         "Description": "Enormous Heartless that appeared in Destiny Islands with Shadows. It led the Shadows in the battle against Sora when he first received the Keyblade. Although Sora defeated it, the island was swallowed by the darkness.",
         "Worlds": [ "Destiny Islands" ],
-        "Characters": [ "Darkside(s)", "Shadow(s)", "Sora" ]
+        "Characters": [ "Darkside(s)", "Shadow(s)", "Sora" ],
+        "ImageLink": ""
       },
       {
         "Name": "Defender",
         "Description": "Heartless that mostly appear in Hollow Bastion. They carry an eerie shield with a face that casts Fire and Blizzard and bites nearby enemies.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Defender(s)" ]
+        "Characters": [ "Defender(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Destroyed Behemoth",
         "Description": "A greater Behemoth subspecies. It has extraordinary strength, unparalleled to that of the Behemoth. However, despite its appearance and size, it shares the same weaknesses as the standard archetype.",
         "Worlds": [ "Olympus Coliseum" ],
-        "Characters": [ "Destroyed Behemoth(s)", "Behemoth(s)" ]
+        "Characters": [ "Destroyed Behemoth(s)", "Behemoth(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Fat Bandit",
         "Description": "Heartless that mostly appear in Agrabah. They are well-balanced offensively and defensively. Besides strong physical attack, they use fire, and they block attacks against them. Their movement is their weakness.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Fat Bandit(s)" ]
+        "Characters": [ "Fat Bandit(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Gargoyle",
         "Description": "Winged Heartless that mostly appears in Halloween Town. They can move from one place to another almost without notice. Since they are prone to sneak attack, they often get caught off guard by counter attacks.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Gargoyle(s)" ]
+        "Characters": [ "Gargoyle(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Gigas Shadow",
         "Description": "A large Heartless similar to a Shadow. Like its predecessor, it's quite persistent and will chase its target around. If it just does the littlest amount of damage to Sora, it will fade out of sheer happiness.",
         "Worlds": [ "Wonderland" ],
-        "Characters": [ "Gigas Shadow(s)", "Shadow(s)", "Sora" ]
+        "Characters": [ "Gigas Shadow(s)", "Shadow(s)", "Sora" ],
+        "ImageLink": ""
       },
       {
         "Name": "Grand Ghost",
         "Description": "A Heartless similar to the Search Ghost, often spotted within Monstro. Weapon attacks do no damage, only causing items to drop. Approach the phantom and use said items for a startling discovery.",
         "Worlds": [ "Monstro" ],
-        "Characters": [ "Grand Ghost(s)", "Search Ghost(s)" ]
+        "Characters": [ "Grand Ghost(s)", "Search Ghost(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Green Requiem",
         "Description": "Spellcasting Heartless. They heal themselves and other Heartless with Cure. They are slow-moving, but hover high in the air and absorb most magic attacks.",
         "Worlds": [ "Deep Jungle" ],
-        "Characters": [ "Green Requiem(s)" ]
+        "Characters": [ "Green Requiem(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Guard Armor",
         "Description": "Leader of the Heartless in Traverse Town. It falls apart when it receives damage, but each part attacks individually. Sora meets Donald and Goofy for the first time just before fighting this Heartless.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Guard Armor", "Sora", "Donald", "Goofy" ]
+        "Characters": [ "Guard Armor", "Sora", "Donald", "Goofy" ],
+        "ImageLink": ""
       },
       {
         "Name": "Invisible",
         "Description": "Heartless wielding a large sword. These winged Heartless can move freely through the air. Besides their sword, they attack with their tail and wings. With their high attack power, they often defeat their foes quickly.",
         "Worlds": [ "End of the World" ],
-        "Characters": [ "Invisible(s)" ]
+        "Characters": [ "Invisible(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Jet Balloon",
         "Description": "A Heartless similar to the Aquatank. It flies through the air with tremendous speed. Chasing it will lead to a perilous aerial battle as it unloads its Missile Drivers attack, an attack similar to the Screwdivers. Its heinous nature attracts them to prey who carry lots of munny.",
         "Worlds": [ "Atlantica" ],
-        "Characters": [ "Jet Balloon(s)", "Aquatank(s)", "Missle Driver(s)", "Screwdiver(s)" ]
+        "Characters": [ "Jet Balloon(s)", "Aquatank(s)", "Missle Driver(s)", "Screwdiver(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Kurt Zisa",
         "Description": "Heartless who emerged from the Keyhole opened by the princesses. He swung his six powerful arms to attack Sora and company and block their attacks. But Sora sought out his weakness and emerged the victor.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Kurt Zisa", "Sora" ]
+        "Characters": [ "Kurt Zisa", "Sora" ],
+        "ImageLink": ""
       },
       {
         "Name": "Large Body",
         "Description": "Big round Heartless. They seem tame and laid-back, but go berserk when they are angered. With their brute strength, they can inflict great damage, so be on your guard.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Large Body(ies)" ]
+        "Characters": [ "Large Body(ies)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Neoshadow",
         "Description": "A Heartless that travels in packs. Combining their powers allows them to attack Sora while also healing themselves. Leaving even just one alive will result in a never-ending battle.",
         "Worlds": [ "End of the World" ],
-        "Characters": [ "Neoshadow(s)", "Sora" ]
+        "Characters": [ "Neoshadow(s)", "Sora" ],
+        "ImageLink": ""
       },
       {
         "Name": "Opposite Armor",
         "Description": "Heartless that guards the keyhole in Traverse Town. It is a modified form of Guard Armor, but is more powerful.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Opposite Armor", "Guard Armor" ]
+        "Characters": [ "Opposite Armor", "Guard Armor" ],
+        "ImageLink": ""
       },
       {
         "Name": "Parasite Cage",
         "Description": "Heartless that appeared inside Monstro. It's known to swallow its enemies. Sora and the others rescue Pinocchio, who was trapped inside it.",
         "Worlds": [ "Monstro" ],
-        "Characters": [ "Parasite Cage", "Sora", "Pinocchio" ]
+        "Characters": [ "Parasite Cage", "Sora", "Pinocchio" ],
+        "ImageLink": ""
       },
       {
         "Name": "Phantom",
         "Description": "Ghostlike Heartless who haunted the clock tower standing far away from Neverland. Fluttering his eerie cloak, he cast a spell to take Sora's heart. Having no physical body, regular attacks were useless, but in the end Sora and company discovered his weakness and prevailed.",
         "Worlds": [ "Neverland" ],
-        "Characters": [ "Phantom", "Sora" ]
+        "Characters": [ "Phantom", "Sora" ],
+        "ImageLink": ""
       },
       {
         "Name": "Pink Agaricus",
         "Description": "A colossal Heartless called forth by euphoric White Mushrooms. A dancer by nature, once it starts dancing, it can't stop.",
         "Worlds": [ "Deep Jungle" ],
-        "Characters": [ "Pink Agaricus(i)" ]
+        "Characters": [ "Pink Agaricus(i)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Pirate",
         "Description": "Heartless that mostly appear in Neverland. They are quite combative with their swords. They often just focus on the enemies in front, making them vulnerable to attacks from behind.",
         "Worlds": [ "Neverland" ],
-        "Characters": [ "Pirate(s)" ]
+        "Characters": [ "Pirate(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Pot Centipede",
         "Description": "Heartless called by Jafar to stop Aladdin. Its long body is composed of a number of Pot Spiders linked together. Even if its body comes apart, it can regenerate itself by gathering other pots.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Pot Centipede", "Jafar", "Aladdin", "Pot Spider(s)" ]
+        "Characters": [ "Pot Centipede", "Jafar", "Aladdin", "Pot Spider(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Pot Scorpion",
         "Description": "An ordinary pot turned Heartless by the power of darkness. Unlike the Pot Spider, its pot is tough as nails. A simple attack won't be enough to make it cry for mercy. It emanates poisonous fumes as it attacks its prey.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Pot Scorpion(s)", "Pot Spider(s)" ]
+        "Characters": [ "Pot Scorpion(s)", "Pot Spider(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Pot Spider",
         "Description": "Ordinary pots turned Heartless. They lie in wait as ordinary pots, then reveal themselves and attack when their enemies draw near.",
         "Worlds": [ "Agrabah" ],
-        "Characters": [ "Pot Spider(s)" ]
+        "Characters": [ "Pot Spider(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Powerwild",
         "Description": "Heartless resembling a monkey. With great physical strength and agility, they often strike with combination attacks. Avoid close-range battles with them if possible.",
         "Worlds": [ "Deep Jungle" ],
-        "Characters": [ "Powerwild(s)" ]
+        "Characters": [ "Powerwild(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Rare Truffle",
         "Description": "Non-attacking Heartless that are rarely found. They like to jump, so helping them stay in the air may bring good things.",
         "Worlds": [ ":None:" ],
-        "Characters": [ "Rare Truffle(s)" ]
+        "Characters": [ "Rare Truffle(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Red Armor",
         "Description": "A giant Heartless similar to the Guard Armor. It splits into the Armored Torso, Gauntlets, and Hammer Legs, each with the ability of individual movement. Each body part can be found heading a team in a Coliseum tournament.",
         "Worlds": [ "Olympus Coliseum" ],
-        "Characters": [ "Red Armor", "Guard Armor" ]
+        "Characters": [ "Red Armor", "Guard Armor" ],
+        "ImageLink": ""
       },
       {
         "Name": "Red Nocturne",
         "Description": "Spellcasting Heartless. While hovering about, they attack by casting Fire. Having low HP, they keep their distance from their opponents, making them difficult to attack. They absorb fire attacks.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Red Nocturne(s)" ]
+        "Characters": [ "Red Nocturne(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Screwdiver",
         "Description": "Heartless that acts with Aquatank. Unpredictable creatures, dashing forward one minute, cowardly retreating the next. They are invigorated by the sparks from Aquatank.",
         "Worlds": [ "Atlantica" ],
-        "Characters": [ "Screwdiver(s)", "Aquatank(s)" ]
+        "Characters": [ "Screwdiver(s)", "Aquatank(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Sea Neon",
         "Description": "Heartless resembling jellyfish. They swim fast, and attack in numbers. Overall, they are not tough opponents.",
         "Worlds": [ "Atlantica" ],
-        "Characters": [ "Sea Neon(s)" ]
+        "Characters": [ "Sea Neon(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Search Ghost",
         "Description": "Heartless that mostly appear in Atlantica. They roam in dark areas and emit light from their eye to target their enemies. They can warp from one place to another.",
         "Worlds": [ "Atlantica" ],
-        "Characters": [ "Search Ghost(s)" ]
+        "Characters": [ "Search Ghost(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Shadow",
         "Description": "Heartless that emerge from various places. They sneak up to their enemies and strike them with sharp claws. They are extremely tenacious, often chasing their prey to the end.",
         "Worlds": [ "Destiny Islands" ],
-        "Characters": [ "Shadow(s)" ]
+        "Characters": [ "Shadow(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Sheltering Zone",
         "Description": "Heartless resembling a jellyfish. You receive damage just from colliding with it. They move slow, but break up into many Sea Neons if struck. They fling their tentacles away to keep their enemies away.",
         "Worlds": [ "Atlantica" ],
-        "Characters": [ "Sheltering Zone(s)" ]
+        "Characters": [ "Sheltering Zone(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Sneak Army",
         "Description": "A Heartless similar to but more powerful than the Stealth Sneak. They stay hidden and attack while nimbly darting around. Though even one is hard to handle, a pair can be found participating in the Coliseum tournament.",
         "Worlds": [ "Olympus Coliseum" ],
-        "Characters": [ "Sneak Army(ies)", "Stealth Sneak(s)" ]
+        "Characters": [ "Sneak Army(ies)", "Stealth Sneak(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Sniperwild",
         "Description": "A Heartless resembling a monkey. It roams as it pleases, rarely paying attention to its surroundings. If Sora is spotted, it will call forth numerous allies, all armed with slingshots.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Sniperwild(s)" ]
+        "Characters": [ "Sniperwild(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Soldier",
         "Description": "Heartless that emerge from various places. They are brisk in their movements, and rush into their opponents. However, they are not that tenacious. They often appear in numbers, though they lack teamwork.",
         "Worlds": [ "Traverse Town" ],
-        "Characters": [ "Soldier(s)" ]
+        "Characters": [ "Soldier(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Stealth Sneak",
         "Description": "Heartless that attuned to the darkness in Clayton's heart. It somehow manipulated the light to turn invisible and fought alongside Clayton.",
         "Worlds": [ "Deep Jungle" ],
-        "Characters": [ "Stealth Sneak(s)", "Clayton" ]
+        "Characters": [ "Stealth Sneak(s)", "Clayton" ],
+        "ImageLink": ""
       },
       {
         "Name": "Stealth Soldier",
         "Description": "A stealthy Heartless similar in appearance to a Soldier. It appears alongside other Heartless and deals attacks from afar. Although a troublesome enemy, it shows itself once its weakness is uncovered.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Stealth Soldier(s)", "Soldier(s)" ]
+        "Characters": [ "Stealth Soldier(s)", "Soldier(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Trickmaster",
         "Description": "Heartless that Sora and company encounter while they searched for Alice. His herky-jerky attacks and juggling act flustered Sora and the others.",
         "Worlds": [ "Wonderland" ],
-        "Characters": [ "Trickmaster", "Sora", "Alice" ]
+        "Characters": [ "Trickmaster", "Sora", "Alice" ],
+        "ImageLink": ""
       },
       {
         "Name": "White Mushroom",
         "Description": "Non-attacking, friendly Heartless. They might give you an item if you help them.",
         "Worlds": [ ":None:" ],
-        "Characters": [ "White Mushroom(s)" ]
+        "Characters": [ "White Mushroom(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Wight Knight",
         "Description": "Heartless that mostly appear in Halloween Town. Their jerky, dancelike attack moves are fairly easy to dodge, but cause large damage.",
         "Worlds": [ "Halloween Town" ],
-        "Characters": [ "Wight Knight(s)" ]
+        "Characters": [ "Wight Knight(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Wizard",
         "Description": "Heartless that attack with various powerful spells. Eludes enemy attacks by teleporting, making them tough to beat.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Wizard(s)" ]
+        "Characters": [ "Wizard(s)" ],
+        "ImageLink": ""
       },
       {
         "Name": "Wyvern",
         "Description": "Giant Heartless that attack from the air. They are quite swift for their size and are hard to attack, especially while they are high in the air. Counterattacking when they come down would be most effective.",
         "Worlds": [ "Hollow Bastion" ],
-        "Characters": [ "Wyvern(s)" ]
+        "Characters": [ "Wyvern(s)" ],
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts Re:Chain of Memories": [
@@ -348,7 +404,8 @@
         "Characters": [
           "Air Pirate(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Air Soldier",
@@ -361,7 +418,8 @@
         "Characters": [
           "Air Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Aquatank",
@@ -372,7 +430,8 @@
         "Characters": [
           "Aquatank(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bandit",
@@ -383,7 +442,8 @@
         "Characters": [
           "Bandit(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Barrel Spider",
@@ -399,7 +459,8 @@
         "Characters": [
           "Barrel Spider(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Black Fungus",
@@ -409,7 +470,8 @@
           "Black Fungus(i)",
           "White Mushroom(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blue Rhapsody",
@@ -422,7 +484,8 @@
         "Characters": [
           "Blue Rhapsody(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bouncywild",
@@ -433,7 +496,8 @@
         "Characters": [
           "Bouncywild(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Card Soldier",
@@ -445,7 +509,8 @@
           "Card Soldier(s)",
           "Queen of Hearts"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Creeper Plant",
@@ -458,7 +523,8 @@
         "Characters": [
           "Creeper Plant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Crescendo",
@@ -471,7 +537,8 @@
         "Characters": [
           "Crescendo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkball",
@@ -486,7 +553,8 @@
         "Characters": [
           "Darkball(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkside (Sora’s Story)",
@@ -498,7 +566,8 @@
           "Darkside(s)",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkside (Reverse/Rebirth)",
@@ -511,7 +580,8 @@
           "Zexion",
           "Riku"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Defender",
@@ -521,10 +591,10 @@
           "Castle Oblivion"
         ],
         "Characters": [
-          "Defender(s)",
-          ""
+          "Defender(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fat Bandit",
@@ -535,7 +605,8 @@
         "Characters": [
           "Fat Bandit(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gargoyle",
@@ -546,7 +617,8 @@
         "Characters": [
           "Gargoyle(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Green Requiem",
@@ -559,7 +631,8 @@
         "Characters": [
           "Green Requiem(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Guard Armor (Sora's Story)",
@@ -570,7 +643,8 @@
         "Characters": [
           "Guard Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Guard Armor (Reverse/Rebirth)",
@@ -582,7 +656,8 @@
           "Guard Armor(s)",
           "Riku"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Large Body",
@@ -595,7 +670,8 @@
         "Characters": [
           "Large Body(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Neoshadow",
@@ -606,7 +682,8 @@
         "Characters": [
           "Neoshadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Parasite Cage (Sora's Story)",
@@ -618,7 +695,8 @@
           "Parasite Cage(s)",
           "Pinocchio"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Parasite Cage (Reverse/Rebirth)",
@@ -630,7 +708,8 @@
           "Parasite Cage(s)",
           "Riku"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Pirate",
@@ -641,7 +720,8 @@
         "Characters": [
           "Pirate(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Powerwild",
@@ -652,7 +732,8 @@
         "Characters": [
           "Powerwild(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Red Nocturne",
@@ -665,7 +746,8 @@
         "Characters": [
           "Red Nocturne(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Screwdiver",
@@ -677,7 +759,8 @@
           "Screwdriver(s)",
           "Aquatank(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sea Neon",
@@ -688,7 +771,8 @@
         "Characters": [
           "Sea Neon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Search Ghost",
@@ -701,7 +785,8 @@
         "Characters": [
           "Search Ghost(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow",
@@ -710,7 +795,8 @@
         "Characters": [
           "Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Soldier",
@@ -723,7 +809,8 @@
         "Characters": [
           "Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tornado Step",
@@ -736,7 +823,8 @@
         "Characters": [
           "Tornado Step(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Trickmaster (Sora's Story)",
@@ -748,7 +836,8 @@
           "Trickmaster(s)",
           "Queen of Hearts"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Trickmaster (Reverse/Rebirth)",
@@ -760,7 +849,8 @@
           "Trickmaster(s)",
           "Riku"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "White Mushroom",
@@ -769,7 +859,8 @@
         "Characters": [
           "White Mushroom(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wight Knight",
@@ -780,7 +871,8 @@
         "Characters": [
           "Wight Knight(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wizard",
@@ -792,7 +884,8 @@
         "Characters": [
           "Wizard(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wyvern",
@@ -804,7 +897,8 @@
         "Characters": [
           "Wyvern(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Yellow Opera",
@@ -813,7 +907,8 @@
         "Characters": [
           "Yellow Opera(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts II": [
@@ -824,7 +919,8 @@
         "Characters": [
           "Aerial Champ(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Aerial Knocker",
@@ -835,7 +931,8 @@
         "Characters": [
           "Aerial Knocker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Aerial Viking",
@@ -844,7 +941,8 @@
         "Characters": [
           "Aerial Viking(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Aeroplane",
@@ -855,7 +953,8 @@
         "Characters": [
           "Aeroplane(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Air Pirate",
@@ -867,7 +966,8 @@
         "Characters": [
           "Air Pirate(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Armored Knight",
@@ -882,7 +982,8 @@
         "Characters": [
           "Armored Knight(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Assault Rider",
@@ -893,7 +994,8 @@
         "Characters": [
           "Assault Rider(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Beffudler",
@@ -902,7 +1004,8 @@
         "Characters": [
           "Beffudler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blizzard Lord",
@@ -915,7 +1018,8 @@
           "Volcanic Lord",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bolt Tower",
@@ -926,7 +1030,8 @@
         "Characters": [
           "Bolt Tower(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bookmaster",
@@ -941,7 +1046,8 @@
           "Blue Rhapsody(ies)",
           "Yellow Opera(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bulky Vendor",
@@ -956,7 +1062,8 @@
         "Characters": [
           "Bulky Vendor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Camo Cannon",
@@ -965,7 +1072,8 @@
         "Characters": [
           "Camo Cannon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Cannon Gun",
@@ -977,7 +1085,8 @@
         "Characters": [
           "Cannon Gun(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Creeper Plant",
@@ -989,7 +1098,8 @@
         "Characters": [
           "Creeper Plant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Crescendo",
@@ -1000,7 +1110,8 @@
         "Characters": [
           "Crescendo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Crimson Jazz",
@@ -1014,7 +1125,8 @@
         "Characters": [
           "Crimson Jazz(es)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dark Thorn",
@@ -1027,7 +1139,8 @@
           "Shadow Stalker",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Devastator",
@@ -1039,7 +1152,8 @@
         "Characters": [
           "Devastator(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Driller Mole",
@@ -1051,7 +1165,8 @@
         "Characters": [
           "Driller Mole(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Emerald Blues",
@@ -1065,7 +1180,8 @@
         "Characters": [
           "Emerald Blues"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fat Bandit",
@@ -1076,7 +1192,8 @@
         "Characters": [
           "Fat Bandit(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fiery Globe",
@@ -1087,7 +1204,8 @@
         "Characters": [
           "Fiery Globe(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fortuneteller",
@@ -1098,7 +1216,8 @@
         "Characters": [
           "Fortuneteller(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gargoyle Knight",
@@ -1109,7 +1228,8 @@
         "Characters": [
           "Gargoyle Knight(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gargoyle Warrior",
@@ -1120,7 +1240,8 @@
         "Characters": [
           "Gargoyle Warrior(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Graveyard",
@@ -1131,7 +1252,8 @@
         "Characters": [
           "Graveyard(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Grim Reaper",
@@ -1142,7 +1264,8 @@
         "Characters": [
           "Grim Reaper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Groundshaker",
@@ -1154,7 +1277,8 @@
           "Groundshaker(s)",
           "Scar"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hammer Frame",
@@ -1167,7 +1291,8 @@
         "Characters": [
           "Hammer Frame(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hook Bat",
@@ -1181,7 +1306,8 @@
         "Characters": [
           "Hook Bat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hot Rod",
@@ -1192,7 +1318,8 @@
         "Characters": [
           "Hot Rod(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Icy Cube",
@@ -1203,7 +1330,8 @@
         "Characters": [
           "Icy Cube(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Illuminator",
@@ -1216,7 +1344,8 @@
           "Pete",
           "Barbossa"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Iron Hammer",
@@ -1225,7 +1354,8 @@
         "Characters": [
           "Iron Hammer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Lance Soldier",
@@ -1238,7 +1368,8 @@
         "Characters": [
           "Lance Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Lance Warrior",
@@ -1247,7 +1378,8 @@
         "Characters": [
           "Lance Warrior(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Large Body",
@@ -1260,7 +1392,8 @@
         "Characters": [
           "Large Body(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Living Bone",
@@ -1271,7 +1404,8 @@
         "Characters": [
           "Living Bone(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Luna Bandit",
@@ -1282,7 +1416,8 @@
         "Characters": [
           "Luna Bandit(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Mad Ride",
@@ -1291,7 +1426,8 @@
         "Characters": [
           "Mad Ride(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Magic Phantom",
@@ -1300,7 +1436,8 @@
         "Characters": [
           "Magic Phantom(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Magnum Loader",
@@ -1312,7 +1449,8 @@
         "Characters": [
           "Magnum Loader(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Minute Bomb",
@@ -1325,7 +1463,8 @@
         "Characters": [
           "Minute Bomb(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Morning Star",
@@ -1339,7 +1478,8 @@
         "Characters": [
           "Morning Star(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Necromancer",
@@ -1348,7 +1488,8 @@
         "Characters": [
           "Necromancer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Nightwalker",
@@ -1359,7 +1500,8 @@
         "Characters": [
           "Nightwalker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 1 (Mushroom XIII)",
@@ -1368,7 +1510,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 2 (Mushroom XIII)",
@@ -1377,7 +1520,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 3 (Mushroom XIII)",
@@ -1386,7 +1530,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 4 (Mushroom XIII)",
@@ -1395,7 +1540,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 5 (Mushroom XIII)",
@@ -1404,7 +1550,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 6 (Mushroom XIII)",
@@ -1413,7 +1560,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 7 (Mushroom XIII)",
@@ -1422,7 +1570,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 8 (Mushroom XIII)",
@@ -1431,7 +1580,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 9 (Mushroom XIII)",
@@ -1440,7 +1590,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 10 (Mushroom XIII)",
@@ -1449,7 +1600,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 11 (Mushroom XIII)",
@@ -1458,7 +1610,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 12 (Mushroom XIII)",
@@ -1467,7 +1620,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "No. 13 (Mushroom XIII)",
@@ -1476,7 +1630,8 @@
         "Characters": [
           "Mushroom XIII"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Possessor",
@@ -1487,7 +1642,8 @@
         "Characters": [
           "Possessor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Prison Keeper",
@@ -1503,7 +1659,8 @@
           "Shock",
           "Barrel"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Rabid Dog",
@@ -1515,7 +1672,8 @@
         "Characters": [
           "Rabid Dog(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Rapid Thruster",
@@ -1530,7 +1688,8 @@
         "Characters": [
           "Rapid Thruster(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Reckless",
@@ -1539,7 +1698,8 @@
         "Characters": [
           "Reckless(es)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Runemaster",
@@ -1548,7 +1708,8 @@
         "Characters": [
           "Runemaster(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow",
@@ -1557,7 +1718,8 @@
         "Characters": [
           "Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow Stalker",
@@ -1569,7 +1731,8 @@
           "Shadow Stalker",
           "Belle"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shaman",
@@ -1580,7 +1743,8 @@
         "Characters": [
           "Shaman(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Silver Rock",
@@ -1592,7 +1756,8 @@
         "Characters": [
           "Silver Rock(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Soldier",
@@ -1601,7 +1766,8 @@
         "Characters": [
           "Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Spring Metal",
@@ -1610,7 +1776,8 @@
         "Characters": [
           "Spring Metal(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Storm Rider",
@@ -1621,7 +1788,8 @@
         "Characters": [
           "Storm Rider"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Strafer",
@@ -1633,7 +1801,8 @@
         "Characters": [
           "Strafer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Surveillance Robot",
@@ -1646,7 +1815,8 @@
         "Characters": [
           "Surveillance Robot(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Thresholder",
@@ -1659,7 +1829,8 @@
           "Possessor(s)",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tornado Step",
@@ -1671,7 +1842,8 @@
         "Characters": [
           "Tornado Step(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Toy Soldier",
@@ -1682,7 +1854,8 @@
         "Characters": [
           "Toy Solider(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Trick Ghost",
@@ -1694,7 +1867,8 @@
         "Characters": [
           "Trick Ghost(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Volcanic Lord",
@@ -1708,7 +1882,8 @@
           "Pete",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wight Knight",
@@ -1717,7 +1892,8 @@
         "Characters": [
           "Wight Knight(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Assassin",
@@ -1729,7 +1905,8 @@
         "Characters": [
           "Assassin(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Berserker",
@@ -1741,7 +1918,8 @@
         "Characters": [
           "Berserker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Creeper",
@@ -1755,7 +1933,8 @@
           "Creeper(s)",
           "Dusk(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dancer",
@@ -1768,7 +1947,8 @@
         "Characters": [
           "Dancer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dragoon",
@@ -1781,7 +1961,8 @@
         "Characters": [
           "Dragoon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dusk",
@@ -1798,7 +1979,8 @@
         "Characters": [
           "Dusk(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gambler",
@@ -1811,7 +1993,8 @@
         "Characters": [
           "Gambler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Samurai",
@@ -1824,7 +2007,8 @@
         "Characters": [
           "Samurai(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sniper",
@@ -1837,7 +2021,8 @@
         "Characters": [
           "Sniper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sorcerer",
@@ -1849,7 +2034,8 @@
         "Characters": [
           "Sorcerer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Twilight Thorn",
@@ -1859,7 +2045,8 @@
           "Twilight Thorn(s)",
           "Roxas"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts 358/2 Days": [
@@ -1872,7 +2059,8 @@
         "Characters": [
           "Aerial Master(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Air Battler",
@@ -1884,7 +2072,8 @@
         "Characters": [
           "Air Battler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Antlion",
@@ -1893,7 +2082,8 @@
         "Characters": [
           "Antlion(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Artful Flyer",
@@ -1904,7 +2094,8 @@
         "Characters": [
           "Artful Flyer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Avalanche",
@@ -1916,7 +2107,8 @@
         "Characters": [
           "Avalanche(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Rabid Dog",
@@ -1927,7 +2119,8 @@
         "Characters": [
           "Rabid Dog(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Barrier Master",
@@ -1940,7 +2133,8 @@
         "Characters": [
           "Barrier Master(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blitz Spear",
@@ -1951,7 +2145,8 @@
         "Characters": [
           "Blitz Spear(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bubble Beat",
@@ -1962,7 +2157,8 @@
         "Characters": [
           "Bubble Beat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bulky Vendor",
@@ -1976,7 +2172,8 @@
         "Characters": [
           "Bulky Vendor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bully Dog",
@@ -1985,7 +2182,8 @@
         "Characters": [
           "Bully Dog(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Carrier Ghost",
@@ -1994,7 +2192,8 @@
         "Characters": [
           "Carrier Ghost(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Chill Ripper",
@@ -2003,7 +2202,8 @@
         "Characters": [
           "Chill Ripper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Clay Armor",
@@ -2014,7 +2214,8 @@
         "Characters": [
           "Clay Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Commander",
@@ -2025,7 +2226,8 @@
         "Characters": [
           "Commander(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Creepworm",
@@ -2036,7 +2238,8 @@
         "Characters": [
           "Creepworm(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Crimson Prankster",
@@ -2047,7 +2250,8 @@
         "Characters": [
           "Crimson Prankster(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Cymbal Monkey",
@@ -2060,7 +2264,8 @@
         "Characters": [
           "Cymbal Monkey(ies)"
         ],
-        "AdditionalInformation": "Illusion-based attacks like these bullets can flip-foot you, which reverses the directional controls for basic movement."
+        "AdditionalInformation": "Illusion-based attacks like these bullets can flip-foot you, which reverses the directional controls for basic movement.",
+        "ImageLink": ""
       },
       {
         "Name": "Dark Follower",
@@ -2069,7 +2274,8 @@
         "Characters": [
           "Dark Follower(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkside",
@@ -2078,7 +2284,8 @@
         "Characters": [
           "Darkside(s)"
         ],
-        "AdditionalInformation": "Earth-based attacks like its homing blasts can halve your current HP."
+        "AdditionalInformation": "Earth-based attacks like its homing blasts can halve your current HP.",
+        "ImageLink": ""
       },
       {
         "Name": "Deserter",
@@ -2091,7 +2298,8 @@
         "Characters": [
           "Deserter(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Destroyer",
@@ -2100,7 +2308,8 @@
         "Characters": [
           "Destroyer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Detonator",
@@ -2112,7 +2321,8 @@
         "Characters": [
           "Detonator(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dire Plant",
@@ -2124,7 +2334,8 @@
         "Characters": [
           "Dire Plant(s)"
         ],
-        "AdditionalInformation": "Flower-based attacks like their seeds can blind you, which causes your attacks to miss."
+        "AdditionalInformation": "Flower-based attacks like their seeds can blind you, which causes your attacks to miss.",
+        "ImageLink": ""
       },
       {
         "Name": "Dual Blade",
@@ -2133,7 +2344,8 @@
         "Characters": [
           "Dual Blade(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dustflier",
@@ -2142,7 +2354,8 @@
         "Characters": [
           "Dustflier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Emerald Serenade",
@@ -2154,7 +2367,8 @@
         "Characters": [
           "Emerald Serenade(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fire Plant",
@@ -2165,7 +2379,8 @@
         "Characters": [
           "Fire Plant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Flare Note",
@@ -2176,7 +2391,8 @@
         "Characters": [
           "Flare Note(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gigas Shadow",
@@ -2189,7 +2405,8 @@
         "Characters": [
           "Gigas Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Grey Caprice",
@@ -2200,7 +2417,8 @@
         "Characters": [
           "Grey Caprice(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Guard Armor",
@@ -2209,7 +2427,8 @@
         "Characters": [
           "Guard Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Guardian",
@@ -2218,7 +2437,8 @@
         "Characters": [
           "Guardian(s)"
         ],
-        "AdditionalInformation": "Nil-based attacks like the super laser can null your defense, increasing the damage you take."
+        "AdditionalInformation": "Nil-based attacks like the super laser can null your defense, increasing the damage you take.",
+        "ImageLink": ""
       },
       {
         "Name": "Heat Saber",
@@ -2227,7 +2447,8 @@
         "Characters": [
           "Heat Saber(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hover Ghost",
@@ -2238,7 +2459,8 @@
         "Characters": [
           "Hover Ghost(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ice Cannon",
@@ -2249,7 +2471,8 @@
         "Characters": [
           "Ice Cannon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Infernal Engine",
@@ -2258,7 +2481,8 @@
         "Characters": [
           "Infernal Engine(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Jumbo Cannon",
@@ -2269,7 +2493,8 @@
         "Characters": [
           "Jumbo Cannon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ice Plant",
@@ -2280,7 +2505,8 @@
         "Characters": [
           "Ice Plant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Land Armor",
@@ -2289,7 +2515,8 @@
         "Characters": [
           "Land Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Large Armor",
@@ -2300,7 +2527,8 @@
         "Characters": [
           "Large Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Leechgrave",
@@ -2311,7 +2539,8 @@
         "Characters": [
           "Leechgrave(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Living Pod",
@@ -2322,7 +2551,8 @@
         "Characters": [
           "Living Pod(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Crescendo",
@@ -2334,7 +2564,8 @@
         "Characters": [
           "Crescendo(s)"
         ],
-        "AdditionalInformation": "Wind-based attacks can air-toss you. While airborne you become an easy target and will take more damage if hit."
+        "AdditionalInformation": "Wind-based attacks can air-toss you. While airborne you become an easy target and will take more damage if hit.",
+        "ImageLink": ""
       },
       {
         "Name": "Lurk Lizard",
@@ -2343,7 +2574,8 @@
         "Characters": [
           "Lurk Lizard(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Massive Possessor",
@@ -2355,7 +2587,8 @@
         "Characters": [
           "Massive Possessor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Mega-Shadow",
@@ -2367,7 +2600,8 @@
         "Characters": [
           "Mega-Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Neoshadow",
@@ -2380,7 +2614,8 @@
         "Characters": [
           "Neoshadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Novashadow",
@@ -2389,7 +2624,8 @@
         "Characters": [
           "Novashadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Orcus",
@@ -2401,7 +2637,8 @@
         "Characters": [
           "Orcus(es)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Phantomtail",
@@ -2410,7 +2647,8 @@
         "Characters": [
           "Phantomtail(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Pink Concerto",
@@ -2421,7 +2659,8 @@
         "Characters": [
           "Pink Concerto(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Poison Plant",
@@ -2430,7 +2669,8 @@
         "Characters": [
           "Poison Plant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Powered Armor",
@@ -2441,7 +2681,8 @@
         "Characters": [
           "Powered Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Rare Vendor",
@@ -2456,7 +2697,8 @@
         "Characters": [
           "Rare Vendor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ruler of the Sky",
@@ -2467,7 +2709,8 @@
         "Characters": [
           "Ruler of the Sky(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sapphire Elegy",
@@ -2478,7 +2721,8 @@
         "Characters": [
           "Sapphire Elegy(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Scarlet Tango",
@@ -2490,7 +2734,8 @@
         "Characters": [
           "Scarlet Tango(s)"
         ],
-        "AdditionalInformation": "Fire-based attacks can ignite you, which will gradually sap your HP for as long as it lasts."
+        "AdditionalInformation": "Fire-based attacks can ignite you, which will gradually sap your HP for as long as it lasts.",
+        "ImageLink": ""
       },
       {
         "Name": "Scorching Sphere",
@@ -2499,7 +2744,8 @@
         "Characters": [
           "Scorching Sphere(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sergeant",
@@ -2511,7 +2757,8 @@
         "Characters": [
           "Sergeant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow",
@@ -2524,7 +2771,8 @@
         "Characters": [
           "Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow Glob",
@@ -2538,7 +2786,8 @@
         "Characters": [
           "Shadow Glob(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Skater Bomb",
@@ -2549,7 +2798,8 @@
         "Characters": [
           "Skater Bomb(s)"
         ],
-        "AdditionalInformation": "Ice-based attacks like their explosion can freeze you, robbing you of the ability to move."
+        "AdditionalInformation": "Ice-based attacks like their explosion can freeze you, robbing you of the ability to move.",
+        "ImageLink": ""
       },
       {
         "Name": "Sky Grappler",
@@ -2560,7 +2810,8 @@
         "Characters": [
           "Sky Grappler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Snapper Dog",
@@ -2571,7 +2822,8 @@
         "Characters": [
           "Snapper Dog(s)"
         ],
-        "AdditionalInformation": "Moon-based attacks like their bark can silence you, preventing you from hurting them with magic."
+        "AdditionalInformation": "Moon-based attacks like their bark can silence you, preventing you from hurting them with magic.",
+        "ImageLink": ""
       },
       {
         "Name": "Snowy Crystal",
@@ -2584,7 +2836,8 @@
         "Characters": [
           "Snowy Crystal(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Soldier",
@@ -2596,7 +2849,8 @@
         "Characters": [
           "Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Solid Armor",
@@ -2605,7 +2859,8 @@
         "Characters": [
           "Solid Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Spiked Crawler",
@@ -2614,7 +2869,8 @@
         "Characters": [
           "Spiked Crawler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Stalwart Blade",
@@ -2626,7 +2882,8 @@
         "Characters": [
           "Stalwart Blade(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Storm Bomb",
@@ -2637,7 +2894,8 @@
         "Characters": [
           "Storm Bomb(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Striped Aria",
@@ -2649,7 +2907,8 @@
         "Characters": [
           "Striped Aria(s)"
         ],
-        "AdditionalInformation": "Time-based attacks like their time missiles can rewind your defense to LV1, which causes you to take more damage than normal."
+        "AdditionalInformation": "Time-based attacks like their time missiles can rewind your defense to LV1, which causes you to take more damage than normal.",
+        "ImageLink": ""
       },
       {
         "Name": "Switch Launcher",
@@ -2660,7 +2919,8 @@
         "Characters": [
           "Switch Launcher(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tailbunker",
@@ -2672,7 +2932,8 @@
         "Characters": [
           "Tailbunker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tentaclaw",
@@ -2683,7 +2944,8 @@
         "Characters": [
           "Tentaclaw(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tricky Monkey",
@@ -2696,7 +2958,8 @@
         "Characters": [
           "Tricky Monkey(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Turquoise March",
@@ -2707,7 +2970,8 @@
         "Characters": [
           "Turquoise March(es)"
         ],
-        "AdditionalInformation": "Water-based attacks can damage-drain targets, awarding their HP to the attacker."
+        "AdditionalInformation": "Water-based attacks can damage-drain targets, awarding their HP to the attacker.",
+        "ImageLink": ""
       },
       {
         "Name": "Veil Lizard",
@@ -2716,7 +2980,8 @@
         "Characters": [
           "Veil Lizard(s)"
         ],
-        "AdditionalInformation": "Light-based attacks like its glare will zap your radar, disabling the map."
+        "AdditionalInformation": "Light-based attacks like its glare will zap your radar, disabling the map.",
+        "ImageLink": ""
       },
       {
         "Name": "Wavecrest",
@@ -2725,7 +2990,8 @@
         "Characters": [
           "Wavecrest(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Windstorm",
@@ -2734,7 +3000,8 @@
         "Characters": [
           "Windstorm(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Yellow Opera",
@@ -2746,7 +3013,8 @@
         "Characters": [
           "Yellow Opera(s)"
         ],
-        "AdditionalInformation": "Lighting-based attacks can jolt you. Coming into contact with something in that state will cost you up to 10% of your max HP."
+        "AdditionalInformation": "Lighting-based attacks can jolt you. Coming into contact with something in that state will cost you up to 10% of your max HP.",
+        "ImageLink": ""
       },
       {
         "Name": "Zip Slasher",
@@ -2759,7 +3027,8 @@
         "Characters": [
           "Zip Slasher(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dusk",
@@ -2770,7 +3039,8 @@
         "Characters": [
           "Dusk(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Saïx",
@@ -2779,7 +3049,8 @@
         "Characters": [
           "Saïx"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Samurai",
@@ -2790,7 +3061,8 @@
         "Characters": [
           "Samurai(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Xigbar",
@@ -2799,7 +3071,8 @@
         "Characters": [
           "Xigbar"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts Birth By Sleep": [
@@ -2815,7 +3088,8 @@
         "Characters": [
           "Archraven(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Axe Flapper",
@@ -2826,7 +3100,8 @@
         "Characters": [
           "Axe Flapper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Belly Balloon",
@@ -2837,7 +3112,8 @@
         "Characters": [
           "Belly Balloon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blobmob",
@@ -2850,7 +3126,8 @@
         "Characters": [
           "Blobmob(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blue Sea Salt",
@@ -2866,7 +3143,8 @@
         "Characters": [
           "Blue Sea Salt(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bruiser",
@@ -2884,7 +3162,8 @@
         "Characters": [
           "Bruiser(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Buckle Bruiser",
@@ -2896,7 +3175,8 @@
         "Characters": [
           "Buckle Bruiser(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Chrono Twister",
@@ -2911,7 +3191,8 @@
         "Characters": [
           "Chrono Twister(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Cursed Coach",
@@ -2922,7 +3203,8 @@
         "Characters": [
           "Cursed Coach(es)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Element Cluster",
@@ -2931,7 +3213,8 @@
         "Characters": [
           "Element Cluster(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Flame Box",
@@ -2940,7 +3223,8 @@
         "Characters": [
           "Flame Box(es)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Floating Flora",
@@ -2949,7 +3233,8 @@
         "Characters": [
           "Floating Flora(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Flood",
@@ -2968,7 +3253,8 @@
         "Characters": [
           "Flood(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Glidewinder",
@@ -2977,7 +3263,8 @@
         "Characters": [
           "Glidewinder(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gluttonous Goo",
@@ -2986,7 +3273,8 @@
         "Characters": [
           "Gluttonous Goo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hareraiser",
@@ -3002,7 +3290,8 @@
         "Characters": [
           "Hareraiser(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Iron Imprisoner I",
@@ -3013,7 +3302,8 @@
         "Characters": [
           "Iron Imprisoner"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Iron Imprisoner II",
@@ -3024,7 +3314,8 @@
         "Characters": [
           "Iron Imprisoner"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Iron Imprisoner III",
@@ -3035,7 +3326,8 @@
         "Characters": [
           "Iron Imprisoner"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Iron Imprisoner IV",
@@ -3046,7 +3338,8 @@
         "Characters": [
           "Iron Imprisoner"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Jellyshade",
@@ -3059,7 +3352,8 @@
         "Characters": [
           "Jellyshade(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Jellyshade (Unversed Mission)",
@@ -3068,7 +3362,8 @@
         "Characters": [
           "Jellyshade(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Lone Runner",
@@ -3077,7 +3372,8 @@
         "Characters": [
           "Lone Runner(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Mad Treant",
@@ -3088,7 +3384,8 @@
         "Characters": [
           "Mad Treant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Mandrake",
@@ -3102,7 +3399,8 @@
         "Characters": [
           "Mandrake(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Metamorphosis",
@@ -3113,7 +3411,8 @@
         "Characters": [
           "Metamorphosis(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Mimic Master",
@@ -3122,7 +3421,8 @@
         "Characters": [
           "Mimic Master(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Monotrucker",
@@ -3134,7 +3434,8 @@
         "Characters": [
           "Monotrucker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Prize Pod",
@@ -3143,7 +3444,8 @@
         "Characters": [
           "Prize Pod(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Red Hot Chili",
@@ -3161,7 +3463,8 @@
         "Characters": [
           "Red Hot Chili(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ringer",
@@ -3170,7 +3473,8 @@
         "Characters": [
           "Ringer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Scrapper",
@@ -3189,7 +3493,8 @@
         "Characters": [
           "Scrapper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shoegazer",
@@ -3201,7 +3506,8 @@
         "Characters": [
           "Shoegazer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sonic Blaster",
@@ -3213,7 +3519,8 @@
         "Characters": [
           "Sonic Blaster(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Spiderchest",
@@ -3228,7 +3535,8 @@
         "Characters": [
           "Spiderchest(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Symphony Master",
@@ -3239,7 +3547,8 @@
         "Characters": [
           "Symphony Master(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tank Toppler",
@@ -3253,7 +3562,8 @@
         "Characters": [
           "Tank Toppler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Thornbite",
@@ -3265,7 +3575,8 @@
         "Characters": [
           "Thornbite(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Trinity Armor",
@@ -3276,7 +3587,8 @@
         "Characters": [
           "Trinity Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Triple Wrecker",
@@ -3288,7 +3600,8 @@
         "Characters": [
           "Triple Wrecker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Vile Phial",
@@ -3303,7 +3616,8 @@
         "Characters": [
           "Vile Phial(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Vitality Vial",
@@ -3312,7 +3626,8 @@
         "Characters": [
           "Vitality Vial(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wheel Master",
@@ -3323,7 +3638,8 @@
         "Characters": [
           "Wheel Master(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wild Bruiser",
@@ -3334,7 +3650,8 @@
         "Characters": [
           "Wild Bruiser(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Yellow Mustard",
@@ -3348,7 +3665,8 @@
         "Characters": [
           "Yellow Mustard(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkball",
@@ -3359,7 +3677,8 @@
         "Characters": [
           "Darkball(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Neoshadow",
@@ -3370,14 +3689,16 @@
         "Characters": [
           "Neoshadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow",
         "Description": "A Heartless whose heart has been lost within the darkness. \r\nIt appeared with the darkness that encroached the world, and is searching for a heart to prey on. \r\n",
         "Worlds": [],
         "Characters": [ "Shadow(s)" ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts Re:Coded": [
@@ -3391,7 +3712,8 @@
         "Characters": [
           "Air Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Angel Star",
@@ -3403,7 +3725,8 @@
         "Characters": [
           "Angel Star(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Bandit",
@@ -3414,7 +3737,8 @@
         "Characters": [
           "Bandit(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Behemoth",
@@ -3423,7 +3747,8 @@
         "Characters": [
           "Behemoth(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Black Fungus",
@@ -3434,7 +3759,8 @@
         "Characters": [
           "Black Fungus(i)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blox Bug",
@@ -3445,7 +3771,8 @@
         "Characters": [
           "Blox Bug(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Blue Rhapsody",
@@ -3458,7 +3785,8 @@
         "Characters": [
           "Blue Rhapsody(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Danger Bug",
@@ -3469,7 +3797,8 @@
         "Characters": [
           "Danger Bug(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkball",
@@ -3481,7 +3810,8 @@
         "Characters": [
           "Darkball(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Darkside",
@@ -3491,7 +3821,8 @@
           "Sora",
           "Darkside(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Defender",
@@ -3503,7 +3834,8 @@
         "Characters": [
           "Defender(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Eliminator",
@@ -3514,7 +3846,8 @@
         "Characters": [
           "Eliminator(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fat Bandit",
@@ -3525,7 +3858,8 @@
         "Characters": [
           "Fat Bandit(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Gold Tricholoma",
@@ -3536,7 +3870,8 @@
         "Characters": [
           "Gold Tricholoma(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Green Requiem",
@@ -3547,7 +3882,8 @@
         "Characters": [
           "Green Requiem(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Guard Armor",
@@ -3558,7 +3894,8 @@
         "Characters": [
           "Guard Armor(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Metal Bug",
@@ -3569,7 +3906,8 @@
         "Characters": [
           "Metal Bug(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Prize Bug",
@@ -3580,7 +3918,8 @@
         "Characters": [
           "Prize Bug(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Red Nocturne",
@@ -3593,7 +3932,8 @@
         "Characters": [
           "Red Nocturne(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Shadow",
@@ -3608,7 +3948,8 @@
         "Characters": [
           "Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Soldier",
@@ -3621,7 +3962,8 @@
         "Characters": [
           "Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sora's Heartless (Neo Darkside)",
@@ -3632,7 +3974,8 @@
         "Characters": [
           "Sora’s Heartless"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sora's Heartless (True Form)",
@@ -3643,7 +3986,8 @@
         "Characters": [
           "Sora’s Heartless"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Trickmaster",
@@ -3654,7 +3998,8 @@
         "Characters": [
           "Trickmaster(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wizard",
@@ -3666,7 +4011,8 @@
         "Characters": [
           "Wizard(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wyvern",
@@ -3677,7 +4023,8 @@
         "Characters": [
           "Wyvern(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Yellow Opera",
@@ -3689,7 +4036,8 @@
         "Characters": [
           "Yellow Opera(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Data-Riku",
@@ -3702,7 +4050,8 @@
           "Riku",
           "Pete"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "???",
@@ -3714,7 +4063,8 @@
           "Data-Roxas",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Dragon Maleficent",
@@ -3726,7 +4076,8 @@
           "Maleficent",
           "Dragon Maleficent"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ice Titan",
@@ -3737,7 +4088,8 @@
         "Characters": [
           "Ice Titan"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Jafar",
@@ -3748,7 +4100,8 @@
         "Characters": [
           "Jafar"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Pete",
@@ -3759,14 +4112,16 @@
         "Characters": [
           "Pete"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Rock Titan",
         "Description": "An immortal giant whose body is made of stone. Needless to say, one punch from this prodigious paperweight packs a wicked wallop, so be ready to restore your HP just as soon as you get hit. \r\n",
         "Worlds": [ "Olympus Coliseum" ],
         "Characters": [ "Rock Titan" ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts Dream Drop Distance": [
@@ -3780,7 +4135,8 @@
         "Characters": [
           "Aura Lion(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Beatalike",
@@ -3790,7 +4146,8 @@
           "Beatalike(s)",
           "Zolephant(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Brawlamari",
@@ -3799,7 +4156,8 @@
         "Characters": [
           "Brawlamari(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Catanuki",
@@ -3809,7 +4167,8 @@
           "Catanuki(s)",
           "Meow Wow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Cera Terror",
@@ -3823,7 +4182,8 @@
         "Characters": [
           "Cera Terror(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Char Clawbster",
@@ -3834,7 +4194,8 @@
         "Characters": [
           "Char Clawbster"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Chef Kyroo",
@@ -3848,7 +4209,8 @@
         "Characters": [
           "Chef Kyroo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Commantis",
@@ -3859,7 +4221,8 @@
         "Characters": [
           "Commantis"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Cyber Yog",
@@ -3870,7 +4233,8 @@
         "Characters": [
           "Cyber Yog(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Drak Quack",
@@ -3881,7 +4245,8 @@
         "Characters": [
           "Drak Quack(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Drill Sye",
@@ -3893,7 +4258,8 @@
         "Characters": [
           "Drill Sye(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ducky Goose",
@@ -3904,7 +4270,8 @@
         "Characters": [
           "Ducky Goose(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Eaglider",
@@ -3916,7 +4283,8 @@
         "Characters": [
           "Eaglider(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Electricorn",
@@ -3928,7 +4296,8 @@
         "Characters": [
           "Electricorn(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Escarglow",
@@ -3940,7 +4309,8 @@
         "Characters": [
           "Escarglow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fin Fatale",
@@ -3952,7 +4322,8 @@
         "Characters": [
           "Fin Fatale(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Fishboné",
@@ -3964,7 +4335,8 @@
         "Characters": [
           "Fishboné(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Flowbermeow",
@@ -3974,7 +4346,8 @@
           "Flowbermeow(s)",
           "Meow Wow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Frootz Cat",
@@ -3984,7 +4357,8 @@
           "Frootz Cat(s)",
           "Necho Cat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ghostabocky",
@@ -3996,7 +4370,8 @@
         "Characters": [
           "Ghostabocky(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Halbird",
@@ -4009,7 +4384,8 @@
         "Characters": [
           "Halbird(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hebby Rep",
@@ -4022,7 +4398,8 @@
         "Characters": [
           "Hebby Rep(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Hockomonkey",
@@ -4033,7 +4410,8 @@
         "Characters": [
           "Hockomonkey(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Holey Moley",
@@ -4044,7 +4422,8 @@
         "Characters": [
           "Holey Moley(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Iceguin Ace",
@@ -4058,7 +4437,8 @@
         "Characters": [
           "Iceguin Ace(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Jestabocky",
@@ -4071,7 +4451,8 @@
         "Characters": [
           "Jestabocky"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Juggle Pup",
@@ -4084,7 +4465,8 @@
         "Characters": [
           "Juggle Pup(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Kab Kannon",
@@ -4094,7 +4476,8 @@
           "Kab Kannon(s)",
           "KO Kabuto(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Keeba Tiger",
@@ -4105,7 +4488,8 @@
         "Characters": [
           "Keeba Tiger(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "KO Kabuto",
@@ -4117,7 +4501,8 @@
         "Characters": [
           "KO Kabuto(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Komory Bat",
@@ -4131,7 +4516,8 @@
         "Characters": [
           "Komory Bat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Kooma Panda",
@@ -4147,7 +4533,8 @@
         "Characters": [
           "Kooma Panda(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Lord Kyroo",
@@ -4163,7 +4550,8 @@
         "Characters": [
           "Lord Kyroo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Majik Lapin",
@@ -4174,7 +4562,8 @@
         "Characters": [
           "Majik Lapin(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Me Me Bunny",
@@ -4185,7 +4574,8 @@
         "Characters": [
           "Me Me Bunny(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Meow Wow",
@@ -4199,7 +4589,8 @@
         "Characters": [
           "Meow Wow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Meowjesty",
@@ -4209,7 +4600,8 @@
           "Meowjest(ies)",
           "Meow Wow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Necho Cat",
@@ -4222,7 +4614,8 @@
         "Characters": [
           "Necho Cat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Peepsta Hoo",
@@ -4236,7 +4629,8 @@
         "Characters": [
           "Peepsta Hoo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Pegaslick",
@@ -4249,7 +4643,8 @@
         "Characters": [
           "Pegaslick(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Pricklemane",
@@ -4262,7 +4657,8 @@
         "Characters": [
           "Pricklemane(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Queen Buzzerfly",
@@ -4272,7 +4668,8 @@
           "Queen Buzzerfly(ies)",
           "Buzzerfly(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "R & R Seal",
@@ -4282,7 +4679,8 @@
           "R & R Seal(s)",
           "Juggle Pup(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ryu Dragon",
@@ -4294,7 +4692,8 @@
         "Characters": [
           "Ryu Dragon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sir Kyroo",
@@ -4308,7 +4707,8 @@
         "Characters": [
           "Sir Kyroo(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Skelterwild",
@@ -4319,7 +4719,8 @@
         "Characters": [
           "Skelterwild(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Spellican",
@@ -4331,7 +4732,8 @@
         "Characters": [
           "Spellican(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Staggerceps",
@@ -4344,7 +4746,8 @@
         "Characters": [
           "Staggerceps"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Sudo Neku",
@@ -4354,7 +4757,8 @@
           "Sudo Neku(s)",
           "Hebby Repp(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tama Sheep",
@@ -4367,7 +4771,8 @@
         "Characters": [
           "Tama Sheep(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tatsu Blaze",
@@ -4379,7 +4784,8 @@
         "Characters": [
           "Tatsu Blaze(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tatsu Steed",
@@ -4395,7 +4801,8 @@
         "Characters": [
           "Tatsu Steed(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Toximander",
@@ -4407,7 +4814,8 @@
         "Characters": [
           "Toximander(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tubguin Ace",
@@ -4417,7 +4825,8 @@
           "Tubguin Ace(s)",
           "Iceguin Ace(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Tyranto Rex",
@@ -4428,7 +4837,8 @@
         "Characters": [
           "Tyranto Rex(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Ursa Circus",
@@ -4438,7 +4848,8 @@
           "Ursa Circus(es)",
           "Kooma Panda(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wargoyle",
@@ -4449,7 +4860,8 @@
         "Characters": [
           "Wargoyle(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Wheeflower",
@@ -4461,7 +4873,8 @@
         "Characters": [
           "Wheeflower(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Woeflower",
@@ -4474,7 +4887,8 @@
         "Characters": [
           "Woeflower(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Yoggy Ram",
@@ -4487,14 +4901,16 @@
         "Characters": [
           "Yoggy Ram(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       },
       {
         "Name": "Zolephant",
         "Description": "Throw this titan into a tizzy and you had better take cover! But once the tantrum tapers off, it's wide open. \r\n",
         "Worlds": [],
         "Characters": [ "Zolephant(s)" ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": ""
       }
     ],
     "Kingdom Hearts III": [
@@ -4507,7 +4923,8 @@
         "Characters": [
           "Anchor Raider(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/f/f9/Anchor_Raider_KHIII.png?20200727184411"
       },
       {
         "Name": "Air Soldier",
@@ -4519,7 +4936,8 @@
         "Characters": [
           "Air Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/8d/Air_Soldier_KHIII.png?20200727184151"
       },
       {
         "Name": "Bizarre Archer",
@@ -4532,7 +4950,8 @@
         "Characters": [
           "Bizarre Archer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/6/63/Bizarre_Archer_KHIII.png?20200727190347"
       },
       {
         "Name": "Catastrochorus",
@@ -4543,7 +4962,8 @@
         "Characters": [
           "Catastrochorus(es)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/9/9b/Catastrochorus_KHIII.png?20200727185156"
       },
       {
         "Name": "Chaos Carriage",
@@ -4554,7 +4974,8 @@
         "Characters": [
           "Chaos Carriage(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/f/fd/Chaos_Carriage_KHIII.png?20200727191101"
       },
       {
         "Name": "Chief Puff",
@@ -4565,7 +4986,8 @@
         "Characters": [
           "Chief Puff(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/0/0f/Chief_Puff_KHIII.png?20200727192108"
       },
       {
         "Name": "Dark Inferno",
@@ -4576,7 +4998,8 @@
         "Characters": [
           "Dark Inferno(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/a/a8/Dark_Inferno_KHIII.png?20200727192940"
       },
       {
         "Name": "Dark Inferno χ",
@@ -4587,7 +5010,8 @@
         "Characters": [
           "Dark Inferno χ(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/0/03/Dark_Inferno_%CF%87_KHIIIRM.png/1055px-Dark_Inferno_%CF%87_KHIIIRM.png?20200201120947"
       },
       {
         "Name": "Darkside",
@@ -4598,7 +5022,8 @@
         "Characters": [
           "Darkside(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/c/ca/Darkside_KHIII.png/1035px-Darkside_KHIII.png?20200727184555"
       },
       {
         "Name": "Darkside (Re Mind)",
@@ -4609,7 +5034,8 @@
         "Characters": [
           "Darkside (Re Mind)(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/c/ca/Darkside_KHIII.png/1035px-Darkside_KHIII.png?20200727184555"
       },
       {
         "Name": "Darkubes",
@@ -4620,7 +5046,8 @@
         "Characters": [
           "Darkubes(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/d/d2/Darkubes_KHIII.png?20200728191906"
       },
       {
         "Name": "Demon Tide",
@@ -4631,7 +5058,8 @@
         "Characters": [
           "Demon Tide(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/e/e8/Demon_Tide_KHIII.png/1010px-Demon_Tide_KHIII.png?20200727190049"
       },
       {
         "Name": "Demon Tower",
@@ -4642,7 +5070,8 @@
         "Characters": [
           "Demon Tower(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/b/bb/Demon_Tower_KHIII.png/936px-Demon_Tower_KHIII.png?20200727185102"
       },
       {
         "Name": "Earth Core",
@@ -4655,7 +5084,8 @@
         "Characters": [
           "Earth Core(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/9/9d/Earth_Core_KHIII.png?20200727185013"
       },
       {
         "Name": "Flame Core",
@@ -4667,7 +5097,8 @@
         "Characters": [
           "Flame Core(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/3/38/Flame_Core_KHIII.png?20191203202024"
       },
       {
         "Name": "Fluttering",
@@ -4680,7 +5111,8 @@
         "Characters": [
           "Fluttering(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/0/0c/Fluttering_KHIII.png?20200728191548"
       },
       {
         "Name": "Focus Popcat",
@@ -4691,7 +5123,8 @@
         "Characters": [
           "Focus Popcat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/c/c8/Focus_Popcat_KHIII.png?20200728191420"
       },
       {
         "Name": "Frost Serpent",
@@ -4702,7 +5135,8 @@
         "Characters": [
           "Frost Serpent(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/9/9a/Frost_Serpent_KHIII.png?20200727184904"
       },
       {
         "Name": "Gold Beat",
@@ -4717,7 +5151,8 @@
         "Characters": [
           "Gold Beat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/c/c0/Gold_Beat_KHIII.png?20200728192301"
       },
       {
         "Name": "Grim Guardianess",
@@ -4732,7 +5167,8 @@
           "Donald",
           "Goofy"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/6/6a/Grim_Guardianess_KHIII.png/990px-Grim_Guardianess_KHIII.png?20200727185818"
       },
       {
         "Name": "Helmed Body",
@@ -4744,7 +5180,8 @@
           "Helmed Body(ies)",
           "Large Body(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/9/99/Helmed_Body_KHIII.png?20200728193718"
       },
       {
         "Name": "High Soldier",
@@ -4755,7 +5192,8 @@
         "Characters": [
           "High Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/3/31/High_Soldier_KHIII.png?20200727190819"
       },
       {
         "Name": "King of Toys",
@@ -4768,7 +5206,8 @@
           "Young Xehanort",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/f/f6/King_of_Toys_KHIII.png?20200728192544"
       },
       {
         "Name": "Large Body",
@@ -4783,7 +5222,8 @@
         "Characters": [
           "Large Body(ies)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/c/c2/Large_Body_KHIII.png?20200727184255"
       },
       {
         "Name": "Lich",
@@ -4795,7 +5235,8 @@
           "Lich(es)",
           "Sora"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/5/5e/Lich_KHIII.png/504px-Lich_KHIII.png?20200727184724"
       },
       {
         "Name": "Lightning Angler",
@@ -4806,7 +5247,8 @@
         "Characters": [
           "Lightning Angler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/d/dd/Lightning_Angler_KHIII.png/801px-Lightning_Angler_KHIII.png?20200727191303"
       },
       {
         "Name": "Magic Popcat",
@@ -4817,7 +5259,8 @@
         "Characters": [
           "Magic Popcat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/87/Magic_Popcat_KHIII.png?20200728194544"
       },
       {
         "Name": "Malachite Bolero",
@@ -4829,7 +5272,8 @@
         "Characters": [
           "Malachite Bolero(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/a/aa/Malachite_Bolero_KHIII.png?20200728194119"
       },
       {
         "Name": "Marine Rumba",
@@ -4842,7 +5286,8 @@
         "Characters": [
           "Marine Rumba(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/6/67/Marine_Rumba_KHIII.png?20200728194026"
       },
       {
         "Name": "Marionette",
@@ -4854,7 +5299,8 @@
         "Characters": [
           "Marionette(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/d/d5/Marionette_KHIII.png?20200727191716"
       },
       {
         "Name": "Mechanitaur",
@@ -4865,7 +5311,8 @@
         "Characters": [
           "Mechanitaur(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/b/b4/Mechanitaur_KHIII.png?20200727190424"
       },
       {
         "Name": "Metal Troll",
@@ -4877,7 +5324,8 @@
         "Characters": [
           "Metal Troll(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/e/e9/Metal_Troll_KHIII.png?20200727192225"
       },
       {
         "Name": "Neoshadow",
@@ -4889,7 +5337,8 @@
         "Characters": [
           "Neoshadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/4/4d/Neoshadow_KHIII.png?20200727184005"
       },
       {
         "Name": "Pogo Shovel",
@@ -4900,7 +5349,8 @@
         "Characters": [
           "Pogo Shovel(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/d/df/Pogo_Shovel_KHIII.png?20200727192258"
       },
       {
         "Name": "Pole Cannon",
@@ -4912,7 +5362,8 @@
         "Characters": [
           "Pole Cannon(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/9/93/Pole_Cannon_KHIII.png?20200728194847"
       },
       {
         "Name": "Popcat",
@@ -4923,7 +5374,8 @@
         "Characters": [
           "Popcat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/80/Vitality_Popcat_KHIII.png?20200728194354"
       },
       {
         "Name": "Powerwild",
@@ -4935,7 +5387,8 @@
         "Characters": [
           "Powerwild(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/5/59/Powerwild_KHIII.png?20200727191014"
       },
       {
         "Name": "Puffball",
@@ -4946,7 +5399,8 @@
         "Characters": [
           "Puffball(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/87/Puffball_KHIII.png?20200727192407"
       },
       {
         "Name": "Raging Vulture",
@@ -4960,7 +5414,8 @@
           "Sora",
           "Jack Sparrow"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/7/79/Raging_Vulture_KHIII.png?20200728195611"
       },
       {
         "Name": "Rock Troll",
@@ -4973,7 +5428,8 @@
         "Characters": [
           "Rock Troll(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/b/be/Rock_Troll_KHIII.png?20200727191421"
       },
       {
         "Name": "Satyr",
@@ -4985,7 +5441,8 @@
         "Characters": [
           "Satyr(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/1/1f/Satyr_KHIII.png?20200727192022"
       },
       {
         "Name": "Sea Sprite",
@@ -4996,7 +5453,8 @@
         "Characters": [
           "Sea Sprite(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/6/6a/Sea_Sprite_KHIII.png?20200728195133"
       },
       {
         "Name": "Shadow",
@@ -5010,7 +5468,8 @@
         "Characters": [
           "Shadow(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/e/ea/Shadow_KHIII.png?20190213062556"
       },
       {
         "Name": "Sköll",
@@ -5021,7 +5480,8 @@
         "Characters": [
           "Sköll(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/5/54/Sk%C3%B6ll_KHIII.png?20200731155037"
       },
       {
         "Name": "Soldier",
@@ -5035,7 +5495,8 @@
         "Characters": [
           "Soldier(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/80/Soldier_KHIII.png?20200728190938"
       },
       {
         "Name": "Spear Lizard",
@@ -5046,7 +5507,8 @@
         "Characters": [
           "Spear Lizard(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/3/38/Spear_Lizard_KHIII.png?20200728195238"
       },
       {
         "Name": "Tireblade",
@@ -5057,7 +5519,8 @@
         "Characters": [
           "Tireblade(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/7/71/Tireblade_KHIII.png?20200728195354"
       },
       {
         "Name": "Toy Trooper",
@@ -5068,7 +5531,8 @@
         "Characters": [
           "Toy Trooper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/5/56/Toy_Trooper_KHIII.png?20200727192639"
       },
       {
         "Name": "Vaporfly",
@@ -5079,7 +5543,8 @@
         "Characters": [
           "Vaporfly(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/b/be/Vaporfly_KHIII.png?20200728195032"
       },
       {
         "Name": "Vermilion Samba",
@@ -5093,7 +5558,8 @@
         "Characters": [
           "Vermilion Samba(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/f/f1/Vermilion_Samba_KHIII.png?20200728193845"
       },
       {
         "Name": "Vitality Popcat",
@@ -5104,7 +5570,8 @@
         "Characters": [
           "Vitality Popcat(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/80/Vitality_Popcat_KHIII.png?20200728194354"
       },
       {
         "Name": "Water Core",
@@ -5118,7 +5585,8 @@
         "Characters": [
           "Water Core(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/7/70/Water_Core_KHIII.png?20200727192539"
       },
       {
         "Name": "Winterhorn",
@@ -5129,7 +5597,8 @@
         "Characters": [
           "Winterhorn(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/1/14/Winterhorn_KHIII.png?20200727190611"
       },
       {
         "Name": "Berserker",
@@ -5140,7 +5609,8 @@
         "Characters": [
           "Berserker(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/5/5c/Berserker_KHIII.png?20240411081727"
       },
       {
         "Name": "Dusk",
@@ -5154,7 +5624,8 @@
         "Characters": [
           "Dusk(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/7/7c/Dusk_KHIII.png?20240411081957"
       },
       {
         "Name": "Gambler",
@@ -5165,7 +5636,8 @@
         "Characters": [
           "Gambler(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/a/a2/Gambler_KHIII.png?20240411081847"
       },
       {
         "Name": "Ninja",
@@ -5176,7 +5648,8 @@
         "Characters": [
           "Ninja(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/b/bc/Ninja_KHIII.png?20240411081620"
       },
       {
         "Name": "Parasol Beauty",
@@ -5188,7 +5661,8 @@
         "Characters": [
           "Parasol Beauty(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/7/7a/Parasol_Beauty_KHIII.png?20200727184833"
       },
       {
         "Name": "Reaper",
@@ -5200,7 +5674,8 @@
         "Characters": [
           "Reaper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/1/19/Reaper_KHIII.png?20240411081652"
       },
       {
         "Name": "Sniper",
@@ -5211,7 +5686,8 @@
         "Characters": [
           "Sniper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/a/a6/Sniper_KHIII.png?20240411081805"
       },
       {
         "Name": "Sorcerer",
@@ -5222,7 +5698,8 @@
         "Characters": [
           "Sorcerer(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/a/ac/Sorcerer_KHIII.png?20240411081924"
       },
       {
         "Name": "Flood",
@@ -5233,7 +5710,8 @@
         "Characters": [
           "Flood(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://www.khwiki.com/images/a/ad/Flood_KHIII.png?2b8aa"
       },
       {
         "Name": "Flowersnake",
@@ -5244,7 +5722,8 @@
         "Characters": [
           "Flowersnake(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://www.khwiki.com/images/archive/c/c6/20200406015323%21Flowersnake_KHIII.png?5bbd5"
       },
       {
         "Name": "Lump of Horror",
@@ -5255,7 +5734,8 @@
         "Characters": [
           "Lump of Horror(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/b/bc/Lump_of_Horror_KHIII.png?20200406015659"
       },
       {
         "Name": "Spiked Turtletoad",
@@ -5266,7 +5746,8 @@
         "Characters": [
           "Spiked Turtletoad(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://www.khwiki.com/images/archive/2/23/20200406015601%21Spiked_Turtletoad_KHIII.png?59668"
       },
       {
         "Name": "Turtletoad",
@@ -5277,7 +5758,8 @@
         "Characters": [
           "Turtletoad(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://www.khwiki.com/images/archive/b/be/20200406015432%21Turtletoad_KHIII.png?60d68"
       },
       {
         "Name": "Air Droids",
@@ -5288,7 +5770,8 @@
         "Characters": [
           "Air Droids(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://www.khwiki.com/images/9/9f/Air_Droids_KHIII.png?e199b"
       },
       {
         "Name": "Angelic Amber",
@@ -5299,7 +5782,8 @@
         "Characters": [
           "Angelic Amber(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/thumb/d/d8/Angelic_Amber_KHIII.png/469px-Angelic_Amber_KHIII.png?20191211220835"
       },
       {
         "Name": "Beasts & Bugs",
@@ -5310,7 +5794,8 @@
         "Characters": [
           "Beasts & Bugs(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/0/0a/Beasts_%26_Bugs_KHIII.png?20191211220510"
       },
       {
         "Name": "Bouncy Pets",
@@ -5321,7 +5806,8 @@
         "Characters": [
           "Bouncy Pets(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/9/91/Bouncy_Pets_%28Dog%29_KHIII.png?20250112122037"
       },
       {
         "Name": "Gigas: Gunner Class",
@@ -5333,7 +5819,8 @@
           "Gigas",
           "Toy Trooper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/8/8f/Gigas_-_Gunner_Class_KHIII.png?20191203201317"
       },
       {
         "Name": "Gigas: Power Class",
@@ -5345,7 +5832,8 @@
           "Gigas",
           "Toy Trooper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/f/f5/Gigas_-_Power_Class_KHIII.png?20191203201244"
       },
       {
         "Name": "Gigas: Speed Class",
@@ -5357,7 +5845,8 @@
           "Gigas",
           "Toy Trooper(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/2/2e/Gigas_-_Speed_Class_KHIII.png?20191203201307"
       },
       {
         "Name": "Patchwork Animals",
@@ -5368,14 +5857,16 @@
         "Characters": [
           "Patchwork Animals(s)"
         ],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/d/d0/Patchwork_Animals_%28Panda%29_KHIII.png?20191211221154"
       },
       {
         "Name": "Supreme Smasher",
         "Description": "An unlucky denizen of Galaxy Toys that was possessed by a Marionette. \r\nThis massive menace gave Sora and his friends a run for their money, but in the end no deadly claws or terrible tower turrets were a match for the mighty Rex. \r\nYes, that Rex. \r\n",
         "Worlds": [],
         "Characters": [],
-        "AdditionalInformation": ""
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/d/db/Supreme_Smasher_KHIII.png?20250308204717"
       }
     ]
   }
