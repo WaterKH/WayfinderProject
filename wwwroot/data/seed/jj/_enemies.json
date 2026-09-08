@@ -3713,7 +3713,7 @@
           "Air Soldier(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/4/41/Air_Soldier_KHREC.png?20191217123906"
       },
       {
         "Name": "Angel Star",
@@ -3726,7 +3726,7 @@
           "Angel Star(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/5/5f/Angel_Star_KHREC.png?20191217123929"
       },
       {
         "Name": "Bandit",
@@ -3738,7 +3738,7 @@
           "Bandit(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/1/12/Bandit_KHREC.png?20191215124832"
       },
       {
         "Name": "Behemoth",
@@ -3748,7 +3748,7 @@
           "Behemoth(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/f/f7/Behemoth_KHREC.png?20191217123949"
       },
       {
         "Name": "Black Fungus",
@@ -3760,7 +3760,7 @@
           "Black Fungus(i)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/e/e4/Black_Fungus_KHREC.png?20191217124050"
       },
       {
         "Name": "Blox Bug",
@@ -3772,7 +3772,7 @@
           "Blox Bug(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/3/3c/Blox_Bug_KHREC.png?20230411064617"
       },
       {
         "Name": "Blue Rhapsody",
@@ -3786,7 +3786,7 @@
           "Blue Rhapsody(ies)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/4/41/Blue_Rhapsody_KHREC.png?20191215124518"
       },
       {
         "Name": "Danger Bug",
@@ -3798,7 +3798,7 @@
           "Danger Bug(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/6/60/Danger_Bug_KHREC.png?20230411064709"
       },
       {
         "Name": "Darkball",
@@ -3811,7 +3811,7 @@
           "Darkball(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/f/f4/Darkball_KHREC.png?20191217124115"
       },
       {
         "Name": "Darkside",
@@ -3822,7 +3822,7 @@
           "Darkside(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/8/8c/Darkside_KHREC.png?20191217124131"
       },
       {
         "Name": "Defender",
@@ -3835,7 +3835,7 @@
           "Defender(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/d/de/Defender_KHREC.png?20191217124157"
       },
       {
         "Name": "Eliminator",
@@ -3847,7 +3847,7 @@
           "Eliminator(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/0/0e/Eliminator_KHREC.png?20110414153300"
       },
       {
         "Name": "Fat Bandit",
@@ -3859,7 +3859,7 @@
           "Fat Bandit(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/2/2b/Fat_Bandit_KHREC.png?20191217123821"
       },
       {
         "Name": "Gold Tricholoma",
@@ -3871,7 +3871,7 @@
           "Gold Tricholoma(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/d/d9/Gold_Tricholoma_KHREC.png?20191209120914"
       },
       {
         "Name": "Green Requiem",
@@ -3883,7 +3883,7 @@
           "Green Requiem(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/0/0e/Green_Requiem_KHREC.png?20191215124626"
       },
       {
         "Name": "Guard Armor",
@@ -3895,7 +3895,20 @@
           "Guard Armor(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/c/c0/Guard_Armor_KHREC.png?20191217124218"
+      },
+      {
+        "Name": "Invisible",
+        "Description": "",
+        "Worlds": [
+          "Hollow Bastion",
+          "Castle Oblivion"
+        ],
+        "Characters": [
+          "Invisible(s)"
+        ],
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/e/e8/Invisible_KHREC.png?20191217124235"
       },
       {
         "Name": "Metal Bug",
@@ -3907,7 +3920,7 @@
           "Metal Bug(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/0/0a/Metal_Bug_KHREC.png?20220131050138"
       },
       {
         "Name": "Prize Bug",
@@ -3919,7 +3932,7 @@
           "Prize Bug(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/d/da/Prize_Bug_KHREC.png?20220131050259"
       },
       {
         "Name": "Red Nocturne",
@@ -3933,7 +3946,7 @@
           "Red Nocturne(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/6/63/Red_Nocturne_KHREC.png?20191215124035"
       },
       {
         "Name": "Shadow",
@@ -3949,7 +3962,7 @@
           "Shadow(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/9/9b/Shadow_KHREC.png?20191215123220"
       },
       {
         "Name": "Soldier",
@@ -3963,7 +3976,7 @@
           "Soldier(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/1/1a/Soldier_KHREC.png?20191215123401"
       },
       {
         "Name": "Sora's Heartless (Neo Darkside)",
@@ -3975,7 +3988,7 @@
           "Sora’s Heartless"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/6/6a/Sora%27s_Heartless_-_Neo_Darkside_KHREC.png?20191209120231"
       },
       {
         "Name": "Sora's Heartless (True Form)",
@@ -3987,7 +4000,7 @@
           "Sora’s Heartless"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/c/c8/Sora%27s_Heartless_-_True_Form_KHREC.png?20191209120430"
       },
       {
         "Name": "Trickmaster",
@@ -3999,7 +4012,7 @@
           "Trickmaster(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/5/5e/Trickmaster_KHREC.png?20191217124254"
       },
       {
         "Name": "Wizard",
@@ -4012,7 +4025,7 @@
           "Wizard(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/1/1d/Wizard_KHREC.png?20191217124308"
       },
       {
         "Name": "Wyvern",
@@ -4024,7 +4037,7 @@
           "Wyvern(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/b/b7/Wyvern_KHREC.png?20191217124322"
       },
       {
         "Name": "Yellow Opera",
@@ -4037,7 +4050,7 @@
           "Yellow Opera(s)"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/3/3d/Yellow_Opera_KHREC.png?20191215124240"
       },
       {
         "Name": "Data-Riku",
@@ -4051,7 +4064,7 @@
           "Pete"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/0/0e/Data-Riku_%28Battle%29_KHREC.png?20191209115406"
       },
       {
         "Name": "???",
@@ -4064,7 +4077,7 @@
           "Sora"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/2/2b/Data-Roxas_KHREC.png?20191209115543"
       },
       {
         "Name": "Dragon Maleficent",
@@ -4077,7 +4090,7 @@
           "Dragon Maleficent"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/d/de/Maleficent_%28Dragon%29_KHREC.png?20191214213948"
       },
       {
         "Name": "Ice Titan",
@@ -4089,7 +4102,7 @@
           "Ice Titan"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/1/17/Ice_Titan_KHREC.png?20191214222435"
       },
       {
         "Name": "Jafar",
@@ -4101,7 +4114,19 @@
           "Jafar"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/a/ac/Jafar_02_KHREC.png?20191214222715"
+      },
+      {
+        "Name": "Genie Jafar",
+        "Description": "",
+        "Worlds": [
+          "Agrabah"
+        ],
+        "Characters": [
+          "Jafar"
+        ],
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/0/09/Jafar_%28Genie%29_KHREC.png?20191214222823"
       },
       {
         "Name": "Pete",
@@ -4113,7 +4138,7 @@
           "Pete"
         ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/6/65/Pete_KHREC.png?20180804182129"
       },
       {
         "Name": "Rock Titan",
@@ -4121,7 +4146,15 @@
         "Worlds": [ "Olympus Coliseum" ],
         "Characters": [ "Rock Titan" ],
         "AdditionalInformation": "",
-        "ImageLink": ""
+        "ImageLink": "https://kh.wiki.gallery/images/e/e0/Rock_Titan_KHREC.png?20191214222155"
+      },
+      {
+        "Name": "Cerberus",
+        "Description": "",
+        "Worlds": [ "Olympus Coliseum" ],
+        "Characters": [ "Rock Titan" ],
+        "AdditionalInformation": "",
+        "ImageLink": "https://kh.wiki.gallery/images/7/78/Cerberus_KHREC.png?20191214221819"
       }
     ],
     "Kingdom Hearts Dream Drop Distance": [
