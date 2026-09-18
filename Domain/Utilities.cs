@@ -115,7 +115,7 @@ namespace WayfinderProject.Domain
                 string json = await httpClient.GetStringAsync(path);
                 return JsonSerializer.Deserialize<T>(json) ?? new T();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 // TODO: Add logging
                 return new T();
