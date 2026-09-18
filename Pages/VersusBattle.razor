@@ -90,7 +90,7 @@
 }
 else
 {
-    @if (FirstEnemy == null || SecondEnemy == null)
+    @if (FirstCombatant == null || SecondCombatant == null || string.IsNullOrWhiteSpace(FirstCombatant.Name) || string.IsNullOrWhiteSpace(SecondCombatant.Name))
     {
         <div class="row justify-content-center"><div class="col-md-12" style="text-align:center; margin-top: 25px; margin-bottom: 50px;">
             <p>Select "Daily Battle" or "Random Battle" to generate a versus match.</p>
@@ -101,9 +101,9 @@ else
         <div class="row" style="margin-top: 25px; margin-bottom: 50px; align-items: center;">
             <div class="col-md-5">
                 <div style="margin-top:20px; text-align:center;">
-                    @if (!string.IsNullOrEmpty(FirstEnemy.ImageLink))
+                    @if (!string.IsNullOrEmpty(FirstCombatant.ImageLink))
                     {
-                        <img class="image-container" src="@(FirstEnemy.ImageLink)" />
+                        <img class="image-container" src="@(FirstCombatant.ImageLink)" />
                     }
                     else
                     {
@@ -113,29 +113,29 @@ else
 
                 <div class="expansion-content-card">
                     <div class="details-pane">
-                        <h3>@FirstEnemy.Name</h3>
+                        <h3>@FirstCombatant.Name</h3>
 
                         <div class="mt-3">
                             <h5>
-                                <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(FirstEnemy.Game)).png" class="info-detail-icon" /> @FirstEnemy.Game
+                                <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(FirstCombatant.Game)).png" class="info-detail-icon" /> @FirstCombatant.Game
                             </h5>
                         </div>
 
                         <div class="mt-4">
                             <h3>Information</h3>
-                            <label class="font-weight-700">@FirstEnemy.Description</label>
+                            <label class="font-weight-700">@FirstCombatant.Description</label>
                         </div>
 
-                        @if (!string.IsNullOrEmpty(FirstEnemy.AdditionalInformation))
+                        @if (!string.IsNullOrEmpty(FirstCombatant.AdditionalInformation))
                         {
                             <div class="mt-4">
-                                <label class="font-weight-700">@FirstEnemy.AdditionalInformation</label>
+                                <label class="font-weight-700">@FirstCombatant.AdditionalInformation</label>
                             </div>
                         }
 
                         <div class="mt-3">
                             <h4 class="world-color"><img src="images/icons/worlds.png" class="detail-icon" /> Worlds</h4>
-                            <label>@string.Join(", ", FirstEnemy.Worlds)</label>
+                            <label>@string.Join(", ", FirstCombatant.Worlds)</label>
                         </div>
                     </div>
                 </div>
@@ -151,9 +151,9 @@ else
 
             <div class="col-md-5">
                 <div style="margin-top:10px; text-align:center;">
-                    @if (!string.IsNullOrEmpty(SecondEnemy.ImageLink))
+                    @if (!string.IsNullOrEmpty(SecondCombatant.ImageLink))
                     {
-                        <img class="image-container" src="@(SecondEnemy.ImageLink)" />
+                        <img class="image-container" src="@(SecondCombatant.ImageLink)" />
                     }
                     else
                     {
@@ -163,29 +163,29 @@ else
 
                 <div class="expansion-content-card">
                     <div class="details-pane">
-                        <h3>@SecondEnemy.Name</h3>
+                        <h3>@SecondCombatant.Name</h3>
 
                         <div class="mt-3">
                             <h5>
-                                <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(SecondEnemy.Game)).png" class="info-detail-icon" /> @SecondEnemy.Game
+                                <img src="images/icons/game_hearts/@(Utilities.GetCodeForGame(SecondCombatant.Game)).png" class="info-detail-icon" /> @SecondCombatant.Game
                             </h5>
                         </div>
 
                         <div class="mt-4">
                             <h3>Information</h3>
-                            <label class="font-weight-700">@SecondEnemy.Description</label>
+                            <label class="font-weight-700">@SecondCombatant.Description</label>
                         </div>
 
-                        @if (!string.IsNullOrEmpty(SecondEnemy.AdditionalInformation))
+                        @if (!string.IsNullOrEmpty(SecondCombatant.AdditionalInformation))
                         {
                             <div class="mt-4">
-                                <label class="font-weight-700">@SecondEnemy.AdditionalInformation</label>
+                                <label class="font-weight-700">@SecondCombatant.AdditionalInformation</label>
                             </div>
                         }
 
                         <div class="mt-3">
                             <h4 class="world-color"><img src="images/icons/worlds.png" class="detail-icon" /> Worlds</h4>
-                            <label>@string.Join(", ", SecondEnemy.Worlds)</label>
+                            <label>@string.Join(", ", SecondCombatant.Worlds)</label>
                         </div>
                     </div>
                 </div>
@@ -201,11 +201,12 @@ else
     public string CurrentViewMobile { get; set; } = "Available";
 
     public EnemyEntryService? EnemyEntryService;
+    public CharacterEntryService? CharacterEntryService;
 
     private IEnumerable<object> CurrentResults = new List<object>();
 
-    private EnemyEntry FirstEnemy {get; set; } = null!;
-    private EnemyEntry SecondEnemy {get; set; } = null!;
+    private BaseJiminyJournalData FirstCombatant { get; set; } = new();
+    private BaseJiminyJournalData SecondCombatant { get; set; } = new();
 
     protected override async Task OnInitializedAsync()
     {
@@ -213,10 +214,12 @@ else
 
         await Task.Yield();
 
+        var characterEntryService = ServiceFactory.CreateAsync<CharacterEntryService, CharacterEntry, CharacterEntryCriteria, CharacterEntryWrapper<CharacterEntry>>(Constants.CharacterEntriesPath);
         var enemyEntryService = ServiceFactory.CreateAsync<EnemyEntryService, EnemyEntry, EnemyEntryCriteria, EnemyEntryWrapper<EnemyEntry>>(Constants.EnemyEntriesPath);
 
-        await Task.WhenAll(enemyEntryService);
+        await Task.WhenAll(characterEntryService, enemyEntryService);
 
+        CharacterEntryService = characterEntryService.Result;
         EnemyEntryService = enemyEntryService.Result;
 
         Loading = false;
@@ -237,20 +240,56 @@ else
     }
 
 
-    private async Task NavigateToBattle(string seed1 = "", string seed2 = "")
+    private IEnumerable<BaseJiminyJournalData> GetAllCombatants()
     {
-        if (EnemyEntryService == null) return;
-        var result1 = EnemyEntryService.GetRandomResult(seed1) as EnemyEntry ?? new();
-        var result2 = EnemyEntryService.GetRandomResult(seed2) as EnemyEntry ?? new();
+        var combatants = new List<BaseJiminyJournalData>();
 
-        if (result1.Name == result2.Name)
+        if (CharacterEntryService != null)
         {
-            result2 = EnemyEntryService.GetRandomResult(seed2) as EnemyEntry ?? new();
+            combatants.AddRange(CharacterEntryService.GetAllData().Cast<BaseJiminyJournalData>());
         }
 
-        FirstEnemy = result1;
-        SecondEnemy = result2;
-        
+        if (EnemyEntryService != null)
+        {
+            combatants.AddRange(EnemyEntryService.GetAllData().Cast<BaseJiminyJournalData>());
+        }
+
+        return combatants;
+    }
+
+    private BaseJiminyJournalData GetRandomCombatant(string seed, IEnumerable<BaseJiminyJournalData>? exclusions = null)
+    {
+        var pool = GetAllCombatants()
+            .Where(entry => exclusions == null || !exclusions.Any(excluded => excluded.Name == entry.Name && excluded.Game == entry.Game))
+            .ToList();
+
+        if (!pool.Any())
+        {
+            return new BaseJiminyJournalData();
+        }
+
+        var random = string.IsNullOrWhiteSpace(seed)
+            ? new Random()
+            : new Random(Utilities.Hash(seed));
+
+        return pool[random.Next(pool.Count)];
+    }
+
+    private async Task NavigateToBattle(string seed1 = "", string seed2 = "")
+    {
+        if (CharacterEntryService == null || EnemyEntryService == null) return;
+
+        var result1 = GetRandomCombatant(seed1);
+        var result2 = GetRandomCombatant(seed2, [result1]);
+
+        if (result1.Name == result2.Name && result1.Game == result2.Game)
+        {
+            result2 = GetRandomCombatant(seed2, [result1, result2]);
+        }
+
+        FirstCombatant = result1;
+        SecondCombatant = result2;
+
         StateHasChanged();
     }
 }
