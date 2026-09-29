@@ -48,7 +48,7 @@
 
                     <br />
 
-                    <button class="wayfinder-button" onclick="@(() => this.NavigateToDailyBattle())" @onclick:stopPropagation>Daily Battle</button>
+                    <button class="wayfinder-button" onclick="@(() => this.NavigateToDailyBattle())" @onclick:stopPropagation disabled="@(Loading)">Daily Battle</button>
                 </div>
 
                 <div class="col-md-2"></div>
@@ -75,7 +75,7 @@
 
                     <br />
 
-                    <button class="wayfinder-button" onclick="@(() => this.NavigateToRandomBattle())" @onclick:stopPropagation>Random Battle</button>
+                    <button class="wayfinder-button" onclick="@(() => this.NavigateToRandomBattle())" @onclick:stopPropagation disabled="@(Loading)">Random Battle</button>
                 </div>
 
                 <div class="col-md-1"></div>
@@ -281,17 +281,26 @@ else
     {
         if (CharacterEntryService == null || EnemyEntryService == null) return;
 
-        var result1 = GetRandomCombatant(seed1);
-        var result2 = GetRandomCombatant(seed2, [result1]);
-
-        if (result1.Name == result2.Name && result1.Game == result2.Game)
-        {
-            result2 = GetRandomCombatant(seed2, [result1, result2]);
-        }
-
-        FirstCombatant = result1;
-        SecondCombatant = result2;
-
+        Loading = true;
         StateHasChanged();
+
+        try
+        {
+            var result1 = GetRandomCombatant(seed1);
+            var result2 = GetRandomCombatant(seed2, [result1]);
+
+            if (result1.Name == result2.Name && result1.Game == result2.Game)
+            {
+                result2 = GetRandomCombatant(seed2, [result1, result2]);
+            }
+
+            FirstCombatant = result1;
+            SecondCombatant = result2;
+        }
+        finally
+        {
+            Loading = false;
+            StateHasChanged();
+        }
     }
 }
