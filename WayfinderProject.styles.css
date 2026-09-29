@@ -670,6 +670,13 @@
     height: 523px;
 }
 
+.image-credit[b-zi0sxv454i] {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: rgba(0,0,0,0.55);
+    margin-top: 6px;
+}
+
 .font-weight-700[b-zi0sxv454i] {
     font-weight: 700;
 }
@@ -3103,6 +3110,13 @@ span[b-syltoarwo7] {
 
 .image-container[b-w1sccxt1a0] {
     height: 523px;
+}
+
+.image-credit[b-w1sccxt1a0] {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: rgba(0,0,0,0.55);
+    margin-top: 6px;
 }
 
 .font-weight-700[b-w1sccxt1a0] {
